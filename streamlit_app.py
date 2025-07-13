@@ -8,7 +8,7 @@ import tiktoken
 # Show title and description.
 st.title("📄 Marc AI")
 st.write(
-    "Ask any question about the built-in reference documents below, and GPT will answer using ONLY that context."
+    "Hazme cualquier pregunta sobre la normativa técnica."
 )
 
 # Retrieve the OpenAI API key from Streamlit secrets or environment variable.
