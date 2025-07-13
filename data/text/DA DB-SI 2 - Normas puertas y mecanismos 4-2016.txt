@@ -1,0 +1,135 @@
+         Ministerio de Fomento
+         Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+         Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-SI Seguridad en caso de incendio
+Código Técnico de la Edificación
+
+DA DB-SI / 2
+Normas de ensayo y clasificación de las puertas resistentes
+al fuego y sus herrajes y mecanismos de apertura
+Abril 2016
+Versiones anteriores: marzo 2014, abril 2012 y junio 2011. Las modificaciones que introduce esta versión
+se marcan mediante línea vertical en el margen izquierdo
+
+Referencias
+Documento Básico DB SI      Introducción - Apartado V. Condiciones de comportamiento ante el fuego de
+                            los productos de construcción y de los elementos constructivos.
+
+1       Objeto
+El objeto de este documento es exponer las normas conforme a las cuales deben ser ensayadas y clasi-
+ficadas las puertas resistentes al fuego, sus herrajes y sus mecanismos de apertura.
+
+2       Normas y parámetros de aplicación
+En las obras de nueva planta o de reforma en las que sea de aplicación el CTE DB SI las puertas resis-
+tentes al fuego que no tengan marcado CE¹ deben haber sido ensayadas y clasificadas conforme a las
+normas UNE-EN 1634-1 y UNE-EN 13501-2, respectivamente. Dichas puertas se deben suministrar a las
+obras acompañadas del informe de clasificación, el cual no tendrá una antigüedad de más de 10 años
+desde la fecha de realización del ensayo correspondiente y contendrá una descripción detallada del ele-
+mento y la información que se detalla en el apartado 3 de este DA.
+Los elementos de dichas puertas que figuran en el siguiente cuadro deben tener obligatoriamente mar-
+cado CE de conformidad con sus normas respectivas, desde las fechas que se indican²:
+
+                       Elemento                             Marcado CE de conformidad obligatorio
+                                                                   Según norma                Fecha
+Dispositivos de apertura mediante manilla o pulsador (1)         UNE-EN 179:2009             1-1-2010
+
+1 Conforme a la Comunicación de la Comisión Europea 2015/C 378/03 (DOUE 13/11/2015) las puertas resistentes al
+fuego pueden tener marcado CE conforme al Anejo ZA de la norma UNE-EN 16034-2015 a partir del 1/9/2016 y
+deben tenerlo obligatoriamente a partir del 1/9/2019. No obstante lo anterior, es muy aconsejable que a partir del
+inicio de dicho periodo de coexistencia las puertas que se instalen tengan marcado CE.
+2 El marcado CE de las puertas conforme a la norma UNE-EN 16034-2015 implica la garantía para el usuario final (p.
+ej., una dirección de obra) de que sus componentes obligados a su vez a tener marcado CE lo tienen.
+
+                                                 1 de 3
+
+Documento de Apoyo al DB SI                                                                                          DA DB SI /2
+
+Dispositivos de apertura mediante barra horizontal (2)                                         UNE-EN 1125:2009        1-1-2010
+
+Bisagras (3)                                                                                   UNE-EN 1935:2002       1-12-2003
+                                                                                  UNE-EN 1935:2002/AC:2004             1-1-2007
+
+Dispositivos de cierre controlado (cierrapuertas) (4)                                          UNE-EN 1154:2003       1-10-2004
+                                                                                           UNE-EN 1154:2003/AC:2006    1-1-2010
+
+Dispositivos de coordinación del cierre de las puertas (5)                                     UNE-EN 1158:2003       1-10-2004
+                                                                                           UNE-EN 1158:2003/AC:2006    1-6-2006
+
+Dispositivos de retención electromagnética (6)                                                 UNE-EN 1155:2003       1-10-2004
+                                                                                           UNE-EN 1155:2003/AC:2006    1-1-2010
+
+Cerraduras (7)                                                                                UNE-EN 12209:2004        1-6-2006
+                                                                                          UNE-EN 12209:2004/AC:2008    1-6-2006
+Cerraduras y cerraderos electromecánicos (8)                                                  UNE-EN 14846:2010        1-9-2012
+
+(1)     De uso obligatorio en zonas cuyos ocupantes estén, en su mayoría, familiarizados con el edificio, en las puertas previstas para
+        más de 50 personas o en las que sean salida de planta o de edificio.
+        Dígitos de su codificación:                           1º          2º       4º     5º
+        Valor que debe tener el dígito                        3           7        B      1
+
+(2)     De uso obligatorio en zonas cuyos ocupantes no estén, en su mayoría, familiarizados con el edificio, en las puertas previstas
+        para más de 50 personas o en las que sean salida de planta o de edificio.
+        Dígitos de su codificación:                           1º          2º       4º     5º
+        Valor que debe tener el dígito                        3           7        B      1
+(3)     No se admiten las bisagras de resorte o muelle.
+        Dígitos de su codificación:                           1º          2º       3º     4º     5º    8º
+        Valor que debe tener el dígito:                       4           7        ≥5     1      1      ≥12
+(4)     De uso obligatorio en puertas resistentes al fuego. Debe carecer de dispositivo de retención, excepto cuando sea electromag-
+        nético conforme a UNE EN 1155.
+        Dígitos de su codificación:                           2º          3º       4º     5º
+        Valor que debe tener el dígito:                       8         ≥3 (*)     1      1
+        (*)  Dado que este dígito regula la fuerza del cierrapuertas y que esta a su vez condiciona la fuerza necesaria para abrir la
+        puerta, se recuerda que conforme a DB SUA 3, la fuerza de apertura de las puertas previstas para ser utilizadas por personas
+        con discapacidad es de 25 N, como máximo en general, y de 65 N cuando sea resistente al fuego. Debe tenerse en cuenta que
+        dicha fuerza es muy inferior a la fuerza asociada al momento de apertura máximo y a la anchura máxima recomendada para la
+        hoja, conforme a la Tabla 1 de la norma UNE-EN 1154.
+(5)     De uso obligatorio en puertas resistentes al fuego de dos hojas.
+        Dígitos de su codificación:                           1º          2º       4º     5º
+        Valor que debe tener el dígito:
+        -     Dispositivo incorporado en el cierrapuertas     3           8        1      1
+        -     Dispositivo separado del cierrapuertas          3           5        1      1
+(6)     De uso obligatorio en aquellas puertas resistentes al fuego que deban permanecer habitualmente abiertas.
+        Dígitos de su codificación:                           1º          2º       4º     5º
+        Valor que debe tener el dígito:
+        -     Dispositivo incorporado en el cierrapuertas     3           8        1      1
+        -     Dispositivo separado del cierrapuertas          3           5        1      1
+(7)     Dígitos de su codificación:                           1º          2º       4º     5º
+        Valor que debe tener el dígito:                       3       M-S-X        1      0
+(8)     Dígitos de su codificación:                           4º
+        Valor que debe tener el dígito:                      B-C-D-E-F
+
+                                                                    2 de 3
+
+Documento de Apoyo al DB SI                                                                       DA DB SI /2
+
+3         Documentación para validar la clasificación exigible a las puertas
+          resistentes al fuego
+Para puertas que no tengan marcado CE (ver nota 1 al pie de la página 1 de este DA) el documento que
+avale las clasificaciones exigidas por el DB SI tiene que ser un informe de clasificación conforme con la
+norma UNE-EN 13501-2. Por tanto, en dicho documento deben aparecer todos los criterios de la clasifi-
+cación exigida para cada caso (EI₂tt-Cx para las puertas cortafuego) junto con el campo de aplicación
+directa de resultados de ensayo que le corresponda.
+El informe de clasificación incluirá además una descripción detallada del elemento, que contará, al me-
+nos, con la siguiente información:
+     -     Fabricante y Peticionario del informe;
+     -     tipo y modo de operación (abatible, corredera, guillotina…);
+     -     número de hojas;
+     -     número de caras ensayadas;
+     -     dimensiones;
+     -     material del marco y de la hoja (acero, madera, vidrio…);
+     -     elementos vidriados (número de elementos y tamaño);
+     -     juntas (composición y medidas);
+     -     accesorios instalados en el ensayo (antipánicos, rejillas…);
+     -     tipo de obra soporte y sistema de fijación;
+     -     holguras entre hoja y marco.
+La suma de dos informes, uno de los cuales certifique la característica EI₂tt y otro la característica Cx, no
+es una opción válida, ya que no está contemplada, ni en la norma de clasificación, ni en el DB SI.
+Como norma general, el laboratorio que emite el informe único de clasificación debe ser el que realizó el
+ensayo de resistencia al fuego. En aquellos casos excepcionales en los que esto no sea posible, dicho
+informe único de clasificación lo podrá realizar el laboratorio que haya realizado el ensayo de durabilidad,
+siempre que lo haga con la conformidad expresa del laboratorio que haya realizado el ensayo de resis-
+tencia al fuego, al cual deberá solicitar toda la información que pueda ser relevante al respecto.
+
+                                                      3 de 3

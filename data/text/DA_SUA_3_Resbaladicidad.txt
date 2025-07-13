@@ -1,0 +1,176 @@
+                MINISTERIO
+                DE VIVIENDA
+                Y AGENDA URBANA
+
+Documento de Apoyo al Documento Básico
+DB-SUA Seguridad de utilización y accesibilidad
+Código Técnico de la Edificación
+DA DB-SUA / 3
+Resbaladicidad de suelos
+15 Julio 2024
+(Versiones anteriores: Marzo 2014, 20 Diciembre 2019)
+Las modificaciones que introduce esta versión se marcan mediante línea vertical en el margen izquierdo.
+Los Documentos de Apoyo (DA) son textos de carácter técnico que cuentan con la aprobación de los
+servicios técnicos de este Ministerio, pero carecen de valor reglamentario. El objetivo de estos documen-
+tos es ayudar a la comprensión y la puesta en práctica del texto reglamentario.
+Referencias
+Documento Básico               DB SUA Sección SUA 1 Seguridad frente al riesgo de caídas. 1. Resba-
+                               ladicidad
+Norma                          *UNE 41901:2017 EX Superficies para tránsito peatonal. Determinación
+                               de la resistencia al deslizamiento por el método del péndulo de fricción.
+                               Ensayo en húmedo (o su equivalente UNE EN 16165:2022, Anejo C y
+                               capítulo AN.2 del Anejo Nacional)
+Norma                          UNE 41902:2017 EX Superficies para tránsito peatonal. Determinación
+                               de la resistencia al deslizamiento por el método del péndulo de fricción.
+                               Ensayo en seco (o su equivalente UNE EN 16165:2022, Anejo C y capí-
+                               tulo AN.2 del Anejo Nacional)
+Las normas marcadas con un asterisco (*) están citadas en el articulado del DB SUA.
+
+1        Objeto
+El objeto de este DA es explicar el valor de la resistencia al deslizamiento y el procedimiento de ensayo
+exigido desde el DB SUA. También se establece un método alternativo que, a partir de la consideración
+del riesgo en las zonas secas, la Administración considera que cumple la exigencia básica SUA1 en lo
+relativo al riesgo de deslizamiento en dichas zonas.
+Este documento se complementa con un listado de suelos seguros que a juicio de la Administración
+cumplen la exigencia SUA1 en la medida en que limitan de forma suficiente el riesgo de que los usuarios
+sufran caídas por resbalamiento. Estos suelos pueden utilizarse en cualquier zona del edificio sin nece-
+sidad de realizar el ensayo (siempre que su cara vista no se modifique con un tratamiento posterior como
+abrillantado, pulido, etc.).
+2        Prestaciones del suelo frente a la resbaladicidad
+Los escenarios de riesgo contemplados dentro del requisito de seguridad de utilización y accesibilidad y
+que deben tenerse en cuenta al disponer un suelo, son los siguientes:
+-   En zonas interiores secas:
+
+                                                1 de 4
+
+                Documento de Apoyo al DB SUA                                                                                                               DA DB SUA / 3
+
+                      El riesgo considerado en zonas interiores secas es el del deslizamiento en seco, considerando que
+                      cuando un suelo accesible por el público y situado en una zona interior seca está ocasionalmente
+                      húmedo, por ejemplo, durante su limpieza se señaliza adecuadamente.
+                -     En zonas húmedas (tanto interiores como exteriores):
+                      El riesgo considerando en zonas húmedas es el del deslizamiento con contaminante agua, por lo
+                      que, teniendo en cuenta la exclusión de los riesgos relacionados con las actividades laborales esta-
+                      blecida en la sección Introducción apartado II, cuando en una actividad se utilicen otros contaminan-
+                      tes o incluso sea previsible la presencia de ellos en el suelo durante el desarrollo de la actividad, de-
+                      berán tenerse en cuenta las condiciones específicas de seguridad laboral correspondientes.
+                -     En zonas previstas para usuarios descalzos:
+                      El riesgo considerado en zonas tales como duchas, entorno de piscinas y fondo de vasos en los que
+                      la profundidad no exceda de 1,50 m, etc., es el del deslizamiento de usuarios descalzos.
+                3       Método de ensayo
+                El valor de Rd de la muestra, exigido desde el DB SUA, es el valor PTV que se obtiene usando como
+                equipo de ensayo el péndulo de fricción, método descrito en la norma UNE 41901:2017 EX, para evaluar
+                las propiedades de fricción de la probeta.
+                El péndulo de fricción (figura 1) incorpora un patín deslizante, hecho de goma normalizada, fijado al ex-
+                tremo del péndulo. Durante la oscilación del péndulo, la fuerza de rozamiento entre el patín y la superfi-
+                cie de la probeta a ser ensayada se mide mediante la reducción de la longitud de la oscilación emplean-
+                do una escala calibrada.
+                El ensayo se realiza con la probeta humedecida y, si se realiza en laboratorio, en unas determinadas
+                condiciones de temperatura y humedad.
+                La lectura debe registrarse con apreciación de 1 PTV, es decir, la fracción 1/5 de la división de escala,
+                como se indica en la norma.
+                Las particularidades para realizar el ensayo en húmedo en suelos en servicio están descritas en el apar-
+                tado 8 de la norma UNE 41901:2017 EX.
+                                                               22 24       19    25
+                                                               20         2 14    15 21
+
+                                                                                  26
+                                                                                    23                                                  10
+                                                                                    12
+
+                                                                                    16
+
+Leyenda
+    Brazo del péndulo
+    Marca (en el centro de rotación, indicando el eje de suspensión)
+    Mecanismo de liberación (pulsador)
+    Bastidor
+    Pata de apoyo trasero
+    Tomillo de la pata de apoyo trasero
+    Espaciador de ajuste de la longitud de deslizamiento (opcional)
+    Tomnillo de nivelación
+    Pata (articulada)
+10  Zapata de goma
+    Varilla soporte de la zapata
+12  Tomillo de ajuste vertical
+13  Asa de elevación de la zapata
+                                  Figura 1. Péndulo de fricción
+
+14  Cabezal del péndulo
+15  Tomnillo de bloqueo de ajuste vertical
+16  Nivel de burbuja
+17  Regleta graduada (véase lafigura
+18  Pie del péndulo
+19  Anillos de fricción y bloqueo
+20  Aguja indicadora
+21  Contrapeso de laaguja
+22  Escala (véase el anexo A)
+23  Retenedor del lanzamiento
+24  Tomillo de ajuste de la aguja indicadora
+25  Asa
+26  Tuerca de bloqueo del brazo
+
+
+                                                                                  2 de 4
+
+Documento de Apoyo al DB SUA                                                                        DA DB SUA / 3
+
+La aprobación de la norma europea EN 16165 en 2021 obliga a la derogación de toda norma técnica
+nacional dentro de los estados miembro aplicable en su mismo ámbito. Es por ello que la norma españo-
+la UNE 41901:2017 EX, aunque vigente a efectos reglamentarios, estaría derogada a efectos normati-
+vos.
+Con el Anejo C de la norma UNE EN 16165:2022 complementado con el capítulo AN.2 de su Anejo Na-
+cional se obtiene un resultado equivalente a la norma UNE 41901:2017 EX, por lo que puede utilizarse
+como método alternativo.
+El valor de PTV determinado con la norma UNE 41901:2017 EX sería, por tanto, equivalente al valor Rd-
+57 obtenido a partir del capítulo AN.2 del Anejo Nacional de la UNE EN 16165:2022 (procedimiento de
+ensayo del péndulo de fricción en húmedo con la zapata de goma 57).
+4       Método alternativo en zonas interiores secas
+Como solución alternativa se admite que el riesgo de deslizamiento en zonas secas se limita adecuada-
+mente si el suelo ensayado siguiendo el procedimiento en seco descrito en el Anejo C de la norma UNE
+EN 16165:2022 complementado con el capítulo AN.2 de su Anejo Nacional tiene un valor Rd-₉₆ superior a
+40 para superficies con pendiente menor que el 6% y superior a 65 para superficies con pendiente igual
+o mayor que el 6% y escaleras.
+Las particularidades para realizar el ensayo en seco en suelos en servicio están descritas en el apartado
+C.6 de la norma UNE EN 16165:2022 complementado con el capítulo AN.2.5 de su Anejo Nacional.
+El valor de PTV determinado con la norma UNE 41902:2017 EX, derogada por la aprobación de la norma
+europea EN 16165 en 2021, es equivalente al valor Rd-₉₆ obtenido a partir del capítulo AN.2 del Anejo
+Nacional de la UNE EN 16165:2022 (procedimiento de ensayo del péndulo de fricción en seco con la
+zapata de goma 96).
+5       Suelos que se consideran seguros
+Se considera que los siguientes suelos limitan de forma adecuada el riesgo de caída por resbalamiento
+por lo que pueden utilizarse en cualquier zona del edificio sin necesidad de realizar el ensayo, siempre
+que su cara vista no se modifique con un tratamiento posterior (por ejemplo, abrillantado, pulido, etc.):
+   Suelo                                              Norma referencia                Observaciones
+   Adoquines de hormigón                              UNE EN 1338:2004
+   Baldosas de hormigón                               UNE EN 1339:2004
+   Bordillos de hormigón                              UNE EN 1340:2004
+   Adoquines de arcilla cocida                        UNE EN 1344:2015                Siempre que no hayan sido
+                                                                                      fabricados de tal forma que
+                                                                                      se haya producido una su-
+                                                                                      perficie muy lisa
+   Suelos de piedra natural con acabado flameado                                      Definición de acabado según
+                                                                                      norma UNE EN 12670:2020
+   Suelos de piedra natural con acabado abujardado                                    Definición de acabado según
+                                                                                      norma UNE EN 12670:2020
+   Suelos clasificados como R11                       UNE EN 16165:2022,              Este ensayo no permite su
+                                                      Anejo B y capítulo AN.3 del     realización sobre suelos en
+                                                      Anejo Nacional(1)               servicio.
+   Suelos clasificados como Clase B                   UNE EN 16165:2022,              Únicamente en zonas de
+                                                      Anejo A y capítulo AN.3 del     usuarios descalzos tales
+                                                      Anejo Nacional (1)              como duchas, entorno de
+                                                                                      piscinas, etc.
+                                                                                      Este ensayo no permite su
+                                                                                      realización sobre suelos en
+                                                                                      servicio.
+
+                                                      3 de 4
+
+ Documento de Apoyo al DB SUA                                                                                  DA DB SUA / 3
+
+(1)     En la actualidad, no existe correlación entre la clasificación obtenida según el ensayo de la rampa (anexos A y B de la UNE EN
+        16165:2022) y la obtenida según el ensayo del péndulo (anexo C de la UNE EN 16165:2022). Sin embargo, se considera acep-
+        table, como suelos suficientemente seguros, los clasificados al menos como R11 y clase B en las condiciones establecidas en la
+        tabla.
+
+                                                            4 de 4

@@ -1,0 +1,772 @@
+          Ministerio de Fomento
+          Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-SUA Seguridad de utilización y accesibilidad
+Código Técnico de la Edificación
+DA DB-SUA / 2
+Adecuación efectiva de las condiciones de accesibilidad en
+edificios existentes
+29 Junio 2018
+(Versiones anteriores: 22 Diciembre 2017, 30 Junio 2017, 23 Diciembre 2016, 12 Julio 2016, Diciembre
+2015 y, con la denominación ”Criterios para la utilización de elementos y dispositivos mecánicos”, Junio
+2011 y Marzo 2014)
+Las modificaciones que introduce esta versión se marcan mediante línea vertical en el margen izquierdo.
+
+Referencias
+Normas jurídicas:
+RDL 7/2015                      Real Decreto Legislativo     7/2015, de 30 de octubre, por el que    se
+                                aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana
+DB SUA                          Documento Básico SUA. Seguridad de utilización y accesibilidad
+DB SI                           Documento Básico SI. Seguridad en caso de incendio
+Normas: Anejo A
+UNE-EN 81-40:2009              Reglas de seguridad para la construcción e instalación de ascensores.
+                               Ascensores especiales         para el transporte de personas y    cargas.
+                               Parte 40: Salvaescaleras y plataformas elevadoras inclinadas para el uso
+                               por personas con movilidad reducida
+UNE-EN 81-41:2011              Reglas de seguridad para la construcción e instalación de ascensores.
+                               Ascensores especiales         para el transporte de personas y    cargas.
+                               Parte 41: Plataformas elevadoras verticales para el uso por personas con
+                               movilidad reducida
+Normas: Anejo B
+*UNE EN 81-70:2004             Reglas de seguridad para la construcción e instalación de ascensores.
+                               Aplicaciones particulares para los ascensores de pasajeros y de pasaje-
+                               ros y cargas. Parte 70: Accesibilidad a los ascensores de personas, in-
+                               cluyendo personas con discapacidad.
+                               (La norma UNE EN 81-70:2004/A1:2005 modifica el Anejo ZA de esta
+                               norma.)
+UNE-EN 81-82:2014              Reglas de seguridad para la construcción e instalación de ascensores.
+                               Ascensores existentes. Parte 82: Reglas para la mejora de la accesibili-
+                               dad de los ascensores existentes para personas, incluyendo personas
+                               con discapacidad.
+Las normas marcadas con un asterisco (*) están citadas en el articulado del DB SUA.
+
+                                              1 de 16
+
+Documento de Apoyo al DB SUA                                                                                       DA DB SUA / 2
+
+1          Objeto
+El objeto de este documento es proporcionar criterios de flexibilidad para la adecuación efectiva de los
+edificios y establecimientos existentes a las condiciones básicas de accesibilidad y no discriminación de
+las personas con discapacidad. A estos efectos, se consideran edificios y establecimientos existentes
+aquellos cuya solicitud de licencia de obras fue anterior al 12 de septiembre de 2010(1). Los edificios cuya
+licencia fue posterior a dicha fecha debieron cumplir plenamente las condiciones de accesibilidad que ya
+estaban vigentes desde la misma.
+2          Criterios de aplicación
+Las condiciones básicas de accesibilidad de los edificios y establecimientos se establecen en los docu-
+mentos básicos de Seguridad de utilización y accesibilidad (DB SUA) y de Seguridad en caso de incen-
+dio (DB SI) del Código Técnico de la Edificación (CTE) y son las que figuran en la tabla 1 del apartado 3
+de este DA. En la tabla 2 de dicho apartado se establece el límite de tolerancia dentro del cual se puede
+considerar que el estado actual es admisible aunque no cumpla estrictamente lo que establecen dichos
+DB. Las tolerancias admisibles que se establecen en dicha tabla son, asimismo, los criterios de flexibili-
+zación cuando se interviene en un edificio existente y no sea posible alcanzar la plena adecuación.
+Conforme al punto 3 del artículo 2 del CTE Parte I, cuando el proyectista justifique que no es urbanística,
+técnica o económicamente viable alcanzar las condiciones recogidas en la tabla 2 o, en su caso, que es
+incompatible con la naturaleza de la intervención o con el grado de protección del edificio, se pueden
+aplicar, bajo el criterio y responsabilidad del proyectista, otras medidas que faciliten, en el mayor grado
+posible, el acceso y la utilización del edificio o establecimiento por la mayor diversidad posible de situa-
+ciones personales.
+Pueden existir otras soluciones distintas a las reflejadas en este documento para adecuar los edificios a
+las condiciones básicas de accesibilidad, como pueden ser, entre otras, las basadas en la gestión y en
+los productos de apoyo. La solución final a adoptar dependerá de cada caso concreto ya que pueden
+existir factores tales como el coste, la financiación, el mantenimiento, la disponibilidad de ayudas, el logro
+de la autonomía personal, etc. que pueden hacer que el ajuste final sea razonable, de acuerdo con lo
+que establecen el DB SUA y el DB SI, los comentarios que el Ministerio de Fomento publica y actualiza
+periódicamente, así como el resto de documentos de apoyo.
+3          Condiciones básicas de accesibilidad aplicables y tolerancias admisibles
+Dado que el DB SUA y el DB SI no sólo regulan las condiciones de accesibilidad, sino también las de
+seguridad de utilización y seguridad en caso de incendio en los edificios, la tabla 1 indica cuales son las
+condiciones específicamente referidas a accesibilidad.
+                                Tabla 1. Condiciones básicas de accesibilidad
+Artículo DB     Condiciones básicas de accesibilidad
+SUA 1-2         Discontinuidades
+                3. […] si la zona de circulación incluye un itinerario accesible, el o los escalones no podrán disponerse en el
+                   mismo.
+SUA 1-3.1       Protección de desniveles
+                2. En las zonas de uso público se facilitará la percepción de las diferencias de nivel que no excedan de 55 cm y
+                 que sean susceptibles de causar caídas, mediante diferenciación visual y táctil. La diferenciación comenzará
+                 a 25 cm del borde, como mínimo.
+SUA 1-4.2       Escaleras de uso general
+SUA 1-4.2.2     Tramos
+                3. Entre dos plantas consecutivas de una misma escalera, todos los peldaños tendrán la misma contrahuella y
+                 todos los peldaños de los tramos rectos tendrán la misma huella. Entre dos tramos consecutivos de plantas
+                 diferentes, la contrahuella no variará más de œ1 cm. […]
+
+(1)     Conforme a la Disposición transitoria tercera del Real Decreto 173/2010, de 19 de febrero, por el que se modifica el Código
+        Técnico de la Edificación en materia de accesibilidad y no discriminación de las personas con discapacidad.
+
+                                                   2 de 16
+
+Documento de Apoyo al DB SUA                                                                                     DA DB SUA / 2
+
+Artículo DB      Condiciones básicas de accesibilidad
+SUA 1-4.2.3      Mesetas
+                 4 En las mesetas de planta de las escaleras de zonas de uso público se dispondrá una franja de pavimento
+                    visual y táctil en el arranque de los tramos, según las características especificadas en el apartado 2.2 de la
+                    Sección SUA 9.
+SUA 1-4.2.4      Pasamanos
+                 Todo el apartado.
+SUA 1-4.3        Rampas en itinerarios accesibles
+                 1 Los itinerarios cuya pendiente exceda del 4% se consideran rampa a efectos de este DB-SUA, […]
+SUA 1-4.3.1      Pendiente
+                 1 a) las rampas que pertenezcan a itinerarios accesibles tendrán una pendiente, como máximo, del 10% cuando
+                    su longitud en proyección en planta sea menor que 3 m, del 8% cuando la dicha longitud sea menor que 6 m
+                    y del 6% en el resto de los casos. Si la rampa es curva, la pendiente longitudinal máxima se medirá en el lado
+                    más desfavorable.
+                 2 La pendiente transversal de las rampas que pertenezcan a itinerarios accesibles será del 2%, como máximo.
+SUA 1-4.3.2      Tramos
+                 1. Los tramos tendrán una longitud, en proyección en planta, de […] 9 m, como máximo.
+                 2. La anchura de la rampa estará libre de obstáculos. La anchura mínima útil se medirá entre paredes o barreras
+                    de protección, sin descontar el espacio ocupado por los pasamanos, siempre que estos no sobresalgan más
+                    de 12 cm de la pared o barrera de protección.
+                 3. Si la rampa pertenece a un itinerario accesible los tramos serán rectos o con un radio de curvatura de al
+                    menos 30 m y de una anchura de 1,20 m, como mínimo. Asimismo, dispondrán de una superficie horizontal al
+                    principio y al final del tramo con una longitud de 1,20 m en la dirección de la rampa, como mínimo.
+SUA 1-4.3.3      Mesetas
+                 1. Las mesetas dispuestas entre los tramos de una rampa con la misma dirección tendrán al menos la anchura
+                    de la rampa y una longitud, medida en su eje, de 1,50 m como mínimo.
+                 2 Cuando exista un cambio de dirección entre dos tramos, la anchura de la rampa no se reducirá a lo largo de
+                    la meseta. La zona delimitada por dicha anchura estará libre de obstáculos y sobre ella no barrerá el giro de
+                    apertura de ninguna puerta, excepto las de zonas de ocupación nula definidas en el anejo SI A del DB SI.
+                 3 No habrá pasillos de anchura inferior a 1,20 m ni puertas situados a menos de […] 1,50 m como mínimo.
+SUA 1-4.3.4      Pasamanos
+                 2 Las rampas que pertenezcan a un itinerario accesible, cuya pendiente sea mayor o igual que el 6% y salven
+                    una diferencia de altura de más de 18,5 cm, dispondrán de pasamanos continúo en todo su recorrido en am-
+                    bos lados, incluidas las mesetas. Los bordes libres contarán con un zócalo o elemento de protección lateral
+                    de 10 cm de altura, como mínimo. Cuando la longitud del tramo exceda de 3 m, el pasamanos se prolongará
+                    horizontalmente al menos 30 cm en los extremos, en ambos lados.
+                 3 El pasamanos estará a una altura comprendida entre 90 y 110 cm. Las rampas […] que pertenecen a un
+                    itinerario accesible, dispondrán de otro pasamanos a una altura comprendida entre 65 y 75 cm.
+                 4 El pasamanos será firme y fácil de asir, estará separado del paramento al menos 4 cm y su sistema de suje-
+                    ción no interferirá el paso continuo de la mano.
+SUA 2-1.1        Impacto con elementos fijos
+                 Todo el apartado.
+SUA 2-1.4        Impacto con elementos insuficientemente perceptibles
+                 Todo el apartado.
+SUA 3            Aprisionamiento
+                 2 En zonas de uso público, los aseos accesibles y cabinas de vestuarios accesibles dispondrán de un dispositi-
+                    vo en el interior fácilmente accesible, mediante el cual se transmita una llamada de asistencia perceptible
+                    desde un punto de control y que permita al usuario verificar que su llamada ha sido recibida, o perceptible
+                    desde un paso frecuente de personas.
+                 3 La fuerza de apertura de las puertas será […] en itinerarios accesibles, […] como máximo 25 N, en general,
+                    65 N cuando sean deban ser resistentes al fuego.
+SUA 4-1          Alumbrado normal en zonas de circulación
+                 1 En cada zona se dispondrá una instalación de alumbrado capaz de proporcionar, una iluminancia mínima de
+                    20 lux en zonas exteriores y de 100 lux en zonas interiores, excepto aparcamientos interiores en donde será
+                    de 50 lux, medida a nivel del suelo.
+                    El factor de uniformidad media será del 40% como mínimo.
+SUA 7-4          Señalización
+                 3 En los accesos de vehículos a viales exteriores desde establecimientos de uso Aparcamiento se dispondrán
+                    dispositivos que alerten al conductor de la presencia de peatones en las proximidades de dichos accesos.
+SUA 9            Accesibilidad
+                 Toda la sección.
+
+                                                           3 de 16
+
+ Documento de Apoyo al DB SUA                                                                                       DA DB SUA / 2
+
+Artículo DB        Condiciones básicas de accesibilidad
+SI 3-6             Evacuación de personas con discapacidad en caso de incendio
+                   5.b) […]Cuando la puerta esté situada en un itinerario accesible según DB SUA, dicha fuerza no excederá de 25
+                       N, en general, y de 65 N cuando sea resistente al fuego.
+SI 3-7             Señalización de los medios de evacuación
+                   1 Se utilizarán las señales de evacuación definidas en la norma UNE 23034:1988, conforme a los siguientes
+                       criterios: […]
+                   g) Los itinerarios accesibles (ver definición en el anejo A del DB SUA) para personas con discapacidad que
+                       conduzcan a una zona de refugio, a un sector de incendio alternativo previsto para la evacuación de personas
+                       con discapacidad, o a una salida del edificio accesible se señalizarán mediante las señales establecidas en
+                       los párrafos anteriores a), b), c) y d) acompañadas del SIA (Símbolo Internacional de Accesibilidad para la
+                       movilidad). Cuando dichos itinerarios accesibles conduzcan a una zona de refugio o a un sector de incendio
+                       alternativo previsto para la evacuación de personas con discapacidad, irán además acompañadas del rótulo
+                       “ZONA DE REFUGIO”.
+                   h) La superficie de las zonas de refugio se señalizará mediante diferente color en el pavimento y el rótulo “ZO-
+                       NA DE REFUGIO” acompañado del SIA colocado en una pared adyacente a la zona.
+SI 3-9             Evacuación de personas con discapacidad en caso de incendio
+                   Todo el apartado.
+SI 4-tabla 1.1     Dotación de instalaciones de protección contra incendios
+                   (6) El sistema de alarma transmitirá señales visuales además de acústicas. Las señales visuales serán percepti-
+                       bles incluso en el interior de viviendas accesibles para personas con discapacidad auditiva (ver definición en
+                       el anejo SUA A del DB SUA).
+ La tabla 2 establece las tolerancias que se admiten para determinadas condiciones de accesibilidad, en
+ especial, para usuarios de silla de ruedas. Para las condiciones incluidas en la tabla 1 que no figuran en
+ la tabla 2 no se admiten tolerancias.
+                                              Tabla 2. Tolerancias admisibles
+Artículo DB         Tolerancias admisibles
+SUA 1-2             Discontinuidades
+(punto 3)           -   En accesos se admiten desniveles de hasta 5 cm salvados con una pendiente no mayor que 25%.
+SUA 1-4.2           Escaleras de uso general
+SUA 1-4.2.2         Tramos
+(punto 3)           -   En uso público se admiten las variaciones existentes entre contrahuellas de un mismo tramo siempre que
+                        éstas no sean superiores a ± 1 cm, o se dispongan medidas compensatorias que reduzcan el riesgo.(1)
+                    -   En uso privado, se admiten las variaciones entre contrahuellas de un mismo tramo existentes.
+SUA 1-4.2.4         Pasamanos
+(punto 3)           -   En el caso de que la prolongación del pasamanos interfiera con la circulación, se admite que éste arranque
+                        con el peldaño.
+SUA 1-4.3           Rampas en itinerarios accesibles
+SUA 1-4.3.1         Pendiente
+(punto 1a)          -    Se admiten rampas de hasta 3 m con pendiente del 12% como máximo, de hasta 10 m con pendiente
+                         del10% como máximo, de hasta 15 m con pendiente del 8% como máximo, o con pendiente del 6% como
+                         máximo sin límite de longitud(2)
+SUA 1-4.3.2         Tramos
+(punto 3)           -   Se admite una anchura libre de paso de 0,90 m como mínimo en tramos rectos y entre pasamanos.
+                    -   Se permiten rampas sin espacio horizontal delante de una puerta en las soluciones admitidas también para
+                        obra nueva en el comentario “Mesetas de rampa en itinerarios accesibles” al apartado SUA1-4.3.3, punto 3.
+                        Excepcionalmente, cuando no sea posible ninguna de estas soluciones, también pueden admitirse puertas
+                        manuales sin espacio horizontal situadas al inicio, mitad de tramo o final de la rampa si se dispone un tim-
+                        bre de llamada, debidamente señalizado y accesible desde una silla de ruedas en el punto de arranque de
+                        dicha rampa.
+SUA 1-4.3.3         Mesetas
+(punto 1)           -   Se admiten mesetas intermedias de, al menos, 1,20 m.
+(punto 2)           -   Se admiten mesetas de cambio de dirección de, al menos, 1,20 m de profundidad.
+(punto 3)           -   Se permiten rampas sin espacio horizontal delante de una puerta en las mismas situaciones que las ex-
+                        puestas en el punto SUA 1-4.3.2 (punto 3) de esta tabla.
+SUA 1-4.3.4         Pasamanos
+(punto 2)           -   En el caso de que la prolongación del pasamanos interfiera con la circulación, se admite que éste arranque
+                        al inicio de la rampa.
+
+                                                          4 de 16
+
+Documento de Apoyo al DB SUA                                                                                     DA DB SUA / 2
+
+Artículo DB        Tolerancias admisibles
+SUA 2-1.1          Impacto con elementos fijos
+(puntos 1 y 2)     -    En el caso de que no se pueda modificar el elemento fijo por ser estructural, se admite lo existente y deben
+                        adoptarse medidas compensatorias que reduzcan el riesgo(1)
+SUA 9              Accesibilidad
+SUA 9-1.1.1        Condiciones funcionales
+                   -    Se admite que el Itinerario accesible comunique con una entrada que no sea principal (3)
+SUA 9-1.2.2        Alojamientos accesibles
+                   -    Se admite que no dispongan de alojamientos accesibles para usuarios de silla de ruedas los establecimien-
+                        tos de uso Residencial Público existentes que tengan menos de 10 alojamientos.
+SUA 9-1.2.6        Servicios higiénicos accesibles
+                   -    En uso privado, se admite que no haya aseo accesible siempre que la superficie útil de la zona de uso
+                        privado no exceda de 100 m2, que el número de trabajadores no exceda de 10 (para el cálculo del número
+                        de trabajadores puede utilizarse el cálculo de la ocupación de las zonas de uso privado de uso exclusivo de
+                        los trabajadores según la tabla 2.1 del DB SI3) y que el aseo sea de uso exclusivo por los trabajadores.
+SUA 9-1.2.7        Mobiliario fijo
+                   -    Se exime de disponer un punto de atención accesible en las barras de bares y cafeterías de longitud inferior
+                        a 3 m siempre que existan mesas en zonas accesibles.
+SUA Anejo A        Alojamiento accesible
+                   -    Se admite que sus itinerarios cumplan el apartado “itinerarios accesibles” de esta tabla, que sus servicios
+                        cumplan el apartado “Servicios higiénicos accesibles” de esta tabla, que sus espacios de giro sean de al
+                        menos 1,20 m, excepto en cocinas, en donde deberán ser de 1,50 m de diámetro, y en la terraza del aloja-
+                        miento las condiciones existentes.
+                   Ascensor accesible
+                   -    En relación con la instalación de ascensor véase al anejo B.
+                   Itinerario accesible
+                   -    Desniveles: se admiten las tolerancias establecidas en los apartados relativos a rampas y ascensores, así
+                        como las del anejo A en relación con las plataformas elevadoras verticales e inclinadas.
+                   -    Espacio para giro: allí donde se exigen espacios para giro se admite que estos tengan al menos 1,20 m de
+                        diámetro, libre de obstáculos.
+                   -    Pasillos y pasos:
+                   -       Anchura de paso: como criterio general se considera suficiente para circular en línea recta y hacer giros
+                          de hasta 90º una anchura de 90 cm en uso privado y en establecimientos cuya superficie útil total sea infe-
+                          rior a 100 m², y de 1,10 m en el resto de zonas de uso público, pero dichas anchuras son insuficientes allí
+                           donde la limitación del espacio y la configuración de los elementos obligue a giros mayores y a maniobras
+                            más complejas que un simple giro, tales como la apertura de una puerta. En esas circunstancias se preci-
+                          sa un círculo de al menos 1,20 m de diámetro, libre de obstáculos.
+                        -      Estrechamientos puntuales: se admite que los estrechamientos puntuales tengan una anchura menor de
+                          1 m pero no inferior a 0,80 m.
+                   -    Puertas:
+                        -    Se admite que la distancia exigida desde el mecanismo de apertura hasta el rincón exista únicamente en
+                          el lado hacia el que abre la puerta.
+                   Servicios higiénicos accesibles
+                   -    Se admite que sus itinerarios cumplan el apartado “itinerarios accesibles” de esta tabla. En relación a sus
+                        características véase el “anejo C Servicios higiénicos accesibles”.
+SI 3-9             Evacuación de personas con discapacidad en caso de incendio
+                   -    En uso Residencial Vivienda se admite no habilitar sector alternativo o zonas de refugio.
+                   -    Se admite que los itinerarios hasta una zona de refugio o salida de planta/edificio, aunque esta salida no
+                        sea accesible, cumplan el apartado “itinerarios accesibles” de esta tabla.
+ (1)     Por ejemplo, señalización del punto de riesgo, cambiando el color del peldaño que no cumple la condición, señalizando el
+         elemento que puede provocar el impacto incluso para personas con discapacidad visual, etc., y aumento de la iluminación
+         normal y de emergencia sobre dicho punto. En cualquier caso se podrá exigir modificar lo existente si se juzga peligroso o no
+         accesible, según el caso concreto.
+ (2)     En relación con las rampas con pendiente mayor que el 12%, ver comentario al apartado III Criterios generales de aplicación
+         de la Introducción del DB SUA: “Casos en los que se puede considerar no viable adecuar las condiciones existentes de accesi-
+         bilidad para usuarios de silla de ruedas”.
+ (3)     Itinerarios similares al principal, p.ej., de uso frecuente, recorrido de longitud similar al habitual, sin restricción o cierre, etc. y
+         debidamente señalizados en el acceso principal indicando la distancia a recorrer y que permitan el acceso a los mismos servi-
+         cios.
+
+                                                              5 de 16
+
+Documento de Apoyo al DB SUA                                                                DA DB SUA / 2
+
+Anejo A         Mejora de la accesibilidad en accesos y pequeños desniveles(1)
+El objeto de este anejo es definir mejoras de la accesibilidad a llevar a cabo en accesos y en pequeños
+desniveles no mayores de una planta desde el punto de vista de la movilidad de usuarios de silla de rue-
+das y personas con movilidad reducida, en edificios existentes en las que, por inviabilidad técnica o eco-
+nómica o por incompatibilidad con el grado de protección de determinados elementos del edificio, no se
+puedan aplicar las exigencias definidas en el Documento Básico DB SUA.
+Asimismo se definen las condiciones de las plataformas elevadoras verticales e inclinadas (salvaescale-
+ras) que se pueden utilizar. Las condiciones de seguridad y uso de dichos dispositivos se encuentran
+definidas en su propia reglamentación, por lo que este DA desarrolla únicamente las condiciones de se-
+guridad, uso y accesibilidad que se deben tener en cuenta en los espacios cuando se utilicen estos me-
+canismos.
+A.1       Criterios generales
+La solución preferente para adecuar el acceso es trasladarlo donde el desnivel con la vía publica sea
+menor. Cuando exista ascensor pero no esté comunicado con el espacio exterior de la parcela del edifi-
+cio o con la vía pública mediante un itinerario accesible, puede plantearse la modificación de la cota de
+desembarco del ascensor para alcanzar dicho nivel. En relación a la instalación de ascensores ver anejo
+B de este DA.
+Cuando la solución a nivel no sea posible, se puede disponer un itinerario accesible que incluya una
+rampa, según el DB SUA o, al menos, según los parámetros establecidos en la tabla 2 del apartado 3 de
+este DA.
+Cuando no sean posibles las soluciones fijas anteriores y se justifique su no viabilidad, se puede consi-
+derar como primera opción alternativa la instalación de una plataforma elevadora vertical(2) para permitir
+desenvolvimiento a personas con movilidad reducida y a usuarios de silla de ruedas. En relación a este
+tipo de dispositivos se debe tener en cuenta lo establecido en el apartado A.2.
+En circunstancias excepcionales, cuando se justifique la no viabilidad de las opciones anteriores, se
+puede considerar como segunda opción alternativa la instalación de una plataforma elevadora inclinada
+(salvaescaleras), siempre que no entre en conflicto con las condiciones exigibles de evacuación y uso de
+la escalera. En relación a este tipo de dispositivos se debe tener en cuenta lo establecido en el apartado
+A.3.
+El uso de plataformas elevadoras verticales y plataformas elevadoras inclinadas (salvaescaleras) es
+apropiado para salvar pequeños desniveles no mayores a una planta (por ejemplo en los accesos a es-
+tablecimientos y en los portales de edificios de vivienda, entre otros) en los que no exista un tráfico inten-
+so de personas, debido a las menores prestaciones de estos dispositivos en cuanto a autonomía perso-
+nal, velocidad, fiabilidad, riesgo y dificultad de uso.
+Si no es posible llevar a cabo alguna de estas intervenciones en el interior de la parcela del edificio se
+pueden plantear en el exterior de la misma, si es de aplicación el supuesto de ocupación de la vía públi-
+ca(3) siempre que se dispongan las medidas necesarias para que no se produzcan situaciones de riesgo
+con el resto de peatones.
+En las intervenciones en las que se construya una rampa o se instale una plataforma elevadora vertical o
+inclinada para la mejora de la accesibilidad del edificio, se pueden admitir las reducciones establecidas
+
+(1)     El contenido de este anejo estaba recogido en la anterior versión del DA DB SUA / 2 cuya denominación anterior era “Criterios
+        para la utilización de elementos y dispositivos mecánicos”.
+(2)     Que ciertas plataformas elevadoras verticales puedan considerarse "ascensores" por su propia reglamentación específica y,
+        por tanto, puedan ser aptas para poder ser utilizadas según las condiciones establecidas en el anejo B de este DA, no las habi-
+        lita para ser consideradas "ascensor accesible", ya que deberían cumplir la norma UNE EN 81-70 además de otras condiciones
+        establecidas en el anejo A de terminología del DB SUA.
+        A lo anterior hay que añadir que, aunque aparentemente las plataformas elevadoras verticales y los ascensores convenciona-
+        les puedan ser similares, las prestaciones entre ambos pueden variar significativamente, como en su velocidad y en su forma
+        de activación -por pulsación mantenida en lugar de ser automática-.
+(3)     Véase el artículo 24, punto 4, de la Ley de Suelo y Rehabilitación Urbana (Real Decreto Legislativo 7/2015, de 30 de octubre).
+
+                                                              6 de 16
+
+Documento de Apoyo al DB SUA                                                                DA DB SUA / 2
+
+en los apartados B.4 y B.5, siempre que se acredite la no viabilidad técnica y económica de otras alterna-
+tivas y se aporten las medidas que en cada caso se estimen necesarias.
+Con independencia del sistema de elevación elegido, siempre se deben disponer escaleras como reco-
+rrido alternativo al mecánico.
+Las sillas de evacuación manuales únicamente son adecuadas para evacuación de emergencia cuando
+el protocolo de emergencia prevea su utilización por personal instruido en su manejo.
+Las orugas motorizadas y las sillas salvaescaleras(4) no permiten al usuario de silla de ruedas su uso
+autónomo por lo que no se consideran una adecuación efectiva de las condiciones de accesibilidad. No
+obstante, se pueden utilizar en casos muy particulares para facilitar la accesibilidad a ciertos usuarios
+cuando no exista otra solución, siempre que se cuente con la conformidad previa del usuario, se prevea
+su utilización por personal instruido en su manejo y no se comprometa la seguridad de utilización.
+Las rampas móviles y los tapices móviles, si bien son facilitadores de la movilidad, no son soluciones de
+accesibilidad, razón por la que no forman parte de los itinerarios accesibles.
+A.2       Plataformas elevadoras verticales
+El objetivo de estos mecanismos es facilitar el desplazamiento vertical de los usuarios de silla de ruedas
+y de las personas con movilidad reducida así como de sus acompañantes. Se deben construir, instalar y
+mantener según lo que se establece en la Directiva 2006/42/CE sobre máquinas, en la norma EN 81-41,
+así como la reglamentación vigente relacionada. Esta norma establece condiciones para plataformas
+elevadoras verticales con huecos cerrados, donde el habitáculo no está completamente cerrado. Estas
+plataformas evitarán en todo caso dejar espacio diáfano bajo las mismas para evitar el riesgo de aplas-
+tamiento.
+Los usuarios necesitan disponer de un espacio horizontal suficiente para el acceso y uso de estos meca-
+nismos, a fin de detenerse, maniobrar, abrir y franquear puertas, etc. por lo que debe existir un itinerario
+accesible hasta ellos, conforme a las condiciones establecidas en la tabla 2 del apartado 3 de este DA(5).
+El dispositivo se localizará mediante la correspondiente señalización direccional. En la plataforma deben
+figurar sus características, la carga máxima admisible, el tipo de silla de ruedas o personas con movilidad
+reducida que admite, si permite o no acompañante, así como instrucciones de uso y esquema de funcio-
+namiento mediante pictogramas. La elección de estos mecanismos y sus prestaciones asociadas deben
+tener en cuenta la presencia o no de personal de asistencia durante su periodo de uso. Deben disponer
+de un dispositivo de llamada para recibir asistencia.
+En la tabla 1 se indican las dimensiones mínimas de la plataforma y la carga mínima de cálculo, basados
+en el contenido de la Norma UNE-EN 81-41.
+
+(4)     En relación a las sillas salvaescaleras, por su similitud, se deben tener en cuenta las condiciones de seguridad que puedan ser
+        de aplicación del apartado A.3. Plataformas elevadoras inclinadas, así como deberían cumplir lo establecido en la norma UNE
+        EN 81-40.
+(5)     Un espacio de giro de diámetro 1,50 m libre de obstáculos y del barrido de la puerta es lo deseable para el acceso y uso delan-
+        te de estos mecanismos. Un diámetro menor de 1,20 m no garantiza el uso de forma autónoma por usuarios de silla de ruedas.
+
+                                                 7 de 16
+
+Documento de Apoyo al DB SUA                                                                                  DA DB SUA / 2
+
+                        Tabla A.1. Condiciones de las plataformas elevadoras verticales
+                               Dimensiones mínimas de                 Carga mínima de                                        (4)
+Puertas                      plataforma(1), libres del            cálculo                                     Tipos de sillas
+                                 barrido de puertas
+                                    125 x 125 cm                250 kg/m² y          Silla manual o eléctrica de
+Con puertas adyacentes        o bien 110 x 140 cm (an-        al menos 385 kg         tipo A o B y la presencia
+                                chura x profundidad)                                      de un acompañante
+                                   80 x 125 cm(2)               250 kg/m² y          Silla manual o eléctrica de
+                              (anchura x profundidad)         al menos 250 kg            tipo A y sin acompañante
+Con una puerta o dos               90 x 140 cm(3)               250 kg/m² y          Silla manual o eléctrica de
+enfrentadas:                  (anchura x profundidad)         al menos 315 kg         tipo A o B y la presencia
+                                                                                          de un acompañante
+(1)     Cuando no sea posible instalar plataformas de las dimensiones anteriores pueden diseñarse plataformas verticales menores a
+        las aquí establecidas que no serían utilizables por usuarios de silla de ruedas pero si por otras personas con movilidad reduci-
+        da. En este caso se debe señalizar la prohibición expresa de uso de dicho dispositivo por una persona en silla de ruedas.
+(2)     Estas plataformas son apropiadas para edificios de uso Residencial Vivienda sin viviendas accesibles para usuarios de silla de
+        ruedas o de otros usos con superficie útil inferior a 1000 m².
+(3)     Estas plataformas son apropiadas para el resto de edificios no incluidos en la nota (2) de esta tabla.
+(4)     Silla de ruedas manual descrita en la Norma EN 12183 o una silla de ruedas propulsada eléctricamente de las clases A o B
+        descritas en la Norma EN 12184.
+A.3        Plataformas elevadoras inclinadas (salvaescaleras)
+El objetivo de estos dispositivos es facilitar el desplazamiento vertical de usuarios de silla de ruedas si-
+guiendo el trazado de la escalera o del tramo de la misma en que se instale, y se deben construir, insta-
+lar y mantener según lo que se establece en la Directiva 2006/42/CE sobre máquinas y en la norma UNE
+EN 81-40 vigente. Es posible disponer plataformas elevadoras inclinadas utilizables por otros usuarios
+además de los de silla de ruedas. En este caso debe incorporarse un asiento plegable que cumpla las
+condiciones de dicha norma. Estos dispositivos están previstos para su uso por una única persona.
+Los usuarios necesitan disponer de un espacio horizontal suficiente para el acceso y uso de estos meca-
+nismos a fin de detenerse, maniobrar, abrir y franquear puertas, etc. Además debe existir un itinerario
+accesible hasta ellos conforme a las condiciones establecidas en la tabla 2 del apartado 3 de este DA(6).
+El dispositivo se localizará mediante la correspondiente señalización direccional. En la plataforma deben
+figurar sus características, la carga máxima admisible, el tipo de silla de ruedas o, en su caso, si admite
+su utilización por parte de otros usuarios así como instrucciones de uso y esquema de funcionamiento
+mediante pictogramas. Este tipo de mecanismos es sólo adecuado para su uso por personas que estén
+instruidas en su manejo o donde se pueda asegurar que existe supervisión y asistencia en su utilización.
+Sus controles deben prevenir el uso no autorizado, por ejemplo mediante llave.
+Según la norma UNE EN 81-40, las características de las plataformas elevadoras inclinadas son las es-
+tablecidas en la tabla A.2.
+
+(6)     Un espacio de giro de diámetro 1,50 m libre de obstáculos y del barrido de la puerta es lo deseable para el acceso y uso delan-
+        te de estos mecanismos. Un diámetro menor de 1,20 m no garantiza el uso de forma autónoma por usuarios de silla de ruedas.
+
+                                                     8 de 16
+
+Documento de Apoyo al DB SUA                                                                                  DA DB SUA / 2
+
+                     Tabla A.2. Condiciones de las plataformas elevadoras inclinadas
+         Dimensiones mínimas de plata-    Carga mínima de cálculo                 Tipos de sillas(3)
+                     forma
+                 70 x 90 cm(1)          250 kg/ m² y al menos 225 kg      silla manual o eléctrica de tipo A
+            (anchura x profundidad)
+                 75 x 100 cm(2)         250 kg/ m² y al menos 250 kg    silla manual o eléctrica de tipo A o B
+            (anchura x profundidad)
+(1)     Estas plataformas son apropiadas para edificios de uso Residencial Vivienda sin viviendas accesibles para usuarios de silla de
+        ruedas o de otros usos con superficie útil inferior a 1000 m².
+(2)     Estas plataformas son apropiadas para el resto de edificios no incluidos en la nota (1) de esta tabla.
+(3)     Silla de ruedas manual descrita en la Norma EN 12183 o una silla de ruedas propulsada eléctricamente de las clases A o B
+        descritas en la Norma EN 12184.
+Se deben considerar las partes del usuario o silla que puedan sobresalir de la plataforma durante el mo-
+vimiento, especialmente cuando se produce un giro, para que el desplazamiento se produzca de forma
+segura, así como posibles cabezadas que puedan aparecer en el recorrido. En el libro del edificio se
+dejará constancia de las precauciones que deben adoptarse durante la actividad del edificio en operacio-
+nes tales como limpieza, mantenimiento o reparaciones a efectos de que no se produzcan daños a los
+usuarios.
+Estos dispositivos se sitúan en los tramos de escalera, por lo que únicamente se deben instalar cuando
+en su posición de uso no impidan la utilización segura de la escalera por otras personas a pie, cuando en
+su posición plegada no reduzcan ni la anchura mínima exigible de la escalera ni la de cálculo de los ele-
+mentos de evacuación (pasillos, escaleras, etc.) y cuando se pongan los medios humanos o técnicos
+para asegurar que en caso de emergencia no se entorpezca la evacuación. Estos dispositivos no se
+pueden utilizar para la evacuación del edificio.
+Para que una plataforma elevadora inclinada no impida en su posición de uso la utilización segura de la
+escalera por otras personas a pie, se debe dejar un espacio libre de al menos 60 cm cuando ésta se
+encuentra desplegada. Si esta solución es inviable, se puede admitir que el ancho de la escalera se ocu-
+pe completamente durante el uso del dispositivo cuando se de alguna de las siguientes situaciones:
+-        la circulación de personas en la escalera es reducida, por ejemplo, en un edificio que no tiene más
+         de 8 viviendas. Se recuerda que estos dispositivos son apropiados para salvar pequeños desniveles
+         no mayores a 1 planta.
+-        existe la posibilidad de un recorrido alternativo, por ejemplo a través de otra escalera. En este caso
+         se debe señalizar la situación del recorrido alternativo.
+-        el tramo de la escalera a salvar no es muy prolongado, por ejemplo, cuando no excede de 8 pelda-
+         ños.
+Se debe garantizar que el movimiento de la plataforma elevadora inclinada en todo su recorrido sea
+siempre visible por el usuario a pie, de forma que pueda advertir el peligro y dispondrán de señales audi-
+tivas y luminosas durante todo su recorrido que deben activarse antes de que el movimiento tenga lugar,
+fundamentalmente en lugares de gran afluencia de público.
+
+                                                 9 de 16
+
+Documento de Apoyo al DB SUA                                                               DA DB SUA / 2
+
+Anejo B        Instalación de ascensor en edificios de vivienda colectivas
+El objeto de este anejo es desarrollar distintas soluciones de incorporación de ascensor en edificios de
+vivienda colectiva existentes para facilitar la accesibilidad a personas con movilidad reducida, en especial
+a usuarios en silla de ruedas, en aquellas obras en las que, por inviabilidad técnica o económica o por
+incompatibilidad con el grado de protección de determinados elementos del edificio, no se puedan aplicar
+las exigencias definidas en el documento básico DB SUA.
+Las condiciones de seguridad y uso de los ascensores se encuentran definidas en su propia reglamenta-
+ción. Este documento desarrolla únicamente las condiciones que se deben tener en cuenta en los espa-
+cios cuando se instalen estos mecanismos en relación con el DB SUA.
+Las soluciones aquí desarrolladas son trasladables a otros edificios en la medida que su configuración
+sea similar a los edificios de vivienda colectiva.
+B.1       Criterios generales de proyecto
+En relación a los edificios de  uso Residencial Vivienda colectiva, las mejoras de accesibilidad deben
+completarse con todas las intervenciones técnicamente posibles (adecuación en los accesos, itinerarios,
+ascensores que comuniquen todas las plantas, etc.). En particular, se debe procurar que el recorrido
+desde la vía pública hasta la vivienda se realice con itinerarios que cumplan el DB SUA o, al menos, las
+condiciones de la tabla 2 del apartado 3 de este DA. Si no es viable alcanzar las condiciones para usua-
+rios de silla de ruedas, pueden plantearse otras soluciones que faciliten la accesibilidad a otros usuarios.
+Los usuarios necesitan disponer de un espacio horizontal suficiente para el acceso y uso de los ascenso-
+res, a fin de detenerse, maniobrar, abrir y franquear puertas, etc. por lo que debe existir un itinerario ac-
+cesible hasta ellos, conforme a las condiciones establecidas en la tabla 2 del apartado 3 de este DA(1).
+En la elección de la alternativa se debe tener en cuenta la que mejor satisfaga los criterios de accesibili-
+dad, teniendo en cuenta la afección a terceros y a las condiciones de seguridad, habitabilidad y funciona-
+lidad preexistentes del edificio, así como los costes de mantenimiento y conservación.
+Siempre que sea viable se debe realizar también la mejora de accesibilidad en plantas o elementos co-
+munes, tales como aparcamientos, tendederos, etc.
+En relación a las mejoras a realizar en pequeños desniveles de los portales de estos edificios, ver anejo
+A.
+B.2       Incorporación y mejora de los ascensores en edificios existentes
+Cuando se modifiquen los ascensores para hacerlos más accesibles así como cuando se incorporen
+ascensores en edificios existentes, sus características, tales como dimensiones de la cabina, apertura de
+puertas, condiciones de las botoneras, etc., deben aproximarse todo lo que sea posible a las característi-
+cas de los ascensores accesibles descritas en el anejo A del DB SUA y en la norma UNE EN 81-70 vi-
+gente. La norma UNE-EN 81-82 contiene recomendaciones que pueden utilizarse para conseguir este
+objetivo.
+En relación a lo anterior, la tabla B.1 establece las dimensiones mínimas de cabina para que el ascensor
+pueda ser utilizado por usuarios de silla de ruedas, si bien podrían ser insuficientes para sillas motoriza-
+das.
+
+(1)     Un espacio de giro de diámetro 1,50 m libre de obstáculos y del barrido de la puerta es lo deseable para el acceso y uso delan-
+        te de estos mecanismos. Un diámetro menor de 1,20 m no garantiza el uso de forma autónoma por usuarios de silla de ruedas.
+
+                                                  10 de 16
+
+Documento de Apoyo al DB SUA                                                                    DA DB SUA / 2
+
+                          Tabla B.1. Dimensiones de las cabinas de los ascensores
+Puertas                     Dimensiones mínimas de la cabina para usuarios de silla de ruedas(1)
+Con puertas adyacentes      125 x 125 cm                       Las puertas se sitúan lo más alejadas del rincón
+                            o bien 120 x 140 cm                que forman los lados en los que se encuentran las
+                            (anchura x profundidad)            dos puertas
+Con una puerta o dos        90 x 120 cm
+enfrentadas:                (anchura x profundidad)
+(1)     Cuando no sea posible instalar ascensores de las dimensiones anteriores pueden diseñarse otros que no serían utilizables por
+        usuarios de silla de ruedas pero sí por otras personas con movilidad reducida.
+En relación a las dimensiones de las cabinas definidas en el anejo A de terminología del DB SUA, la
+norma UNE EN 81-70 establece las consideraciones para cabinas con entrada única o dos entradas
+opuestas de la tabla B.2.
+                 Tabla B.2. Dimensiones mínimas de cabina con entrada única o dos entradas opuestas
+         Dimensiones mínimas de cabina       Carga mínima                   Tipos de sillas(1)
+                  100 x 125 cm                  450 kg             Silla manual o motorizada de tipo A
+            (anchura x profundidad)                                          sin acompañante
+                  110 x 140 cm                  630 kg           Silla manual o motorizada de tipo A o B
+            (anchura x profundidad)                                 con la presencia de un acompañante
+(1)     Silla de ruedas manual descrita en la Norma EN 12183 o una silla de ruedas propulsada eléctricamente de las clases A o B
+        descritas en la Norma EN 12184.
+Conforme al apartado 5.2.1 de la norma UNE-EN 81-70:2004 y al apartado 5.2.1 de la norma UNE-EN
+81-82:2014 la anchura de paso mínima de una puerta de ascensor es de 80 cm para que pueda ser utili-
+zada por usuarios de silla de ruedas.
+B.3        Tipos de intervención para la instalación de ascensores en edificios existentes
+Se desarrollan a continuación diversos tipos de intervención para la instalación de ascensores en edifi-
+cios de vivienda colectiva ordenados en función de los aspectos jurídicos que ofrecen menos dificultades
+para su ejecución:
+-        Instalación de ascensor en zonas comunes interiores.
+         Esta intervención consiste en situar el ascensor en las zonas comunes interiores, tales como los
+         huecos de escalera y las mesetas de planta. En ocasiones puede afectar a otros elementos privati-
+         vos, en cuyo caso la intervención únicamente es viable si existe acuerdo en la comunidad de propie-
+         tarios para la realización de las obras o si es de aplicación el “supuesto de expropiación”(2).
+-        Instalación de ascensor en patios interiores:
+         Esta intervención consiste en situar el ascensor en los patios interiores del edificio, que en muchas
+         ocasiones son únicamente patios de luces. Ocasionalmente puede requerir obras de adaptación del
+         núcleo de la escalera o afectar a condiciones urbanísticas exigidas al patio, en cuyo caso queda su-
+         jeta a la autorización administrativa del órgano competente. También puede afectar a elementos pri-
+         vativos, como patios en planta baja, en cuyo caso únicamente es viable si existe acuerdo entre los
+         propietarios o si es de aplicación el “supuesto de expropiación”(2).
+-        Instalación de ascensor en fachada:
+         Esta intervención consiste en situar el ascensor en las fachadas, tanto en la parcela del edificio como
+         sobre dominio público. En ocasiones puede afectar al dominio público o a condiciones urbanísticas
+         exigidas al edificio, en cuyo caso queda sujeta a la autorización administrativa del órgano competen-
+         te(3). También puede afectar a elementos privativos, como terrazas en fachada, en cuyo caso única-
+         mente es viable si existe acuerdo entre los propietarios o si es de aplicación el “supuesto de expro-
+         piación” (2).
+-        Intervención en zonas privativas:
+
+(2)     Véase el artículo 9, punto 5, letra g) de la Ley de Suelo y Rehabilitación Urbana (Real Decreto Legislativo 7/2015, de 30 de
+        octubre).
+(3)     Véase el artículo 24, punto 4, de la Ley de Suelo y Rehabilitación Urbana (Real Decreto Legislativo 7/2015, de 30 de octubre).
+
+                                                       11 de 16
+
+Documento de Apoyo al DB SUA                                                                     DA DB SUA / 2
+
+         Esta intervención consiste en situar el ascensor en elementos privativos, como pueden ser patios en
+         planta baja, tendederos de vivienda, o zonas interiores de vivienda. Únicamente es viable si existe
+         acuerdo en la comunidad de propietarios para la realización de las obras o si es de aplicación el “su-
+         puesto de expropiación” (2).
+B.4           Incidencia en otras condiciones del CTE distintas de la accesibilidad
+En las intervenciones en las que se instala un ascensor para la mejora de la accesibilidad del edificio se
+pueden admitir las reducciones establecidas en los siguientes apartados siempre que se acredite la no
+viabilidad técnica y económica de otras alternativas y se aporten las medidas que en cada caso se esti-
+men necesarias(4).
+B.4.1         Incidencia en las condiciones del DB SE
+La solución constructiva del ascensor debe garantizar que no supone un aumento de carga incompatible
+con la resistencia actual de la estructura.
+B.4.2         Incidencia en las condiciones del DB SI
+Se permite la reducción de la anchura de escaleras(5) previstas para la evacuación hasta:
+-        0,80 m y no menos de P/160 en escaleras previstas para evacuación descendente
+-        0,80 m y no menos de P/(160-10h) en escaleras previstas para evacuación ascendente
+La anchura se medirá teniendo en cuenta lo establecido en el apartado 4.2.2 del DB SUA 1.
+Cabe la posibilidad de reducir la anchura de la escalera hasta las condiciones anteriormente citadas para
+obtener unas dimensiones de la cabina que consigan el mayor grado posible de adecuación efectiva,
+incluso aunque no se puedan alcanzar las mínimas establecidas para usuarios de silla de ruedas en el
+apartado B.2.
+En los casos en que sea necesario reducir las dimensiones de la escalera, deben adoptarse medidas
+compensatorias que favorezcan la circulación de los ocupantes y las condiciones de seguridad durante la
+evacuación.
+En el caso de que se reduzca la anchura de pasillos o de rampas, dicha anchura no será inferior a 0,90
+m, siempre que se cumpla la anchura de cálculo de evacuación (apartado SI-3 del DB SI). En estos ca-
+sos, asimismo, se adoptarán medidas que compensen dicha reducción.
+En ningún caso las obras de mejora de la accesibilidad en el exterior (por ejemplo, en las obras para
+instalación del ascensor, plataformas elevadoras, rampas, etc. en la fachada del edificio), deben reducir
+las condiciones de acceso de bomberos al edificio.
+Otras consideraciones a tener en cuenta en relación al DB SI están recogidas en los siguientes comenta-
+rios:
+-        Ascensores con la maquinaria incorporada en el hueco del ascensor (tabla 2.1 del DB SI-1).
+-        Instalaciones situadas en cubierta (tabla 2.1 del DB SI-1).
+-        Obligatoriedad de adecuar una escalera al instalar un ascensor (tabla 5.1 del DB SI-3).
+B.4.3         Incidencia en las condiciones del DB SUA
+Cuando la escalera sirva a no más de 8 viviendas y la altura de evacuación no exceda de 14 m, se per-
+mite la reducción de los parámetros de escaleras de uso general establecidas en el DB SUA1-4.2 hasta
+lo establecido para escaleras de uso restringido en el DB SUA1-4.1, excepto en la dimensión de la huella
+
+(4)     El punto 3 del artículo 2 de la Parte I del CTE establece que a la hora de intervenir en el edificio no se podrán menoscabar las
+        condiciones preexistentes, salvo que un DB establezca un criterio distinto, como es el caso de la reducción de la anchura de la
+        escalera para la instalación de ascensor (nota 1 de la tabla 4.1 de la sección DB SUA 1).
+(5)    La anchura útil a considerar en rellanos de planta debe tener en cuenta si dicho rellano puede ser utilizado por usuarios de silla
+        de ruedas, en cuyo caso, además debe cumplir al menos lo establecido para itinerarios accesibles en la tabla 2 del DA DB
+        SUA/2.
+
+                                                12 de 16
+
+Documento de Apoyo al DB SUA                                                              DA DB SUA / 2
+
+que al menos será de 25 cm. Para la reducción de la anchura se debe tener en cuenta lo establecido en
+el apartado B.4.2.
+En este tipo de intervención deben adoptarse las medidas compensatorias que se estimen oportunas,
+según el caso, por ejemplo:
+-                      Dotar de un pasamanos saliente en la zona interior para evitar tropiezo en la parte del peldaño más
+       estrecho en escaleras curvas o compensadas.
+-                         Dotar de pasamanos a ambos lados, en escaleras que no alcancen las dimensiones del peldañeado
+       en uso general.
+-                      Dotar de elementos antideslizantes a los peldaños, en huellas de dimensiones inferiores a las de uso
+       general.
+-                      Reforzar la iluminación normal, de emergencia o utilizar elementos fotoluminiscentes o peldaños con
+                     contraste cromático que identifiquen los límites de los peldaños para reforzar la percepción del traza-
+       do de la escalera.
+Cuando los cerramientos de la caja del ascensor sean accesibles, estos deben impedir la introducción en
+el hueco de objetos y extremidades para evitar posibles accidentes.
+B.4.4    Incidencia en las condiciones del DB HS
+Cuando al incorporar un ascensor en el interior de un patio se reduzcan sus dimensiones por debajo del
+mínimo establecido en el DB HS3 apartado 3.2.1, en el caso de que existan aberturas de admisión, aber-
+turas mixtas, bocas de toma o ventanas pertenecientes a alguno de los locales del ámbito de aplicación
+del DB HS3, se deberían adoptar medidas compensatorias en función del caso concreto enfocadas a:
+-                      Minimizar la interferencia con la ventilación natural del patio. Por ejemplo, empleando cerramientos
+                        permeables de la caja del ascensor que permitan la circulación del aire y retorno automático de la
+       cabina a planta baja.
+-      Mejorar la ventilación en el patio a través de sistemas de ventilación mecánica.
+-                       Minimizar la carga de contaminantes del patio. Por ejemplo, trasladando la evacuación de gases de
+       combustión y de cocción a cubierta si se evacuaban al interior del patio.
+-                      No emplear el patio como fuente de entrada de aire para el sistema general de ventilación. Por ejem-
+                      plo, implantando un sistema de ventilación de los locales afectados que introduzca el aire de ventila-
+                       ción desde otro punto, como puedan ser la cubierta u otra fachada exterior o un patio que sí cumpla
+       las condiciones requeridas. El sistema de ventilación de las viviendas u otros locales afectados debe-
+       ría adaptarse en lo posible a lo establecido en el DB HS3.
+Por otra parte, no se puede reducir la superficie total practicable de las ventanas o puertas exteriores
+establecidas en el apartado 3.1.1 por debajo del mínimo indicado en el apartado 4.4 para el sistema
+complementario de ventilación del DB HS3.
+B.4.5    Incidencia en las condiciones del DB HR
+Cuando los ascensores son colindantes con recintos habitables o protegidos, pueden transmitir ruidos
+provocados por el propio funcionamiento del ascensor. Para evitarlo, los elementos de separación entre
+un ascensor y las unidades de uso deberían cumplir(6):
+-                       Cuando el ascensor no tenga cuarto de máquinas y las maquinaria esté dentro del recinto del ascen-
+                         sor, los elementos constructivos que separan un ascensor de una unidad de uso deberían tener un
+       índice de reducción acústica, RA, mayor que 60 dBA.
+-                         Cuando no sea así, los elementos que separan un ascensor de una unidad de uso, deberían tener
+       un índice de reducción acústica, RA mayor que 50 dBA.
+Independientemente de que el ascensor sea o no colindante con viviendas, puede producirse una trans-
+misión de ruido estructural a recintos alejados durante los periodos de funcionamiento del ascensor, es-
+pecialmente en el arranque y la frenada. Para evitarlo, deberían cumplirse las especificaciones sobre
+(6)        Según el apartado II del Documento Básico DB HR no sería de aplicación el DB ya que no se trata de una rehabilitación inte-
+       gral. Sin embargo, en cualquier intervención sobre un edificio existente lo razonable sería mejorar la situación inicial lo más po-
+         sible e intentar adaptar el edificio a los niveles de calidad acústica del DB HR, en la medida en que esto sea técnica o econó-
+       micamente viable.
+
+                                               13 de 16
+
+Documento de Apoyo al DB SUA                                                                   DA DB SUA / 2
+
+ruido y vibraciones de instalaciones recogidas en el punto 3.3.3.5 del DB HR relativas al anclaje de los
+sistemas de tracción de los ascensores a las estructuras del edificio, la instalación de topes elásticos en
+las puertas y los relés de los cuadros de mandos (véase Guía de Aplicación del DB HR).
+B.5       Incidencia en otras reglamentaciones de aplicación
+Las administraciones competentes pueden establecer condiciones adicionales y complementarias a las
+aquí desarrolladas para facilitar la instalación de ascensor, por ejemplo, medidas relacionadas:
+-     con la afección a elementos protegidos;
+-     con la ocupación de espacios libres de dominio público;
+-     con la ocupación de espacios comunes, como disminución de prestaciones en la reducción de patios
+      de luces, iluminación, ventilación, agotamiento de la edificabilidad, etc.;
+-     con la posible ocupación de espacios privativos, a través del “supuesto de expropiación”;
+-     con otras reglamentaciones vigentes, como el Reglamento de aparatos elevadores.
+
+                                                14 de 16
+
+Documento de Apoyo al DB SUA                                                              DA DB SUA / 2
+
+Anejo C         Servicios higiénicos accesibles
+Este anejo desarrolla soluciones para mejorar la accesibilidad para personas con movilidad reducida, en
+especial para usuarios de silla de ruedas, en aquellos servicios higiénicos en los que, por inviabilidad
+técnica o económica o por incompatibilidad con el grado de protección de determinados elementos del
+edificio, no se puedan cumplir las exigencias del documento básico DB SUA.
+C.1       Dotación de servicios higiénicos accesibles
+Aunque alguna disposición legal de obligado cumplimiento exija la disposición de servicios higiénicos, se
+puede considerar que no es exigible que sean accesibles los de uso exclusivo de trabajadores, siempre
+que la superficie útil de la zona de uso privado de uso exclusivo de los trabajadores no exceda de 100 m²
+y que el número de trabajadores no exceda de 10 (para el cálculo del número de trabajadores puede
+utilizarse el cálculo de la ocupación de las zonas de uso privado de uso exclusivo de los trabajadores
+según la tabla 2.1 del DB SI3).
+Las condiciones que deben cumplir los servicios higiénicos dispuestos para los trabajadores de una acti-
+vidad son las descritas para el uso privado. Las que deben cumplir los servicios higiénicos para el públi-
+co son las descritas para el uso público.
+En algunos usos o cuando el tiempo de permanencia media en el establecimiento es elevado, resultará
+más necesaria la dotación de servicios higiénicos accesibles para el público, como puede ser el caso de
+los establecimientos de hostelería (bares, cafeterías, restaurantes), los centros de salud y las consultas
+médicas (incluidos los laboratorios de análisis clínicos), los centros de rehabilitación, gimnasios, piscinas
+e instalaciones deportivas; los intercambiadores de transporte; los museos y salas de exposiciones; etc.
+En los locales de reducidas dimensiones pueden plantearse las siguientes soluciones siempre que sean
+admisibles conforme al resto de reglamentación aplicable, como por ejemplo:
+-     Soluciones basadas en el uso compartido de los aseos, como por ejemplo, un único aseo accesible
+      para ambos sexos, un único aseo accesible para cada sexo, un aseo por sexo y uno de ellos accesi-
+      ble, dos aseos unisex uno de ellos accesible, o incluso la posibilidad de compartir los aseos de públi-
+      co y de los trabajadores, etc.
+-     Servicios higiénicos de uso compartido, por ejemplo, aseos y vestuarios en una misma pieza, incluso
+      con la posibilidad de compartir los de público y de los trabajadores.
+-     En locales ubicados en centros comerciales, suficiencia de los aseos accesibles ubicados en las
+      zonas comunes del centro comercial, siempre que el recorrido desde el local considerado hasta ellos
+      sea reducido, por ejemplo del orden de 50 m.
+-     En locales cuyo acceso se encuentre en la vía pública, suficiencia de los aseos accesibles públicos
+      ubicados en la vía pública, siempre que el recorrido desde el local considerado hasta ellos sea redu-
+      cido, por ejemplo del orden de 50 m.
+A estos efectos cabe considerar como locales de reducidas dimensiones aquellos cuya superficie de uso
+público no excede de 100 m² y cuya ocupación de público no excede de 50 personas.
+C.2       Criterios generales de proyecto
+Se presentan a continuación algunos criterios aplicables a los servicios higiénicos de edificios existentes
+cuando no sea posible alcanzar las condiciones establecidas en el DB:
+-     Disposición de aseos accesibles contiguos con transferencia cada uno desde un lado distinto:
+      Se puede considerar que la disposición de dos aseos accesibles de uso público con espacio de
+      transferencia al inodoro por un solo lado, uno por el lado derecho y otro por el izquierdo, cumple la
+      exigencia del DB SUA de que haya espacio de transferencia por ambos lado, siempre que se informe
+      de ello mediante un rótulo situado junto al acceso a cada uno de dichos aseos.
+-     Espacio de maniobra libre de obstáculos:
+      Cuando no sea posible proporcionar un espacio de maniobra libre de obstáculos de 1,50 m de diá-
+      metro se puede disponer un espacio de al menos 1,20 m de diámetro
+      Para inscribir el espacio de 1,50 m de diámetro se puede aprovechar el espacio libre disponible bajo
+      el lavabo hasta una profundidad de 20 cm, siempre que éste no tenga pedestal.
+
+                                               15 de 16
+
+Documento de Apoyo al DB SUA                                                               DA DB SUA / 2
+
+-     Servicio higiénico con espacio de transferencia por un solo lado:
+      En establecimientos y edificios públicos en los que no hubiera disponibilidad de espacio suficiente se
+      admiten soluciones con transferencia a un solo lado
+-     No viabilidad de dotación de servicios higiénicos accesibles a personas en silla de ruedas:
+      En aquellos casos en los que resulte inviable la dotación de una cabina accesible para usuarios de
+      silla de ruedas, al menos se dispondrá una barra vertical de sujeción y apoyo junto al inodoro, que
+      facilitará su uso a personas con otra discapacidad física o de edad avanzada, para sentarse y levan-
+      tarse.
+
+                                                16 de 16

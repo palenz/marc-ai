@@ -1,0 +1,601 @@
+         Ministerio de Fomento
+         Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+         Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-HE Ahorro de energía
+Código Técnico de la Edificación
+DA DB-HE / 2
+Comprobación de limitación de condensaciones
+superficiales e intersticiales en los cerramientos
+Octubre 2013
+                                                     Índice
+1     Objeto                                                                              2
+2     Datos previos                                                                       2
+      2.1 Condiciones exteriores para el cálculo de condensaciones                        2
+      2.2 Condiciones interiores para el cálculo de condensaciones                        2
+3     Relaciones psicrométricas                                                           3
+      3.1 Cálculo de la presión de saturación de vapor                                    3
+      3.2 Cálculo de la humedad relativa interior                                         3
+4     Comprobación de la limitación de condensaciones                                     4
+      4.1 Comprobación de la limitación de condensaciones superficiales                   4
+      4.2 Comprobación de la limitación de condensaciones intersticiales                  6
+Apéndice A Terminología                                                                 10
+Apéndice B Notaciones y unidades                                                        11
+Apéndice C Datos climáticos                                                             12
+Otros documentos relacionados                                                           14
+
+                                                     1 de 14
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 2
+
+1      Objeto
+
+Este documento describe algunos procedimientos que se pueden emplear para la comprobación de la
+limitación de condensaciones superficiales e intersticiales en espacios habitables establecida en los Do-
+cumentos Básicos DB-HE y DB-HS del CTE, lo que no impide el uso de otros métodos, detallados o sim-
+plificados, que permitan llevar a cabo dichas comprobaciones con suficiente solvencia técnica.
+
+2      Datos previos
+2.1           Condiciones exteriores para el cálculo de condensaciones
+Para el cálculo de condensaciones se toman como temperaturas exteriores y humedades relativas exte-
+riores los valores medios mensuales de la localidad donde se ubique el edificio.
+En el caso de capitales de provincia, se pueden tomar los valores contenidos en la tabla C.1 del apéndi-
+ce C.
+En el caso de localidades que no sean capitales de provincia y que no dispongan de registros climáticos
+contrastados, se puede suponer que la temperatura exterior es igual a la de la capital de provincia co-
+rrespondiente minorada en 1 ºC por cada 100 m de diferencia de altura entre ambas localidades. La hu-
+medad relativa para dichas localidades se calcula suponiendo que su humedad absoluta es igual a la de
+su capital de provincia.
+El procedimiento a seguir para obtener la humedad relativa de una cierta localidad a partir de los datos
+de su capital de provincia es el siguiente:
+       a)     cálculo de la presión de saturación de la capital de provincia Pₛₐₜ en [Pa], a partir de su tempera-
+              tura exterior para el mes de cálculo en [ºC], según el apartado 3.1.
+       b)     cálculo de la presión de vapor de la capital de provincia Pₑ en [Pa], mediante la expresión:
+                     Pₑ = φₑ · Pₛₐₜ (θₑ)                                                      [1]
+              donde,
+              φₑ     es la humedad relativa exterior para la capital de provincia y el mes de cálculo [en tanto
+                     por 1].
+       c)     cálculo de la presión de saturación de la localidad Psat,loc en [Pa], según el apartado 3.1, siendo
+              ahora θ la temperatura exterior para la localidad y el mes de cálculo en [ºC].
+       d)     cálculo de la humedad relativa para dicha localidad y mes, mediante:
+                     φe,loc = Pₑ / Psat,loc (θe,loc)                                          [2]
+Si la localidad se encuentra a menor altura que la de referencia se toma para dicha localidad la tempera-
+tura y humedad de la capital de provincia.
+2.2           Condiciones interiores para el cálculo de condensaciones
+2.2.1         Condiciones interiores para el cálculo de condensaciones superficiales
+Se toma una temperatura del ambiente interior igual a 20 ºC para el mes de enero.
+Si se dispone del dato de humedad relativa interior y esta se mantiene constante, debido por ejemplo a
+un sistema de climatización, se puede utilizar dicho dato en el cálculo añadiéndole 0,05 como margen de
+seguridad.
+En caso de conocer el ritmo de producción de la humedad interior y la tasa de renovación de aire, se
+puede calcular la humedad relativa interior del mes de enero mediante el método descrito en el apartado
+3.2.
+
+                                                        2 de 14
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 2
+
+2.2.2       Condiciones interiores para el cálculo de condensaciones intersticiales
+Si se dispone de los datos de temperatura interior y de humedad relativa interior, se pueden utilizar di-
+chos datos en el cálculo añadiéndole 0,05 a la humedad relativa como margen de seguridad.
+                 Debe cuidarse el uso de datos de temperatura y humedad relativa interior que se correspondan adecuada-
+                 mente con las condiciones existentes ya que en caso contrario los cálculos pueden dar lugar a resultados in-
+                 correctos. Por ejemplo, para una vivienda en zona marítima la humedad relativa interior puede ser muy supe-
+                 rior al 55% indicado y producirse condensaciones con gran facilidad que no se detectarían de usar el valor
+                 por defecto.
+En caso de conocer el ritmo de producción de la humedad interior y la tasa de renovación de aire, se
+puede calcular la humedad relativa interior para cada mes del año mediante el método descrito en el
+apartado 3.2.
+En ausencia de datos más precisos, se puede tomar, para todos los meses del año, una temperatura del
+ambiente interior igual a 20 ºC y una humedad relativa del ambiente interior en función de la clase de
+higrometría del espacio:
+     a)     clase de higrometría 5, correspondiente a espacios en los que se prevea una gran producción de
+            humedad, tales como lavanderías, restaurantes y piscinas: 70%
+     b)     clase de higrometría 4, correspondiente a espacios en los que se prevea una alta producción de
+            humedad, tales como cocinas, pabellones deportivos, duchas colectivas u otros de uso similar:
+            62%
+     c)     clase de higrometría 3 o inferior, correspondiente a espacios en los que no se prevea una alta
+            producción de humedad, como oficinas, tiendas, zonas de almacenamiento y todos los espacios
+            en edificios de uso residencial: 55%
+
+3    Relaciones psicrométricas
+3.1         Cálculo de la presión de saturación de vapor
+La presión de vapor de saturación se calcula en función de la temperatura, a partir de las siguientes
+ecuaciones:
+     a)     Si la temperatura (θ) es mayor o igual a 0ºC:
+                          17 ,269 ⋅ θ
+            Pₛₐₜ = 610,5  ⋅ e 237,3 + θ                                                       [3]
+
+     b)     Si la temperatura (θ) es menor que 0ºC:
+                            21,875 ⋅ θ
+            Pₛₐₜ = 610,5    ⋅ e 265,5 + θ                                                     [4]
+
+3.2         Cálculo de la humedad relativa interior
+En caso de conocer el ritmo de producción de la humedad interior G y la tasa de renovación de aire n, se
+puede calcular la humedad relativa interior mediante el procedimiento descrito a continuación.
+La humedad relativa interior φi (%) para la localidad donde se ubique el edificio y el mes de cálculo se
+puede obtener mediante la siguiente expresión:
+
+     φ = 100⋅ P
+       i    Pₛₐₜ(θsiⁱ)                                                                        [5]
+donde,
+
+                                                   3 de 14
+
+Documento de Apoyo al DB HE                                                                          DA DB HE / 2
+
+       Pₛₐₜ(θsi)      es la presión de saturación correspondiente a la temperatura superficial interior obtenida
+                      según la ecuación [3] [Pa];
+       Pi             es la presión de vapor interior calculada mediante la siguiente expresión [Pa]:
+       Pi    = Pₑ + ∆p                                                                               [6]
+donde,
+       Pₑ             es la presión de vapor exterior calculada según las ecuaciones [3][4] [Pa];
+       ∆p             es el exceso de presión de vapor interior del local calculado mediante la siguiente ecua-
+                      ción [Pa]:
+
+             ∆p =   ∆v ⋅ Rv ⋅ (Ti + Tₑ )                                                             [7]
+                          2
+donde,
+       Rv             es la constante de gas para el agua = 462 [Pa m³ / (K kg)];
+       Ti             es la temperatura interior [K];
+       Tₑ             es la temperatura exterior para la localidad y el mes de cálculo [K];
+       ∆v             es el exceso de humedad interior obtenido mediante la expresión [kg/m³]:
+
+       ∆v = nG                                                                                       [8]
+                    ⋅V
+donde,
+       G              es el ritmo de producción de la humedad interior [kg/h];
+       n              es la tasa de renovación de aire [h⁻¹];
+       V              es el volumen de aire del local [m³].
+
+4      Comprobación de la limitación de condensaciones
+4.1          Comprobación de la limitación de condensaciones superficiales
+4.1.1        Método de comprobación de condensaciones superficiales
+El método del factor de temperaturas superficiales permite limitar el riesgo de aparición de condensacio-
+nes superficiales usando un criterio simplificado, que consiste en establecer un límite máximo del 80% de
+humedad relativa media mensual sobre la superficie del cerramiento analizado.
+La comprobación de la limitación de condensaciones superficiales se basa en la comparación del factor
+de temperatura de la superficie interior fRsi        y el factor de temperatura de la superficie interior mínimo
+fRsi,min     para las condiciones interiores y exteriores correspondientes al mes de enero de la localidad. A
+falta de mejores datos se pueden obtener de la tabla C.1 del apéndice C.
+En los cerramientos y puentes térmicos se comprueba que el factor de temperatura de la superficie inte-
+rior   es superior al factor de temperatura de la superficie interior mínimo. Este factor se puede obtener a
+partir de la tabla 1 en función de la clase de higrometría de cada espacio y la zona climática de invierno
+donde se encuentre el edificio.
+
+                                                     4 de 14
+
+Documento de Apoyo al DB HE                                                                         DA DB HE / 2
+
+                             Tabla 1 Factor de temperatura de la superficie interior mínimo fRsi,min
+                                                              Zona climática de invierno
+                         Categoría del espacio             α       A       B       C       D       E
+                         Clase de higrometría 5           0,70    0,80    0,80    0,80    0,90    0,90
+                         Clase de higrometría 4           0,56    0,66    0,66    0,69    0,75    0,78
+                 Clase de higrometría 3 o inferior a 3    0,42    0,50    0,52    0,56    0,61    0,64
+
+El cumplimiento de los valores de transmitancia máxima de los parámetros característicos de la envol-
+vente establecidos en el documento DB HE1 asegura, para los cerramientos y particiones interiores de
+los espacios de clase de higrometría 4 o inferior, la verificación de la condición anterior, pudiendo resultar
+necesario comprobarlo en los puentes térmicos.
+En caso de disponer de información suficiente, el factor de temperatura de la superficie interior mínimo
+puede calcularse mediante el método descrito en el apartado 4.1.3 bajo las condiciones interiores y exte-
+riores correspondientes al mes de enero de la localidad.
+El cálculo del factor de temperatura superficial correspondiente a cada cerramiento o puente térmico se
+obtiene mediante el método descrito en el apartado 4.1.2.
+Por sus características, no es necesaria la comprobación de aquellas particiones interiores que linden
+con espacios no habitables donde se prevea escasa producción de vapor de agua, así como los cerra-
+mientos en contacto con el terreno.
+4.1.2     Cálculo del factor de temperatura de la superficie interior de un cerramiento
+El factor de temperatura de la superficie interior fRsi, para cada cerramiento, partición interior, se calcula a
+partir de su transmitancia térmica mediante la siguiente ecuación:
+       f  Rsi  = 1 − U       ⋅ 0,25                                                                 [9]
+donde,
+    U            es la transmitancia térmica del cerramiento, partición interior en el cerramiento [W/m²·K].
+El factor de temperatura de la superficie interior fRsi para los puentes térmicos, para aplicar el método
+descrito en este documento, puede calcularse aplicando los métodos descritos en la norma UNE-EN ISO
+10211:2012 o en el Documento de Apoyo correspondiente.
+4.1.3     Cálculo del factor de temperatura de la superficie interior mínimo
+El factor de temperatura de la superficie interior mínimo aceptable fRsi,min de un cerramiento o partición
+interior se puede calcular a partir de la siguiente expresión:
+
+       f Rsi,mín = θ si ,min − θ e                                                                  [10]
+                 20 − θ e
+donde,
+    θₑ           es la temperatura exterior de la localidad en el mes de enero definida en el Apéndice C
+                 tabla C.1 [ºC];
+    θsi,min      es la temperatura superficial interior mínima aceptable obtenida de la siguiente expresión
+                 [ºC]:
+
+                 237.3 ⋅ log          ⌈ Psat ⌉
+                               e ⌊ 610.5 ⌋
+    θ si,mín   = 17.269 − log⎜⌈         Psat⎝⌉                                                      [11]
+                                   e ⌊ 610.5 ⌋
+                                      ⎜      ⎝
+
+                                                   5 de 14
+
+Documento de Apoyo al DB HE                                                                        DA DB HE / 2
+
+donde,
+       Pₛₐₜ          es la presión de saturación máxima aceptable en la superficie obtenida de la
+                     siguiente expresión [Pa]:
+
+       Psat =  Pi                                                                                  [12]
+               0.8
+
+donde,
+       Pi            es la presión del vapor interior obtenida de la siguiente expresión [Pa].
+       Pi      = φ i ⋅ 2337                                                                        [13]
+
+donde,
+       φi            es la humedad relativa interior definida en el apartado 2.1. [en tanto por 1].
+                      La presión interior que se obtiene de la fórmula 13 es para una temperatura de 20 ºC, para otras temperatu-
+                      ras de cálculo se pueden usar las siguientes presiones de vapor:
+                      21 ºC: Pi = Φi·2486
+                      22 ºC: Pi = Φi·2642
+                      23 ºC: Pi = Φi·2808
+                      24 ºC: Pi = Φi·2982
+                      25 ºC: Pi = Φi·3166
+4.2            Comprobación de la limitación de condensaciones intersticiales
+Este método permite comprobar la existencia de riesgo de condensaciones intersticiales y, en su caso,
+cuantificarlas para poder determinar la cantidad acumulada a lo largo de un periodo anual.
+
+4.2.1          Método de comprobación de condensaciones intersticiales
+El procedimiento descrito para la comprobación de la formación de condensaciones intersticiales se basa
+en la comparación entre la presión de vapor y la presión de vapor de saturación que existe en cada pun-
+to intermedio de un cerramiento formado por diferentes capas, para las condiciones interiores y exterio-
+res correspondientes al mes de enero y especificadas en el Apéndice C, tabla C.1 de este documento.
+Para que no se produzcan condensaciones intersticiales se comprueba que la presión de vapor en la
+superficie de cada capa es inferior a la presión de vapor de saturación.
+Para cada cerramiento objeto se calcula:
+               a) la distribución de temperaturas;
+               b) la distribución de presiones de vapor de saturación para las temperaturas antes calculadas;
+               c) la distribución de presiones de vapor.
+No es necesaria la comprobación aquellos cerramientos en contacto con el terreno y los cerramientos
+que dispongan de barrera contra el vapor de agua en la parte caliente del cerramiento. Para particiones
+interiores en contacto con espacios no habitables en los que se prevea gran producción de humedad, se
+debe colocar la barrera contra el vapor en el lado de dicho espacio no habitable.
+En caso de que se produzcan condensaciones intersticiales en una capa distinta a la de aislamiento, se
+aconseja evitar que la cantidad de agua condensada en cada periodo anual supere la cantidad de agua
+evaporada posible en el mismo periodo. Para ello, se puede repetir el procedimiento descrito anterior-
+mente, pero para cada mes del año a partir de los datos climáticos del apartado Apéndice C, tabla C.1 y
+                                                        6 de 14
+
+Documento de Apoyo al DB HE                                                                    DA DB HE / 2
+
+calculando en cada uno de ellos y para cada capa de material la cantidad de agua condensada o evapo-
+rada. Como criterio general y salvo justificación expresa, no es recomendable admitir la presencia de
+agua condensada en los materiales aislantes.
+
+4.2.2   Distribución de temperaturas
+La distribución de temperaturas a lo largo del espesor de un cerramiento formado por varias capas de-
+pende de las temperaturas del aire a ambos lados de la misma, así como de las resistencias térmicas
+superficiales interior Rsi y exterior Rₛₑ, y de las resistencias térmicas de cada capa (R₁, R₂, R₃, ..., Rₙ).
+El procedimiento a seguir para el cálculo de la distribución de temperaturas es el siguiente:
+    a)  cálculo de la resistencia térmica total del elemento;
+    b)  cálculo de la temperatura superficial exterior θₛₑ:
+        θₛₑ = θₑ + Rˢᵉ ⋅ (θi   − θₑ )                                                              [14]
+                       RT
+
+donde,
+        θₑ             es la temperatura exterior de la localidad en la que se ubica el edificio según el
+                       Apéndice C, tabla C.1, correspondiente a la temperatura media del mes de enero
+                       [ºC];
+       θi              es la temperatura interior definida en el apartado 2.2.2 [ºC];
+        RT             es la resistencia térmica total del componente constructivo [m²·K/ W];
+        Rₛₑ            es la resistencia térmica superficial correspondiente al aire exterior, en función de la
+                       posición del elemento constructivo, dirección del flujo de calor y su situación en el
+                       edificio [m²·K/ W].
+    c) cálculo de la temperatura en cada una de las capas que componen el elemento constructivo se-
+        gún las expresiones siguientes:
+
+       θ₁ = θₛₑ + R¹     ⋅ (θi − θₑ )
+                       RT
+
+       θ₂ = θ₁ + R²      ⋅ (θi − θₑ )                  .
+                       RT
+
+       θₙ = θₙ−1 + Rⁿ    ⋅ (θi − θₑ )                                                          [15]
+                       RT
+donde,
+        θₛₑ              es la temperatura superficial exterior [ºC];
+        θₑ               es la temperatura exterior de la localidad en la que se ubica el edificio obtenida
+                         del Apéndice C, tabla C.1, correspondiente a la temperatura media del mes de
+                         enero [ºC];
+        θi               es la temperatura interior definida en el apartado 2.2.2 [ºC];
+        θ₁... θₙ₋₁       son las temperaturas en cada capa [ºC].
+        R₁, R₂...Rₙ      son las resistencias térmicas de cada capa [m²·K/ W];
+        RT               es la resistencia térmica total del componente constructivo [m²·K/ W];
+
+                                                 7 de 14
+
+Documento de Apoyo al DB HE                                                                         DA DB HE / 2
+
+    d)    cálculo de la temperatura superficial interior θsi:
+
+          θsi = θₙ + Rˢⁱ ⋅ (θi     − θₑ )                                                           [16]
+                            RT
+donde,
+                θₑ            es la temperatura exterior de la localidad en la que se ubica el edificio obtenida
+                              del apartado E.1.1 correspondiente a la temperatura media del mes de enero
+                              [ºC];
+                θi            es la temperatura interior definida en el apartado 2.2.2 [ºC];
+                θₙ            es la temperatura en la capa n [ºC];
+                Rsi           es la resistencia térmica superficial correspondiente al aire interior, obtenida de
+                              acuerdo a la posición del elemento constructivo, dirección del flujo de calor y su
+                              situación en el edificio [m²·K/ W];
+                RT            es la resistencia térmica total del componente constructivo [m²·K/ W].
+Se considera que la distribución de temperaturas en cada capa es lineal.
+
+4.2.3     Distribución de la presión de vapor de saturación
+A partir de la distribución de temperaturas obtenida anteriormente se puede obtener la distribución de la
+presión de vapor de saturación a lo largo de un muro formado por varias capas.
+
+4.2.4     Distribución de presión de vapor
+La distribución de presión de vapor a través del cerramiento se calcula mediante las siguientes expresio-
+nes:
+     P = P +           Sd1    ⋅ (P − P )
+          1  e         ∑ Sdn   i    e
+
+     P = P +           Sd2    ⋅ (P  − P )
+          2  1         ∑ S     i    e
+                       ...  dn
+
+    P = P             + Sd(n) ⋅ (P  − P )                                                           [17]
+       n     n−1       ∑ Sdn        i    e
+
+donde,
+    Pi                        es la presión de vapor del aire interior [Pa];
+    Pₑ                        es la presión de vapor del aire exterior [Pa];
+    P₁ ...Pₙ₋₁                es la presión de vapor en cada capa n [Pa];
+    Sd1 ...Sd(n)              es el espesor de aire equivalente de cada capa frente a la difusión del vapor de
+                              agua, calculado mediante la siguiente expresión [m];
+    Sdn = eₙ • µₙ                                                                                   [18]
+donde,
+    µₙ                 es el factor de resistencia a la difusión del vapor de agua de cada capa, que se puede
+                       obtener a partir de valores térmicos declarados según la norma UNE EN ISO 10 456:
+                       2012 o tomado de Documentos Reconocidos;
+    eₙ                 es el espesor de la capa n [m].
+
+                                                      8 de 14
+
+Documento de Apoyo al DB HE                                                                      DA DB HE / 2
+
+La distribución de presiones de vapor a través del cerramiento se puede representar gráficamente me-
+diante una línea recta que una el valor de Pi con Pₑ, dibujado sobre la sección del cerramiento utilizando
+los espesores de capa equivalentes a la difusión de vapor de agua, Sdn (véase figura 1).
+Para el cálculo analítico de Pi y de Pₑ, en función de la temperatura y de la humedad relativa, se utiliza la
+siguiente expresión:
+    Pi = φi · Pₛₐₜ (θi)                                                                           [19]
+    Pₑ = φₑ · Pₛₐₜ (θₑ)                                                                           [20]
+donde,
+    φi           es la humedad relativa del ambiente interior definida en el apartado 2.2.2 [en tanto por 1];
+    φₑ           es la humedad relativa del ambiente exterior definida en la tabla C.1 del Apéndice C
+                 [en tanto por 1];
+    Pi           es la presión de vapor del aire interior [Pa];
+    Pₑ           es la presión de vapor del aire exterior [Pa].
+
+                 Figura 1 Distribución de presiones de vapor de saturación y presiones de vapor en un elemento multicapa
+                              del edificio dibujada frente a la resistencia a presión de vapor de cada capa.
+
+4.2.5     Barrera contra el vapor
+Si es necesaria la interposición de una barrera contra el vapor, esta se debe colocar en la cara caliente
+del cerramiento, cuidando que en la ejecución se eviten roturas o deterioros en la misma.
+
+                                                   9 de 14
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 2
+
+Apéndice A             Terminología
+
+Barrera contra el vapor: elemento que tiene una resistencia a la difusión de vapor mayor que 10
+MN·s/g equivalente a 2,7 m²·h·Pa/mg.
+Condiciones higrotérmicas: Son las condiciones de temperatura seca y humedad relativa que pre-
+valecen en los ambientes exterior e interior para el cálculo de las condensaciones intersticiales.
+Espesor de aire equivalente frente a la difusión del vapor de agua: Espesor de una capa de aire
+inmóvil que tiene la misma resistencia al vapor de agua que el espesor del material considerado.
+Exceso de humedad interior: Cociente entre la cantidad media de producción de humedad produci-
+da en el interior de un espacio (kg/h) y el producto de la tasa de renovación de aire por el volumen del
+mismo (m³/h). El exceso de humedad interior se expresa en kg/m³.
+Factor de temperatura de la superficie interior: Es el cociente entre la diferencia de temperatura
+superficial interior y la del ambiente exterior y la diferencia de temperatura del ambiente interior y ex-
+terior.
+
+                                          f Rsi = θ si − θₑ
+                                                20 − θₑ
+Humedad relativa: Es la fracción de la presión de saturación que representa la presión parcial del
+vapor de agua en el espacio o ambiente exterior en estudio. Se tiene en cuenta en el cálculo de las
+condensaciones, superficiales e intersticiales en los cerramientos.
+Humedad superficial crítica: Humedad relativa de la superficie que conduce a un deterioro de la
+misma, en particular a la formación de moho.
+Permeabilidad al vapor de agua: Es la cantidad de vapor que pasa a través de la unidad de superfi-
+cie de material de espesor unidad cuando la diferencia de presión de vapor entre sus caras es la uni-
+dad.
+Temperatura mínima aceptable: Temperatura superficial mínima interior para evitar la formación de
+moho.
+Transmitancia térmica: Es el flujo de calor, en régimen estacionario, dividido por el área y por la di-
+ferencia de temperaturas de los medios situados a cada lado del elemento que se considera.
+
+                                                10 de 14
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 2
+
+Apéndice B             Notaciones y unidades
+
+ϕ            Humedad relativa, en %
+ϕₑ           Humedad relativa exterior, en %
+ϕi           Humedad relativa interior, en %
+θₙ           Temperatura en la capa n, en ºC
+θₑ           Temperatura exterior, en ºC
+θi           Temperatura interior, en ºC
+θsi          Temperatura superficial interior, en ºC
+θsi,min      Temperatura superficial interior mínima aceptable, en ºC
+θₛₑ          Temperatura superficial exterior, en ºC
+µ            Factor de resistencia a la difusión del vapor de agua, adimensional
+G            Ritmo de producción de la humedad interior, en kg/h
+∆v           Exceso de humedad interior vi – vₑ , en kg/m³
+∆p           Exceso de presión de vapor interior Pi – Pₑ, en Pa
+n            Tasa de renovación de aire, en h⁻¹
+Rv           Constante de gas para el agua = 462 Pa m³ / (K·kg)
+T            Temperatura en K
+fRsi         Factor de temperatura de la superficie interior, adimensional
+fRsi,min     Factor de temperatura de la superficie interior mínimo, adimensional
+P            Presión de vapor del aire, en Pa
+Pₑ           Presión de vapor del aire exterior, en Pa
+Pi           Presión de vapor del aire interior, en Pa
+Pₙ           Presión de vapor del aire en la capa n, en Pa
+Pₛₐₜ         Presión de vapor de saturación, en Pa
+Rₙ           Resistencia térmica de la capa n de un cerramiento, en m²·K/ W
+Rₛₑ          Resistencia térmica superficial exterior, en m² K/ W
+Rsi          Resistencia térmica superficial interior, en m² K/ W
+RT           Resistencia térmica total, en m² K/ W
+Sdn          Espesor equivalente de la capa n de un cerramiento, en m
+U            Transmitancia térmica, en W/m²·K
+e            Espesor de una capa, en m
+
+                                                    11 de 14
+
+Documento de Apoyo al DB HE                                                                                                 DA DB HE / 2
+
+Apéndice C              Datos climáticos
+                Tabla C.1 Datos climáticos mensuales de capitales de provincia, T en ºC y HR en %
+
+ Localidad                      Ene      Feb      Mar      Abr      May      Jun      Jul      Ago      Sep      Oct      Nov      Dic
+ Albacete               Tmed      5,0      6,3      8,5     10,9     15,3     20,0     24,0     23,7     20,0     14,1      8,5      5,3
+                        HRmed     78       70       62      60       54       50       44       50       58       70        77       79
+ Alicante               Tmed     11,6     12,4     13,8     15,7     18,6     22,2     25,0     25,5     23,2     19,1     15,0     12,1
+                        HRmed     67       65       63      65       65       65       64       68       69       70        69       68
+ Almería                Tmed     12,4     13,0     14,4     16,1     18,7     22,3     25,5     26,0     24,1     20,1     16,2     13,3
+                        HRmed     70       68       66      65       67       65       64       66       66       69        70       69
+ Avila                  Tmed      3,1      4,0      5,6     7,6      11,5     16,0     19,9     19,4     16,5     11,2      6,0      3,4
+                        HRmed     75       70       62      61       55       50       39       40       50       65        73       77
+ Badajoz                Tmed      8,7     10,1     12,0     14,2     17,9     22,3     25,3     25,0     22,6     17,4     12,1      9,0
+                        HRmed     80       76       69      66       60       55       50       50       57       68        77       82
+ Barcelona              Tmed      8,8      9,5     11,1     12,8     16,0     19,7     22,9     23,0     21,0     17,1     12,5      9,6
+                        HRmed     73       70       70      70       72       70       69       72       74       74        74       71
+ Bilbao                 Tmed      8,9      9,6     10,4     11,8     14,6     17,4     19,7     19,8     18,8     16,0     11,8      9,5
+                        HRmed     73       70       70      72       71       72       73       75       74       74        74       74
+ Burgos                 Tmed      2,6      3,9      5,7     7,6      11,2     15,0     18,4     18,3     15,8     11,1      5,8      3,2
+                        HRmed     86       80       73      72       69       67       61       62       67       76        83       86
+ Caceres                Tmed      7,8      9,3     11,7     13,0     16,6     22,3     26,1     25,4     23,6     17,4     12,0      8,8
+                        HRmed     78       73       63      60       55       44       37       39       49       65        76       80
+ Cádiz                  Tmed     12,8     13,5     14,7     16,2     18,7     21,5     24,0     24,5     23,5     20,1     16,1     13,3
+                        HRmed     77       75       70      71       71       70       69       69       70       73        76       77
+ Castellón              Tmed     10,1     11,1     12,7     14,2     17,2     21,3     24,1     24,5     22,3     18,3     13,5     11,2
+                        HRmed     68       66       64      66       67       66       66       69       71       71        73       69
+ Ceuta                  Tmed     11,5     11,6     12,6     13,9     16,3     18,8     21,7     22,2     20,2     17,7     14,1     12,1
+                        HRmed     87       87       88      87       87       87       87       87       89       89        88       88
+ Ciudad Real            Tmed      5,7      7,2      9,6     11,9     16,0     20,8     25,0     24,7     21,0     14,8      9,1      5,9
+                        HRmed     80       74       66      65       59       54       47       48       57       68        78       82
+ Córdoba                Tmed      9,5     10,9     13,1     15,2     19,2     23,1     26,9     26,7     23,7     18,4     12,9      9,7
+                        HRmed     80       75       67      65       58       53       46       49       55       67        76       80
+ A Coruña               Tmed     10,2     10,5     11,3     12,1     14,1     16,4     18,4     18,9     18,1     15,7     12,7     10,9
+                        HRmed     77       76       74      76       78       79       79       79       79       79        79       78
+ Cuenca                 Tmed      4,2      5,2      7,4     9,6      13,6     18,2     22,4     22,1     18,6     12,9      7,6      4,8
+                        HRmed     78       73       64      62       58       54       44       46       56       68        76       79
+ Girona                 Tmed      6,8      7,9      9,8     11,6     15,4     19,4     22,8     22,4     19,9     15,2     10,2      7,7
+                        HRmed     77       73       71      71       70       67       62       68       72       76        77       75
+ Granada                Tmed      6,5      8,4     10,5     12,4     16,3     21,1     24,3     24,1     21,1     15,4     10,6      7,4
+                        HRmed     76       71       64      61       56       49       42       42       53       62        73       77
+ Guadalajara            Tmed      5,5      6,8      8,8     11,6     15,3     19,8     23,5     22,8     19,5     14,1      9,0      5,9
+                        HRmed     80       76       69      68       67       62       53       54       61       72        79       81
+ Huelva                 Tmed     12,2     12,8     14,4     16,5     19,2     22,2     25,3     25,7     23,7     20,0     15,4     12,5
+                        HRmed     76       72       66      63       60       59       54       54       60       67        72       75
+ Huesca                 Tmed      4,7      6,7      9,0     11,3     15,3     19,5     23,3     22,7     19,7     14,6      8,7      5,3
+                        HRmed     80       73       64      63       60       56       48       53       61       70        78       81
+ Jaén                   Tmed      8,7      9,9     12,0     14,3     18,5     23,1     27,2     27,1     23,6     17,6     12,2      8,7
+                        HRmed     77       72       67      64       59       53       44       45       55       67        75       77
+ León                   Tmed      3,1      4,4      6,6     8,6      12,1     16,4     19,7     19,1     16,7     11,7      6,8      3,8
+                        HRmed     81       75       66      63       60       57       52       53       60       72        78       81
+ Lleida                 Tmed      5,5      7,8     10,3     13,0     17,1     21,2     24,6     24,0     21,1     15,7      9,2      5,8
+                        HRmed     81       69       61      56       55       54       47       54       62       70        77       82
+ Logroño                Tmed      5,8      7,3      9,4     11,5     15,1     19,0     22,2     21,8     19,2     14,4      9,1      6,3
+                        HRmed     75       68       62      61       59       56       55       56       61       69        73       76
+ Lugo                   Tmed      5,8      6,5      7,8     9,5      11,7     14,9     17,2     17,5     16,0     12,5      8,6      6,3
+                        HRmed     85       81       77      77       76       76       75       75       77       82        84       85
+
+                                                           12 de 14
+
+Documento de Apoyo al DB HE                                                                      DA DB HE / 2
+
+ Localidad                        Ene  Feb  Mar  Abr              May  Jun  Jul  Ago  Sep  Oct  Nov  Dic
+ Madrid                  Tmed    6,2     7,4     9,9      12,2    16,0    20,7    24,4    23,9    20,5    14,7    9,4     6,4
+                         HRmed    71      66      56       55      51      46      37      39      50      63      70      73
+ Málaga                  Tmed    12,2    12,8    14,0     15,8    18,7    22,1    24,7    25,3    23,1    19,1    15,1    12,6
+                         HRmed    71      70      66       65      61      59      60      63      65      70      72      72
+ Melilla                 Tmed    13,2    13,8    14,6     15,9    18,3    21,5    24,4    25,3    23,5    20,0    16,6    14,1
+                         HRmed    72      72      71       70      69      68      67      68      72      75      74      73
+ Murcia                  Tmed    10,6    11,4    12,6     14,5    17,4    21,0    23,9    24,6    22,5    18,7    14,3    11,3
+                         HRmed    72      69      69       68      70      71      72      74      73      73      73      73
+ Ourense                 Tmed    7,4     9,3     10,7     12,4    15,3    19,3    21,9    21,7    19,8    15,0    10,6    8,2
+                         HRmed    83      75      69       70      67      64      61      62      64      73      83      84
+ Oviedo                  Tmed    7,5     8,5     9,5      10,3    12,8    15,8    18,0    18,3    17,4    14,0    10,4    8,7
+                         HRmed    77      75      74       77      79      80      80      80      78      78      78      76
+ Palencia                Tmed    4,1     5,6     7,5      9,5     13,0    17,2    20,7    20,3    17,9    13,0    7,6     4,4
+                         HRmed    84      77      71       70      67      64      58      59      63      73      80      85
+ Palma de Mallorca       Tmed    11,6    11,8    12,9     14,7    17,6    21,8    24,6    25,3    23,5    20,0    15,6    13,0
+                         HRmed    71      69      68       67      69      69      67      71      73      72      72      71
+ Palmas, Las             Tmed    17,5    17,6    18,3     18,7    19,9    21,4    23,2    24,0    23,9    22,5    20,4    18,3
+                         HRmed    68      67      65       66      65      67      66      67      69      70      70      68
+ Pamplona                Tmed    4,5     6,5     8,0      9,9     13,3    17,3    20,5    20,3    18,2    13,7    8,3     5,7
+                         HRmed    80      73      68       66      66      62      58      61      61      68      76      79
+ Pontevedra              Tmed    9,9     10,7    11,9     13,6    15,4    18,8    20,7    20,5    19,1    16,1    12,6    10,3
+                         HRmed    74      73      69       67      68      66      65      65      69      72      73      74
+ S ,Sebastian            Tmed    7,9     8,5     9,4      10,7    13,5    16,1    18,4    18,7    18,0    15,2    10,9    8,6
+                         HRmed    76      74      74       79      79      82      82      83      79      76      76      76
+ Salamanca               Tmed    3,7     5,3     7,3      9,6     13,4    17,8    21,0    20,3    17,5    12,3    7,0     4,1
+                         HRmed    85      78      69       66      62      58      50      53      62      74      82      86
+ Santa Cruz de Tenerife  Tmed    17,9    18,0    18,6     19,1    20,5    22,2    24,6    25,1    24,4    22,4    20,7    18,8
+                         HRmed    66      66      62       61      60      59      56      58      63      65      67      66
+ Santander               Tmed    9,7     10,3    10,8     11,9    14,3    17,0    19,3    19,5    18,5    16,1    12,5    10,5
+                         HRmed    71      71      71       74      75      77      77      78      77      75      73      72
+ Segovia                 Tmed    4,1     5,2     7,1      9,1     13,1    17,7    21,6    21,2    17,9    12,6    7,3     4,3
+                         HRmed    75      71      65       65      61      55      47      49      55      65      73      78
+ Sevilla                 Tmed    10,7    11,9    14,0     16,0    19,6    23,4    26,8    26,8    24,4    19,5    14,3    11,1
+                         HRmed    79      75      68       65      59      56      51      52      58      67      76      79
+ Soria                   Tmed    2,9     4,0     5,8      8,0     11,8    16,1    19,9    19,5    16,5    11,3    6,1     3,4
+                         HRmed    77      73      68       67      64      60      53      54      60      70      76      78
+ Tarragona               Tmed    10,0    11,3    13,1     15,3    18,4    22,2    25,3    25,3    22,7    18,4    13,5    10,7
+                         HRmed    66      63      59       59      61      60      59      62      67      70      68      66
+ Teruel                  Tmed    3,8     4,8     6,8      9,3     12,6    17,5    21,3    20,6    17,9    12,1    7,0     4,5
+                         HRmed    72      67      60       60      60      55      50      54      59      66      71      76
+ Toledo                  Tmed    6,1     8,1     10,9     12,8    16,8    22,5    26,5    25,7    22,6    16,2    10,7    7,1
+                         HRmed    78      72      59       62      55      47      43      45      54      68      77      81
+ Valencia                Tmed    10,4    11,4    12,6     14,5    17,4    21,1    24,0    24,5    22,3    18,3    13,7    10,9
+                         HRmed    63      61      60       62      64      66      67      69      68      67      66      64
+ Valladolid              Tmed    4,1     6,1     8,1      9,9     13,3    18,0    21,5    21,3    18,6    12,9    7,6     4,8
+                         HRmed    82      72      62       61      57      52      44      46      53      67      77      83
+ Vitoria                 Tmed    4,6     6,0     7,2      9,2     12,4    15,6    18,3    18,5    16,5    12,7    7,5     5,0
+                         HRmed    83      78      72       71      71      71      69      70      70      74      81      83
+ Zamora                  Tmed    4,3     6,3     8,3      10,5    14,0    18,5    21,8    21,3    18,7    13,4    8,1     4,9
+                         HRmed    83      75      65       63      59      54      47      50      58      70      79      83
+ Zaragoza                Tmed    6,2     8,0     10,3     12,8    16,8    21,0    24,3    23,8    20,7    15,4    9,7     6,5
+                         HRmed    76      69      60       59      55      52      48      54      61      70      75      77
+
+                                                          13 de 14
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 2
+
+Otros documentos relacionados
+
+UNE EN ISO 6946:2012           Elementos y componentes de edificación. Resistencia y transmitancia
+                               térmica. Método de cálculo.
+UNE EN ISO 13370:2010          Prestaciones térmicas de edificios. Transmisión de calor por el terreno.
+                               Métodos de cálculo.
+UNE EN ISO 10077-1:2010        Comportamiento térmico de ventanas, puertas y persianas. Cálculo de la
+                               transmitancia. Parte 1. Generalidades.
+UNE EN ISO 10077-2:2012        Comportamiento térmico de ventanas, puertas y persianas. Cálculo del
+                               coeficiente de transmisión térmica. Parte 2. Método numérico para los
+                               marcos.
+UNE EN ISO 13788: 2002         Características higrotérmicas de los elementos y componentes de edifi-
+                               cación. Temperatura superficial interior para evitar la humedad superficial
+                               crítica y la condensación intersticial. Métodos de cálculo.
+UNE EN ISO 10211:2012          Puentes térmicos en edificación. Flujos de calor y temperaturas superfi-
+                               ciales. Cálculos detallados.
+UNE EN ISO 10456:2012          Materiales y productos para la edificación. Propiedades higrotérmicas.
+                               Valores tabulados de diseño y procedimientos para la determinación de
+                               los valores térmicos declarados y de diseño.
+
+                                               14 de 14

@@ -1,0 +1,236 @@
+SELLADO + VENTILACIÓN                                                                                      EJEMPLO
+DE LA CÁMARA SANITARIA                                                                                     A2+B1
+
+                                                                                     Efectividad           47%
+                                                                                       Coste         400€
+                                                                            Coste por superficie     4 €/ₘ₂
+
+   1. DESCRIPCIÓN DEL EDIFICIO                           ■  Construcción: Muros de carga. Fachadas de fábrica
+                                                            de ladrillo con enfoscado de cemento. Cámara sa-
+ ■  Uso: Residencial.                                       nitaria ventilada en toda la superficie en planta (Fi-
+                                                            gura 2).
+ ■  Clasificación del municipio según el DB HS6 en fun-
+    ción del potencial de radón: No incluido.            ■  Tipo de terreno: Capa de relleno heterogénea, de
+                                                            espesor variable no superior a 0,5 m y poco com-
+ ■  Superficie construida: 100 m².                          pacta. Sustrato natural de arena arcillosa (arena tos-
+                                                            quiza) con predominio arcilloso (tosco) con ocasio-
+ ■  Superficie en contacto con el terreno: 100 m².          nales intercalaciones de arena de miga (arcosas).
+ ■  Superficie construida bajo rasante: No.              ■  Promedio anual de concentración de radón previo a
+                                                            la intervención: 380 Bq/m³.
+ ■  Tipo de ventilación de los locales habitables: Natu-
+    ral a través de huecos de ventanas.
+ ■  Plantas y distribución: Una sola planta en la que se
+    encuentran los locales habitables (Figura 1).
+
+                                        Figura 1 - Fachada y planta baja de la vivienda
+
+                         Fecha de intervención: 2019 · Coste de ejecución material:    400 €
+
+                                               Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria                                A2+B1  2
+                                                                                                                                                    2
+
+                                                                                    La existencia de una cámara de aire conduce a la elección
+                                                                                    de una solución basada en la mejora de su ventilación.
+
+                                                                                    3. DIAGNÓSTICO
+                                                                                   El objetivo del sellado de fisuras, grietas, encuentros
+                                                                                   y juntas del cerramiento que separa la cámara sanita-
+                                                                                   ria de los locales habitables es limitar la penetración
+                                                                                   del radón a través de puntos en los que se de alguna
+                                                                                   discontinuidad. Para poder lograr este objetivo se rea-
+                                                                                   liza un diagnóstico de la situación existente basado en
+                                                                                   su inspección y evaluación, identificando los puntos
+                                                                                   críticos en los que el cerramiento presenta disconti-
+                                                                                   nuidades.
+                                                                                   El objetivo de la ventilación de la cámara es redu-
+                                                                                   cir la concentración de radón a la que el edificio se
+                                                                                   encuentra expuesto. Debe garantizarse que la ventila-
+                                                                                   ción alcance toda la extensión del edificio en contacto
+                                                                                   con el terreno de la forma más eficiente y homogénea
+     Figura 2 - Cámara sanitaria (arriba) y sección de la vivienda (abajo)         posible, para que se diluya el radón presente y no se
+                                                                                   produzcan estancamientos de aire en determinadas
+                                                                                   zonas. Para poder lograr este objetivo es necesario
+                                                                                   realizar un diagnóstico del estado de la ventilación
+    2. ELECCIÓN DE LA SOLUCIÓN                                                     existente de la cámara sanitaria que se base en su ins-
+                                                                                   pección, identificando los obstáculos al libre flujo del
+La solución de protección más apropiada según la ta-                               aire que pudieran existir y las dimensiones y ubicación
+bla 3¹ de la Guía de rehabilitación frente al radón en el                          de las aberturas de ventilación existentes.
+caso de la existencia de una cámara de aire para una
+concentración de radón existente menorde 600 Bq/m³                                 Puntos críticos en el cerramiento
+es la mejora de la ventilación de la cámara (Solución
+B1). Para mejorar su efectividad se recurre también al                             Fruto de la inspección de la situación existente del ce-
+sellado de fisuras, grietas, encuentros y juntas (Solu-                            rramiento que separa la cámara sanitaria de los locales
+ción A2) del cerramiento que separa la cámara de los                               habitables se identifican como puntos críticos el paso de
+locales habitables.                                                                varias bajantes y una trampilla de acceso a la cámara.
+Según la propia Guía, estas soluciones se pueden                                   Presencia de obstáculos en la cámara
+complementar con la mejora de la ventilación de los
+locales habitables, pero se descarta puesto que la                                 De la inspección visual de la cámara sanitaria, se ob-
+ventilación existente se considera suficiente para ase-                            serva que la cámara está dividida en dos zonas (Figu-
+gurar la calidad del aire interior sin tener en cuenta el                          ra 3) separadas por un muro de ladrillo.
+radón. Además, se quiere evitar el posible incremento
+de la demanda energética de climatización conse-                                   Aberturas de ventilación existentes
+cuencia de un aumento excesivo de la ventilación.
+                                                                                   La cámara sanitaria está ventilada en su zona oeste
+                                                                                   de forma natural mediante dos aberturas de ventila-
+                                                                                   ción situadas enfrentadas en las caras norte y sur del
+                                                                                   muro perimetral (Figura 3). Estas aberturas tienen una
+                                                                                   dimensión aproximada de 15 x 20 cm cada una (Figura
+                                                                                   4). Sin embargo, la zona este de la cámara no presenta
+(1)  Tabla 3. Soluciones orientativas de protección frente al radón en caso de     ventilación.
+     forjado sanitario en función de la concentración de radón existente de la
+     Guía de rehabilitación frente al radón.
+
+                                                   Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria                                  A2+B1  3
+                                                                                                                                                          3
+                                1
+                                                                                                 1         2
+
+                                                                                                           2
+
+                           1  trampilla de acceso a la cámara
+                                                                                           1     trampilla de acceso sellada
+                                                                                           2     nuevas aberturas de ventilación
+  Figura 3 - Planta de la cámara sanitaria antes de la intervención con las
+          aberturas de ventilación existentes                              Figura 5 - Planta de la cámara sanitaria después de la intervención
+
+                                                                           5. EJECUCIÓN
+                                                                           La Figura 6 muestra la ejecución de dos perforacio-
+                                                                           nes para las aberturas de ventilación y la Figura 7 el
+                                                                           aspecto de las aberturas finalizadas con rejillas.
+
+              Figura 4 - Abertura de ventilación existente
+
+  4. DISEÑO
+Se diseña una mejora de la ventilación de forma natu-
+ral siguiendo las directrices indicadas en la Solución
+B1. En la zona este de la cámara se prevén dos nuevas                      Figura 6 - Perforaciones para una de las nuevas aberturas de ventilación
+aberturas de ventilación situadas enfrentadas en las
+caras norte y sur del muro perimetral (Figura 5), for-
+mada cada una por 2 perforaciones circulares de 122
+mm de diámetro.
+
+  Se opta por la apertura de nuevos huecos de ventilación
+  para mejorar de forma natural el alcance de la ventilación.
+
+Además, se prevé el sellado de la trampilla de acceso                      Figura 7 - Aberturas de ventilación finalizadas con rejillas
+a la cámara desde la planta baja y de los encuentros
+con las bajantes siguiendo las directrices indicadas en
+la Solución A2.
+
+                                                     Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria  A2+B1  4
+                                                                                                                            4
+
+El sellado de la trampilla de acceso a la cámara y del
+encuentro del forjado con las bajantes se realiza con
+un producto elástico en base poliuretano.
+
+  6. EFECTIVIDAD
+Después del sellado de los puntos críticos detectados
+y de la mejora de la ventilación de la cámara sanitaria,
+el promedio de concentración de radón se reduce de
+380 Bq/m³ a 200 Bq/m³.
+
+  Reducción de la concentración promedio de un 47%
+  frente a la concentración previa a la intervención.
+
+                                                                                               Ejemplo A2 + B1 • Sellado + ventilación de la cámara sanitaria         A2+B1  5
+                                                                                                                                                                             5
+
+                                                                                                Este documento ha sido elaborado por el Instituto de ciencias
+                                                                                                de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+                                                                                                de la Dirección General de Agenda Urbana y Arquitectura del
+                                                                                                Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+                                                                                                El IETcc, perteneciente al Consejo Superior de Investigaciones
+                                                                                                Científicas (CSIC), es el centro de investigación en edificación
+                                                                                                de referencia en España. La Unidad de Calidad en la Construc-
+                                                                                                ción del IETcc asesora al MITMA en la elaboración del Código
+                                                                                                Técnico de la Edificación que, desde el año 2019, cuenta con la
+                                                                                                sección HS6 Protección frente a la exposición al radón.
+                                                                SECRETARÍA GENERAL DE
+                       GOBIERNO       MINISTERIO                AGENDA URBANA Y VIVIENDA        Dirección y Coordinación:
+                       DE ESPAÑA      DE TRANSPORTES, MOVILIDAD
+                                      Y AGENDA URBANA          DIRECCIÓN GENERAL DE
+                                                               AGENDA URBANA Y ARQUITECTURA     Ministerio de Transportes, Movilidad y Agenda Urbana
+                                                                                                 Isabel Marcos Anasagasti
+                       GOBIERNO      MINISTERIO                                                  Raquel Lara Campos
+                       DE ESPAÑA     DE CIENCIA                                                  Eduardo González de Prado
+                                     E INNOVACIÓN
+                                                                                                Instituto de ciencias de la construcción Eduardo Torroja CSIC
+                                                                                                 Pilar Linares Alemparte
+
+Esta ficha forma parte de una serie de documentos englobados
+en una misma publicación, cuyo objetivo es constituir una he-
+rramienta de ayuda para el diseño de soluciones de protección
+frente al radón:
+■    Guía de rehabilitación frente al radón
+
+Fichas de soluciones:
+A: De aislamiento del edificio
+
+■        Solución A1. Barrera frente al radón
+■        Solución A1-1. Barrera frente al radón. Encuentros
+■        Solución A2. Sellado de fisuras, grietas, encuentros y juntas
+■        Solución A3. Puertas estancas
+■        Solución A4. Creación de sobrepresión
+B: De reducción del radón antes de que penetre en los locales
+     a proteger
+■        Solución B1. Ventilación del espacio de contención: cá-
+                        mara de aire
+■        Solución B2. Ventilación del espacio de contención: loca-
+                        les no habitables
+■        Solución B3. Despresurización del terreno
+
+C: De reducción del radón tras penetrar en los locales a proteger
+■        Solución C1. Ventilación de los locales habitables
+
+Fichas de ejemplos:
+■        Ejemplo A1+B3. Barrera frente al radón + despresurización
+                                      con red de tubos
+■        Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria
+■        Ejemplo A2+B3. Sellado + despresurización con red de tubos
+■        Ejemplo A2+C1. Sellado + ventilación mecánica de los loca-
+                                      les habitables
+
+Publicación completa:
+ISBN: 978-84-498-1045-9
+NIPO: 796-20-136-5
+1ª edición: septiembre 2020
+Edición actual: septiembre 2020
+Autoras:
+ Pilar Linares Alemparte
+ Sonia García Ortega
+Diagnóstico y diseño de la solución:
+ Tania Zapata Viñuelas · CIEMAT
+ Jesús Díaz García · CIEMAT
+
+Asesoría técnica:
+ Pilar Linares Alemparte
+
+Ejecución material de la obra:
+ Centro de Investigaciones Energéticas, Medioambientales y
+ Tecnológicas · CIEMAT
+Edita:
+ Centro de Publicaciones Secretaría General Técnica
+ Ministerio de Transportes, Movilidad y Agenda Urbana©
+Entidad colaboradora:
+ Consejo Superior de Investigaciones Científicas · CSIC
+ Ministerio de Ciencia e Innovación
+
+  Catálogo de publicaciones de la Administración General
+  del Estado: publicacionesoficiales.boe.es
+
+  Centro virtual de publicaciones del Ministerio de Transpor-
+  tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+  Página web del Código Técnico de la Edificación:
+  www.codigotecnico.org
+
+Maquetación y diseño gráfico:
+ Lapizmente. Estrategia • Diseño Gráfico
+Los contenidos o ideas recogidas en este documento pertenecen a
+sus autores. Este documento está basado en el conocimiento dispo-
+nible en el momento de su publicación. No se aceptará por las institu-
+ciones ni los autores implicados responsabilidad de ningún tipo por el
+uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+y no deben interpretarse como detalles constructivos.
+Se permite la reproducción total o parcial del contenido de este do-
+cumento siempre y cuando se cite la fuente original y a sus autores.

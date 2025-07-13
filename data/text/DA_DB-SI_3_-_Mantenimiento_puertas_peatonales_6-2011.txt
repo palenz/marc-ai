@@ -1,0 +1,88 @@
+         Ministerio de Fomento
+         Secretaría de Estado de Vivienda y Actuaciones Urbanas
+         Dirección General de Arquitectura y Política de Vivienda
+
+Documento de Apoyo al Documento Básico
+DB-SI Seguridad en caso de incendio
+Código Técnico de la Edificación
+
+DA DB-SI / 3
+Mantenimiento de puertas peatonales con funciones de
+protección contra incendios reguladas por el DB SI
+Junio 2011
+
+Referencias
+Documento Básico DB SI     Introducción - Apartado V. Condiciones de comportamiento ante el fuego de
+                           los productos de construcción y de los elementos constructivos.
+
+1       Objeto
+Conforme al artículo 11 de la Parte I del CTE, para satisfacer el objetivo del requisito básico de seguri-
+dad en caso de incendio, los edificios se deben mantener de forma que se cumplan las exigencias bási-
+cas que se establecen en el CTE. Por tanto, dicho mantenimiento es una exigencia reglamentaria cuyo
+cumplimiento es responsabilidad de los propietarios de los edificios y establecimientos y de los titulares
+de las actividades.
+En este documento se establecen las operaciones de mantenimiento que se consideran necesarias para
+que las puertas peatonales que cumplen una función de seguridad contra incendios regulada por el CTE
+DB SI sean eficaces durante la vida útil del edificio.
+
+2       Puertas peatonales previstas para la evacuación (excepto en edificios de
+        uso Residencial Vivienda)
+Las operaciones de mantenimiento a las que se deben someter las puertas instaladas en cumplimiento
+del CTE DB SI y la periodicidad de las mismas, deben ser las que determinen los fabricantes en las
+hojas de instrucciones y mantenimiento de los productos suministrados y, como mínimo, las que se indi-
+can a continuación.
+Cada seis o cada tres meses, según se trate de puertas previstas, conforme a SI 3-4.1, para la evacua-
+ción de más de 200 o de 500 personas, respectivamente:
+a)     Verificar que no existen elementos que puedan impedir la correcta apertura de la puerta, tales como
+       candados y portacandados, ganchos que impidan el libre movimiento de las hojas y cualquier tipo de
+       obstáculo en el recorrido de las hojas en su apertura.
+b)     Revisar el conjunto de la hoja y el marco, comprobando si tienen daños mecánicos, corrosión, ala-
+       beos o descuelgues que impidan un correcta apertura.
+c)     Revisar la fijación de las bisagras y engrasar sus ejes.
+
+                                                1 de 2
+
+Documento de Apoyo al DB SI                                                                  DA DB SI /3
+
+d)     Comprobar que la fuerza de desbloqueo del dispositivo de apertura es:
+       -     Manilla conforme a UNE-EN 179:2009:                Fₐₚ < 70 N
+       -     Pulsador conforme a UNE-EN 179:2009:               Fₐₚ < 150 N
+       -     Barras horizontal conforme a UNE-EN 1125:2009:     Fₐₚ < 80 N
+e)     Comprobar que la fuerza para el giro de la puerta es, conforme a SUA 3-3 y sea cual sea el tipo de
+       dispositivo de apertura:
+       -     En itinerarios accesibles (ver SUA Anexo A):
+               puertas resistentes al fuego                F ≤ 65 N
+               otras puertas                               F ≤ 25 N
+       -     En otras situaciones                          F ≤140 N
+f)     Engrasar el dispositivo y, si hay un cilindro, comprobar que funciona correctamente y no impide la
+       evacuación.
+g)     En puertas de dos hojas, comprobar que el mecanismo de cierre de la hoja pasiva o secundaria fun-
+       ciona correctamente.
+
+3            Puertas peatonales automáticas
+Las operaciones relativas a su uso y mantenimiento, así como la periodicidad de las mismas se deben
+llevar a cabo siguiendo las instrucciones del “Manual de usuario” suministrado por el fabricante o la em-
+presa instaladora, conforme a la norma UNE 85121 EX “Puertas peatonales automáticas. Instalación,
+uso y mantenimiento”.
+
+4            Puertas resistentes al fuego
+Además de las operaciones de mantenimiento indicadas en el apartado 1 que sean de aplicación, se
+deben llevar a cabo las que se indican a continuación, anualmente en edificios de uso Residencial Vi-
+vienda y sus aparcamientos, semestralmente en edificios de otros usos y sus aparcamientos, cuya ocu-
+pación determinada conforme a SI 3-4.1 no exceda de 500 personas y trimestralmente en los edificios y
+sus aparcamientos que excedan dicha ocupación:
+a)     Revisar las holguras perimetral y central y ajustarlas si es necesario, dentro de las tolerancias. Verifi-
+       car que no existen elementos que impidan el correcto cierre de la puerta, tales como cuñas, obstácu-
+       los en el recorrido de las hojas, etc.
+b)     Revisar las juntas intumescentes.
+c)     Revisar si el vidrio tiene roturas, grietas o defectos generales. Revisar la sujeción y la junta del vidrio.
+d)     Revisar y regular el dispositivo de cierre controlado (cierrapuertas) conforme a UNE-EN 1154:2003.
+e)     En puertas de dos hojas, revisar el dispositivo de coordinación del cierre de puertas conforme a
+       UNE-EN 1158:2003 y ajustarlo si fuese necesario.
+f)     Cuando exista, revisar el dispositivo de retención electromagnética conforme a UNE-EN 1155:2003.
+Se dejará constancia del mantenimiento realizado en un documento que registre las operaciones lleva-
+das a cabo, el cual deberá conservar el propietario, así como en una etiqueta visible adherida a la puer-
+ta, facilitada por el suministrador de la misma, que indique la fecha del último mantenimiento, el nombre
+de la persona que lo realizó y la fecha del próximo mantenimiento a realizar.
+
+                                                     2 de 2

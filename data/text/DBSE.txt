@@ -1,0 +1,1934 @@
+              Ministerio de Fomento
+              Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+              Secretaría General de Vivienda
+              Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento Básico SE
+
+Seguridad estructural
+
+SE 1      Resistencia y estabilidad
+SE 2      Aptitud al servicio
+
+                                            20 diciembre 2019
+
+                  Documento Básico SE Seguridad Estructural
+
+Disposiciones legislativas
+El articulado de este Documento Básico fue aprobado por el Real Decreto 314/2006, de
+17 de marzo (BOE 28-marzo-2006) y posteriormente ha sido modificado por las siguien-
+tes disposiciones:
+-     Real Decreto 1371/2007 de 19 de octubre (BOE 23-octubre-2007)
+-     Corrección de errores y erratas del Real Decreto 314/2006, de 17 de marzo, por el
+      que se aprueba el Código Técnico de la Edificación (BOE 25-enero-2008)
+-     Orden VIV/984/2009, de 15 de abril (BOE 23-abril-2009)
+-     Real Decreto 732/2019, de 20 de diciembre (BOE 27-diciembre-2019)
+
+                                 Documento Básico SE Seguridad Estructural
+
+Introducción
+I      Objeto
+Este Documento Básico (DB) tiene por objeto establecer reglas y procedimientos que permitan cumplir
+las exigencias básicas de seguridad estructural. La correcta aplicación del conjunto del DB supone que
+se satisface el requisito básico “Seguridad estructural”.
+Tanto el objetivo del requisito básico “Seguridad estructural”, como las exigencias básicas se establecen
+en el artículo 10 de la Parte I de este CTE y son los siguientes:
+
+Artículo 10. Exigencias básicas de seguridad estructural (SE)
+1.     El objetivo del requisito básico "Seguridad estructural" consiste en asegurar que el edificio tiene un
+       comportamiento estructural adecuado frente a las acciones e influencias previsibles a las que pueda
+       estar sometido durante su construcción y uso previsto.
+2.     Para satisfacer este objetivo, los edificios se proyectarán, fabricarán, construirán y mantendrán de
+       forma que cumplan con una fiabilidad adecuada las exigencias básicas que se establecen en los
+       apartados siguientes.
+3.     Los Documentos Básicos “DB-SE Seguridad Estructural”, “DB-SE-AE Acciones en la Edificación”,
+       “DB-SE-C Cimientos”, “DB-SE-A Acero”, “DB-SE-F Fábrica” y “DB-SE-M Madera”, especifican pará-
+       metros objetivos y procedimientos cuyo cumplimiento asegura la satisfacción de las exigencias bási-
+       cas y la superación de los niveles mínimos de calidad propios del requisito básico de seguridad es-
+       tructural.
+10.1.   Exigencia básica SE 1: Resistencia y estabilidad
+La resistencia y la estabilidad serán las adecuadas para que no se generen riesgos indebidos, de forma
+que se mantenga la resistencia y la estabilidad frente a las acciones e influencias previsibles durante las
+fases de construcción y usos previstos de los edificios, y que un evento extraordinario no produzca con-
+secuencias desproporcionadas respecto a la causa original y se facilite el mantenimiento previsto.
+10.2.   Exigencia básica SE 2: Aptitud al servicio
+La aptitud al servicio será conforme con el uso previsto del edificio, de forma que no se produzcan de-
+formaciones inadmisibles, se limite a un nivel aceptable la probabilidad de un comportamiento dinámico
+inadmisible y no se produzcan degradaciones o anomalías inadmisibles.
+
+II     Ámbito de aplicación
+El ámbito de aplicación de este DB es el que se establece con carácter general para el conjunto del CTE
+en su artículo 2 (Parte I).
+III    Criterios generales de aplicación
+Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse
+el procedimiento establecido en el artículo 5 de la parte I de este CTE y deberá documentarse en el pro-
+yecto el cumplimiento de las exigencias básicas.
+Cuando se cita una disposición reglamentaria en este DB debe entenderse que se hace referencia a la
+versión vigente en el momento en el que se aplica el mismo. Cuando se cita una norma UNE, UNE-EN o
+UNE-EN ISO debe entenderse que se hace referencia a la versión que se indica, aun cuando exista una
+versión posterior, salvo en el caso de normas armonizadas UNE-EN que sean transposición de normas
+EN cuyas referencias hayan sido publicadas en el Diario Oficial de la Unión Europea, en el marco de la
+aplicación del Reglamento (UE) nº 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de
+2011, por el que se establecen condiciones armonizadas para la comercialización de productos de cons-
+trucción, y se deroga la Directiva 89/106/CEE del Consejo, en cuyo caso la cita se deberá relacionar con
+la última Comunicación de la Comisión que incluya dicha referencia. En el caso de normas de métodos
+
+                                                SE - i
+
+                                  Documento Básico SE Seguridad Estructural
+
+de ensayo referenciadas en las normas armonizadas, debe aplicarse la versión incluida en las normas
+armonizadas UNE-EN citadas anteriormente.
+Las normas recogidas en este DB podrán ser sustituidas por otras de las utilizadas en cualquiera de los
+otros Estados miembros de la Unión Europea, o que sean parte del Acuerdo sobre el Espacio Económico
+Europeo, y en aquellos estados que tengan un acuerdo de asociación aduanera con la Unión Europea,
+siempre que se demuestre que poseen especificaciones técnicas equivalentes.
+IV   Condiciones particulares para el cumplimiento del DB-SE
+La aplicación de los procedimientos de este DB se llevará a cabo de acuerdo con las condiciones parti-
+culares que en el mismo se establecen y con las condiciones generales para el cumplimiento del CTE,
+las condiciones del proyecto, las condiciones en la ejecución de las obras y las condiciones del edificio
+que figuran en los artículos 5, 6, 7 y 8 respectivamente de la parte I del CTE.
+V    Terminología
+Los términos que figuran en letra cursiva y, a efectos de aplicación de este CTE, deben utilizarse con-
+forme al significado y a las condiciones que se establece para cada uno de ellos. Las definiciones figuran
+en letra capital, no son exclusivas de este CTE y se incluyen en el mismo con el fin de aportar una mayor
+comodidad en su lectura y aplicación.
+Otros términos y definiciones generales utilizados en el conjunto del CTE pueden consultarse en el Anejo
+III de la Parte I.
+
+                                                 SE - ii
+
+                                 Documento Básico SE Seguridad Estructural
+
+                                               Índice
+
+1 Generalidades
+   1.1 Ámbito de aplicación y consideraciones previas
+   1.2 Prescripciones aplicables conjuntamente con DB-SE
+2 Documentación
+   2.1 Documentación del proyecto
+   2.2 Documentación final de la obra
+   2.3 Instrucciones de uso y plan de mantenimiento
+3 Análisis estructural y dimensionado
+   3.1 Generalidades
+   3.2 Estados límite
+   3.3 Variables básicas
+   3.4 Modelos para el análisis estructural
+   3.5 Verificaciones
+4 Verificaciones basadas en coeficientes parciales
+   4.1 Generalidades
+   4.2 Capacidad portante
+   4.3 Aptitud al servicio
+   4.4 Efectos del tiempo
+5 Verificaciones basadas en métodos experimentales
+   5.1 Generalidades
+   5.2 Planteamiento experimental
+   5.3 Evaluación de los resultados
+Anejo A Terminología
+Anejo B Notaciones
+   B.1 Notaciones
+Anejo C Principios de los métodos probabilistas explícito e implícito
+   C.1 Objetivos y campo de aplicación
+   C.2 Incertidumbres asociadas con las variables básicas
+   C.3 Criterios para el fallo estructural
+   C.4 Niveles de fiabilidad
+   C.5 Determinación de probabilidades de fallo
+   C.6 Métodos basados en la determinación de los valores de cálculo
+   C.7 El formato de los coeficientes parciales
+Anejo D Evaluación estructural de edificios existentes
+   D.1 Generalidades
+   D.2 Criterios básicos para la evaluación
+   D.3 Recopilación de información
+   D.4 Análisis estructural
+   D.5 Verificación
+   D.6 Evaluación cualitativa
+                                                 SE - iii
+
+                               Documento Básico SE Seguridad Estructural
+
+D.7 Resultados de la evaluación
+D.8 Medidas
+
+                                              SE - iv
+
+                                  Documento Básico SE Seguridad Estructural
+
+1 Generalidades
+1.1 Ámbito de aplicación y consideraciones previas
+1     Este DB establece los principios y los requisitos relativos a la resistencia mecánica y la estabilidad
+      del edificio, así como la aptitud al servicio, incluyendo su durabilidad. Describe las bases y los prin-
+      cipios para el cálculo de las mismas. La ejecución, la utilización, la inspección y el mantenimiento se
+      tratan en la medida en la que afectan a la elaboración del proyecto.
+2     Los preceptos del DB-SE son aplicables a todos los tipos de edificios, incluso a los de carácter pro-
+      visional.
+3     Se denomina capacidad portante a la aptitud de un edificio para asegurar, con la fiabilidad requeri-
+      da, la estabilidad del conjunto y la resistencia necesaria, durante un tiempo determinado, denomi-
+      nado periodo de servicio. La aptitud de asegurar el funcionamiento de la obra, el confort de los
+      usuarios y de mantener el aspecto visual, se denomina aptitud al servicio.
+4     A falta de indicaciones específicas, como periodo de servicio se adoptará 50 años
+1.2 Prescripciones aplicables conjuntamente con DB-SE
+1     El DB-SE constituye la base para los Documentos Básicos siguientes y se utilizará conjuntamente
+      con ellos:
+         -     DB-SE-AE         Acciones en la edificación
+         -     DB-SE-C          Cimientos
+         -     DB-SE-A          Acero
+         -     DB-SE-F          Fábrica
+         -     DB-SE-M          Madera
+         -     DB-SI            Seguridad en caso de incendio
+2     Deberán tenerse en cuenta, además, las especificaciones de la normativa siguiente:
+         -     NCSE             Norma de construcción sismorresistente: parte general y edificación
+         -     EHE              Instrucción de hormigón estructural
+         -     EFHE             Instrucción para el proyecto y la ejecución de forjados unidireccionales
+                                de hormigón estructural realizados con elementos prefabricados
+
+                                                 SE - 1
+
+NO_CONTENT_HERE
+
+                                  Documento Básico SE Seguridad Estructural
+
+2 Documentación
+2.1 Documentación del proyecto
+1     En relación con la seguridad estructural, el contenido del proyecto de edificación será el descrito en
+      el Anejo I del CTE e incluirá la información que se indica en los siguientes apartados. Esta docu-
+      mentación se completará con la específica que se detalle, en su caso, en cada uno de los restantes
+      DB relativos a la seguridad estructural que se utilicen conjuntamente con éste.
+2     Cuando el director de obra autorice modificaciones a lo proyectado, lo hará constar expresamente
+      en el Libro de Órdenes, sin perjuicio de aportar documentos gráficos anejos a la orden, que en su
+      día se añadirán, como proceda, por adenda o sustitución, a la documentación final de obra realiza-
+      da. Para evitar confusiones, se indicará claramente en los documentos del proyecto original que re-
+      sulten afectados por el cambio, que se deben entender sustituidos por los aportados, y en éstos, los
+      del proyecto que quedan anulados.
+2.1.1 Memoria
+1     En la memoria del proyecto se incluirá el programa de necesidades, en el que se describirán aque-
+      llas características del edificio y del uso previsto que condicionan las exigencias de seguridad es-
+      tructural, tanto en lo relativo a la capacidad portante como a la aptitud al servicio; las bases de
+      cálculo y la declaración de cumplimiento de los DB o justificación documental del cumplimiento de
+      las exigencias básicas de seguridad, si se adoptan soluciones alternativas que se aparten total o
+      parcialmente de los DB.
+2     En las bases de cálculo y en su caso, en el anejo de cálculo se incluirán los siguientes datos:
+      a)     el periodo de servicio previsto, si difiere de 50 años;
+      b)     las simplificaciones efectuadas sobre el edificio para transformarlo en uno o varios modelos de
+             cálculo, que se describirán detalladamente, indicando el tipo estructural adoptado para el con-
+             junto y sus partes, las características de las secciones, tipo de conexiones y condiciones de
+             sustentación;
+      c)     las características mecánicas consideradas para los materiales estructurales y para el terreno
+             que lo sustenta, o en su caso actúa sobre el edificio;
+      d)     la geometría global (especificando las dimensiones a ejes de referencia) y cualquier elemento
+             que pueda afectar al comportamiento o a la durabilidad de la estructura;
+      e)     las exigencias relativas a la capacidad portante y a la aptitud al servicio, incluida la durabilidad,
+             si difieren de las establecidas en este documento;
+      f)     las acciones consideradas, las combinaciones efectuadas y los coeficientes de seguridad utili-
+             zados;
+      g)     de cada tipo de elemento estructural, la modalidad de análisis efectuado y los métodos de
+             cálculo empleados; y
+      h)     en su caso, la modalidad de control de calidad previsto.
+      Si el proyecto se desarrolla en dos fases (proyecto básico y proyecto de ejecución), en el proyecto
+      básico se incluirá, al menos, la información indicada en los puntos a) y d), así como las acciones de
+      aplicación al caso, los materiales previstos y los coeficientes de seguridad aplicables.
+3     Los cálculos realizados con ordenador se completarán identificando los programas informáticos
+      utilizados en cada una de las partes que han dado lugar a un tratamiento diferenciado, indicando el
+      objeto y el campo de aplicación del programa y explicando con precisión, la representación de los
+      datos introducidos y el tipo de los resultados generados por el programa.
+2.1.2 Planos
+1     Los planos del proyecto correspondientes a la estructura deben ser suficientemente precisos para la
+      exacta realización de la obra, a cuyos efectos se podrán deducir también de ellos los planos auxilia-
+      res de obra o de taller, en su caso, y las mediciones que han servido de base para las valoraciones
+      pertinentes.
+2     Los planos contendrán los detalles necesarios para que el constructor, bajo las instrucciones del
+      director de obra, pueda ejecutar la construcción, y en particular, los detalles de uniones y nudos en-
+
+                                                 SE - 3
+
+                                    Documento Básico SE Seguridad Estructural
+
+      tre elementos estructurales y entre éstos y el resto de los de la obra, las características de los mate-
+      riales, la modalidad de control de calidad previsto, si procede, y los coeficientes de seguridad adop-
+      tados en el cálculo.
+3     Si el proyecto se desarrolla en dos fases (proyecto básico y proyecto de ejecución), los planos del
+      proyecto básico deben ser lo suficientemente precisos para la definición del tipo estructural previsto
+      y el establecimiento de las reservas geométricas para la realización de la estructura.
+2.1.3 Pliego de condiciones
+1     En el pliego de condiciones del proyecto se incluirán las prescripciones técnicas particulares exigi-
+      bles a los productos, equipos y sistemas y a la ejecución de cada unidad de obra.
+2     Incluirá las condiciones en la ejecución de las obras definiendo, en su caso, la modalidad de control
+      de calidad, el control de recepción en obra de productos, equipos y sistemas, el control de ejecución
+      de la obra y el control de la obra terminada, estableciendo la documentación exigible, los distintivos
+      de calidad o evaluaciones técnicas de la idoneidad admitidos para su aceptación y, en su caso, los
+      ensayos a realizar, los criterios de aceptación y rechazo, y las acciones a adoptar en cada caso.
+      Asimismo, se establecerá el plazo de garantía de cada componente.
+3     Si para una misma obra se prevén distintos tipos de un mismo producto, se detallarán separada-
+      mente cada uno de ellos, indicándose las zonas en que habrán de ser empleados.
+4     En el pliego se exigirá, cuando sea oportuno o cuando esté reglamentado, la colocación en el lugar
+      de la obra que especifique, de una placa con el valor máximo de la sobrecarga admisible para el
+      uso de esa zona del edificio.
+2.2 Documentación final de la obra
+1     La documentación final de obra incluirá los planos completos de todos los elementos y partes de la
+      obra, que reflejen con precisión la obra realmente construida, así como la documentación acreditati-
+      va de que es conforme con el CTE.
+2     Asimismo, incluirá la documentación acreditativa de que se han cumplido las especificaciones de
+      control de calidad especificadas en el proyecto, en las instrucciones de la dirección facultativa y en
+      el CTE.
+2.3 Instrucciones de uso y plan de mantenimiento
+1     En las instrucciones de uso se recogerá toda la información necesaria para que el uso del edificio
+      sea conforme a las hipótesis adoptadas en las bases de cálculo.
+2     De toda la información acumulada sobre una obra, las instrucciones de uso incluirán aquellas que
+      resulten de interés para la propiedad y para los usuarios, que como mínimo será:
+      a)     las acciones permanentes;
+      b)     las sobrecargas de uso;
+      c)     las deformaciones admitidas, incluidas las del terreno, en su caso;
+      d)     las condiciones particulares de utilización, como el respeto a las señales de limitación de so-
+             brecarga, o el mantenimiento de las marcas o bolardos que definen zonas con requisitos es-
+             peciales al respecto;
+      e)     en su caso, las medidas adoptadas para reducir los riesgos de tipo estructural.
+3     El plan de mantenimiento, en lo correspondiente a los elementos estructurales, se establecerá en
+      concordancia con las bases de cálculo y con cualquier información adquirida durante la ejecución
+      de la obra que pudiera ser de interés, e identificará:
+      a)     el tipo de los trabajos de mantenimiento a llevar a cabo;
+      b)     lista de los puntos que requieran un mantenimiento particular;
+      c)     el alcance, la realización y la periodicidad de los trabajos de conservación;
+      d)     un programa de revisiones.
+
+                                                 SE - 4
+
+                                   Documento Básico SE Seguridad Estructural
+
+3 Análisis estructural y dimensionado
+3.1 Generalidades
+1     La comprobación estructural de un edificio requiere:
+      a)     determinar las situaciones de dimensionado que resulten determinantes;
+      b)     establecer las acciones que deben tenerse en cuenta y los modelos adecuados para la estruc-
+             tura;
+      c)     realizar el análisis estructural, adoptando métodos de cálculo adecuados a cada problema;
+      d)     verificar que, para las situaciones de dimensionado correspondientes, no se sobrepasan los
+             estados límite.
+2     En las verificaciones se tendrán en cuenta los efectos del paso del tiempo (acciones químicas, físi-
+      cas y biológicas; acciones variables repetidas) que pueden incidir en la capacidad portante o en la
+      aptitud al servicio, en concordancia con el periodo de servicio.
+3     Las situaciones de dimensionado deben englobar todas las condiciones y circunstancias previsibles
+      durante la ejecución y la utilización de la obra, teniendo en cuenta la diferente probabilidad de cada
+      una. Para cada situación de dimensionado, se determinarán las combinaciones de acciones que
+      deban considerarse.
+4     Las situaciones de dimensionado se clasifican en :
+      a)     persistentes, que se refieren a las condiciones normales de uso;
+      b)     transitorias, que se refieren a unas condiciones aplicables durante un tiempo limitado (no se
+             incluyen las acciones accidentales);
+      c)     extraordinarias, que se refieren a unas condiciones excepcionales en las que se puede encon-
+             trar, o a las que puede estar expuesto el edificio (acciones accidentales).
+3.2 Estados límite
+1     Se denominan estados límite aquellas situaciones para las que, de ser superadas, puede conside-
+      rarse que el edificio no cumple alguna de los requisitos estructurales para las que ha sido concebi-
+      do.
+3.2.1 Estados límite últimos
+1     Los estados límite últimos son los que, de ser superados, constituyen un riesgo para las personas,
+      ya sea porque producen una puesta fuera de servicio del edificio o el colapso total o parcial del
+      mismo.
+2     Como estados límite últimos deben considerarse los debidos a:
+      a)     pérdida del equilibrio del edificio, o de una parte estructuralmente independiente, considerado
+             como un cuerpo rígido;
+      b)     fallo por deformación excesiva, transformación de la estructura o de parte de ella en un meca-
+             nismo, rotura de sus elementos estructurales (incluidos los apoyos y la cimentación) o de sus
+             uniones, o inestabilidad de elementos estructurales incluyendo los originados por efectos de-
+             pendientes del tiempo (corrosión, fatiga).
+3.2.2 Estados límite de servicio
+1     Los estados límite de servicio son los que, de ser superados, afectan al confort y al bienestar de los
+      usuarios o de terceras personas, al correcto funcionamiento de del edificio o a la apariencia de la
+      construcción.
+2     Los estados límite de servicio pueden ser reversibles e irreversibles. La reversibilidad se refiere a
+      las consecuencias que excedan los límites especificados como admisibles, una vez desaparecidas
+      las acciones que las han producido.
+3     Como estados límite de servicio deben considerarse los relativos a:
+      a)     las deformaciones (flechas, asientos o desplomes) que afecten a la apariencia de la obra, al
+             confort de los usuarios, o al funcionamiento de equipos e instalaciones;
+
+                                                 SE - 5
+
+                                 Documento Básico SE Seguridad Estructural
+
+      b)     las vibraciones que causen una falta de confort de las personas, o que afecten a la funcionali-
+             dad de la obra;
+      c)     los daños o el deterioro que pueden afectar desfavorablemente a la apariencia, a la durabilidad
+             o a la funcionalidad de la obra.
+3.3 Variables básicas
+3.3.1 Generalidades
+1     El análisis estructural se realiza mediante modelos en los que intervienen las denominadas varia-
+      bles básicas, que representan cantidades físicas que caracterizan las acciones, influencias ambien-
+      tales, propiedades de materiales y del terreno, datos geométricos, etc. Si la incertidumbre asociada
+      con una variable básica es importante, se considerará como variable aleatoria.
+2     Cuando se realice una verificación mediante métodos de análisis de la fiabilidad según el Anejo C
+      puede emplearse directamente la representación probabilista de las variables.
+3.3.2 Acciones
+3.3.2.1 Clasificación de las acciones
+1     Las acciones a considerar en el cálculo se clasifican por su variación en el tiempo en:
+      a)     acciones permanentes (G): Son aquellas que actúan en todo instante sobre el edificio con po-
+             sición constante. Su magnitud puede ser constante (como el peso propio de los elementos
+             constructivos o las acciones y empujes del terreno) o no (como las acciones reológicas o el
+             pretensado), pero con variación despreciable o tendiendo monótonamente hasta un valor lími-
+             te.
+      b)     acciones variables (Q): Son aquellas que pueden actuar o no sobre el edificio, como las debi-
+             das al uso o las acciones climáticas.
+      c)     acciones accidentales (A): Son aquellas cuya probabilidad de ocurrencia es pequeña pero de
+             gran importancia, como sismo, incendio, impacto o explosión.
+      Las deformaciones impuestas (asientos, retracción, etc.) se considerarán como acciones perma-
+      nentes o variables, atendiendo a su variabilidad.
+2     Las acciones también se clasifican por:
+      a)     su naturaleza: en directas o indirectas;
+      b)     su variación espacial: en fijas o libres;
+      c)     la respuesta estructural: en estáticas o dinámicas.
+3     La magnitud de la acción se describe por diversos valores representativos, dependiendo de las
+      demás acciones que se deban considerar simultáneas con ella, tales como valor característico, de
+      combinación, frecuente y casi permanente.
+3.3.2.2 Valor característico
+1     El valor característico de una acción, Fₖ, se define, según el caso, por su valor medio, por un fractil
+      superior o inferior, o por un valor nominal.
+2     Como valor característico de las acciones permanentes, Gₖ, se adopta, normalmente, su valor me-
+      dio. En los casos en los que la variabilidad de una acción permanente pueda ser importante (con un
+      coeficiente de variación superior entre 0,05 y 0,1, dependiendo de las características de la estructu-
+      ra), o cuando la respuesta estructural sea muy sensible a la variación de de la misma, se considera-
+      rán dos valores característicos: un valor característico superior, correspondiente al fractil del 95% y
+      un valor característico inferior, correspondiente al fractil 5%, suponiendo una distribución estadística
+      normal.
+3     Para la acción permanente debida al pretensado, P, se podrá definir, en cada instante t, un valor
+      característico superior, Pk,sup(t), y un valor característico inferior, Pk,inf(t). En algunos casos, el pre-
+      tensado también se podrá representar por su valor medio, Pₘ(t).
+4     Como valor característico de las acciones variables, Qₖ, se adopta, normalmente, alguno de los
+      siguientes valores:
+      a)     un valor superior o inferior con una determinada probabilidad de no ser superado en un perio-
+             do de referencia específico;
+
+                                                      SE - 6
+
+                                  Documento Básico SE Seguridad Estructural
+
+      b)     un valor nominal, en los casos en los que se desconozca la correspondiente distribución esta-
+             dística.
+5     En el caso de las acciones climáticas, los valores característicos están basados en una probabilidad
+      anual de ser superado de 0,02, lo que corresponde a un periodo de retorno de 50 años.
+6     Las acciones accidentales se representan por un valor nominal. Este valor nominal se asimila, nor-
+      malmente, al valor de cálculo.
+3.3.2.3 Otros valores representativos
+1     El valor de combinación de una acción variable representa su intensidad en caso de que, en un de-
+      terminado periodo de referencia, actúe simultáneamente con otra acción variable, estadísticamente
+      independiente, cuya intensidad sea extrema. En este DB se representa como el valor característico
+      multiplicado por un coeficiente Ú₀.
+2     El valor frecuente de una acción variable se determina de manera que sea superado durante el 1%
+      del tiempo de referencia. En este DB se representa como el valor característico multiplicado por un
+      coeficiente Ú₁.
+3     El valor casi permanente de una acción variable se determina de manera que sea superado durante
+      el 50% del tiempo de referencia. En este DB se representa como el valor característico multiplicado
+      por un coeficiente Ú₂.
+3.3.2.4 Acciones dinámicas
+1     Las acciones dinámicas producidas por el viento, un choque o un sismo, se representan a través de
+      fuerzas estáticas equivalentes. Según el caso, los efectos de la aceleración dinámica estarán inclui-
+      dos implícitamente en los valores característicos de la acción correspondiente, o se introducirán
+      mediante un coeficiente dinámico.
+3.3.3 Datos geométricos
+1     Los datos geométricos se representan por sus valores característicos, para los cuales en el proyec-
+      to se adoptarán los valores nominales deducidos de los planos. En el caso de que se conozca su
+      distribución estadística con suficiente precisión, los datos geométricos podrán representarse por un
+      determinado fractil de dicha distribución.
+2     Si las desviaciones en el valor de una dimensión geométrica pueden tener influencia significativa en
+      la fiabilidad estructural, como valor de cálculo debe tomarse el nominal más la desviación prevista.
+3.3.4 Materiales
+1     Las propiedades de la resistencia de los materiales o de los productos se representan por sus valo-
+      res característicos.
+2     En el caso de que la verificación de algún estado límite resulte sensible a la variabilidad de alguna
+      de las propiedades de un material, se considerarán dos valores característicos, superior e inferior,
+      de esa propiedad, definidos por el fractil 95% o el 5% según que el efecto sea globalmente desfavo-
+      rable o favorable.
+3     Los valores de las propiedades de los materiales o de los productos podrán determinarse experi-
+      mentalmente a través de ensayos. Cuando sea necesario, se aplicará un factor de conversión con
+      el fin de extrapolar los valores experimentales en valores que representen el comportamiento del
+      material o del producto en la estructura o en el terreno.
+4     Las propiedades relativas a la rigidez estructural, se representan por su valor medio. No obstante,
+      dependiendo de la sensibilidad del comportamiento estructural frente a la variabilidad de estas ca-
+      racterísticas, será necesario emplear valores superiores o inferiores al valor medio (por ejemplo en
+      el análisis de problemas de inestabilidad). En cualquier caso, se tendrá en cuenta la dependencia
+      de estas propiedades respecto de la duración de la aplicación de las acciones.
+5     A falta de prescripciones en otro sentido, las características relativas a la dilatación térmica se re-
+      presentan por su valor medio.
+3.4 Modelos para el análisis estructural
+1     El análisis estructural se basará en modelos adecuados del edificio que proporcionen una previsión
+      suficientemente precisa de dicho comportamiento, y que permitan tener en cuenta todas las varia-
+      bles significativas y que reflejen adecuadamente los estados límite a considerar.
+
+                                                SE - 7
+
+                                 Documento Básico SE Seguridad Estructural
+
+2     Se podrán establecer varios modelos estructurales, bien complementarios, para representar las
+      diversas partes del edificio, o alternativos, para representar más acertadamente distintos compor-
+      tamientos o efectos.
+3     Se usarán modelos específicos en las zonas singulares de una estructura en las que no sean apli-
+      cables las hipótesis clásicas de la teoría de la resistencia de materiales.
+4     Las condiciones de borde o sustentación aplicadas a los modelos deberán estar en concordancia
+      con las proyectadas.
+5     Se tendrán en cuenta los efectos de los desplazamientos y de las deformaciones en caso de que
+      puedan producir un incremento significativo de los efectos de las acciones.
+6     El modelo para la determinación de los efectos de las acciones dinámicas tendrá en cuenta todos
+      los elementos significativos con sus propiedades (masa, rigidez, amortiguamiento, resistencia, etc).
+7     El modelo tendrá en cuenta la cimentación y la contribución del terreno en el caso de que la interac-
+      ción entre terreno y estructura sea significativa.
+8     El análisis estructural se puede llevar a cabo exclusivamente mediante modelos teóricos o mediante
+      modelos teóricos complementados con ensayos.
+3.5 Verificaciones
+1     Para cada verificación, se identificará la disposición de las acciones simultáneas que deban tenerse
+      en cuenta, como deformaciones previas o impuestas, o imperfecciones. Asimismo, deberán consi-
+      derase las desviaciones probables en las disposiciones o en las direcciones de las acciones.
+2     En el marco del método de los estados límite, el cumplimiento de las exigencias estructurales se
+      comprobará utilizando el formato de los coeficientes parciales (véase apartado 4). Alternativamente,
+      las comprobaciones se podrán basar en una aplicación directa de los métodos de análisis de fiabili-
+      dad (véase Anejo C).
+
+                                                SE - 8
+
+                                  Documento Básico SE Seguridad Estructural
+
+4 Verificaciones basadas en coeficientes parciales
+4.1 Generalidades
+1     En la verificación de los estados límite mediante coeficientes parciales, para la determinación del
+      efecto de las acciones, así como de la respuesta estructural, se utilizan los valores de cálculo de las
+      variables, obtenidos a partir de sus valores característicos, u otros valores representativos, multipli-
+      cándolos o dividiéndolos por los correspondientes coeficientes parciales para las acciones y la re-
+      sistencia, respectivamente.
+2     Los valores de cálculo no tienen en cuenta la influencia de errores humanos groseros. Estos deben
+      evitarse mediante una dirección de obra, utilización, inspección y mantenimiento adecuados.
+4.2 Capacidad portante
+4.2.1 Verificaciones
+1     Se considera que hay suficiente estabilidad del conjunto del edificio o de una parte independiente
+      del mismo, si para todas las situaciones de dimensionado pertinentes, se cumple la siguiente condi-
+      ción.
+      E d,dst    E d,stb                                                                                (4.1)
+      siendo
+      Ed,dst          valor de cálculo del efecto de las acciones desestabilizadoras
+      Ed,stb          valor de cálculo del efecto de las acciones estabilizadoras
+2     Se considera que hay suficiente resistencia de la estructura portante, de un elemento estructural,
+      sección, punto o de una unión entre elementos, si para todas las situaciones de dimensionado per-
+      tinentes, se cumple la siguiente condición.
+      E d      R d                                                                                      (4.2)
+      siendo
+      Ed              valor de cálculo del efecto de las acciones
+      Rd              valor de cálculo de la resistencia correspondiente
+4.2.2 Combinación de acciones
+1     El valor de cálculo de los efectos de las acciones correspondiente a una situación persistente o
+      transitoria, se determina mediante combinaciones de acciones a partir de la expresión
+         G, j  G k, j   P  P    Q,1  Q k,1    Q, i  Ú 0,i  Q k, i                                       (4.3)
+       j 1                                 i 1
+      es decir, considerando la actuación simultánea de:
+      a)        todas las acciones permanentes, en valor de cálculo (  G · Gₖ ), incluido el pretensado (  P · P );
+      b)        una acción variable cualquiera, en valor de cálculo (  Q · Qₖ ), debiendo adoptarse como tal una
+                tras otra sucesivamente en distintos análisis;
+      c)        el resto de las acciones variables, en valor de cálculo de combinación (  Q · Ú₀ · Qₖ ).
+      Los valores de los coeficientes de seguridad,    se establecen en la tabla 4.1 para cada tipo de ac-
+      ción, atendiendo para comprobaciones de resistencia a si su efecto es desfavorable o favorable,
+      considerada globalmente.
+      Para comprobaciones de estabilidad, se diferenciará, aun dentro de la misma acción, la parte favo-
+      rable (la estabilizadora), de la desfavorable (la desestabilizadora).
+      Los valores de los coeficientes de simultaneidad, Ú, se establecen en la tabla 4.2
+2     El valor de cálculo de los efectos de las acciones correspondiente a una situación extraordinaria, se
+      determina mediante combinaciones de acciones a partir de la expresión
+
+                                                 SE - 9
+
+                                    Documento Básico SE Seguridad Estructural
+
+         G, j·G k, j   p ·P  A d   Q,1 ·Ú 1,1  Q k,1    Q, i·Ú 2,i  Q k, i                             (4.4)
+       j 1                                           i 1
+      es decir, considerando la actuación simultánea de:
+      a)      todas las acciones permanentes, en valor de cálculo (  G · Gₖ ), incluido el pretensado (  P · P );
+      b)      una acción accidental cualquiera, en valor de cálculo ( Ad ), debiendo analizarse sucesivamen-
+              te con cada una de ellas.
+      c)      una acción variable, en valor de cálculo frecuente (  Q · Ú₁ · Qₖ ), debiendo adoptarse como tal,
+              una tras otra sucesivamente en distintos análisis con cada acción accidental considerada.
+      d)      El resto de las acciones variables, en valor de cálculo casi permanente ( Q · Ú₂ · Qₖ ).
+      En situación extraordinaria, todos los coeficientes de seguridad ( G,  P,  Q   son iguales a cero si su
+      efecto es favorable, o a la unidad si es desfavorable, en los términos anteriores.
+3     En los casos en los que la acción accidental sea la acción sísmica, todas las acciones variables
+      concomitantes se tendrán en cuenta con su valor casi permanente, según la expresión
+        G k, j  P  A d   Ú 2,i  Q k, i                                                                (4.5)
+       j 1                i 1
+4.2.3 Comportamiento no lineal
+1     En los casos en los que la relación entre las acciones y su efecto no pueda aproximarse de forma
+      lineal, para la determinación de los valores de cálculo de los efectos de las acciones debe realizarse
+      un análisis no lineal, siendo suficiente considerar que:
+      a)      si los efectos globales de las acciones crecen más rápidamente que ellas, los coeficientes par-
+              ciales se aplican al valor representativo de las acciones, al modo establecido en los apartados
+              anteriores.
+      b)      si los efectos globales de las acciones crecen más lentamente que ellas, los coeficientes par-
+              ciales se aplican a los efectos de las acciones, determinados a partir de los valores represen-
+              tativos de las mismas.
+4.2.4 Valor de cálculo de la resistencia
+1     El valor de cálculo de la resistencia de una estructura, elemento, sección punto o unión entre ele-
+      mentos se obtiene de cálculos basados en sus características geométricas a partir de modelos de
+      comportamiento del efecto analizado, y de la resistencia de cálculo, fd, de los materiales implicados,
+      que en general puede expresarse como cociente entre la resistencia característica, fₖ, y el coeficien-
+      te de seguridad del material.
+2     Por lo que respecta al material o materiales implicados, la resistencia de cálculo puede asimismo
+      expresarse como función del valor medio del factor de conversión de la propiedad implicada, deter-
+      minada experimentalmente, para tener en cuenta las diferencias entre las condiciones de los ensa-
+      yos y el comportamiento real, y del coeficiente parcial para dicha propiedad del material.
+3     En su formulación más general, la resistencia de cálculo puede expresarse en función de las varia-
+      bles antedichas, y el coeficiente parcial para el modelo de resistencia y las desviaciones geométri-
+      cas, en el caso de que estas no se tengan en cuenta explícitamente.
+
+                                                     SE - 10
+
+                                          Documento Básico SE Seguridad Estructural
+
+                          Tabla 4.1 Coeficientes parciales de seguridad (
+                                                                          ) para las acciones
+
+ Tipo de verificación (1)     Tipo de acción                                   Situación persistente o transitoria
+                                                                                      desfavorable                        favorable
+                              Permanente
+                                      Peso propio, peso del terreno                       1,35                               0,80
+          Resistencia                 Empuje del terreno                                 1,35                               0,70
+                                      Presión del agua                                    1,20                               0,90
+                              Variable                                                    1,50                                0
+                                                                                   desestabilizadora                    estabilizadora
+                              Permanente
+          Estabilidad                 Peso propio, peso del terreno                      1,10                               0,90
+                                       Empuje del terreno                                1,35                               0,80
+                                       Presión del agua                                  1,05                               0,95
+                              Variable                                                    1,50                               0
+(1)  Los coeficientes correspondientes a la verificación de la resistencia del terreno se establecen en el DB-SE-C
+
+                                       Tabla 4.2 Coeficientes de simultaneidad (Ú
+                                                                                   Ú
+                                                                                   Ú
+                                                                                   Ú
+                                                                                                                       Ú
+                                                                                                                       Ú    Ú
+                                                                                          Ú                                  Ú
+                                                                                          Ú                            Ú
+                                                                                                                       Ú    Ú
+                                                                                          Ú                                  Ú
+                                                                                          Ú₀                            1     2
+Sobrecarga superficial de uso (Categorías según DB-SE-AE)
+
+
+
+
+
+                                                                                         0,7        0,5
+                                                                                                                         0,3
+
+           Zonas residenciales (Categoría A)
+                                                                                         0,7
+                                                                                                    0,5
+                                                                                                                         0,3
+
+
+
+           Zonas administrativas(Categoría B)
+                                                                                         0,7
+                                                                                                    0,7
+                                                                                                                         0,6
+
+
+
+           Zonas destinadas al público (Categoría C)
+                                                                                         0,7
+                                                                                                    0,7
+                                                                                                                         0,6
+
+
+
+           Zonas comerciales (Categoría D)
+                                                                                         0,7
+                                                                                                    0,7
+                                                                                                                         0,6
+
+
+
+           Zonas de tráfico y de aparcamiento de vehículos ligeros con un peso total
+           inferior a 30 kN (Categoría E)
+           Cubiertas transitables (Categoría F)                                                                      (1)
+           Cubiertas accesibles únicamente para mantenimiento (Categoría G)
+Nieve
+
+
+
+
+
+
+
+
+
+                                                                                         0,7
+                                                                                                    0,5
+                                                                                                                         0,2
+
+
+
+           para altitudes > 1000 m
+                                                                                         0,5
+                                                                                                    0,2
+                                                                                                                          0
+
+
+
+           para altitudes ≤ 1000 m
+Viento                                                                                   0,6        0,5                   0
+Temperatura                                                                              0,6        0,5                   0
+Acciones variables del terreno                                                           0,7        0,7                  0,7
+          (1) En las cubiertas transitables, se adoptarán los valores correspondientes al uso desde el que se accede.
+
+4.3 Aptitud al servicio
+4.3.1 Verificaciones
+1         Se considera que hay un comportamiento adecuado, en relación con las deformaciones, las vibra-
+          ciones o el deterioro, si se cumple, para las situaciones de dimensionado pertinentes, que el efecto
+          de las acciones no alcanza el valor límite admisible establecido para dicho efecto.
+
+                                                             SE - 11
+
+                                  Documento Básico SE Seguridad Estructural
+
+4.3.2 Combinación de acciones
+1     Para cada situación de dimensionado y criterio considerado, los efectos de las acciones se determi-
+      narán a partir de la correspondiente combinación de acciones e influencias simultáneas, de acuerdo
+      con los criterios que se establecen a continuación.
+2     Los efectos debidos a las acciones de corta duración que pueden resultar irreversibles, se determi-
+      nan mediante combinaciones de acciones, del tipo denominado característica, a partir de la expre-
+      sión
+       Gk, j  P  Q k,1   Ú 0,i  Q k,i                                                              (4.6)
+      j 1                 i 1
+      Es decir, considerando la actuación simultánea de:
+      a)     todas las acciones permanentes, en valor característico ( Gₖ );
+      b)     una acción variable cualquiera, en valor característico ( Qₖ ), debiendo adoptarse como tal una
+             tras otra sucesivamente en distintos análisis;
+     c)      el resto de las acciones variables, en valor de combinación ( Ú₀ · Qₖ ).
+3     Los efectos debidos a las acciones de corta duración que pueden resultar reversibles, se determi-
+      nan mediante combinaciones de acciones, del tipo denominado frecuente, a partir de la expresión
+       Gk, j  P  Ú 1,1  Q k,1   Ú 2,i  Q k,i                                                       (4.7)
+      j 1                         i 1
+      siendo
+      Es decir, considerando la actuación simultánea de:
+      a)     todas las acciones permanentes, en valor característico ( Gₖ );
+      b)     una acción variable cualquiera, en valor frecuente ( Ú₁ Qₖ ), debiendo adoptarse como tal una
+             tras otra sucesivamente en distintos análisis;
+      c)     el resto de las acciones variables, en valor casi permanente (Ú₂ · Qₖ ).
+4     Los efectos debidos a las acciones de larga duración, se determinan mediante combinaciones de
+      acciones, del tipo denominado casi permanente, a partir de la expresión
+       Gk, j  P   Ú 2,i  Q k,i                                                                    (4.8)
+      j 1          i 1
+      siendo:
+      a)     todas las acciones permanentes, en valor característico ( Gₖ );
+      b)     todas las acciones variables, en valor casi permanente ( Ú₂ Qₖ ).
+4.3.3 Deformaciones
+4.3.3.1 Flechas
+1     Cuando se considere la integridad de los elementos constructivos, se admite que la estructura hori-
+      zontal de un piso o cubierta es suficientemente rígida si, para cualquiera de sus piezas, ante cual-
+      quier combinación de acciones característica, considerando sólo las deformaciones que se produ-
+      cen después de la puesta en obra del elemento, la flecha relativa es menor que:
+      a)     1/500 en pisos con tabiques frágiles (como los de gran formato, rasillones, o placas) o pavi-
+             mentos rígidos sin juntas;
+      b)     1/400 en pisos con tabiques ordinarios o pavimentos rígidos con juntas;
+      c)     1/300 en el resto de los casos.
+2     Cuando se considere el confort de los usuarios, se admite que la estructura horizontal de un piso o
+      cubierta es suficientemente rígida si, para cualquiera de sus piezas, ante cualquier combinación de
+      acciones característica, considerando solamente las acciones de corta duración, la flecha relativa,
+      es menor que 1/350.
+3     Cuando se considere la apariencia de la obra, se admite que la estructura horizontal de un piso o
+      cubierta es suficientemente rígida si, para cualquiera de sus piezas, ante cualquier combinación de
+      acciones casi permanente, la flecha relativa es menor que 1/300.
+
+                                                 SE - 12
+
+                                 Documento Básico SE Seguridad Estructural
+
+4     Las condiciones anteriores deben verificarse entre dos puntos cualesquiera de la planta, tomando
+      como luz el doble de la distancia entre ellos. En general, será suficiente realizar dicha comproba-
+      ción en dos direcciones ortogonales.
+5     En los casos en los que los elementos dañables (por ejemplo tabiques, pavimentos) reaccionan de
+      manera sensible frente a las deformaciones (flechas o desplazamientos horizontales) de la estructu-
+      ra portante, además de la limitación de las deformaciones se adoptarán medidas constructivas
+      apropiadas para evitar daños. Estas medidas resultan particularmente indicadas si dichos elemen-
+      tos tienen un comportamiento frágil.
+4.3.3.2 Desplazamientos horizontales
+1     Cuando se considere la integridad de los elementos constructivos, susceptibles de ser dañados por
+      desplazamientos horizontales, tales como tabiques o fachadas rígidas, se admite que la estructura
+      global tiene suficiente rigidez lateral, si ante cualquier combinación de acciones característica, el
+      desplome (véase figura 4.1) es menor de:
+      a)     desplome total: 1/500 de la altura total del edificio;
+      b)     desplome local: 1/250 de la altura de la planta, en cualquiera de ellas.
+2     Cuando se considere la apariencia de la obra, se admite que la estructura global tiene suficiente
+      rigidez lateral, si ante cualquier combinación de acciones casi permanente, el desplome relativo
+      (véase figura 4.1) es menor que 1/250.
+3     En general es suficiente que dichas condiciones se satisfagan en dos direcciones sensiblemente
+      ortogonales en planta.
+
+                                          Figura 4.1 Desplomes
+4.3.4 Vibraciones
+1     Un edificio se comporta adecuadamente ante vibraciones debidas a acciones dinámicas, si la fre-
+      cuencia de la acción dinámica (frecuencia de excitación) se aparta suficientemente de sus frecuen-
+      cias propias.
+2     En el cálculo de la frecuencia propia se tendrán en cuenta las posibles contribuciones de los cerra-
+      mientos, separaciones, tabiquerías, revestimientos, solados y otros elementos constructivos, así
+      como la influencia de la variación del módulo de elasticidad y, en el caso de los elementos de hor-
+      migón, la de la fisuración.
+3     Si las vibraciones pueden producir el colapso de la estructura portante (por ejemplo debido a fenó-
+      menos de resonancia, o a la pérdida de la resistencia por fatiga) se tendrá en cuenta en la verifica-
+      ción de la capacidad portante, tal como se establece en el DB respectivo.
+4     Se admite que una planta de piso susceptible de sufrir vibraciones por efecto rítmico de las perso-
+      nas, es suficientemente rígida, si la frecuencia propia es mayor de:
+      a) 8 Hz, en gimnasios y polideportivos;
+      b) 7Hz en salas de fiesta y locales de pública concurrencia sin asientos fijos;
+      c) 3,4 Hz en locales de espectáculos con asientos fijos.
+
+                                                SE - 13
+
+                                   Documento Básico SE Seguridad Estructural
+
+4.4 Efectos del tiempo
+4.4.1 Durabilidad
+1     Debe asegurarse que la influencia de acciones químicas, físicas o biológicas a las que está someti-
+      do el edificio no compromete su capacidad portante. Para ello, se tendrán en cuenta las acciones
+      de este tipo que puedan actuar simultáneamente con las acciones de tipo mecánico, mediante un
+      método implícito o explicito.
+2     En el método implícito los riesgos inherentes a las acciones químicas, físicas o biológicas se tienen
+      en cuenta mediante medidas preventivas, distintas al análisis estructural, relacionadas con las ca-
+      racterísticas de los materiales, los detalles constructivos, los sistemas de protección o los efectos
+      de las acciones en condiciones de servicio. Estas medidas dependen de las características e impor-
+      tancia del edificio, de sus condiciones de exposición y de los materiales de construcción empleados.
+      En estructuras normales de edificación, la aplicación del este método resulta suficiente. En los do-
+      cumentos básicos de seguridad estructural de los diferentes materiales y en la Instrucción de hor-
+      migón estructural EHE se establecen las medidas específicas correspondientes.
+3     En el método explícito, las acciones químicas, físicas o biológicas se incluyen de forma explícita en
+      la verificación de los estados límite últimos y de Servicio. Para ello, dichas acciones se representa-
+      rán mediante modelos adecuados que permitan describir sus efectos en el comportamiento estruc-
+      tural. Estos modelos dependen de las características y de los materiales de la estructura, así como
+      de su exposición.
+4.4.2 Fatiga
+4.4.2.1 Principios
+1     En general, en edificios no resulta necesario comprobar el estado límite de fatiga, salvo por lo que
+      respecta a los elementos estructurales internos de los equipos de elevación.
+2     La comprobación a fatiga de otros elementos sometidos a acciones variables repetidas procedentes
+      de maquinarias, oleaje, cargas de tráfico y vibraciones producidas por el viento, se hará de acuerdo
+      con los valores y modelos que se establecen de cada acción en el documento respectivo que la re-
+      gula.
+4.4.3 Efectos reológicos
+1     Los documentos básicos correspondientes a los diferentes materiales incluyen, en su caso, la in-
+      formación necesaria para tener en cuenta la variación en el tiempo de los efectos reológicos.
+
+                                                SE - 14
+
+                                 Documento Básico SE Seguridad Estructural
+
+5 Verificaciones basadas en métodos experimentales
+5.1 Generalidades
+1     Las verificaciones relativas a la seguridad estructural mediante ensayos están basadas en el esta-
+      blecimiento experimental de parámetros que definan bien la respuesta de una determinada estruc-
+      tura, de un elemento estructural o de una unión, o bien las acciones e influencias que actúen sobre
+      ellos.
+2     No se consideraran como parte de este procedimiento experimental los ensayos de recepción de
+      materiales o de su control de calidad, así como los ensayos del terreno para la redacción de infor-
+      mes geotécnicos.
+5.2 Planteamiento experimental
+1     Debe definirse de forma inequívoca el estado límite que debe verificarse y determinarse las zonas o
+      los puntos críticos desde el punto de vista del comportamiento de la estructura o del elemento con-
+      siderado.
+2     Las probetas o muestras a ensayar se fabricarán empleando los materiales previstos en obra, apli-
+      cando la misma técnica y, en la medida de lo posible, con las mismas dimensiones que los elemen-
+      tos correspondientes. El muestreo se efectuará de manera aleatoria. Además, las probetas deberán
+      reproducir adecuadamente las condiciones de apoyo y de puesta en carga de los elementos.
+3     Deben minimizarse, en la medida de lo posible, las diferencias entre las condiciones en las cuales
+      se realicen los ensayos y las condiciones del elemento estructural real. Cuando estas diferencias
+      tengan una incidencia significativa, se tendrán en cuenta en la evaluación e interpretación de los re-
+      sultados introduciendo unos factores de conversión que se establecerán mediante análisis experi-
+      mental o teórico, o sobre la base de la experiencia. Estos factores están asociados con incertidum-
+      bres que dependen de cada caso
+4     En los métodos empleados para deducir los valores de cálculo a partir de los resultados experimen-
+      tales se tendrá en cuenta el número reducido de ensayos. En ausencia de un análisis más detalla-
+      do, la evaluación directa de los resultados se realizará según las indicaciones del apartado 5.5. Pa-
+      ra la evaluación de los resultados podrán emplearse otros métodos, siempre y cuando resulten con-
+      sistentes con el formato de verificación establecido. En caso de que existan conocimientos previos
+      (por ejemplo modelos de cálculo, ensayos previos), éstos se podrán tener en cuenta en la evalua-
+      ción de los resultados.
+5     Si los resultados experimentales se usan en un análisis probabilista, los datos obtenidos pueden
+      emplearse para la actualización de los parámetros estadísticos correspondientes.
+6     Las conclusiones derivadas de una campaña experimental determinada sólo tienen validez para las
+      condiciones particulares de los ensayos, caracterizadas por el dispositivo experimental elegido, los
+      materiales de construcción y la técnica de fabricación empleados.
+7     En la evaluación e interpretación de los resultados se introducirán factores de conversión que ten-
+      gan en cuenta las diferencias entre las condiciones del ensayo y las condiciones en obra que sean
+      relevantes, como el efecto de escala, la duración de la aplicación de la carga, las condiciones de
+      apoyo de las probetas o los efectos ambientales que puedan incidir en las propiedades de los mate-
+      riales.
+5.3 Evaluación de los resultados
+5.3.1 Generalidades
+1     La determinación del valor de cálculo de la resistencia de un elemento estructural o de un material
+      mediante ensayos se basa en que la resistencia de la probeta empleada se representa a través de
+      una única variable y en que el tipo de rotura contemplado es determinante en todos los ensayos.
+2     El valor de cálculo de la resistencia, Rd, se determinará según la siguiente expresión:
+      R d    R k,est    m                                                                      (5.1)
+              M          Rd
+
+                                               SE - 15
+
+                                  Documento Básico SE Seguridad Estructural
+
+      siendo
+      Rk,est     estimación del valor característico de la resistencia, Rₖ, determinada a partir de los resul-
+                 tados experimentales según la expresión (5.2) ó (5.3);
+       M         coeficiente parcial para la resistencia del material, se adoptará el valor que, según los
+                 documentos básicos correspondientes, se emplee para el material y el mecanismo de ro-
+                 tura considerados;
+      m         valor        medio del factor de conversión
+       Rd       coeficiente de incertidumbre para el modelo de resistencia.
+3     En aquellos casos en los que se estime que la diferencia entre los ensayos y los casos reales es
+      demasiado grande, será necesario un estudio más detallado para el establecimiento del valor del
+      coeficiente  M.
+4     El coeficiente de incertidumbre para el modelo de resistencia,  Rd, tiene en cuenta el carácter aleato-
+      rio del factor de conversión,  , con respecto a las diferencias desconocidas entre las condiciones
+      del ensayo y las condiciones en obra. Los valores de m       y    Rd se definirán en cada caso, teniendo
+      en cuenta los objetivos de los ensayos, el estado límite considerado, el mecanismo de rotura, la in-
+      formación disponible sobre la fabricación de las probetas y los elementos reales, así como las con-
+      diciones de la obra. Los valores adoptados para el coeficiente de incertidumbre  Rd no serán inferio-
+      res a la unidad.
+5.3.2 Estimación de la resistencia característica
+1     En ausencia de información previa o de otros datos más precisos, se adoptará como valor caracte-
+      rístico el fractil del 5%, suponiendo una distribución normal:
+      R k ,est   m R - k    R                                                                         (5.2)
+      siendo
+      mR        valor medio de la muestra
+       R         desviación típica de la muestra, se estimará a partir de los resultados experimentales
+      k          coeficiente que depende del tamaño          de la muestra (número de  ensayos, n), según tabla
+                 5.1
+2     Cuando exista información previa relativa a la desviación típica de la distribución,  R, ésta se consi-
+      derará conocida a priori. En estos casos, suponiendo una distribución normal, el valor característico
+      de la resistencia correspondiente a un fractil del 5% se estimará a partir de la relación:
+      R k, est   m R - k    R                                                                         (5.3)
+      siendo
+      mR        valor medio de la muestra
+       R        desviación típica de la distribución
+      k          coeficiente que depende del tamaño          de la muestra (número de  ensayos, n), según tabla
+                 5.1
+                             Tabla 5.1. Valores del coeficiente k para un fractil de 5%
+
+
+
+                                                                 Número de ensayos, n
+ Desviación típica                    3       4       6       8       10      20      30     100    infinito
+ desconocida                         3,15    2,68    2,34    2,19    2,10    1,93    1,87    1,76     1,64
+     previamente conocida            2,03    1,98    1,92    1,88    1,86    1,79    1,77    1,71     1,64
+
+                                                 SE - 16
+
+                                  Documento Básico SE Seguridad Estructural
+
+Anejo A Terminología
+1     Los términos que aquí figuran se utilizan en este DB-SE así como en los otros documentos básicos
+      de seguridad estructural, conforme al significado y a las condiciones que se establecen. En el Anejo
+      III de la Parte I pueden consultarse otros términos y definiciones generales utilizados en el conjunto
+      del CTE. El resto de los DB de índole estructural contienen las definiciones de otros términos técni-
+      cos específicos.
+      Acción accidental: acción con una pequeña probabilidad de ocurrencia, generalmente de corta du-
+      ración y con efectos importantes.
+      Acción fija: Acción que tiene una distribución fija sobre el edificio y cuya magnitud y dirección están
+      determinadas de forma inequívoca para el conjunto de la obra.
+      Acción libre: Acción que puede tener cualquier punto de aplicación, sin límites dados.
+      Acción permanente: Acción cuya variación en magnitud con el tiempo es despreciable, o cuya va-
+      riación es monótona hasta que se alcance un determinado valor límite.
+      Acción variable: Acción cuya variación en el tiempo no es monótona ni despreciable respecto al
+      valor medio.
+      Acciones:
+         a) Fuerza aplicada sobre el edificio (acción directa).
+         b) Deformación impuesta o aceleración causada por, ejemplo, por cambios de temperatura, va-
+         riaciones de humedad, asientos diferenciales o terremotos (acción indirecta).
+      Análisis estructural: Procedimiento o algoritmo para determinar los efectos de las acciones.
+      Combinación de acciones: Conjunto de acciones utilizadas para la comprobación de los requisitos
+      estructurales.
+      Efectos de las acciones: El efecto de las acciones en elementos estructurales, por ejemplo, es-
+      fuerzos, momentos, tensiones, deformaciones, o en toda la estructura, como por ejemplo, rotación,
+      desviación.
+      Elemento estructural: Parte físicamente distinguible de una estructura, como por ejemplo, una vi-
+      ga, una losa, un pilote.
+      Estado límite: Estado más allá del que no se satisfacen los requisitos estructurales.
+      Estado límite de servicio: Estado más allá del que no se satisfacen los requisitos de servicio esta-
+      blecidos.
+      Estado límite último: Estado asociado al colapso o a otra forma similar de fallo estructural.
+      Estructura: Conjunto de elementos, conectados entre ellos, cuya misión consiste en resistir las ac-
+      ciones previsibles y en proporcionar rigidez.
+      Flecha relativa: Descenso máximo de vano respecto al extremo de la pieza que lo tenga menor,
+      dividida por la luz del tramo. En el caso de voladizos se considerara como luz el doble del vuelo.
+      Modelo estructural: Idealización del sistema estructural utilizada para el análisis, cálculo y verifica-
+      ción.
+      Riesgo: Medida del alcance del peligro que representa un evento no deseado para las personas.
+      Un riesgo se expresa en términos de la probabilidad vinculada a las consecuencias de dicho even-
+      to.
+      Situación extraordinaria: Situación que incluye unas condiciones excepcionales para el edificio.
+      Situación persistente: Situación que es relevante durante un periodo de tiempo similar al periodo
+      de servicio del edificio.
+      Sistema estructural: Elementos resistentes de la construcción y forma en la que se considera que
+      trabajan.
+      Valor característico: Es el principal valor representativo de una variable.
+      Valor de cálculo: Valor obtenido de multiplicar el valor representativo por el coeficiente parcial de
+      seguridad.
+
+                                                   SE - 17
+
+NO_CONTENT_HERE
+
+                                 Documento Básico SE Seguridad Estructural
+
+Anejo B Notaciones
+B.1 Notaciones
+1     Mayúsculas latinas
+      Ad       Valor de cálculo de una acción accidental
+      Gd       Valor de cálculo de una acción permanente
+      Gₖ       Valor característico de una acción permanente
+      Qd       Valor de cálculo de una acción variable
+      Qₖ       Valor característico de una acción variable simple
+      Rd       Valor de cálculo de la resistencia
+      Rₖ       Valor característico de la resistencia
+2     Minúsculas griegas
+       M        Coeficiente parcial para la resistencia de un material
+       G        Coeficiente parcial para una acción permanente
+       Q        Coeficiente parcial para una acción variable
+      Ú0       Coeficiente para el valor de combinación de una acción variable
+      Ú1        Coeficiente para el valor frecuente de una acción variable
+      Ú2        Coeficiente para el valor casi permanente de una acción variable
+
+                                                 SE - 19
+
+NO_CONTENT_HERE
+
+                                     Documento Básico SE Seguridad Estructural
+
+Anejo C Principios de los métodos probabilistas explícito e implícito
+
+C.1 Objetivos y campo de aplicación
+1     El contenido de este Anejo tiene carácter informativo y sus objetivos son:
+      a)     la recopilación de las bases en que se fundamentan los capítulos 3, 4 y 5 de DB-SE;
+      b)     la introducción de algunas recomendaciones relativas a la aplicación de los métodos probabi-
+             listas explícitos.
+2     En principio, los métodos probabilistas explícitos se pueden emplear para la verificación de cual-
+      quier problema que se pueda describir a través de relaciones matemáticas, y siempre que sea posi-
+      ble identificar el conjunto de los correspondientes eventos aleatorios.
+3     Las principales aplicaciones de los métodos probabilistas explícitos se pueden dividir en dos gru-
+      pos:
+      a)     la calibración de modelos probabilistas implícitos (por ejemplo la calibración de los coeficientes
+             parciales);
+      b)     la aplicación directa para la adopción de decisiones relacionadas con las prestaciones de las
+             estructuras (por ejemplo para el dimensionado de estructuras nuevas en los casos en los que
+             los métodos implícitos resulten inadecuados, o para la evaluación estructural de edificios exis-
+             tentes).
+4     El contenido de este Anejo es aplicable para las verificaciones relativas a la capacidad portante
+      (estados límite últimos). También es aplicable para la verificación de la aptitud al servicio en los ca-
+      sos irreversibles. En general, las reglas y el contenido de este Anejo no son aplicables a estados
+      límite de servicio reversibles.
+C.2 Incertidumbres asociadas con las variables básicas
+C.2.1 Fuentes de incertidumbres
+1     Se pueden distinguir tres tipos de incertidumbres asociadas con las variables básicas:
+      a)     la variabilidad aleatoria inherente al modelo;
+      b)     las incertidumbres debidas a la falta de conocimientos;
+      c)     las incertidumbres estadísticas.
+      A su vez, cada uno de estos tipos de incertidumbres se puede subdividir.
+2     La variabilidad aleatoria inherente se puede dividir en incertidumbres de dos categorías, según es-
+      tén o no afectadas por actividades humanas.
+      Muchos parámetros relativos a las acciones pertenecen a la segunda categoría, por ejemplo la ve-
+      locidad del viento o la carga de nieve sobre el terreno. También existen parámetros de resistencia
+      correspondientes a esta segunda categoría, por ejemplo los parámetros de resistencia de un te-
+      rreno.
+      Ejemplos correspondientes al primer tipo de incertidumbres son la resistencia de los materiales
+      constructivos (por ejemplo hormigón o acero) o las dimensiones de elementos estructurales. Estas
+      incertidumbres se pueden reducir mediante métodos de fabricación o de producción más avanza-
+      dos, o a través de métodos de control adecuados.
+3     Las incertidumbres debidas a la falta de conocimientos se pueden subdividir en dos categorías, las
+      relativas a las incertidumbres de los modelos, y las que dependen de la evolución futura de ciertos
+      parámetros.
+      Las incertidumbres de los modelos, que se pueden referir tanto a los modelos de las acciones y de
+      sus efectos como a los modelos de resistencia, se pueden reducir a través de la mejora de los co-
+      nocimientos mediante ensayos o investigaciones teóricas.
+      A la segunda categoría pertenecen, por ejemplo, las incertidumbres sobre la evolución futura de las
+      sobrecargas. Las posibilidades de reducción de estas incertidumbres son más reducidas.
+
+                                                SE - 21
+
+                                     Documento Básico SE Seguridad Estructural
+
+4     Las incertidumbres estadísticas están asociadas con la evaluación estadística de los resultados de
+      ensayos, mediciones u otras observaciones, y pueden ser debidas a:
+      a)     la falta de identificación y de distinción entre diferentes poblaciones estadísticas;
+      b)     un número limitado de resultados que conduce a incertidumbres en la obtención de los pará-
+             metros estadísticos (por ejemplo del valor medio o de la desviación típica);
+      c)     la no consideración de las variaciones sistemáticas de las variables analizadas (por ejemplo de
+             parámetros climáticos);
+      d)     una extrapolación excesiva de la información estadística;
+      e)     la no consideración de posibles correlaciones;
+      f)     el empleo de distribuciones estadísticas para la descripción de incertidumbres cuyo origen sólo
+             en parte es estadístico.
+      Normalmente, las incertidumbres estadísticas se pueden reducir a través de un mayor número de
+      ensayos u observaciones.
+C.2.2 Obtención de datos básicos
+1     Los valores numéricos de los parámetros que caractericen un modelo y sus incertidumbres se pue-
+      den obtener por las siguientes vías:
+      a)     mediciones u observaciones;
+      b)     análisis;
+      c)     adopción de decisiones.
+      Con frecuencia, los valores numéricos de los parámetros se obtienen combinando datos obtenidos
+      por diferentes vías. La resistencia a tracción del hormigón se puede determinar a partir de la medi-
+      ción de su resistencia a compresión y un análisis mediante una función de conversión; la sobrecar-
+      ga de un puente grúa se establece mediante decisión y las fuerzas dinámicas adicionales se pue-
+      den determinar mediante análisis; las sobrecargas en edificios se pueden determinar mediante ob-
+      servación en combinación con una hipótesis sobre la evolución futura.
+2     Las variables básicas que tengan en cuenta las incertidumbres se caracterizarán mediante paráme-
+      tros tales como el valor medio, la desviación típica, las correlaciones con otras variables y el tipo de
+      distribución estadística. En los casos en los que los valores numéricos de estos parámetros se de-
+      terminen de acuerdo con C.2.2(1a) o C.2.2(1b), el procedimiento incluirá un análisis estadístico de
+      los datos y los resultados se representarán en términos estadísticos.
+      Si por el contrario los valores numéricos de los parámetros de las variables básicas se determinan
+      de acuerdo con C.2.2(1c) no es posible, normalmente, una representación directa en términos esta-
+      dísticos. No obstante, a efectos de la aplicación de los métodos probabilistas, también a estas va-
+      riables se les deben asignar parámetros estadísticos.
+3     Las incertidumbres debidas a errores tales como los errores de medición o los efectos de escala, se
+      evitarán mediante la adopción de medidas adecuadas como por ejemplo una gestión eficaz de la
+      calidad del proceso de obtención de los datos básicos.
+C.2.3 Selección de distribuciones estadísticas
+1     En muchos casos, el número reducido de datos disponibles no permite determinar de manera
+      inequívoca una función de distribución estadística. Por este motivo, se seleccionará una distribución
+      que tenga unas características apropiadas en relación con la variable básica considerada, teniendo
+      en cuenta el posible sesgo.
+2     Para las acciones permanentes se puede adoptar una distribución normal, siempre y cuando la
+      posibilidad de que se produzcan valores negativos no resulte contradictoria con otras hipótesis y no
+      pueda ser la causa de resultados erróneos. En caso contrario, resultará más conveniente adoptar
+      una distribución del tipo logarítmica normal, Weibull, Gamma, o de valores extremos.
+      Para las acciones variables, resulta más conveniente adoptar una distribución del tipo logarítmica
+      normal, Weibull, Gamma, o de valores extremos, particularmente si la distribución debe representar
+      un valor máximo en un determinado periodo de tiempo.
+3     Para las propiedades de los materiales y para las dimensiones, suele ser adecuada una distribución
+      del tipo normal o logarítmica normal. Si, debido a motivos físicos u otras circunstancias, no se pue-
+      den producir valores negativos, resulta preferible una distribución logarítmica normal.
+
+                                                SE - 22
+
+                                  Documento Básico SE Seguridad Estructural
+
+C.3 Criterios para el fallo estructural
+C.3.1 Estados límite últimos
+1     Se supone que el criterio de fallo de una estructura o de un elemento estructural se rige según una
+      función g(X) de las variables básicas X, de manera que:
+      a)  Para el estado deseado
+      g(X) > 0                                                                                  (C.1a)
+      b)  Para el estado límite
+      g(X) = 0                                                                                  (C.1b)
+      c)  Para el estado no deseado
+      g(X) < 0                                                                                  (C.1c)
+
+       Figura C.1 Representación de la función g(X) para el caso con dos variables básicas X1 y X2; X= (X1,
+                                                  X2)
+2     Las variables básicas X pueden depender del tiempo (por ejemplo las acciones ambientales extre-
+      mas pueden variar con el tiempo, los materiales constitutivos pueden estar afectados por mecanis-
+      mos de deterioro en función del tiempo, la resistencia puede disminuir con el tiempo debido a pro-
+      cesos de fatiga).
+      En general, algunas de las variables de X se deben representar mediante procesos estocásticos.
+      En particular, la variabilidad con el tiempo significa que los máximos y mínimos de las variables de
+      X no se producen al mismo tiempo.
+      La dependencia del tiempo implica que la probabilidad de fallo está asociada con un periodo de re-
+      ferencia elegido, t₀.
+3     El fallo de una estructura o de un elemento estructural se asocia con su transición de un estado
+      deseado a un estado no deseado. Para la mayoría de los estados límite últimos, la probabilidad de
+      fallo se puede representar a través de la relación:
+      Pf = [g(X) < 0]                                                                              (C.2)
+      La probabilidad de que no exista fallo de una estructura o de un elemento estructural (probabilidad
+      de supervivencia, Pₛ, o fiabilidad) es el complemento de la probabilidad de fallo:
+      Pₛ = 1 - Pf                                                                                  (C.3)
+4     Si se analiza la fiabilidad de un elemento estructural o de una sección transversal con respecto a un
+      determinado mecanismo de fallo y una determinada combinación de acciones e influencias, la fun-
+      ción g(X) se puede describir, normalmente, a través de una expresión única derivada del compor-
+      tamiento mecánico. En estos casos, el análisis se puede considerar como un análisis de un elemen-
+      to (en este contexto, elemento se emplea desde el punto de vista probabilista de la palabra).
+5     En los casos en los que se contemple más de un mecanismo de fallo para un elemento estructural,
+      o si se estudian simultáneamente varios elementos estructurales, la función g(X) puede considerar-
+      se como una función compuesta por varias funciones g₁(X), g₂(X)... .
+
+                                                 SE - 23
+
+                                  Documento Básico SE Seguridad Estructural
+
+      Un análisis que tenga en cuenta simultáneamente varias condiciones gi(X) < 0 se denomina análisis
+      de un sistema. La definición de la función g(X) depende fuertemente de las características del sis-
+      tema (sistemas en los que el fallo de una sección conduce al fallo total; sistemas redundantes; sis-
+      temas con un comportamiento combinado).
+
+             Figura C.2 Dominios de fallo para un ejemplo con dos funciones g1(X1, X2) y g2(X1, X2) con dos varia-
+             bles básicas X1 y X2. a) Fallo del sistema producido por el de una sección; b) Fallo de un sistema re-
+                                                            dundante
+6     En una aplicación directa de los métodos probabilistas explícitos se debe demostrar que en el pe-
+      riodo de referencia, t₀, la probabilidad de fallo de la estructura o del elemento estructural, Pf, no su-
+      pera la probabilidad de fallo admisible, Pf,0
+      Pf     Pf,0                                                                                  (C.4)
+C.3.2 Estados límite de servicio
+1     Para algunos estados límite de servicio, la transición de un estado deseado a un estado no desea-
+      do corresponde a un límite que puede estar acotado al estar asociado con una realidad mecánica.
+      Para otros estados límite de servicio, sin embargo, esta transición se produce en condiciones poco
+      acotadas y difusas. En estos casos, la transición está relacionada con una disminución más o me-
+      nos rápida del grado de la aptitud al servicio.
+2     En términos generales, se puede definir un grado de la aptitud al servicio,  , en función de un pará-
+      metro relacionado con el comportamiento en servicio,  (por ejemplo la deformación de una viga, la
+      intensidad de las vibraciones de un forjado)
+      0 ≤  ( ) ≤ 1                                                                                 (C.5)
+      Para el parámetro  se pueden establecer dos límites
+      a)      ₁: la obra se puede usar sin restricciones
+      b)      ₂: la obra no se puede usar.
+
+             Figura C.3 Grado de la aptitud al servicio, μ, en función del parámetro de servicio,
+
+
+
+
+
+
+
+                                                   SE - 24
+
+                                       Documento Básico SE Seguridad Estructural
+
+3     En algunos casos, a efectos de una optimización económica, el grado de la aptitud al servicio se
+      puede expresar en términos económicos.
+C.4 Niveles de fiabilidad
+C.4.1 Seguridad de las personas
+1     La fiabilidad estructural está relacionada, en primer lugar, con la posibilidad de que se produzcan
+      daños personales (muertos, heridos) como consecuencia de un colapso.
+      Se puede determinar un valor máximo aceptable para la probabilidad de fallo a partir de una compa-
+      ración con los riesgos mortales asociados con otras actividades de la vida diaria (por ejemplo viajar
+      en coche). A estos efectos, se debe distinguir entre los riesgos mortales desde el punto de vista de
+      las personas como individuos (riesgo mortal individual) y desde el punto de vista de la sociedad
+      (riesgo colectivo para las personas).
+2     Para el riesgo mortal individual asociado con el colapso de las estructuras se podría asumir un valor
+      admisible que esté aproximadamente dos órdenes de magnitud por debajo del valor total del riesgo
+      mortal individual asociado con accidentes en general.
+      La probabilidad de fallo admisible para una estructura depende de la probabilidad condicional de
+      que una persona muera dado el colapso de esta estructura, y del riesgo mortal individual admisible
+      asociado a los edificios
+       P(f | año)·P(d | f) ≤ ri,adm                                                                (C.6)
+       siendo
+      P(f  año)     probabilidad de fallo de la estructura para un periodo de referencia de un año
+      P(d  f)        probabilidad de que un usuario del edificio, presente en el momento del colapso, en-
+                     cuentre la muerte, dado el colapso del edificio (probabilidad condicional)
+      ri,adm         riesgo mortal individual admisible, asociado con el comportamiento estructural, expresa-
+                     do en términos de [(número de muertos) / (10⁶ · año)].
+3     El requisito (C.6) se refiere a un periodo de un año y se debería considerar como un valor medio
+      sobre un determinado periodo de referencia (por ejemplo el periodo de servicio previsto o, alternati-
+      vamente, un periodo del orden de 10 a 20 años). En términos generales, serían aceptables desvia-
+      ciones de este valor medio anual. Sin embargo, sólo se podrían aceptar valores superiores, para un
+      periodo de tiempo mucho más breve que el periodo de referencia.
+4     Desde el punto de vista social, se deben evitar accidentes (frecuentes) con un gran número de
+      muertos. A estos efectos, se deberá cumplir la condición
+      P(f | año) ≤ A·N⁻                                                                            (C.7)
+      siendo
+      P(f | año)     probabilidad de fallo de la estructura para un periodo de referencia de un año
+      N              número supuesto de muertos
+      A              constante (por ejemplo A = 0,01 a 0,1)
+                     constante (por ejemplo  = 1 a 2)
+5     Se puede admitir una probabilidad de fallo estructural que supere el valor más restrictivo de los
+      deducidos de las condiciones (C.6) y (C.7) si se adoptan medidas de protección específicas (por
+      ejemplo un plan de evacuación en caso de emergencia), con el fin de cumplir con los requisitos re-
+      lativos a el riesgo mortal individual y el riesgo colectivo para las personas.
+C.4.2 Optimización económica
+1     Desde el punto de vista económico, el nivel de fiabilidad requerido se puede determinar estable-
+      ciendo un equilibrio entre las consecuencias de un fallo estructural de un edificio y el coste de las
+      medidas de protección y de seguridad.
+2     El objetivo de una optimización económica consiste en minimizar el coste total acumulado durante
+      el periodo de servicio previsto. Formalmente, el coste total se puede representar mediante la rela-
+      ción
+       Cₜₒₜ = Cb + Cₘ +  (Pf · Cf)                                                                 (C.8)
+      siendo
+
+                                                     SE - 25
+
+                                        Documento Básico SE Seguridad Estructural
+
+        Cₜₒₜ      coste total
+        Cb        coste del proyecto y de la ejecución
+        Cₘ        coste previsto para la inspección, al mantenimiento y la demolición
+        Cf        coste del fallo
+        Pf        probabilidad de fallo
+        La suma  (Pf · Cf) se debe establecer para todas las situaciones de riesgo independientes y todos
+        los posibles mecanismos de fallo.
+        Esta representación del coste total tiene un alto grado de simplificación y se debe detallar más a
+        efectos de su aplicación práctica.
+3       En los casos en los que el fallo (colapso) estructural pueda afectar a las personas (caso normal),
+        además de los criterios económicos, la estructura deberá cumplir con los requisitos relacionados
+        con la fiabilidad mínima. En estos casos, la optimización condicional se puede llevar a cabo para la
+        relación (C.8), siempre y cuando se cumpla con los requisitos deducidos de (C.6) y (C.7).
+4       En algunos casos, el coste del riesgo ( (Pf · Cf)) puede estar cubierto por un seguro.
+C.4.3 Valores numéricos
+1       Los valores numéricos relativos a la fiabilidad de una estructura se expresan a menudo en términos
+        del índice de fiabilidad, β, relacionado con la probabilidad de fallo, Pf, a través de
+          -  -1  Pf                                                                                   (C.9)
+        La tabla C.1 contiene valores numéricos para la relación entre el índice de fiabilidad, β, y la probabi-
+        lidad de fallo, Pf.
+                Tabla C.1    Relación entre el índice de fiabilidad, b, y la probabilidad de fallo, Pf
+        Pf        10⁻¹        10⁻²         10⁻³         10⁻⁴                     10⁻⁵    10⁻⁶    10⁻⁷
+                  1,3         2,3          3,1          3,7                      4,2     4,7     5,2
+2       Los valores numéricos de la probabilidad de fallo (y de los correspondientes índices de fiabilidad) a
+        los que hacen referencia los principios de C.3 y que se pueden determinar según los métodos men-
+        cionados en C.5, representan valores nominales y no describen la frecuencia real de fallos estructu-
+        rales. Las diferencias sustanciales entre la probabilidad de fallo nominal y la frecuencia real de fa-
+        llos estructurales se debe por un lado a que en realidad los fallos son debidos, en muchos casos, a
+        errores humanos y, por otro lado, a las simplificaciones introducidas a través de los modelos.
+        Debido a que las probabilidades de fallo se deben interpretar como valores nominales, las probabi-
+        lidades de fallo admisibles deben basarse en los resultados de una calibración. El empleo de valo-
+        res de este tipo para caracterizar la fiabilidad requerida de una estructura está relacionado con un
+        conjunto coherente y específico de modelos probabilistas y de modelos estructurales. No es admi-
+        sible el empleo de valores calibrados para la probabilidad de fallo admisible (o para el índice de fia-
+        bilidad requerido) en combinación con otros modelos, ya que conduce a resultados distorsionados
+        en cuanto al nivel de fiabilidad.
+3       La tabla C.2 representa valores calibrados para el índice de fiabilidad requerido, referidos a todo el
+        periodo de servicio de la estructura, en función de las consecuencias de un fallo estructural y del
+        coste relativo de un incremento de la fiabilidad.
+        Tabla C.2 Valores nominales, referidos a todo el periodo de servicio, para el índice de fiabilidad reque-
+                                                  rido
+Coste relativo                            Consecuencias de un fallo estructural
+para incrementar        despreciables           pequeñas           moderadas              grandes
+la fiabilidad
+elevado                       0                   1,5                            2,3        3,1
+moderado                     1,3                  2,3                            3,1        3,8
+bajo                         2,3                  3,1                            3,8        4,3
+        Los valores de la tabla C.2 se han deducido aplicando los métodos de los valores de cálculo (C.6),
+        adoptando las siguientes hipótesis para las funciones de distribución de los modelos probabilistas:
+        a)      modelos de resistencia    lognormal o Weibull
+
+                                                 SE - 26
+
+                                             Documento Básico SE Seguridad Estructural
+
+      b)             acciones permanentes            normal
+      c)             acciones variables              Gumbel.
+4     Los valores recomendados para el índice de fiabilidad requerido, referidos a todo el periodo de ser-
+      vicio de la estructura, son:
+      a)             para estados límite de servicio
+                     reversibles                      = 0
+                     irreversibles                    = 1,5
+      b)             para fatiga                      = 2,3 a 3,1 (en función de las posibilidades de inspección)
+      c)             para estados límite últimos      = 3,1; 3,8; 4,3
+      El empleo de estos valores a efecto de un análisis probabilista explícito requiere necesariamente la
+      adopción de las mismas hipótesis en las que se basan los valores nominales de la tabla C.2.
+C.5 Determinación de probabilidades de fallo
+C.5.1 Problemática general
+1     En términos generales, la determinación de la probabilidad de fallo requiere establecer la probabili-
+      dad
+           Pf  P   gij  X, t  0 para         t      0, T                                              (C.10)
+      siendo
+      gij                 funciones de fallo (Funciones Límite) en el espacio de las variables básicas
+      i                   número del modo de fallo
+      j                   número del elemento.
+      gi1  0 ,       gi2  0 , etc. especifica una secuencia de fallo estructural para un determinado modo de fa-
+      llo, i.
+2     La dependencia del tiempo puede estar relacionada con las acciones e influencias, o con la resis-
+      tencia (por ejemplo debido a un mecanismo de deterioro).
+3     Algunas de las variables X pueden ser funciones del tiempo y de coordenadas espaciales.
+C.5.2 Problemas invariables en el tiempo
+1     En los casos en los que todas las variables X puedan considerarse invariables en el tiempo, la pro-
+      babilidad de fallo, Pf, se determina a partir de la relación
+           Pf          fx  x  dx                                                                      (C.11)
+                     DF
+      siendo
+           fx  x           función de densidad de probabilidad conjunta de las variables aleatorias básicas X (no
+                           procesos aleatorios)
+      DF                  dominio de fallo
+      En general, los dominios de fallo quedan definidos por las intersecciones y uniones de los dominios
+      caracterizados por:
+           gij  X   0                                                                                 (C.12)
+2     Los valores numéricos de la probabilidad de fallo se pueden determinar mediante:
+      a)             métodos analíticos exactos;
+      b)             métodos de integración numérica;
+      c)             métodos analíticos aproximados (FORM: First Order Reliability Method; FOSM: First Order Se-
+                     cond Moment Method; SORM: Second Order Reliability Method);
+      d)             métodos de simulación.
+      En algunos casos se puede emplear una combinación de los diferentes métodos.
+
+                                                              SE - 27
+
+                                   Documento Básico SE Seguridad Estructural
+
+C.5.3 Transformación de problemas variables en problemas invariables en el tiempo
+1     Se pueden distinguir dos tipos de problemas variables en el tiempo:
+      a)     fallos debidos a una sobrecarga;
+      b)     fallos por acumulación de daños (por ejemplo fatiga, corrosión).
+      La dependencia del tiempo se debe a la variabilidad en el tiempo de las acciones e influencias y/o
+      de la resistencia (mecanismos de deterioro).
+      En general, las acciones, influencias o resistencias que sean variables en el tiempo, se deben re-
+      presentar a través de procesos estocásticos.
+2     En el caso de un fallo debido a una sobrecarga, el proceso puede ser sustituido por una distribución
+      probabilista representando la incertidumbre para el periodo de tiempo para el que se debe determi-
+      nar la probabilidad de fallo.
+      A estos efectos, el valor medio se podrá adoptar como el valor máximo esperado en el periodo de
+      referencia. Para la incertidumbre aleatoria se podrá adoptar la correspondiente al valor máximo es-
+      perado.
+3     La función empleada para describir un fallo por fatiga se podrá expresar, por ejemplo, en los térmi-
+      nos de las curvas SN y de la regla de Palmaren-Miner. De esta manera, y si se refiere a un deter-
+      minado periodo de tiempo, la función es invariable en el tiempo.
+C.6 Métodos basados en la determinación de los valores de cálculo
+C.6.1 Generalidades
+1     El estado límite considerado podrá establecerse mediante un modelo de cálculo en términos de una
+      o varias funciónes g(...) de un conjunto de variables X₁, X₂, ... Xₙ relativas a las acciones, las carac-
+      terísticas de los materiales, etc. En este caso, la condición de ausencia del fallo de la estructura
+      asociado con el estado límite considerado, se podrá expresar en la forma
+      g X 1, X 2 , ...,   X n   0                                                                  (C.13)
+2     A efectos de la verificación del estado límite considerado, la condición (C.13) se podrá expresar en
+      términos de los valores de cálculo de las variables
+      g x 1d , x 2d , ..., x nd   0                                                                (C.14)
+      x1d, x2d, ..., xnd         valores de cálculo de las variables X₁, X₂, ..., Xₙ (según C.6.2).
+C.6.2 Valores de cálculo según el método FORM
+1     El valor de cálculo xid de la variable Xi depende de:
+      a)     los parámetros de la variable Xi;
+      b)     el tipo de distribución probabilista supuesta;
+      c)     el índice de fiabilidad,  , requerido para el estado límite y la situación de dimensionado consi-
+             derados;
+      d)     un factor  i que describe la sensibilidad de la probabilidad de fallo, asociada con el estado lími-
+             te y la situación de dimensionado considerados, con respecto a la variación de Xi.
+2     Para una distribución arbitraria F(xi), los valores de cálculo se definen por
+      F  x id       i                                                                              (C.15)
+      Para variables Xi con una distribución normal, se obtiene
+      x id    i  1   i    Vi                                                                       (C.16)
+      siendo
+       i       valor medio de la variable Xi
+      Vi       coeficiente de variación de la variable Xi.
+      Para variables Xi con una distribución lognormal, se obtiene
+      x id    ie    i     i                                                                        (C.17)
+
+                                                  SE - 28
+
+                                         Documento Básico SE Seguridad Estructural
+
+      donde
+       i     1  i           2
+                   V
+                ln ~~ ~~    i  2  ~~ ~~  
+        i         1            Vi
+      Para valores pequeños de Vi, por ejemplo Vi  0,25 , se puede suponer:
+       i       i
+       i        Vi
+C.6.3 Factores de sensibilidad según el método FORM
+1     Si las variables aleatorias son estadísticamente independientes, los factores de sensibilidad,  i, que
+      se deben emplear en un análisis mediante el método FORM, tienen las siguientes propiedades:
+        1   i  1                                                                              (C.18)
+         i²  1                                                                                (C.19)
+2     En principio, los valores de        i se deben determinar a partir de un análisis, mediante el método
+      FORM, de un conjunto representativo de obras. Este procedimiento requiere unos cálculos iterati-
+      vos laboriosos, por lo que no se presta para aplicaciones prácticas. Por este motivo, la tabla C.3
+      contiene un conjunto de valores normalizados para  i, basados en la experiencia.
+                            Tabla C.3 Valores normalizados para los factores de sensibilidad
+                                                                                       i
+
+                                                        Variable X                    Factor de sensibilidad
+
+                                                       i                                                        i
+        Resistencia                         Variable dominante de resistencia                 0,8
+                                              Otras variables de resistencia            0,4 · 0,8 = 0,32
+        Acciones / influencias                Acción / influencia dominante                  - 0,7
+                                          Otras variables relativas a acciones /      - 0,4 · 0,7 = -0,28
+                                                       influencias
+      Debido a la adopción de unas hipótesis conservadoras, los valores indicados en la tabla C.3 no
+      cumplen la condición (C.19). Con el fin de limitar los errores cometidos al aplicar estos valores, se
+      debe cumplir la siguiente condición:
+       0,16       σ E1          6,6                                                                            (C.20)
+                  σ R1
+      siendo
+       E1                   desviación típica de la variable correspondiente a la acción / influencia dominante
+       R1                   desviación típica de la variable dominante de resistencia.
+3     Al efectuar un análisis estructural, no es posible saber de antemano cuál de las variables se debe
+      considerar como dominante. A estos efectos, se deberá efectuar el análisis adoptándo como domi-
+      nante cada una de las variables, con el fin de deducir según cual de ellas se rige el problema.
+C.7 El formato de los coeficientes parciales
+C.7.1 Coeficientes parciales basados en valores de cálculo
+1     Los métodos probabilistas implícitos que se utilizan normalmente en la práctica a efectos del di-
+      mensionado de las estructuras, no emplean directamente valores de cálculo para las variables, xd.
+      Las variables aleatorias se introducen mediante sus valores representativos (según 3), que se em-
+      plean con un conjunto de coeficientes parciales para las acciones e influencias y para la resistencia
+      (según 4).
+2     En la mayoría de los casos, la condición que debe cumplirse puede expresarse en los siguientes
+      términos
+
+                                               SE - 29
+
+                                                     Documento Básico SE Seguridad Estructural
+
+       g x d   R d  E d  0                                                                         (C.21)
+      siendo
+      Ed                    valor de cálculo de los efectos de las acciones / influencias
+      Rd                    valor de cálculo de la resistencia correspondiente.
+3     Los valores de cálculo de los efectos de las acciones / influencias y de la resistencia, respectiva-
+      mente, se pueden expresar a través de
+       E d            E F d , a d ,  d , ...                                                       (C.22)
+       R d            R  f d , ad ,  d , ...                                                       (C.23)
+      siendo
+      Fd                    valores de cálculo de las acciones / influencias
+      ad                    valores de cálculo de las dimensiones geométricas
+       d                    valores de cálculo de los coeficientes de incertidumbre de los modelos
+      fd                    valores de cálculo de las propiedades de los materiales.
+4     Los valores de cálculo de las diferentes variables se determinan a partir de las siguientes relaciones
+      a)      Valor de cálculo de una acción / influencia
+       Fd   f  Fk                                                                                 (C.24a)
+       Fd   f  Ú 0  Fk                                                                            (C.24b)
+      siendo
+      Fₖ                    valor característico de una acción / influencia
+       f                    coeficiente parcial para la misma acción / influencia
+      Ú₀                    coeficiente para el valor de combinación de una acción variable.
+      b)      Valor de cálculo de una propiedad de un material
+       fd      fk                                                                                  (C.25)
+              m
+      siendo
+      fₖ                    valor característico de una propiedad de un material
+       ₘ coeficiente parcial para la misma propiedad del material
+      c)      Valor de cálculo de una dimensión geométrica
+       a d   anom   a                                                                              (C.26)
+      siendo
+      aₙₒₘ                  valor nominal de la dimensión
+       a                    desviación de la dimensión de su valor nominal
+      d)      Valor de cálculo del coeficiente de incertidumbre de un modelo
+      Normalmente, los valores de cálculo de los coeficientes de incertidumbre de los modelos se intro-
+      ducen en los cálculos a través de los coeficientes parciales, respectivamente para el modelo de los
+      efectos de las acciones,  Ed, y para el modelo de resistencia,  Rd:
+      E d       Ed  E  f  Fk ,  f  Ú 0  Fk , anom             a, ...                               (C.27)
+                     1             fk
+      R                       R          , a    a, ...                                             (C.28)
+            d                                 nom
+                      Rd           m
+5     Los coeficientes parciales se podrán deducir a partir de los valores de cálculo de las variables, de-
+      terminados por ejemplo según C.6, de acuerdo con las relaciones:
+
+                                                            SE - 30
+
+                                                       Documento Básico SE Seguridad Estructural
+
+        f           Fd                                                                                                (C.29)
+                    Fk
+        m               fk                                                                                            (C.30)
+                        fd
+6     Desde un punto de vista práctico, el formato anterior para la determinación de los valores de cálculo
+      de los efectos de las acciones y de la resistencia conduce a cálculos laboriosos. Por este motivo se
+      podrán adoptar las siguientes simplificaciones:
+      a)           para los efectos de las acciones y de las influencias
+       E d       E  F  Fk , anom                                                                                      (C.31)
+      b)           para la resistencia
+                                 fk
+       R           R                     , a           o alternativamente                                            (C.32a)
+             d                                nom
+                                    M
+       R d               1          R  fk , anom                                                                     (C.32b)
+                              R
+      En estos casos, los coeficientes parciales  F y  M                     o  R deberán calibrarse de modo que (C.31) y
+      (C.32) conduzcan a los mismos resultados que las ecuaciones originales.
+C.7.2 Coeficientes parciales calibrados
+1     Partiendo de un formato arbitrario de coeficientes parciales, el objetivo de la calibración consiste en
+      la deducción de coeficientes parciales de modo que la fiabilidad estructural resultante se desvíe lo
+      menos posible de la fiabilidad requerida y predefinida.
+2     El proceso de calibración consta de los siguientes pasos:
+      a)           Definición de un formato de coeficientes parciales
+                  fk 1           fk 2
+       g                ,                , ...,          F ,      F , ...    0                                        (C.33)
+                                                   f1      k1   f2  k2
+                  m1                m 2
+      siendo
+      fki                           valor característico de una propiedad (por ejemplo la resistencia) del material i
+       mi                           coeficiente parcial para la misma propiedad del material i
+      Fkj                           valor característico (representativo) de la acción j
+       fj                           coeficiente parcial para la acción j
+      b)           Selección de un conjunto de n elementos estructurales representativos que cubran adecuada-
+                   mente el campo de aplicación de los modelos a calibrar en cuanto a:
+                               los tipos de acciones;
+                               las dimensiones de las estructuras;
+                               los materiales constitutivos;
+                               los estados límite considerados.
+      c)           Dimensionado de los n elementos estructurales representativos, aplicando un conjunto de coe-
+                   ficientes parciales ( ₘ₁,  ₘ₂, ...,  f1,  f2, ...). A cada uno de los elementos así dimensionados le
+                   corresponderá un nivel de fiabilidad, expresado por ejemplo en términos de índice                  que se
+                   desviará más o menos de la fiabilidad requerida y predefinida,  ₜ.
+      d)           La desviación entre el nivel de fiabilidad de los n elementos y la fiabilidad requerida se podrá
+                   expresar en los siguientes términos
+                                    n                            ₂
+                   D    k  mi ,  fj                             t                                                     (C.34)
+                                 k  1
+                  siendo
+                    ₜ               valor requerido del índice de fiabilidad
+
+                                                                                  SE - 31
+
+                                  Documento Básico SE Seguridad Estructural
+
+              ₖ     índice de fiabilidad correspondiente al elemento k, dimensionado con los coeficientes
+                    parciales ( ₘ₁,  ₘ₂, ...,  f1,  f2, ...).
+      e)     Selección del conjunto de coeficientes parciales que conduzca al valor mínimo de D.
+      f)     Alternativamente, el nivel de fiabilidad se podrá expresar en términos de la probabilidad de fa-
+             llo.
+3     En los casos en los que los n elementos estructurales tengan importancias relativas desiguales, D
+      se podrá determinar introduciendo unos factores de importancia. Los valores que excedan el valor
+      admisible de la probabilidad de fallo deberían penalizarse más que los valores que se queden por
+      debajo de la probabilidad de fallo admisible.
+
+                                                             SE - 32
+
+                                    Documento Básico SE Seguridad Estructural
+
+Anejo D Evaluación estructural de edificios existentes
+D.1 Generalidades
+D.1.1 Ámbito de aplicación
+1     Este Anejo define las bases y los procedimientos para la evaluación estructural de edificios existen-
+      tes, en concordancia con los principios del análisis de la seguridad estructural. Si bien los conceptos
+      básicos para el análisis de la seguridad estructural de un edificio están establecidos en el Anejo C,
+      en la evaluación estructural de edificios existentes puede existir un mayor grado de diferenciación
+      de la seguridad que para el dimensionado estructural de edificios de nueva construcción, debido a
+      consideraciones de tipo económico, social o medioambiental.
+2     Los criterios generales establecidos en este Anejo son aplicables para la evaluación estructural de
+      cualquier tipo de edificio existente, si se cumple alguna de las siguientes condiciones:
+      a)     se ha concebido, dimensionado y construido de acuerdo con las reglas en vigor en el momento
+             de su realización;
+      b)     se ha construido de acuerdo con la buena práctica, la experiencia histórica y la práctica profe-
+             sional aceptada.
+3     La evaluación de la seguridad estructural en caso de incendio está fuera del alcance de este anejo.
+      No obstante, la evaluación de la seguridad estructural tras un incendio puede realizarse de acuerdo
+      con las reglas aquí incluidas.
+D.1.2 Consideraciones previas
+1     No es adecuada la utilización directa de las normas y reglas establecidas en este CTE en la evalua-
+      ción estructural de edificios existentes, construidos en base a reglas anteriores a las actuales para
+      los edificios de nueva construcción, por los siguientes motivos:
+      c)     toda evaluación debe realizarse teniendo en cuenta las características y las condiciones reales
+             del edificio (lo que normalmente no está contemplado en las normas de dimensionado que in-
+             corporan la incertidumbre asociada al proceso);
+      d)     las normas actuales suelen estar basadas en exigencias diferentes y generalmente más estric-
+             tas que las vigentes en el momento en que se proyectó el edificio, por lo cual, muchos edificios
+             existentes se clasificarían como no fiables si se evaluaran según las normas actuales;
+      e)     se puede considerar, en muchos casos, un período de servicio reducido, lo que se traduce
+             también en una reducción de las exigencias;
+      f)     se pueden emplear modelos de análisis más afinados (a través inspecciones, ensayos, medi-
+             ciones in situ o consideraciones teóricas), lo que puede aportar beneficios adicionales.
+D.2 Criterios básicos para la evaluación
+D.2.1 Procedimiento
+1     La evaluación estructural de un edificio existente se realizará, normalmente, mediante una verifica-
+      ción cuantitativa de su capacidad portante y, en su caso, de su aptitud al servicio, teniendo en cuen-
+      ta los procesos de deterioro posibles. Para ello, puede adoptarse un procedimiento de evaluación
+      por fases que tenga en cuenta las condiciones actuales del edificio, definiendo cada una de las fa-
+      ses en función de las circunstancias y condiciones específicas de la misma tales como la disponibi-
+      lidad del proyecto original, la observación de daños estructurales, el uso del edificio, etc,.. y de los
+      objetivos de la evaluación (D.2.3). En cada una de las fases se incrementa la precisión de las hipó-
+      tesis para la evaluación, así como el grado de detalle de los métodos de análisis respecto de la fase
+      anterior.
+2     En edificios en los que no resulte posible o sea poco fiable una verificación cuantitativa, o cuando el
+      edificio haya demostrado un comportamiento satisfactorio en el pasado, podrá realizarse una eva-
+      luación cualitativa de la capacidad portante y de la aptitud al servicio de acuerdo con los criterios
+      enumerados en D.6.
+3     El proceso de evaluación se considera finalizado cuando en alguna de las fases se alcanza una
+      conclusión inequívoca sobre la seguridad estructural del edificio o sobre las medidas a adoptar. En
+
+                                                SE - 33
+
+                                    Documento Básico SE Seguridad Estructural
+
+      los casos en los que no resulte posible verificar una capacidad portante o una aptitud al servicio
+      adecuada, el informe final debe contener también las recomendaciones necesarias sobre las medi-
+      das a adoptar.
+D.2.2 Fases de la evaluación
+1     Con carácter general pueden establecerse tres fases:
+      1ª Fase:     Evaluación preliminar, que incluye en general:
+                   -  la recopilación y estudio de la documentación disponible y, en su caso, el levantamien-
+                      to de planos;
+                   -  una inspección preliminar;
+                   -  la elaboración de las bases para la evaluación;
+                   -  la verificación preliminar de la capacidad portante y de la aptitud al servicio de los ele-
+                      mentos estructurales principales.
+      2ª Fase:     Evaluación detallada, que incluye en general:
+                   -  la determinación del estado del edificio mediante una inspección detallada, incluida la
+                      cuantificación de posibles daños;
+                   -  la actualización de la geometría y de los planos del edificio;
+                   -  la actualización de las características de los materiales;
+                   -  la actualización de las acciones;
+                   -  la actualización de las bases para la evaluación;
+                   -  el análisis estructural;
+                   -  la verificación de la capacidad portante y de la aptitud al servicio.
+      3ª Fase:     Evaluación avanzada, con métodos de análisis de la seguridad, que incluye en general:
+                   -  la determinación de las situaciones de dimensionado determinantes;
+                   -  la adquisición, en su caso, de más datos sobre las características de la estructura o de
+                      los materiales, o sobre las acciones;
+                   -  la determinación de los modelos probabilistas de las variables;
+                   -  el análisis estructural;
+                   -  la verificación con métodos de seguridad.
+D.2.3 Especificación de los objetivos
+1     Antes del inicio de la evaluación deben establecerse claramente los objetivos de la misma, en tér-
+      minos de las prestaciones futuras del edificio, definidas éstas a partir de las siguientes exigencias:
+      a)     el nivel de seguridad en relación con la resistencia y la estabilidad estructural;
+      b)     la garantía de continuidad del funcionamiento en edificios de especial importancia, tales como
+             hospitales, centros de comunicación o similares;
+      c)     las exigencias específicas de la propiedad en relación con la protección de los bienes (protec-
+             ción frente a pérdidas económicas) o con la aptitud al servicio. El nivel de estas exigencias se
+             basa normalmente en requisitos funcionales específicos y en criterios de optimización.
+D.3 Recopilación de información
+D.3.1 Determinación del estado actual
+1     Previamente a la evaluación de un edificio existente se determinará el estado actual del mismo,
+      recabando toda la información relativa a:
+      a)     Las acciones de todo tipo, directas o indirectas (influencias) con los siguientes criterios:
+             -  El peso propio de los elementos podrá comprobarse en obra, adaptándose en consecuencia,
+                los valores adoptados inicialmente, de acuerdo con la información previa;
+             -  Las sobrecargas de uso dependerán del uso futuro de la obra, pudiendo adoptarse, a efectos
+                de la evaluación modelos específicos adaptados al caso estudiado (normalmente menos
+                conservadores que los modelos correspondientes según el CTE). En estos casos, se adopta-
+                rán disposiciones adicionales con el fin de asegurar que no se sobrepasen los valores ex-
+                tremos establecidos;
+
+                                                 SE - 34
+
+                                  Documento Básico SE Seguridad Estructural
+
+             -  Las acciones climáticas a tener en cuenta pueden determinarse a partir de mediciones direc-
+                tas efectuadas en estaciones meteorológicas representativas para la obra objeto de la eva-
+                luación estructural, durante un periodo de tiempo adecuado. En este caso, en la determina-
+                ción de estas acciones se tendrá en cuenta que sus efectos extremos no se pueden deducir
+                directamente de los valores medidos. En el ajuste de los valores extremos se podrá tener en
+                cuenta el periodo de servicio restante;
+             -  Se tendrán en cuenta las influencias ambientales de origen físico, químico o biológico que
+                puedan afectar a las características de los materiales o a la resistencia de los elementos es-
+                tructurales, así como los posibles cambios en las mismas que puedan producirse como con-
+                secuencia de una intervención. En los casos en los que existan incertidumbres, se determi-
+                narán mediante inspecciones, ensayos o mediciones.
+      b)     Las dimensiones de la obra, recopilando los datos de la misma y de los elementos estructura-
+             les, cuando la información disponible carezca de ellos, cuando se hayan realizado modifica-
+             ciones y no exista documentación fiable al respecto, o cuando se observen discrepancias entre
+             la información disponible y la situación real.
+      c)     Características de los materiales empleados. Cuando las características de los materiales no
+             se puedan deducir de manera fiable a partir de la información disponible, se determinarán me-
+             diante ensayos no destructivos o destructivos a partir de muestreos estadísticamente repre-
+             sentativos, que tengan en cuenta el uso del edificio, así como las influencias ambientales.
+      d)     El sistema estático y el comportamiento estructural, con los siguientes criterios:
+             -  se comprobarán en obra las condiciones de todo tipo que resulten determinantes para el
+                comportamiento estructural, como las condiciones de apoyo, empotramientos, libertad de
+                movimiento de apoyos y juntas o la capacidad de deformación.
+             -  cuando se determine experimentalmente el comportamiento estructural (estático o dinámico)
+                de un edificio, en la evaluación e interpretación de los resultados se tendrá en cuenta que los
+                ensayos se realizan con cargas de servicio, mientras que la capacidad portante se debe eva-
+                luar para estados más avanzados de carga.
+      e)     los daños y anomalías existentes: deformaciones, desplazamientos, corrosión, fatiga y enveje-
+             cimiento en general.
+D.3.2 Evaluación de los ensayos y representación de los resultados
+1     Cuando el número de resultados sea reducido, la aplicación de los métodos clásicos de la estadísti-
+      ca puede conducir a valores conservadores, debido a la influencia de los errores de estimación. En
+      estos casos, si se dispone de información previa, ésta podría combinarse con los resultados obteni-
+      dos, para mejorar la información.
+2     La representación de los resultados obtenidos en la evaluación de los ensayos o de las mediciones
+      dependerá del método de análisis empleado, semi-probabilista o probabilista.
+3     Cuando se realice un análisis semi-probabilista, el objetivo de la evaluación de los ensayos o de las
+      mediciones será la determinación del valor representativo de la variable correspondiente. La defini-
+      ción del valor representativo depende de la variable contemplada, y debe ser consistente con la de-
+      finición del coeficiente parcial correspondiente. Salvo que exista información en sentido contrario, la
+      definición del valor representativo de una variable se corresponderá con lo indicado en 3.3.
+4     Cuando se realice un análisis probabilista, las variables que intervienen en una verificación se re-
+      presentarán mediante las correspondientes funciones de densidad de probabilidad. En muchos ca-
+      sos, estas funciones pueden ser caracterizadas a través de sus principales parámetros (valor me-
+      dio, desviación típica, tipo de distribución). A falta de un análisis más detallado, a las variable se les
+      asignará el mismo tipo de distribución que se haya tenido en cuenta en la calibración de los mode-
+      los para las acciones y para la resistencia estructural de edificios de nueva construcción (Anejo C). .
+D.3.3 Bases de cálculo
+1     Se deben revisar y, según el caso, se adaptar o completar las situaciones de dimensionado que se
+      hayan considerado en el proyecto original, teniendo en cuenta los daños y anomalías observados,
+      así como la incidencia que estos puedan tener sobre los posibles mecanismos de fallo. Cuando no
+      se disponga de las bases de cálculo del proyecto original, se establecerán las situaciones de di-
+      mensionado a efectos de la evaluación.
+
+                                                SE - 35
+
+                                  Documento Básico SE Seguridad Estructural
+
+2     Las situaciones de dimensionado, así como las medidas previstas para alcanzar las exigencias
+      relativas a la capacidad portante y a la aptitud al servicio deber reflejarse en las bases de cálculo
+      actualizadas.
+D.3.4 Control de riesgos: inspección y planificación de medidas
+1     Podrán considerarse aceptables ciertos riesgos, bien por la baja frecuencia de ocurrencia de las
+      situaciones que estén en su origen, o bien porque las consecuencias en caso de ocurrencia de una
+      de estas situaciones resulten suficientemente pequeñas. La aceptación de estos riesgos requiere la
+      adopción de medidas adicionales de inspección y de control (observación, inspecciones periódicas,
+      mediciones de control, monitorización), cuyo objetivo consistirá en la detección de los posibles da-
+      ños o anomalías en un estado temprano, para poder adoptar las medidas adecuadas que mitiguen
+      los riesgos antes de que se pueda producir un evento no deseado. Los riesgos aceptados se refle-
+      jarán en la memoria.
+2     El alcance y la intensidad de las medidas de inspección y de control, así como las medidas para la
+      reducción de las consecuencias de los riesgos aceptados se determinarán en función de las carac-
+      terísticas y de la importancia de la obra, así como en función del tipo y de las características de di-
+      chos riesgos.
+D.4 Análisis estructural
+1     Para el análisis estructural de un edificio existente deben emplearse modelos que reflejen adecua-
+      damente el estado actual del edificio y tengan en cuenta los procesos de deterioro que puedan re-
+      sultar importantes. Las incertidumbres asociadas con los modelos se tendrán en cuenta mediante
+      coeficientes parciales adecuados en análisis semiprobabilistas y mediante la introducción de una
+      variable del modelo en análisis probabilistas.
+2     La influencia de los efectos de escala o de forma, de la duración de la aplicación de una carga, de
+      la temperatura o de la humedad se tendrán en cuenta mediante coeficientes de conversión.
+3     En el análisis se tendrá en cuenta el nivel de incertidumbre relativo a las condiciones y al estado de
+      los elementos. A estos efectos, se podrá ajustar la dispersión asumida, entre otros, para la capaci-
+      dad portante de los elementos, o para las dimensiones de sus secciones transversales.
+4     Si se observa el deterioro estructural de un edificio existente, deben identificarse los mecanismos
+      de deterioro y determinarse modelos de deterioro que permitan predecir el comportamiento futuro
+      del mismo.
+D.5 Verificación
+D.5.1 Generalidades
+1     Las exigencias relativas a la capacidad portante y a la aptitud al servicio dependerán del periodo de
+      servicio restante que se estime. Las verificaciones de la capacidad portante y de la aptitud al servi-
+      cio se efectuarán sobre la base de las situaciones de dimensionado actualizadas.
+2     La evaluación de la capacidad portante de un edificio existente se efectuará teniendo en cuenta su
+      capacidad de deformación así como su modo de fallo previsible. En particular, se determinará si es
+      posible una redistribución de los esfuerzos y si a un inminente fallo le precederían deformaciones
+      importantes.
+3     En los casos en los que, durante el periodo de servicio restante, puedan producirse situaciones
+      extraordinarias, éstas se tendrán en cuenta en la verificación de la capacidad portante.
+4     Si durante el periodo de servicio restante actúan sobre el edificio cargas variables repetidas o si se
+      pueden producir vibraciones por resonancia, se realizará una verificación de la seguridad frente a la
+      fatiga.
+D.5.2 Verificación de la capacidad portante
+D.5.2.1 Evaluación preliminar
+1     La verificación de la capacidad portante para el periodo de servicio restante se realizará a partir de
+      los valores representativos actualizados de las acciones y de la información actualizada sobre la es-
+      tructura, adoptando los coeficientes parciales de seguridad para las acciones y para la resistencia
+      de acuerdo con lo establecido en el apartado 4.2 y en los documentos básicos de seguridad estruc-
+      tural de los diferentes materiales.
+
+                                                SE - 36
+
+                                  Documento Básico SE Seguridad Estructural
+
+D.5.2.2 Evaluación detallada
+1     La verificación de la capacidad portante para el periodo de servicio restante se realizará a partir de
+      los valores representativos actualizados de las acciones y de la información actualizada sobre la es-
+      tructura, adoptando coeficientes parciales de seguridad particularizados para las acciones y para la
+      resistencia. Para la determinación de dichos coeficientes particularizados se tendrá en cuenta la in-
+      fluencia de los cambios –debidos a la adquisición de información– en las incertidumbres asociadas
+      con las variables.
+2     Los coeficientes parciales particularizados se calibrarán para que sean consistentes con el nivel
+      requerido de seguridad estructural. Normalmente serán menos conservadores que los coeficientes
+      correspondientes incluidos en los los documentos básicos correspondientes para el dimensionado
+      en edificios de nueva construcción.
+D.5.2.3 Evaluación avanzada con métodos probabilistas
+1     La seguridad estructural de un edificio podrá cuantificarse en términos de su fiabilidad, que tendrá
+      en cuenta las incertidumbres asociadas con las distintas variables básicas. Dicha fiabilidad se re-
+      presenta a través de una probabilidad de fallo.
+2     En el estado actual de los conocimientos no es posible definir un valor único para la probabilidad de
+      fallo admisible. Se considera que un edificio correctamente dimensionado y construido según un
+      conjunto consistente de reglas para la determinación de la resistencia y de las acciones, correspon-
+      dientes al estado de la práctica en un determinado momento, es fiable en este momento y en el
+      marco de dichas reglas.
+3     La evaluación estructural de un edificio existente con métodos probabilistas, requerirá los siguientes
+      pasos:
+      a)     dimensionado estricto de la estructura que quiere evaluarse según un conjunto consistente de
+             normas de acciones y de resistencia que estén en vigor;
+      b)     determinación de la probabilidad de fallo de la estructura dimensionada en a), considerando
+             para las variables básicas los parámetros que están implícitos en las especificaciones de las
+             normas empleadas. La probabilidad de fallo así obtenida es la probabilidad de fallo admisible
+             según las normas empleadas;
+      c)     determinación de la probabilidad de fallo de la estructura que quiere evaluarse, utilizando los
+             parámetros actualizados de las variables que intervienen en los cálculos.
+4     La estructura evaluada tiene una seguridad estructural adecuada si la probabilidad de fallo de la
+      estructura evaluada es menor o igual a la probabilidad de fallo admisible.
+D.5.3 Verificación de la aptitud al servicio
+1     Una estructura o un elemento estructural tiene un comportamiento adecuado para el periodo de
+      servicio restante en relación con un determinado criterio, si para las situaciones de dimensionado
+      consideradas se cumple que el efecto de las acciones no alcanza el valor límite establecido para di-
+      cho efecto. La verificación se realizará a partir de los valores representativos actualizados de las
+      acciones y de la información actualizada sobre la estructura.
+2     Los efectos de las acciones se determinarán de acuerdo con los objetivos de la evaluación estable-
+      cidos, teniendo en cuenta los valores representativos actualizados de las acciones y de todas las in-
+      fluencias pertinentes, así como la información actualizada de la estructura. En ausencia de acuer-
+      dos específicos, estos efectos se determinarán según el apartado 4.3.
+3     Los valores límite para los distintos efectos de las acciones deben estar en concordancia con el
+      objetivo de cada verificación y se determinarán para cada caso. En ausencia de acuerdos específi-
+      cos, se adoptarán como valores límite los valores nominales según 4.3.
+4     La verificación de la aptitud al servicio se podrá realizar mediante métodos probabilistas, utilizando
+      los parámetros actualizados de las variables que intervienen en los cálculos.
+D.6 Evaluación cualitativa
+D.6.1 Capacidad portante
+1     Puede suponerse que un edificio que haya sido dimensionado y construido de acuerdo con las re-
+      glas de normas antiguas, tendrá una capacidad portante adecuada, si se cumplen las siguientes
+      condiciones:
+
+                                                SE - 37
+
+                                  Documento Básico SE Seguridad Estructural
+
+      a)     el edificio se ha utilizado durante un periodo de tiempo suficientemente largo sin que se hayan
+             producido daños o anomalías (desplazamientos, deformaciones, fisuras, corrosión, etc.);
+      b)     una inspección detallada no revele ningún indicio de daños o deterioro;
+      c)     la revisión del sistema constructivo permita asegurar una transmisión adecuada de las fuerzas,
+             especialmente a través de los detalles críticos;
+      d)     teniendo en cuenta el deterioro previsible así como el programa de mantenimiento previsto se
+             puede anticipar una durabilidad adecuada;
+      e)     durante un periodo de tiempo suficientemente largo no se han producido cambios que pudie-
+             ran haber incrementado las acciones sobre el edificio o haber afectado su durabilidad;
+      f)     durante el periodo de servicio restante no se prevean cambios que pudieran incrementar las
+             acciones sobre el edificio o afectar su durabilidad de manera significativa.
+2     Una evaluación cualitativa de la capacidad portante de un edificio existente puede ser insuficiente
+      para situaciones de dimensionado extraordinarias.
+3     El comportamiento de un edificio cuya capacidad portante haya sido evaluada cualitativamente se
+      controlará periódicamente durante el periodo de servicio restante. Para ello se emplearan los me-
+      dios que se estimen necesarios, dependiendo de las características de la estructura, así como de
+      las acciones e influencias que actúen sobre ella y de su estado.
+D.6.2 Aptitud al servicio
+1     Un edificio que haya sido dimensionado y construido de acuerdo con las reglas de normas antiguas
+      podrá considerarse apto para el servicio, si se cumplen las siguientes condiciones:
+      a)     el edificio se ha comportado satisfactoriamente durante un periodo de tiempo suficientemente
+             largo sin que se han producido daños o anomalías, y sin que se han producido deformaciones
+             o vibraciones excesivas;
+      b)     una inspección detallada, no revela ningún indicio de daños o deterioro, ni de deformaciones,
+             desplazamientos o vibraciones excesivas;
+      c)     durante el periodo de servicio restante no se prevean cambios que puedan alterar significati-
+             vamente las acciones sobre el edificio o afectar su durabilidad;
+      d)     teniendo en cuenta el deterioro previsible así como el programa de mantenimiento previsto se
+             pueda anticipar una adecuada durabilidad.
+D.7 Resultados de la evaluación
+1     Los resultados de la evaluación se documentarán en un informe que incluirá los trabajos efectua-
+      dos, que traten al menos los siguientes aspectos:
+      a)     objetivos de la evaluación;
+      b)     descripción del edificio y de sus elementos estructurales; síntomas y lesiones;
+      c)     recopilación de información y adquisición de datos:
+      d)     documentación recopilada y analizada;
+      e)     objetivos y planificación;
+      f)     realización de inspecciones, catas y ensayos;
+      g)     resultados;
+      h)     análisis;
+      i)     verificación;
+      j)     diagnóstico;
+      k)     opciones de intervención;
+      l)     recomendaciones.
+2     Cuando se demuestre una seguridad estructural adecuada, el edificio se podrá seguir usando en las
+      condiciones establecidas. En estos casos, se definirá un programa de inspección y de mantenimien-
+      to en concordancia con las características y la importancia de la obra.
+3     Cuando no pueda demostrarse una seguridad estructural adecuada, los resultados de la evaluación
+      se podrán utilizar para la elaboración de las recomendaciones oportunas sobre las medidas a adop-
+      tar. Según el caso, estas medidas podrán ser técnico-administrativas o constructivas. En algunos
+
+                                                  SE - 38
+
+                                  Documento Básico SE Seguridad Estructural
+
+      casos, las conclusiones de una evaluación preliminar pueden aconsejar la adopción de medidas
+      preventivas de aseguramiento estructural del edificio (D.8).
+4     Las medidas a adoptar para asegurar, restablecer o mantener la seguridad estructural de un edificio
+      deben ser planificadas adecuadamente.
+D.8 Medidas
+D.8.1 Medidas de aseguramiento estructural
+1     En el momento en el que la evaluación realizada así lo aconseje, especialmente en los casos en los
+      que no se pueda demostrar una seguridad adecuada, se adoptarán medidas de aseguramiento es-
+      tructural del edificio, tales como la restricción del uso del mismo, el apeo provisional de elementos
+      estructurales, la puesta fuera de servicio y cierre de la obra o la evacuación de las zonas que pudie-
+      ran estar afectadas por un posible derrumbe, según corresponda. El objetivo de las medidas de
+      aseguramiento será primordialmente la protección inmediata de las personas o del medio ambiente.
+D.8.2 Medidas técnico-administrativas
+1     En función de los resultados obtenidos en una evaluación y para controlar, modificar o atenuar los
+      riesgos de origen estructural, puede resultar adecuada la adopción de medidas técnico – adminis-
+      trativas como el control (permanente o periódico) del comportamiento estructural o de las condicio-
+      nes de utilización, la limitación en la utilización del edificio, la instalación de dispositivos automáticos
+      de aviso o de control activo, la puesta a punto de medidas de emergencia o la introducción de es-
+      quemas de evacuación. Dichas medidas se establecerán para cada caso, teniendo en cuenta la im-
+      portancia de la obra, el riesgo para las personas o para el medio ambiente, el modo de rotura previ-
+      sible (dúctil o frágil), las posibilidades de control y limitación de los daños, las distintas alternativas
+      técnicamente viables y el costo absoluto o relativo al incremento de seguridad.
+D.8.3 Medidas constructivas.
+1     Según los resultados de la evaluación, puede resultar necesaria la adopción de medidas constructi-
+      vas que incrementen la seguridad estructural de forma que se cumplan las exigencias acordes con
+      los objetivos establecidos para el periodo de servicio futuro, tales como el incremento o reducción
+      de la resistencia de elementos o de secciones, de la rigidez o de la masa, el incremento de la capa-
+      cidad de deformación, la instalación de amortiguadores o el cambio del sistema estático.
+2     Los elementos de refuerzo de una estructura se dimensionarán según las especificaciones para el
+      dimensionado estructural de edificios de nueva construcción. Alternativamente, las verificaciones re-
+      lativas a los elementos de refuerzo se podrán basar en una aplicación directa de los métodos de
+      análisis de la seguridad.
+
+                                                SE - 39

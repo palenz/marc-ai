@@ -1,0 +1,482 @@
+                           Ministerio de Fomento
+                           Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+                           Secretaría General de Vivienda
+                           Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-HR Protección frente al ruido
+Código Técnico de la Edificación
+DA DB-HR / 2
+Procedimiento de cálculo de transmisiones indirectas
+Marzo 2020
+Los Documentos de Apoyo (DA) son textos de carácter técnico que cuentan con la aprobación de los
+servicios técnicos del Ministerio de Fomento, pero carecen de valor reglamentario. El objetivo de estos
+documentos es ayudar a la comprensión y la puesta en práctica del texto reglamentario.
+Referencias
+Documento Básico:
+DB HR                          3.1.3 Opción general. Método de cálculo de aislamiento acústico
+Normas:
+* UNE-EN ISO 12354-1: 2018     Acústica de edificios. Estimación del rendimiento acústico de los edificios
+                               a partir del rendimiento de los elementos. Parte 1: Aislamiento acústico a
+                               ruido aéreo entre recintos. (ISO 12354-1:2017)
+* UNE-EN ISO 12354-2: 2018     Acústica de edificios. Estimación del rendimiento acústico de los edificios
+                               a partir del rendimiento de los elementos. Parte 2: Aislamiento acústico a
+                               ruido de impactos entre recintos. (ISO 12354-2:2017)
+* UNE-EN ISO 12354-3: 2018     Acústica de edificios. Estimación del rendimiento acústico de los edificios
+                               a partir del rendimiento de los elementos. Parte 3: Aislamiento acústico a
+                               ruido aéreo frente al ruido exterior. (ISO 12354-3:2017)
+* UNE-EN ISO 717-2:2013        Acústica. Evaluación del aislamiento acústico en los edificios y de los
+                               elementos de construcción. Parte 2: Aislamiento a ruido de impactos. (ISO
+                               717-2:2013)
+UNE-EN ISO 10848-1:2018        Acústica. Medición en laboratorio y sobre el terreno de la transmisión por
+                               flancos del ruido aéreo, del ruido de impactos y del ruido del equipo
+                               técnico de edificios entre recintos adyacentes. Parte 1: Documento marco.
+                               (ISO 10848-1:2017)
+UNE-EN ISO 10848-2:2018        Acústica. Medición en laboratorio y sobre el terreno de la transmisión por
+                               flancos del ruido aéreo, del ruido de impactos y del ruido del equipo
+                               técnico de edificios entre recintos adyacentes. Parte 2: Aplicación a
+                               elementos de tipo B cuando la unión tiene una influencia pequeña. (ISO
+                               10848-2:2017)
+UNE-EN ISO 10848-3:2018        Acústica. Medición en laboratorio y sobre el terreno de la transmisión por
+                               flancos del ruido aéreo, del ruido de impactos y del ruido del equipo
+                               técnico de edificios, entre recintos adyacentes. Parte 3: Aplicación a
+                               elementos de tipo B cuando la unión tiene una influencia sustancial. (ISO
+                               10848-3:2017)
+UNE-EN ISO 10848-4:2018        Acústica. Medición en laboratorio y sobre el terreno de la transmisión por
+                               flancos del ruido aéreo, del ruido de impactos y del ruido del equipo
+
+                                                         1 de 10
+
+Documento de Apoyo al DB HR                                                               DA DB HR / 2
+
+                               técnico de edificios entre recintos adyacentes. Parte 4: Aplicación a
+                               uniones con al menos un elemento de tipo A. (ISO 10848-4:2017)
+Las normas marcadas con un asterisco (*) están citadas en el articulado del DB-HR.
+
+                                               2 de 12
+
+Documento de Apoyo al DB HR                                                                  DA DB HR / 2
+
+1         Objeto
+El objeto de este DA es mostrar el procedimiento de cálculo de las transmisiones indirectas para incluir
+aquellos casos no contemplados en la opción general de aislamiento acústico del DB HR descrita en el
+apartado 3.1.3.
+El procedimiento de cálculo descrito en este DA está basado en el modelo simplificado para valores
+globales de las normas UNE-EN ISO 12354 partes 1, 2 y 3. Este procedimiento también puede aplicarse
+en el caso del modelo detallado por frecuencias.
+En este DA se recogen las expresiones de cálculo de la transmisión acústica a través de las uniones
+contenidas en la UNE-EN ISO 12354-1 de los siguientes parámetros:
+           Índice de reducción de vibraciones, Kij.
+           Diferencia de nivel de vibración promediada direccionalmente, Dv ,ij,n .
+
+2         Transmisiones indirectas para diferentes tipos de elementos constructivos
+El método de cálculo descrito en la opción general de aislamiento acústico permite la estimación del
+aislamiento acústico en los edificios mediante el cálculo del aislamiento acústico a través de la vía directa
+y las vías indirectas, según se describe en las figuras 3.5, 3.6 y 3.7 del DB HR. El aislamiento acústico
+para la transmisión indirecta o por flancos para cada vía de transmisión está definido por los siguientes
+índices:
+          Para ruido aéreo, Rij,A: Índice global de reducción acústica para la transmisión por flancos para
+          cada vía de transmisión ij (ij=Ff; Fd o Df). Se emplea en el cálculo de aislamiento acústico a ruido
+          aéreo entre recintos y entre un recinto y el exterior.
+          Para ruido de impactos, Lnw,ij: Nivel global de presión de ruido de impactos normalizado debido
+          a la transmisión indirecta o por flancos para cada vía de transmisión desde el forjado al resto de
+          elementos constructivos conectados a dicho forjado.
+Para el cálculo de ambos parámetros, es necesario conocer cómo es la transmisión de vibraciones a través
+de las uniones entre elementos constructivos. Según cómo sea ésta, deben diferenciarse dos tipos de
+elementos constructivos:
+          Elementos tipo A¹, son fundamentalmente elementos de tipo homogéneo, como elementos de
+          hormigón armado, de madera contralaminada (CLT), fábricas de ladrillo y bloque de hormigón de
+          una o dos hojas, vidrios, plásticos y metales, incluyendo sus acabados o revestimientos continuos
+          si están fijados rígidamente, como enlucidos, enfoscados, recrecidos, pavimentos pegados, etc.
+          La transmisión acústica a través de las uniones de estos elementos se caracteriza por el índice de
+          reducción de vibraciones, Kij.
+          Las uniones entre elementos de tipo A y de tipo B también se caracterizan por el índice Kij.
+          Elementos de tipo B, son elementos constructivos formados por placas de yeso laminado o
+          tableros de madera anclados a un entramado metálico o de madera.
+          La transmisión de la energía acústica a través de las uniones entre elementos constructivos de
+          tipo B se caracteriza por la diferencia de nivel de vibración promediada direccionalmente,                      Dv ,
+                                                                                                                          ij,n
+          estimada a través de las prestaciones acústicas de los elementos constructivos.
+          Para elementos de tipo B, las transmisiones indirectas se caracterizan también por Dnf, diferencia
+          de nivel transmitido por los flancos normalizada y por Ln,f, nivel de presión acústica de impactos
+
+1 Son elementos con un tiempo de reverberación estructural determinado por los elementos conectados (al menos hasta la banda
+de 1000 Hz) y con una disminución del nivel de vibraciones menor a 6 dB en la dirección perpendicular a la línea de unión.
+
+                                                   3 de 12
+
+Documento de Apoyo al DB HR                                                                     DA DB HR / 2
+
+        por flancos normalizado, que son parámetros definidos en las normas UNE-EN ISO 12354 partes
+        1 y 2 respectivamente.
+2.1     Elementos de tipo A y combinaciones de elementos de tipo A y B
+Para los elementos de tipo A y las combinaciones de elementos de tipo A y B, el índice global de reducción
+acústica para la transmisión por flancos, Rij,A, se obtiene mediante la ecuación 2.1, que       aparece
+particularizada para los caminos de transmisión Ff, Fd y Df en las expresiones 3.12, 3.13 y 3.14 del DB
+HR.
+                  Ri,A  Rj, A                                  Ss           [dB]                   (2.1)
+        R                         ΔR   K   10·log
+              ij,A         2          ij,A  ij          l  ·l
+                                                           0   f
+        siendo:
+        Ri,A          índice global de reducción acústica ponderado A del elemento i en el recinto emisor, [dBA];
+        Rj,A          índice global de reducción acústica ponderado A del elemento j en el recinto receptor,
+                      [dBA];
+        ΔRij,A        mejora del índice global de reducción acústica debido a revestimientos para la vía de
+                      transmisión ij. Véanse expresiones 3.15 y 3.16 del DB HR, [dBA];
+        Kij           índice de reducción de vibraciones. Véase apartado 3, [dB];
+        Sₛ            área compartida del elemento de separación, [m²];
+        lf            longitud común de la arista de unión entre el elemento de separación y los elementos de
+                      flanco, [m];
+        l₀            longitud de la arista de unión de referencia con valor l₀ = 1m.
+Para el cálculo del nivel global de presión de ruido de impactos normalizado por flancos Lₙ,w,ij se aplica la
+ecuación 3.23 del DB HR, que se reproduce a continuación.
+                                  Ri,A  Rj,A                                        Si          [dB]    (2.2)
+        L              L     L                      R    K         10·log
+              n,w,ij      n,w   w     2                 j,A  ij              l      ·l
+                                                                                    0     f
+        siendo:
+        Ln,w          nivel global de presión de ruido de impactos normalizado, [dB];
+        ΔLw           reducción del nivel de presión de ruido de impactos por revestimientos, por ejemplo, un
+                      suelo flotante, colocado en el lado de la emisión, [dB];
+        Ri,A          índice global de reducción acústica ponderado A del elemento i en el recinto emisor, [dBA];
+        Rj,A          índice global de reducción acústica ponderado A del elemento j en el recinto receptor,
+                      [dBA];
+        ΔRj,A         mejora del índice global de reducción acústica debido a revestimientos en el elemento j,
+                      [dBA];
+        Kij           índice de reducción de vibraciones. Véase apartado 3, [dB];
+        Sₛ            área compartida del elemento de separación, [m²];
+        lf            longitud común de la arista de unión entre el elemento de separación y los elementos de
+                      flanco, [m];
+        l₀            longitud de la arista de unión de referencia con valor l₀ = 1m.
+2.2     Elementos de tipo B
+En el caso de uniones entre elementos de tipo B, es decir, de elementos de entramado de madera o
+metálico, la norma UNE-EN ISO 12354-1, indica que el cálculo del índice de reducción acústica para la
+transmisión por flancos, Rij, a partir de índices de reducción acústica de los elementos constructivos debe
+realizarse para cada banda de tercio de octava según se indica en la ecuación 2.3, y debe particularizarse
+para cada vía de transmisión (Ff; Fd o Df).
+        Rij = Rⁱ +Rʲ + ΔRij +Dv,ij,n +      10·log Sˢ              [dBA]                                (2.3)
+                      2                                 l₀·lf
+
+                                                                   4 de 12
+
+Documento de Apoyo al DB HR                                                                  DA DB HR / 2
+
+        siendo:
+        Ri         índice de reducción acústica del elemento i en el recinto emisor, [dBA];
+        Rj         índice de reducción acústica del elemento j en el recinto receptor, [dBA];
+        ΔRij       mejora del índice de reducción acústica debido a revestimientos para la vía de transmisión
+                   ij. Véanse expresiones 3.15 y 3.16 del DB HR, [dBA];
+        Dv ,       diferencia  de nivel de vibración normalizada promediada       direccionalmente. Véase
+               ij,n
+                   apartado 4, [dB];
+        Sₛ         área compartida del elemento de separación, [m²];
+        lf         longitud común de la arista de unión entre el elemento de separación y los elementos de
+                   flanco, [m];
+        l₀         longitud de la arista de unión de referencia con valor l₀ = 1m.
+El valor del Índice global de reducción acústica para la transmisión por flancos, Rij,A puede obtenerse al
+aplicar la ponderación espectral A recogida en la tabla A.6 del DB HR.
+En el caso de las construcciones de entramado ligero de madera en las que todos los elementos
+constructivos (forjado, elementos de separación, tabiquería, fachada, etc.) son de entramado ligero,
+pueden aplicarse las ecuaciones 3.6, 3.8, 3.17 y 3.18 del DB HR usando los valores de tercios de octava
+obtenidos para cada vía de transmisión     Rij. El valor global de la diferencia de niveles estandarizada
+ponderada A, DnT,A, o de la diferencia de niveles ponderada A para ruido de automóviles, D2m,nT,Atr debe
+obtenerse aplicando las ecuaciones A.7 y A.6 del DB HR respectivamente.
+De forma alternativa, el índice global de reducción acústica para la transmisión por flancos, Rij,A, de
+elementos de tipo B puede estimarse también a partir de la diferencia normalizada de nivel por flancos
+ponderada, Dn,f,ij,w, aplicando el procedimiento de cálculo de la UNE-EN ISO 12354-1. Dn,f,ij,w se obtiene
+mediante los métodos de ensayo descritos en las normas UNE-EN ISO 10848 partes 1, 2 y 3.
+Para ruido de impactos, según la norma UNE-EN ISO 12354-2, el nivel de presión de ruido de impactos
+normalizado por flancos Ln,ij desde el forjado i al elemento j, cuando ambos elementos son de tipo B, debe
+realizarse para cada banda de tercio de octava según se indica en la ecuación 2.4.
+
+        Lₙ,ij   = Lₙ  ΔLi + Rⁱ 2 Rʲ     ΔRj Dv,ij,ₙ  10·log lSⁱ            [dB]                        (2.4)
+                                                             0·lf
+        siendo:
+        Lₙ         nivel de presión de ruido de impactos normalizado para la transmisión directa, [dB];
+        ΔLi        reducción del nivel de presión de ruido de impactos por revestimientos, por ejemplo, un
+                   suelo flotante, colocado en el lado de la emisión, [dB];
+        Ri         índice de reducción acústica del elemento i en el recinto emisor, [dBA];
+        Rj         índice de reducción acústica del elemento j en el recinto receptor, [dBA];
+        ΔRj        mejora del índice de reducción acústica debido a revestimientos en el elemento j, [dBA];
+        Dv ,       diferencia  de nivel de vibración normalizada promediada        direccionalmente. Véase
+               ij,n
+                   apartado 4, [dB];
+        Sₛ         área compartida del elemento de separación, [m²];
+        lf         longitud común de la arista de unión entre el elemento de separación y los elementos de
+                   flanco, [m];
+        l₀         longitud de la arista de unión de referencia con valor l₀ = 1m.
+En el caso de las construcciones de entramado ligero de madera en las que todos los elementos
+constructivos (forjado, elementos de separación, tabiquería, fachada, etc.) son de entramado ligero,
+
+                                                     5 de 12
+
+ Documento de Apoyo al DB HR                                                                             DA DB HR / 2
+
+ pueden aplicarse las ecuaciones 3.20, 3.21 y 3.24 del DB HR usando los valores     ~~de ~~  tercio ~~s ~~  de octava
+ obtenidos para cada vía de transmisión Lₙ,ij. El valor global del nivel global de presión de ruido de impactos
+ estandarizado, L’nT,w, debe obtenerse aplicando la norma UNE-EN ISO 717-2.
+ De forma alternativa, el nivel global de presión de ruido de impactos normalizado por flancos, Ln,w,ij, de
+ elementos de tipo B puede estimarse también a partir del nivel de presión acústica de impactos por flancos
+ normalizado ponderado, Ln,f,w, aplicando el procedimiento de cálculo de la UNE-EN ISO 12354-2. Ln,f,w se
+ obtiene mediante los métodos de ensayo descritos en las normas UNE-EN ISO 10848 partes 1 y 2 y
+ aplicando la ponderación de la UNE-EN ISO 717-2.
+ 3       Cálculo del índice de reducción de vibraciones, Kij
+ Pueden obtenerse los índices de reducción de vibraciones, Kij, en uniones de elementos constructivos para
+ los distintos tipos de uniones; a partir de las expresiones que se indican a continuación. Estas expresiones
+ están dadas en función de la magnitud M, definida como:
+          M  lg m'  i                                                                                       (3.1)
+                m'i
+         siendo:
+         m’i        masa por unidad de superficie del elemento i en el camino de transmisión ij, [kg/m²];
+         m’   i     masa por unidad de superficie del otro elemento, perpendicular al i,que  forma          la unión,
+                    [kg/m²].
+ Para el cálculo de M, debe tomarse únicamente la masa correspondiente al elemento base o forjado
+ conectado a los elementos constructivos colindantes y deben excluirse las masas de las capas de
+ revestimiento, tales como suelos flotantes, trasdosados y techos suspendidos.
+ El valor global de Kij es la media aritmética de los valores de tercios de octava de las frecuencias de 200
+ a 1250 Hz. Kij es poco dependiente de la frecuencia para aquellas uniones entre elementos homogéneos.
+ Para las uniones con el resto de elementos constructivos, Kij depende en mayor o menor medida de la
+ frecuencia. En estos casos, para hallar el valor global de Kij de las ecuaciones 3.12 a 3.15 y de 3.18 a 3.36,
+ puede tomarse el valor de la frecuencia igual a f=500 Hz.
+ Los esquemas siguientes representan uniones muy simplificadas que pueden verse tanto en planta, como
+ en sección.
+ La elección de una u otra expresión depende de:
+         el tipo de elemento constructivo;
+         el número de elementos que confluyen en la unión. Si un elemento acomete a otro, sería una unión
+         en T. Si se trata de dos elementos que acometen a otro en el mismo punto, sería una unión en
+         cruz. Un ejemplo de una unión en T es la vista en planta de un tabique que acomete a un elemento
+         de separación vertical.
+
+Unión rígida en + de elementos constructivos homogéneos:
+
+                                 K13  8,7  17,1M  5,7  M2  dB;       0 dB/octava                               (3.2)
+
+                                 K12  8,7   5,7  M2 ( K23 )  dB;     0 dB/octava                               (3.3)
+
+                                                  6 de 12
+
+  Documento de Apoyo al DB HR                                                                             DA DB HR / 2
+
+Unión rígida en T de elementos constructivos homogéneos:
+
+                                       K13  5,7  14,1M  5,7  M2                   dB;         0 dB/octava                                      ~~(3.4)~~  
+
+                                       K12  5,7   5,7  M2            ( K23 )      dB;         0 dB/octava                                     (3.5)
+
+Uniones en + y en T de elementos constructivos homogéneos con elementos flexibles interpuestos
+                                     Si la trayectoria de transmisión cruza una única junta elástica:                                         (3.6)
+                                      K12  K14  Kij,rigid   1              (dB)
+                                     Si la trayectoria de transmisión cruza dos juntas elásticas:                                             (3.7)
+                                      K13  Kij,rigid  2 1     (dB)
+                                     Para las vías de transmisión sin bandas                   ~~elásticas:~~  
+                                      K           3,7  14,                   2                                                                (3.8)
+                                                   1
+                                           24                 ·M  5,7·M           dB;0  K24  -4 dB;pendiente:0dB/octava
+                                      K           5,7  14,                   2                                                                (3.9)
+                                                   1
+                                           25                 ·M  5,7·M           dB;pendiente:0dB/octava
+                                     siendo:
+                                     Kij,rigid es el valor de  ~~K~~  ij de una unión rígida en cruz            ~~o ~~  en  ~~T ~~  sin bandas
+                                     según ecuaciones 3.2 a 3.5.
+                                       1  Cc lg f / f1        (dB);                1≥ 5 dB                                                   (3.10)
+                                     con:
+                                                  Cc   cc arga              20                                                               (3.11)
+                                                              argaref
+                                                  carga       carga sobre la junta elástica, [kN/m²];
+                                                  cargaref    carga de referencia con valor 100kN/m²;
+                                                  Pueden tomarse los siguientes valores de Cc:
+                                                  Cc = 20 para una carga inferior a 80 kN/m² sobre la capa elástica;
+                                                  Cc = 15 para una carga entre a 80 kN/m² y 750 kN/m² sobre la capa
+                                                  elástica;
+                                                  Cc = 10 para una carga superior a 750 kN/m² sobre la capa elástica.
+                                     f₁= 110 Hz, si s’ₜ de la banda elástica se sitúa entre 50 MN/m³ y 100 MN/m³
+                                     f = 50 Hz, si s’         de la
+                                      1            t                 banda elástica se sitúa entre 30 MN/m³ y 49 MN/m³
+                                     f₁    varía en función de           E1 / t1   1· 2 1,5 siendo E₁, el módulo de Young de la
+                                     banda elástica, t₁ el espesor de la banda elástica y ρ₁, ρ₂, las densidades de
+                                     los elementos conectados.
+
+Uniones de elementos de entramado autoportante y elementos constructivos homogéneos
+
+                                       K13  10    20 M - 3,3  lg(f / fk)               dB; mínimo10 dB                                       (3.12)
+
+                                       K 24  3,0  14,1M  5,7 M2                   dB; (m2 / m1)  3; 0 dB/octava                              (3.13)
+
+                                                              7 de 12
+
+  Documento de Apoyo al DB HR                                                                                      DA DB HR / 2
+
+                                   K12  10  10·M  3,3  lg(f / fk)            dB; ( K23 )                           (3.14)
+                                   fₖ = 500 Hz
+                                   Los elementos ligeros se consideran como un solo elemento con longitud
+                                   de absorción asitu=S/l₀, con l₀ = 1 m.                                          (3.15)
+
+Esquinas de elementos homogéneos
+
+                                   K12  15·M - 3  dB ( K21); mínimo- 2 dB;   0 dB/octava                           (3.16)
+
+Cambio de espesor en    ~~elementos homogéneos~~  
+
+                                   K12  5M2 - 5 dB    ( K21);             0 dB/octava                              (3.17)
+
+Uniones en + y en T entre elementos de madera contralaminada, CLT
+Valores válidos para uniones entre elementos con una relación de masas por unidad de superficie igual a 0,5<m₁/m₂<2
+
+                                    K13  22       3,3  lg(f / fk)                                                  (3.18)
+                                    K23  15       3,3  lg(f / fk)                                                  (3.19)
+                                   fₖ=500 Hz (pendiente: 1 dB/oct)
+
+                                    K13  10       3,3  lg(f / fk)     10M                                          (3.20)
+                                    K13  23       3,3  lg(f / fk)    ;                                             (3.21)
+                                    K13  18       3,3  lg(f / fk)    ;                                             (3.22)
+                                    fk  500Hz
+
+Para otros sistemas constructivos no contemplados en la norma UNE-EN ISO 12354-1, pueden calcularse los
+índices de reducción de vibraciones, Kij, mediante otras formulaciones desarrolladas al efecto o usarse valores
+de Kij obtenidos mediante mediciones según las normas UNE-EN ISO 10848 partes 1 y 4.
+Es el caso de los elementos constructivos de dos hojas de fábrica, hormigón o paneles prefabricados pesados
+y estos mismos con bandas elásticas en su perímetro, tal y como se especifica en las soluciones de Tipo 2
+del apartado 3.1.2.3 del DB HR.
+Al tratarse de soluciones de dos hojas, los cálculos deben realizarse teniendo en cuenta el elemento
+constructivo completo con las dos hojas o sólo el elemento base. En cada caso, se indica qué elementos tener
+en consideración.
+
+                                                     8 de 12
+
+  Documento de Apoyo al DB HR                                                                    DA DB HR / 2
+
+Uniones en + y en T de elementos constructivos de dos hojas homogéneas
+
+                                   K12  30  10 M  3,3  lg(    f  )  K23 dB                                (3.23)
+                                                           500
+                                   K13  20  MAX (10;10  20 M)  3,3  lg(       f  )  dB                    (3.24)
+                                                                        500
+                                   Se utilizan m y RA del conjunto del elemento de separación de dos hojas
+
+Uniones en + y en T de elementos constructivos de dos hojas homogéneas con bandas elásticas interpuestas
+en su perímetro
+
+                                   K12  7,5  10  M2  3,3  lg(    f  )  K 23  dB                           (3.25)
+                                                              500
+                                   K13  4,7  14,1 M  5,7  M2        dB                                    (3.26)
+                                   K24  7,5  20  M2  3,3  lg(    f  )     dB                              (3.27)
+                                                              500
+                                  Se utilizan m y RA del conjunto del elemento de separación de dos hojas
+
+                                   K12  30  10 M  3,3 lg(     f     )  K23      dB                        (3.28)
+                                                           500
+                                   K13  20  MAX (10;10  20 M)  3,3  lg(               f  )  dB            (3.29)
+                                                                                500
+                                  Se utilizan m y RA del conjunto del elemento de separación de dos hojas
+
+Uniones en + y en T de elementos constructivos de dos hojas homogéneas con bandas elásticas interpuestas en
+el perímetro de una de las hojas
+
+                                   K12  8,7  5,7  M2  K23     dB                                          (3.30)
+                                   K13  8,7  17,1 M  5,7  M2        dB                                    (3.31)
+                                   K24  8,7  17,1 M 5,7 M2       dB                                       (3.32)
+                                  Se utilizan m y RA del elemento constructivo base
+
+                                                    9 de 12
+
+ Documento de Apoyo al DB HR                                                                    DA DB HR / 2
+
+                                 K12  5,7  5,7  M2  K23  dB                                            (3.33)
+                                K13  5,7  14,1 M 5,7  M2       dB                                      (3.34)
+
+                                Se utilizan m y RA del elemento constructivo base
+
+                                 K12  30  10 M  3,3  lg(  f    )  K23  dB                              (3.35)
+                                                         500
+                                 K13  20  MAX (10;10  20 M)  3,3  lg(  f     )  dB                     (3.36)
+                                                                       500
+                                Se utilizan m y RA del conjunto del elemento de separación de dos hojas
+
+ 4                                 Cálculo de la diferencia de nivel de vibración promediada direccionalmente,
+ Dv,ij,ₙ
+ Los elementos de tipo B, están formados por placas de yeso laminado o tableros de madera fijados a uno
+ o varios entramados metálicos o de madera. Los cálculos de Rij y de Lnij pueden realizarse teniendo en
+ cuenta el elemento constructivo completo o sólo la hoja interior, es decir, sólo aquéllas capas que están
+ en contacto con los recintos emisor o receptor.
+ En cualquier caso, los cálculos son correctos siempre que se usen los índices de reducción acústica
+ adecuados: Ri y Rj de las hojas interiores o Ri y Rj del conjunto de las dos hojas, en combinación con la
+ expresión correcta de la diferencia de nivel de vibración promediada direccionalmente, Dv ,    , por ello, en
+                                                                                       ij,n
+ este apartado se indica qué elementos deben considerarse en cada expresión.
+ Para otros tipos de uniones no contemplados en la norma UNE-EN ISO 12354-1 pueden usarse valores
+ de Dv ,              .obtenidos mediante mediciones según las normas UNE-EN ISO 10848 partes 1 y 3 o mediante
+        ij,n
+ otras formulaciones desarrolladas a tal efecto.
+Uniones de elementos de entramado autoportante, transmisión a través de la hoja interior
+Las ecuaciones siguientes son válidas para los siguientes elementos constructivos:
+        suelo con masa por unidad de superficie comprendida entre 30 y 70 kg/m²;
+        fachadas con masa por unidad de superficie comprendida entre 25 y 45 kg/m²;
+        elementos de entramado autoportante con estructura doble con masa por unidad de superficie
+        comprendida entre 35 y 75 kg/m²;
+        elementos de entramado autoportante con estructura sencilla con masa por unidad de superficie
+        comprendida entre 20 y 40 kg/m².
+No se incluyen la madera maciza, ni los paneles de madera contralaminada, ya incluidos en el apartado 3.
+
+                                                10 de 12
+
+  Documento de Apoyo al DB HR                                                                             DA DB HR / 2
+
+Unión en forma de T entre suelo y fachada
+
+                                              Cualquier trayectoria: Suelo – fachada y fachada – fachada
+                                              Dv,12,n  Dv,13,n  30  10lg(f / fk)                                       (4.1)
+                                              fk  500Hz(pendiente: 3 dB/oct.)
+                                              Se utiliza R de la hoja interior en contacto con el recinto emisor o
+                                              receptor
+
+Unión en forma de cruz suelo – pared de separación de doble estructura
+                                               ~~Para cualquier ~~  trayectoria horizontal de transmisión que atraviese
+                                              la junta entre las dos estructuras, excepto suelo – suelo.
+                                              D      38 13
+                                                v,ij,n       ,3lg(f / fk)  (pendiente: 4dB/oct.)                       (4.2)
+                                              Trayectoria suelo-suelo
+                                              Dv,13,n  36  3,3 lg(f / fk)  (pendiente:1dB/oct.)                        (4.3)
+                                              Trayectoria suelo-pared de separación
+                                              Dv,12,n  18  3,3 lg(f / fk)                                              (4.4)
+                                              Trayectoria pared de separación - pared de separación
+                                              Dv,24,n  22 3,3 lg(f / fk)
+                                              fk  500Hz                                                                (4.5)
+                                              Se utiliza R de la hoja interior en contacto con el recinto emisor o
+                                              receptor
+Unión en forma de T de fachada – pared de separación de doble estructura
+
+                                              Para cualquier trayectoria de transmisión que atraviese la junta de
+                                              separación entre las dos estructuras:
+                                              D            D         38  13
+                                              f v,12,n    v,13,n             ,3lg(f / fk)                              (4.6)
+                                               k  500Hz
+                                              Se utiliza R de la hoja interior en contacto con el recinto emisor o
+                                              receptor
+
+Unión en forma de cruz con suelo continuo
+                                              Trayectoria suelo-suelo o suelo-pared
+                                              Dv,13,n  Dv,34,n  20  3,3lg(f / fk)                                      (4.7)
+                                              Trayectoria pared-pared
+                                              Dv,24,n  30  3,3lg(f / fk)                                               (4.8)
+                                              fk  500Hz
+                                              Se utiliza R de la hoja interior en contacto con el recinto emisor o
+                                              receptor
+
+                                                          11 de 12
+
+  Documento de Apoyo al DB HR                                                                  DA DB HR / 2
+
+Uniones    de elementos          de entramado autoportante, considerando   los  elementos    constructivos
+completos
+El valor M se obtiene aplicando la ecuación 3.1, usando las masas de las hojas de los elementos constructivos
+completos.
+
+                                          D          15 20
+                                          v,13,n        ·M   3,3lgf / fk dBy comomínimo10dB           (4.9)
+                                          D          D   15  10
+                                          v,12,n        v,23,n    ·M  3,3lgf / fk dB                  (4.10)
+                                          fk  500Hz
+                                         Se utiliza R del conjunto del elemento de separación
+
+                                                    12 de 12

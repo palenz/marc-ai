@@ -1,0 +1,1351 @@
+         Ministerio de Fomento
+         Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+         Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-HE Ahorro de energía
+Código Técnico de la Edificación
+DA DB-HE / 3
+Puentes térmicos
+Enero                                                                                           2014
+                                                Índice
+1     Objeto                                                                                       2
+2     Los puentes térmicos en la eficiencia energética del edificio                                2
+      2.1 Definiciones                                                                             2
+      2.2 Clasificación de los puentes térmicos en el CTE                                          2
+      2.3 Transmisión de calor y condensaciones en los puentes térmicos                            3
+      2.4. Formulación de la transmisión de calor considerando los puentes térmicos                3
+      2.5 Transmitancia térmica lineal ψ y puntual χ                                               4
+      2.6 Sistemas de dimensiones para el cálculo de ψ                                             6
+3     Métodos para el cálculo de puentes térmicos                                                  8
+      3.1 Métodos detallados                                                                       8
+      3.2 Métodos simplificados                                                                    8
+      3.3 Otras simplificaciones para la consideración de los puentes térmicos                     9
+      3.4 Resistencia superficial                                                                  9
+4     Condensaciones superficiales en los puentes térmicos                                        10
+      4.1 Riesgo de formación de condensaciones superficiales                                     10
+      4.2 Limitación del riesgo de formación de moho                                              10
+5     Atlas de puentes térmicos                                                                   13
+      5.1 Parámetros y criterios de cálculo                                                       13
+      5.2 Pilares integrados en fachada                                                           14
+      5.3 Jambas                                                                                  16
+      5.4 Dinteles                                                                                19
+      5.5 Alféizares                                                                              21
+      5.6 Capialzados                                                                             24
+      5.7 Frentes de forjados                                                                     26
+      5.8 Cubiertas planas                                                                        27
+      5.9 Esquinas                                                                                29
+      5.10 Forjados inferiores en contacto con el aire exterior                                   30
+      5.11 Suelos en contacto con el terreno                                                      32
+Apéndice A      Terminología                                                                      34
+Apéndice B      Notaciones y unidades                                                             36
+Otros documentos de referencia                                                                    37
+
+                                                1 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+1               Objeto
+El objeto de este documento es caracterizar el comportamiento higrotérmico de los puentes térmicos
+más comunes, así como describir los fundamentos y métodos de cálculo que permitan su evaluación en
+el cumplimiento de las exigencias definidas en el Documento Básico DB HE relativas a demanda
+energética y consumo energético, y las exigencias definidas en el Documento Básico HS relativas a
+condensaciones superficiales.
+El documento recoge una exposición de los fundamentos teóricos básicos para la mejor comprensión del
+efecto de los puentes térmicos en los edificios, lo que permite asimismo un uso eficaz del Atlas de
+Puentes Térmicos       que se incluye al final del documento. El Atlas recoge la caracterización de los
+puentes térmicos para las soluciones constructivas más habituales, a la vez que proporciona criterios
+generales que permiten el uso coherente de otros atlas o catálogos de puentes térmicos.
+
+2               Los puentes térmicos en la eficiencia energética del edificio
+2.1             Definiciones
+El Código Técnico de la Edificación, en su Documento Básico HE, sección HE1, define puente térmico
+como aquella zona de la envolvente térmica del edificio en la que se evidencia una variación de la
+uniformidad de la construcción, ya sea por un cambio del espesor del cerramiento o de los materiales
+empleados,      por    la  penetración completa    o     parcial  de   elementos constructivos  con diferente
+conductividad, por la diferencia entre el área externa e interna del elemento, etc., que conllevan una
+minoración de la resistencia térmica respecto al resto del cerramiento.
+La norma UNE-EN ISO 10211 define puente térmico como aquella parte del cerramiento de un edificio
+donde la resistencia térmica normalmente uniforme cambia significativamente debido a:
+                a) penetraciones completas o parciales en el cerramiento de un edificio, de materiales con
+                diferente conductividad térmica;
+                b) un cambio en el espesor de la fábrica;
+                c) una diferencia entre las áreas internas o externas, tales como juntas entre paredes, suelos, o
+                techos.
+Además del efecto en la demanda energética del edificio, los puentes térmicos son partes sensibles de
+los edificios al aumentar en ellos el riesgo de formación de mohos por condensaciones superficiales
+debidas a la disminución de la temperatura de las superficies interiores (en condiciones de invierno).
+Es, por tanto, necesario considerar el impacto de los puentes térmicos en la demanda energética de los
+edificios así como en el riesgo de formación de mohos.
+2.2             Clasificación de los puentes térmicos en el CTE
+El Documento Básico HE establece la clasificación tipológica siguiente de los puentes térmicos:
+a)     Puentes térmicos integrados en los cerramientos:
+       i)       pilares integrados en los cerramientos de las fachadas;
+       ii)      contorno de huecos y lucernarios;
+       iii)     cajas de persianas;
+       iv)      otros puentes térmicos integrados;
+b)     Puentes térmicos formados por encuentro de cerramientos:
+       i)       frentes de forjado en las fachadas;
+       ii)      uniones de cubiertas con fachadas;
+
+                                                         2 de 37
+
+Documento de Apoyo al DB HE                                                                      DA DB HE / 3
+
+       iii)     cubiertas con pretil;
+       iv)      cubiertas sin pretil;
+       v)       uniones de fachadas con cerramientos en contacto con el terreno;
+       vi)      unión de fachada con losa o solera;
+       vii) unión de fachada con muro enterrado o pantalla;
+c)     Esquinas o encuentros de fachadas, que, dependiendo de la posición del ambiente exterior se
+       subdividen en:
+       i)       esquinas entrantes;
+       ii)      esquinas salientes;
+d)     Encuentros de voladizos con fachadas;
+e)     Encuentros de tabiquería interior con cerramientos exteriores.
+2.3             Transmisión de calor y condensaciones en los puentes térmicos
+El efecto en el flujo de calor que producen los puentes térmicos en la envolvente térmica del edificio es la
+aparición de flujos de calor bidimensionales o tridimensionales, en lugar de un comportamiento uniforme
+que puede describirse suponiendo simplemente un flujo unidimensional.
+Para calcular con precisión el comportamiento térmico global de la envolvente térmica, incluido el efecto
+de los puentes térmicos, se puede hacer uso de métodos numéricos, que permiten obtener resultados
+más           fiables pero con  mayor esfuerzo de   modelado que  con  formulaciones   simplificadas   cuyos
+fundamentos se describen a continuación.
+2.4. Formulación de la transmisión de calor considerando los puentes térmicos
+La transmisión de calor a través de la envolvente térmica, entre los ambientes interior y exterior, se
+puede describir, de manera simplificada, mediante la siguiente expresión:
+                           ΦT = (∑Ui Ai + ∑ψ j L j + ∑ χ k )(θi − θₑ )= U m AT (θi − θₑ ) (1)
+donde:
+                ΦT     flujo de calor por conducción [W];
+                Ui     transmitancia térmica¹ del elemento i de la envolvente [W/m²K], de área Ai [m²];
+                ψj     transmitancia térmica lineal del encuentro j del edificio [W/mK] y Lj la longitud de ese
+                       encuentro [m];
+                χₖ     transmitancia térmica del puente térmico puntual k [W/K];
+                Uₘ     transmitancia térmica media de la envolvente [W/m²K] incluido el efecto de los puentes
+                       térmicos;
+                AT     superficie total de transmisión [m²].
+Si despreciamos la contribución de los puentes térmicos puntuales:
+                               ΦT = (∑Ui Ai + ∑ψ j Lj )(θi − θₑ )= U m AT (θi − θₑ ) (2)
+
+1 El valor de la resistencia superficial Rsi empleada para el cálculo de la transmitancia térmica de los elementos está condicionado
+por el uso al que va destinado, cambiando según se emplee para el cálculo de flujos térmicos (demanda) o para el cálculo de
+temperaturas superficiales (condensaciones).
+Se adoptan coeficientes diferenciados según el tipo de elemento y/o dirección del flujo térmico y del propósito del cálculo. La norma
+UNE-EN ISO 10211:2012 remite a la norma UNE-EN ISO 6946 para los valores de Rsi empleados en el cálculo de flujos térmicos y
+a la UNE-EN ISO 13788 para el cálculo de condensaciones.
+Para un análisis detallado de la resistencia superficial interior puede consultarse la norma (no vigente) UNE-EN ISO 10211-1:1995.
+                                                         3 de 37
+
+Documento de Apoyo al DB HE                                                                DA DB HE / 3
+
+El primer término de la expresión (2) expresa el flujo de calor como superposición del comportamiento
+unidimensional (U) y el bidimensional (ψ) de la envolvente térmica.
+El segundo término, asimila el comportamiento del conjunto a un              flujo unidimensional equivalente,
+caracterizado por una transmitancia térmica media aplicable a la superficie del elemento estudiado.
+A partir de estas expresiones, basadas en la superposición de comportamientos y en el comportamiento
+conjunto, es posible analizar de forma simplificada los puentes térmicos.
+2.5 Transmitancia térmica lineal ψ y puntual χ
+La transmitancia térmica lineal ψ describe la transferencia térmica adicional de un encuentro (un puente
+térmico lineal) en relación a la transferencia térmica unidimensional de referencia que se produce en los
+elementos adyacentes.
+                                    ψL=         ~~(~~  θΦ²ᴰ  ~~)~~   − ∑(AiUi ) (3)
+                                                       i − θₑ        n
+donde:
+        ψ           transmitancia térmica lineal [W/mK];
+        Φ2D         flujo de calor a través del elemento analizado mediante un modelo bidimensional [W];
+        L           longitud del encuentro [m];
+        θi    – θₑ  diferencia de temperaturas entre interior y exterior [K];
+        Ui          transmitancia térmica del elemento adyacente i [W/m²K];
+        Ai          superficie a la que se aplica el valor Ui [m²].
+ψ permite resumir en un único parámetro el comportamiento complejo de un puente térmico, de forma
+similar a como U lo hace para un elemento con transmisión unidimensional².
+El cálculo de la componente unidimensional se mantiene para toda la superficie de la envolvente en la
+que se sitúa el puente térmico, al medirse linealmente el efecto del puente (en ψ) y descontarse en este
+la transmisión unidimensional.
+Se puede ver cómo se interrelacionan estas magnitudes en un ejemplo calculado con el programa
+KOBRA³:
+
+2  Para poder      considerar  el  comportamiento      del  puente    térmico como un efecto que se superpone al
+comportamiento unidimensional de los elementos adyacentes de referencia es necesario que bien los materiales
+tengan una inercia térmica despreciable, o que nos encontremos en una situación estática, sin variación de las
+temperaturas en el tiempo.
+3  KOBRA SOFTWARE © Physibel, 2002. EUROKOBRA DATABASE © EUROKOBRA EEIG, 2002. version 2.2. Disponible en
+http://sts.bwk.tue.nl/bps/onderwijs/software/KOBRA/koudebruggen.htm
+                                                            4 de 37
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 3
+
+             Grupo             Detalle:                 RESULIADOS          KOBRA
+                               04-B1                    Rsi      0.13 MzK/W             ? . ? WnzK
+                                                                 20.0
+                                                        EUALVACION RIESGO   CONDENSACION SUP
+                                                              f (0.13)     0.56         11 .2
+                                                              f(0.13)      0.90         18.0
+
+                                                        RK      (0.13)                  10.*
+                                                        EUALVACION FLUJO CALOR
+                                                        Transh) tanc        [W/h2K]
+                                                              9=B:  0. 44   c-D: 2 . 19
+                                                        Flujo       Calon    Q ( B-D)    24.2 W
+                                                        Coef        Acoplahiento L2D= 1. 2      Ah]
+                                                                    Lie    U(aB) *BQ     U(CD) *DQ
+                                                        Psi-i              W/AK
+                                                                   Lie     U(aB)*AL      U( CD) #CR
+                                                                    0.58 W/uK
+                 Figura 1. Evaluación de los flujos de calor con el programa Kobra
+La figura 1 presenta los resultados de cálculo de un puente térmico correspondiente a una jamba de un
+hueco, que se ha simulado en el programa KOBRA, y en la que se presentan los distintos factores de la
+ecuación (2), así como los resultados obtenidos para una temperatura interior de 20ºC y exterior de 0ºC.
+La transmitancia térmica que define el flujo unidimensional en el muro aparece en la figura como U(AB),
+donde A y B son los puntos entre los que se evalúa aquella. De igual manera, la transmitancia térmica
+del marco aparece como U(CD).
+En la figura, Q(B-D) es el flujo transversal de calor que atraviesa la superficie definida por BD, L2D es el
+conocido como factor de acoplamiento, que equivale al flujo de calor dividido por la diferencia de
+temperaturas (20ºC en este caso), considerando a efectos prácticos que su valor no depende de la
+diferencia de temperaturas con que se obtenga.
+Sabiendo que las distancias BQ = 0,800 + 0,115 metros, y DQ = 0,015 + 0,100 metros es posible obtener
+los valores de las transmitancias térmicas lineales.
+
+                                 Figura 2. Líneas de flujo de calor
+La figura 2 representa las líneas de flujo del detalle anterior. En ella se aprecia como en las proximidades
+del puente térmico estas son más densas, aumenta el flujo, y se curvan de manera que el flujo pasa a
+considerarse  bidimensional    en lugar    del comportamiento unidimensional que   se   observa a cierta
+distancia del puente térmico.
+La transmitancia térmica puntual χ tiene una formulación similar pero se suele despreciar al ser menor su
+impacto en el rendimiento térmico de la envolvente del edificio.
+
+                                               5 de 37
+
+Documento de Apoyo al DB HE                                                                DA DB HE / 3
+
+2.6     Sistemas de dimensiones para el cálculo de ψ
+El punto de tránsito entre los tramos para los que se considera un flujo unidimensional constante define
+la superficie Ai de cada tramo a la que se aplica la Ui correspondiente, así como la arista sobre las que
+se mide la longitud L del puente térmico.
+La posición de esos puntos de tránsito es arbitraria pero resulta conveniente situarla en lugares con un
+sentido geométrico o físico claro que facilite el cálculo. El criterio de colocación se conoce como sistema
+dimensional y es necesario indicar cuál es para poder calcular o emplear de forma coherente los valores
+de ψ obtenidos.
+El siguiente ejemplo, también realizado con el programa KOBRA, muestra cómo se obtienen resultados
+diversos en función del sistema dimensional:
+             Grupo             Detalle: 21_12       RESOLIADOS          KOBRA
+                               01-12                Rsi     20.0    MzK/u          7 . 7 WnzK
+                                                                                   0.0
+                                                    EUALVACION RIESGO CONDENSACION SUP
+                                                        f (0 13)
+                                                        f(0 13)        0.?2   8 = 14.3
+                                                        f (0 13)
+                                                    EVALVACION FLUJO CALOR
+                                                    Transhi tanc        [W/hzK]
+                                                        A-B:            c-D:       E-F:
+                                                    Flujo        Calor        (B-D)    WM
+                                                    Coef         Acoplaniento L2D= 1.8 W/nk
+                                                    Psi         Lie     U(AB) *BD
+                                                                       WhK
+                                                    Psi         Lie     U(aB) KaK    U ( CD) #CL
+                                                                0. 91 WhK
+
+                    Figura 3. Incidencia del sistema de dimensiones en el cálculo de Ψ
+En la figura 3 se considera un sistema de dimensiones interiores (AK + CL) para el cálculo de Ψi (psi-i) y
+un sistema de dimensiones exteriores (BD) para el cálculo de Ψₑ (psi-e).
+En el sistema de dimensiones exteriores se aplica la transmitancia térmica del muro U(AB) a toda la
+superficie externa BD, mientras que en el sistema de dimensiones interiores se aplica la transmitancia
+térmica U(AB) solamente en los tramos AK y CL, excluyendo la zona interrumpida por el forjado.
+Las dimensiones verticales de los dos paños de muro son de 100cm (AK, CL), el forjado de 35 cm, las
+capas del suelo 5,5 cm y el enlucido de techo 1,5cm.
+Longitud BD = 1,000 + 0,055 + 0,300 + 0,015 + 1,000 = 2,370m
+La superposición se representa gráficamente a continuación:
+
+                                                 6 de 37
+
+Documento de Apoyo al DB HE                                                                      DA DB HE / 3
+
+                         Figura 4. Significado de Ψ según la superposición realizada
+En esta imagen aparecen representados los flujos unidimensionales          y bidimensionales, así como la
+relación entre Ψₑ y Ψi, según se tomen las dimensiones exteriores (lₑ) o interiores (li).
+
+                                                   7 de 37
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 3
+
+3       Métodos para el cálculo de puentes térmicos
+A continuación se describen una serie de métodos, detallados y simplificados, con los que se aborda
+habitualmente el cálculo de    puentes térmicos. La elección de uno u otro   método depende de la
+información disponible, el nivel de modelización deseado y el uso final al que se destine el cálculo.
+3.1     Métodos detallados
+3.1.1     Método detallado con modelado tridimensional
+En este método se evalúa el efecto global de los puentes térmicos mediante simulación con modelos
+tridimensionales de cálculo numérico. Es un método que exige un coste de modelización alto y que
+proporciona poca información previa a la simulación.
+3.1.2     Método detallado con modelado bidimensional
+Analiza el efecto de los puentes térmicos utilizando la formulación de la transmisión térmica simplificada
+expuesta con anterioridad, y supone la aplicabilidad del principio de superposición de flujos:
+                                 ΦT = (∑Ui Ai + ∑ψ j Lj )(θi − θₑ )
+El método exige obtener la suma de los valores ψ y longitudes de cada puente térmico para obtener la
+componente bidimensional del flujo de calor, así como la suma del producto de las superficies y
+transmitancias térmicas de la envolvente, considerada con un comportamiento unidimensional.
+Cuando no es posible calcular ψ de forma analítica se utilizan métodos numéricos y software específico
+de modelado bidimensional (como el empleado para elaborar las figuras 1, 2, 3 y 4) o se recurre a
+catálogos o atlas de detalles tipo con valores precalculados, como el que recoge este documento.
+Los valores de L a los que se aplica cada ψ se obtienen por medición directa.
+3.2     Métodos simplificados
+Es posible realizar simplificaciones adicionales de la fórmula simplificada (2) para posibilitar el cálculo de
+la componente bidimensional de la transferencia de calor  ∑ ψ j Lj a partir de estimaciones de dicha
+componente. Las aproximaciones más habituales son:
+3.2.1     Método simplificado con estimación de ψ:
+Los valores de ψj se igualan para cada grupo de encuentros según las características generales del
+detalle, utilizando un valor representativo o tabulado para todos ellos, sin necesidad de realizar un
+cálculo individualizado.
+3.2.2     Método simplificado con estimación de L:
+Las longitudes Lj de cada detalle se estiman a partir de las características generales del edificio
+(tipología, compacidad...) o medidas globales (superficie, nº de plantas...), para evitar la medición directa.
+3.2.3     Método simplificado con factor corrector de U:
+La   componente   bidimensional en  su totalidad se  estima como   una  fracción de  la       componente
+unidimensional, de modo que:
+                               ∑ψ L ⇔ α∑ᵁ A ;Φ = (        )∑       (         )
+                               j  j        i  i  T    1+ α    Ui Ai θi − θₑ
+El valor de α varía en función de las características del edificio objeto y sus puentes térmicos o puede
+adoptar un valor constante.
+
+                                                 8 de 37
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 3
+
+El incremento debido a los puentes térmicos en la Uₘ(indicada en (1) es:
+
+                                              ∆U      = ∑ ψ j Lʲ ); (3)
+                                                 PT   ∑ Ai
+
+Esta expresión permite integrar el efecto de los puentes térmicos en el valor de la transmitancia térmica
+unidimensional y es la formulación que se adoptó en el Documento Básico DB-HE “Ahorro de Energía”
+del años 2006 para incluir el efecto de los puentes térmicos integrados.
+3.3        Otras simplificaciones para la consideración de los puentes térmicos
+Cuando resulte conveniente usar un único valor de transmitancia térmica lineal         para un tipo dado de
+puente térmico         (p.e. pilares integrados en fachada), compuesto por varios subtipos (p.e. pilares de
+distintas dimensiones o configuración), se puede utilizar el valor obtenido como media ponderada de las
+transmitancias térmicas lineales de sus subtipos, según la expresión:
+
+                                              ψ       = ∑ (ψ ji Lʲⁱ )
+                                                 j    ∑ L ji
+
+donde:
+           ψj      la transmitancia térmica lineal resultante para la tipología de puente térmico j [W/mK];
+           ψji     cada uno de los distintos valores de transmitancia térmica lineal       para la tipología de
+                   puente térmico j [W/mK];
+           Lji     cada una de las sumas totales de las longitudes de los puentes térmicos de tipo i dentro
+                   de la tipología j [m];
+Las transmitancias térmicas lineales y las longitudes de los subtipos deben pertenecer a un     sistema
+dimensional único antes de proceder a su ponderación.
+3.4        Resistencia superficial
+La obtención de la transmitancia térmica (U) de los elementos constructivos considera las propiedades
+térmicas de los materiales que lo componen así como unos coeficientes de película o resistencias
+superficiales que modelan los procesos de convección y radiación que se producen en las caras interior
+y exterior de los elementos.
+El valor de la resistencia superficial está condicionado por el destino del cálculo, diferenciando entre el
+cálculo de flujos térmicos o de temperaturas, y también por la posición y disposición del elemento.
+Así, se emplearían valores distintos para la evaluación de la demanda o el cálculo del riesgo de
+condensaciones y según se trate de un vidrio o un elemento, como un capialzado situado a cierta altura.
+Para los cálculos relativos a este documento, la resistencia superficial exterior (Rₛₑ) se considerará igual
+a 0,04 m²K/W y la resistencia superficial interior (Rsi) tomará valores de la siguiente tabla:
+Cálculo de temperaturas                    Rsi [m²K/W]       Cálculo de flujos térmicos    Rsi [m²K/W]
+Vidrios                                        0,13          Flujo vertical ascendente         0,10
+Elementos en la mitad superior del espacio     0,25          Flujo horizontal                  0,13
+Elementos en la mitad inferior del espacio     0,35          Flujo vertical descendente        0,17
+                                                             Vidrios                           0,13
+                                                             Esquinas de elementos             0,20
+       Valores obtenidos de las normas UNE-EN ISO 6946, UNE-EN ISO 10211, UNE-EN ISO 13788, UNE-EN ISO 10077-1 y UNE-
+           EN ISO 10077-2.
+
+                                                      9 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+4        Condensaciones superficiales en los puentes térmicos
+4.1 Riesgo de formación de condensaciones superficiales
+Otro de los efectos de los puentes térmicos es el aumento del riesgo de formación de condensaciones
+superficiales en la cara interior del elemento constructivo al existir puntos fríos en la zona afectada por el
+puente térmico como resultado del mayor flujo térmico en esas zonas.
+Para  analizar la  posibilidad de   condensaciones  en  los    puntos fríos se utilizan los diagramas
+psicrométricos, que relacionan temperatura seca, humedad absoluta y humedad relativa.
+La humedad absoluta es una magnitud que indica la cantidad de vapor de agua que contiene el aire y se
+mide en gramos de agua por cada kilogramo de aire.
+La cantidad agua que puede contener el aire en forma de vapor tiene un límite (humedad de saturación),
+que depende de la temperatura y es mayor (admite más vapor de agua) a mayor temperatura.
+La proporción entre la cantidad de agua en forma de vapor que contiene el aire en relación a la cantidad
+de saturación, expresada como porcentaje, es conocida como humedad relativa (HR). Así, una humedad
+relativa del 100% significa que el aire ha alcanzado el límite de humedad de saturación. Para una
+humedad absoluta dada, la temperatura a la que se alcanza el 100% de humedad relativa se conoce
+como temperatura de rocío.
+Así, cuando la temperatura del aire desciende por debajo de la temperatura de rocío el exceso de
+humedad, aquella cantidad de agua que ya no puede permanecer en forma de vapor, condensa en forma
+líquida.
+Las superficies frías de los puentes térmicos son lugares propicios para la aparición de condensaciones
+de ese tipo.
+Por ejemplo, si tenemos un espacio a 26ºC de temperatura con una humedad relativa del 60%, la
+humedad absoluta es de 12,5 g/kg. Si la temperatura desciende a 23ºC, la humedad relativa sube al
+70%, manteniéndose la humedad absoluta en 12,5 g/kg. Si la temperatura baja de nuevo hasta los 21ºC,
+la humedad relativa sería del 80% y, si llegamos a los 17,7ºC, se alcanza el punto de rocío (100% de
+humedad relativa) y el vapor de agua comenzaría a condensar, eliminando el exceso de humedad
+absoluta en forma de agua, y manteniendo la humedad relativa en el 100%.
+4.2 Limitación del riesgo de formación de moho
+Las condensaciones superficiales suponen un riesgo para la salud al propiciar la formación de moho,
+habiéndose comprobado que este riesgo se incrementa significativamente al mantenerse una humedad
+relativa superior al 80% en una superficie durante varios días.
+Esta condición puede simplificarse y reformularse exigiendo que la temperatura de la superficie interior
+supere la temperatura superficial aceptable, la que implica una humedad relativa superior al 80% en la
+superficie interior del cerramiento.
+El método de los factores de temperatura permite hacer esa comprobación. Este consiste en comparar
+dos factores adimensionales: el     factor de temperatura de la superficie interior (fRsi) y el factor de
+temperatura útil sobre la superficie interior  (fRsi,min). El primero debe ser mayor que el segundo, para
+todos los meses del año:
+                                              f Rsi > f Rsi,min
+donde:
+
+                                               10 de 37
+
+Documento de Apoyo al DB HE                                                                                         DA DB HE / 3
+
+                                              f         = θ si −θᵉ
+                                                   Rsi      θi −θ e
+
+                                              f             = θ si,min −θ e
+                                                   Rsi,min  θi −θₑ
+
+         θsi         temperatura mínima en la superficie interior del cerramiento (ºC);
+         θi          temperatura del ambiente interior (ºC);
+         θₑ          temperatura del ambiente exterior (ºC);
+         θsi,min     temperatura superficial aceptable (ºC).
+El Documento de Apoyo DA DB-HE/2 “Comprobación de la limitación de condensaciones superficiales e
+intersticiales en los cerramientos” recoge los valores de fRsi,min                      para las distintas zonas climáticas,
+obtenidas considerando las condiciones interiores de cálculo reglamentarias.
+El cálculo del factor de temperatura de la superficie interior (fRsi) puede obtenerse⁴ mediante aplicaciones
+específicas que calculan dicho factor o a partir del cálculo de la temperatura mínima en la superficie
+interior.
+El apartado 5 correspondiente al Atlas de Puentes Térmicos contiene indicaciones cualitativas sobre el
+riesgo de condensaciones para distintas soluciones constructivas.
+
+Ejemplo de cálculo
+La siguiente figura sirve para mostrar un ejemplo de comprobación del riesgo de condensaciones con el
+método simplificado.
+En ella se simula una jamba, con una temperatura seca media mensual mínima del ambiente exterior
+igual a 0,0ºC (de una localidad hipotética perteneciente a la zona climática E1), y una temperatura del
+ambiente interior de 20ºC.⁵
+La simulación con Kobra indica una temperatura superficial mínima para el punto O de 10,9ºC.
+
+4 A diferencia de los elementos planos con flujo unidimensional, en los puentes térmicos no es posible obtener una expresión
+simplificada para el cálculo del factor de temperatura de la superficie interior fRsi, por lo que es preciso recurrir a la simulación
+térmica, atlas o métodos simplificados ad-hoc.
+5 Como se indica en la nota al pie 1, debe notarse que el valor de la resistencia térmica superficial interior Rsi empleado para el
+cálculo de U del elemento es el adecuado al propósito de la obtención de las temperaturas superficiales y difiere generalmente de
+la empleada para la obtención de U para cálculos de flujos térmicos (por ejemplo, para la estimación de la demanda).
+
+                                                            11 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+                     Figura 5. Evaluación de los flujos de calor con el programa Kobra
+Calculamos el factor de temperatura de la superficie interior con los datos θsi (punto O) = 10,9ºC; θi =
+20,0ºC; θₑ = 0,0ºC:
+        fRsi         = (10,9 – 0) / (20 – 0) = 0,545
+Para esa zona
+        fRsi,min     = Temperatura superficial aceptable (ºC).
+El valor de fRsi,min para la zona climática E1 en la que se situaría la localidad elegida, para las distintas
+higrometrías, es la indicada en el Documento de Apoyo de Condensaciones es el que se recoge a
+continuación:
+                                     Categoría del espacio           E
+                                   Clase de higrometría 5           0,90
+                                   Clase de higrometría 4           0,78
+                           Clase de higrometría 3 o inferior a 3    0,64
+Vemos que la condición fRsi > fRsi,min no se cumple para ninguna de las clases de higrometría, por lo que
+se prevé en todos los casos la producción de condensaciones con riesgo de formación de moho.
+
+                                                    12 de 37
+
+Documento de Apoyo al DB HE                                                             DA DB HE / 3
+
+5      Atlas de puentes térmicos
+Este apartado recoge en forma de atlas unos valores aproximados de la transmitancia térmica lineal ψ
+para las soluciones constructivas más comunes.
+Estos valores se pueden emplear para el cálculo de la demanda energética mediante el método
+detallado con modelado bidimensional o mediante alguno de los métodos simplificados cuando no se
+disponga de valores más precisos.
+Las soluciones se han agrupado por familias de detalles (pilares integrados en fachada, pilares en
+esquina, jambas]), y estas en grupos ordenados de mejor a peor comportamiento (menor a mayor valor
+de ψ).
+Es importante destacar que, en general, se aprecia que el factor más determinante para mejorar el
+comportamiento  de  los        detalles constructivos es mantener la continuidad del aislamiento de     los
+cerramientos.
+5.1    Parámetros y criterios de cálculo
+A continuación se indican los parámetros y criterios empleados en la obtención de los valores que
+definen el comportamiento higrotérmico de los puentes térmicos de este atlas.
+5.1.1    Salto térmico
+Se ha considerado que el flujo de calor por cada grado de diferencia de temperatura (factor de
+acoplamiento)  es independiente         del salto térmico para los rangos de temperatura existentes     en
+condiciones normales.
+El salto térmico empleado en el cálculo responde a condiciones de invierno y es de 20ºC, con Ti = 20ºC y
+Tₑ = 0ºC.
+5.1.2    Criterio dimensional
+Se indica el criterio dimensional adoptado para el cálculo de ψ. Se ha considerado preferible utilizar el
+sistema de dimensiones interiores, ya que este es el más habitual en nuestro entorno normativo y el
+empleado por las herramientas oficiales para la evaluación de la eficiencia energética de los edificios.
+Adicionalmente, en el catálogo se indica el valor en el sistema de dimensiones exteriores puesto que
+este se emplea en algunos catálogos de países de nuestro entorno y puede resultar útil para su
+comparación.
+5.1.3    Valores incluidos y uso de las tablas del atlas
+Para   obtener la  transmitancia        térmica   lineal  de elementos cuyas transmitancias térmicas    no
+correspondan a las utilizadas en las tablas del atlas se puede llevar a cabo una interpolación o
+extrapolación a partir de los valores aportados en ellas.
+
+                                                      13 de 37
+
+Documento de Apoyo al DB HE                                                              DA DB HE / 3
+
+5.2    Pilares integrados en fachada
+Se consideran los pilares de hormigón armado integrados en la fachada, de dimensiones 25x25 cm²
+hasta 35x35 cm², y sin considerar los pilares en esquina.
+Se ha observado que la zona de formación de condensaciones se localiza en los rincones formados
+entre el pilar y la pared, así como el punto central de la cara interior del pilar.
+Grupo 1: Pilares integrados en fachada con continuidad del aislamiento de fachada
+
+Transmitancia térmica lineal
+El grupo 1 de pilares integrados en fachada contiene detalles en los que el aislamiento térmico de
+fachada no se interrumpe por la presencia del pilar. Se considera igualmente que el aislamiento es
+continuo aunque el que protege el pilar sea de otro tipo o espesor.
+Esta continuidad bien resuelta hace que el puente térmico prácticamente desaparezca, obteniendo unos
+valores de transmitancia térmica lineal despreciables:
+                                                   Ψe, Ψi [W/mK]
+                                                 Dimensiones pilar
+                                                         [cm x cm]
+                                                   20x20 / 30x30
+                                                        0,02
+                                             0,73       0,02
+                                      K]     0,44       0,01
+                                      K]
+                                  muro
+                                  muro
+                                     2
+                                     2       0,31       0,00
+                                      [W/m
+                                 U    [W/m
+                                 U           0,27       0,00
+                                             0,24       0,00
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para las clases higrométricas 4 y 5 en
+las zonas climáticas D y E con muros de transmitancia térmica alta.
+
+                                              14 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+Grupo 2: Pilares integrados en fachada sin continuidad del aislamiento de fachada
+Este grupo recoge los detalles de pilares integrados en fachada en los que se interrumpe la continuidad
+del aislante del muro o los detalles sin aislamiento térmico.
+
+Transmitancia térmica lineal
+El comportamiento térmico de estos puentes térmicos es mucho más desfavorable que el de los detalles
+en los que el pilar está protegido mediante aislamiento térmico. La transmitancia térmica lineal tiene un
+valor alrededor de 1 para los pilares de 25x25 y aumenta con el incremento del tamaño del pilar.
+                                                            Ψe, Ψi [W/mK]
+                                                     Dimensiones pilar [cm x cm]
+                                                    25x25       30x30    35x35
+                                            0,73     1,03        1,20     1,36
+                                     K]     0,44     1,05        1,24     1,40
+                                     K]
+                                muro
+                                muro
+                                    2
+                                    2       0,31     1,00        1,20     1,37
+                                     [W/m
+                               U     [W/m
+                               U            0,27     0,97        1,17     1,35
+                                            0,24     0,94        1,15     1,32
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para todas las clases higrométricas en
+todas las zonas climáticas, exceptuado la zona climática α, con menores probabilidades en aquellas
+soluciones sin aislamiento.
+
+                                                    15 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+5.3          Jambas
+En esta familia se han hecho tres grupos en función de consideraciones constructivas y de propiedades
+térmicas. La característica fundamental que define el comportamiento térmico tiene que ver con la
+continuidad entre la carpintería y el aislante o su distancia de separación. Es necesario notar que los
+elementos intermedios entre el aislante y la carpintería han de ser de un material poco conductor para
+evitar el puente térmico.
+La zona de formación de condensaciones se localiza en la zona de unión entre la carpintería y el muro (o
+jamba).
+
+Grupo 1: Jambas con continuidad entre el aislamiento de fachada y la carpintería
+En este grupo se recogen los detalles que presentan una continuidad entre el aislamiento de fachada y la
+carpintería de la ventana.
+
+Transmitancia térmica lineal
+Dado que se mantiene la continuidad entre ambos elementos el efecto de puente térmico es muy bajo, y
+por tanto menor cuanto menor cuanto más baja es la transmitancia térmica del muro y la carpintería del
+hueco.
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7     4,0      3,2      2,2     1,8
+              0,73    0,31    0,12     0,08    0,05    0,04      0,38     0,17     0,12     0,07    0,05
+       K]     0,44    0,34    0,11     0,06    0,02    0,01      0,42     0,16     0,10     0,05    0,03
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,14    0,05     0,03    0,01    0,01      0,22     0,11     0,07     0,04    0,03
+       [W/m
+ U     [W/m
+ U            0,27    0,12    0,05     0,03    0,01    0,01      0,20     0,10     0,07     0,04    0,03
+              0,24    0,12    0,05     0,03    0,01    0,01      0,20     0,10     0,07     0,04    0,03
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                16 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Grupo 2: Jambas sin continuidad entre el aislamiento de fachada y la carpintería
+Grupo formado por los detalles de jambas en los que no existe continuidad entre la carpintería y el
+aislamiento. Aunque el comportamiento térmico de estos detalles es función de la distancia que separa
+ambos elementos, así como de sus valores de transmitancia térmica, se pueden establecer distintos
+niveles de agrupamiento para ofrecer características comunes.
+
+Transmitancia térmica lineal
+En este caso el efecto del puente térmico se debe al flujo de calor que atraviesa el material que separa la
+carpintería del aislamiento. Este efecto es mayor cuanto mayor es el nivel de aislamiento térmico del
+muro debido a que, cuanta más resistencia de este al paso de la energía, mayor es el porcentaje del flujo
+que se desvía hacia el puente térmico. El mismo efecto se produce con las carpinterías (salvo en las de
+U con valores muy altos).
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7     4,0      3,2      2,2     1,8
+              0,73    0,47    0,39     0,40    0,41    0,41      0,47     0,39     0,40     0,41    0,41
+       K]     0,44    0,49    0,42     0,43    0,44    0,44      0,49     0,42     0,43     0,44    0,44
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,50    0,43     0,43    0,44    0,45      0,50     0,43     0,43     0,44    0,45
+       [W/m
+ U     [W/m
+ U            0,27    0,50    0,43     0,43    0,44    0,45      0,50     0,43     0,43     0,44    0,45
+              0,24    0,50    0,43     0,43    0,44    0,45      0,50     0,43     0,43     0,44    0,45
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                17 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Grupo 3: Jambas sin continuidad entre el aislamiento de fachada y la carpintería, con una
+separación importante entre estos elementos
+En estos detalles la separación entre la carpintería y el aislamiento es especialmente acusada, lo que
+produce un importante puente térmico.
+
+Transmitancia térmica lineal
+El puente térmico es acusado, hecho que confirman los valores de las tablas.
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7     4,0      3,2      2,2     1,8
+              0,73    0,51    0,48     0,49    0,50    0,51      0,58     0,53     0,52     0,52    0,52
+       K]     0,44    0,55    0,53     0,54    0,55    0,56      0,63     0,58     0,58     0,58    0,58
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,57    0,55     0,56    0,57    0,58      0,65     0,60     0,60     0,60    0,60
+       [W/m
+ U     [W/m
+ U            0,27    0,58    0,55     0,56    0,58    0,58      0,66     0,61     0,61     0,61    0,61
+              0,24    0,58    0,56     0,57    0,58    0,59      0,66     0,62     0,61     0,61    0,61
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                18 de 37
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 3
+
+5.4          Dinteles
+Grupo 1: Dinteles con continuidad entre el aislamiento de fachada y la carpintería
+En este grupo se encuentran      los   detalles en los que el aislamiento presenta continuidad con    la
+carpintería. El punto problemático en este caso es el precerco, que puede actuar como puente térmico si
+no se cuida. Se ha observado que es especialmente perjudicial, a estos efectos, el uso de precercos
+metálicos que presenten mucha superficie al exterior y no estén protegidos.
+La zona de formación de condensaciones se sitúa en el encuentro de la carpintería con el muro y la
+utilización de un dintel metálico puede agudizar el efecto de punto frío de manera considerable.
+Se ha observado la conveniencia de que los precercos de madera estén tratados por si llegan a
+humedecerse.
+
+Transmitancia térmica lineal
+Los valores de transmitancia térmica lineal, en general, son bajos.
+
+                                         Ψe [W/mK]                                     Ψi [W/mK]
+                                       Umarco [W/m²K]                                Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8         5,7      4,0      3,2      2,2     1,8
+              0,73    0,30    0,11     0,10    0,12    0,13        0,30     0,11     0,10     0,12    0,13
+       K]     0,44    0,32    0,11     0,10    0,11    0,12        0,32     0,11     0,10     0,11    0,12
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,16    0,07     0,08    0,09    0,10        0,16     0,07     0,08     0,09    0,10
+       [W/m
+ U     [W/m
+ U            0,27    0,14    0,06     0,06    0,08    0,09        0,14     0,06     0,06     0,08    0,09
+              0,24    0,14    0,05     0,06    0,08    0,09        0,14     0,05     0,06     0,08    0,09
+
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                19 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Grupo 2: Dinteles sin continuidad entre el aislamiento de fachada y la carpintería
+
+Transmitancia térmica lineal
+Se    aprecia en     las tablas como la transmitancia térmica lineal aumenta      cuando   disminuyen las
+transmitancias térmicas de la carpintería y del muro. Es decir, que según aumenta el aislamiento térmico
+del muro el efecto de puente térmico se agudiza.
+                                        Ψe [W/mK]                                    Ψi [W/mK]
+                                      Umarco [W/m²K]                               Umarco [W/m²K]
+                     5,7     4,0      3,2     2,2     1,8         5,7     4,0      3,2      2,2     1,8
+             0,73    0,62    0,60     0,62    0,64    0,65       0,62     0,60     0,62     0,64    0,65
+      K]     0,44    0,69    0,67     0,68    0,70    0,71       0,69     0,67     0,68     0,70    0,71
+      K]
+  muro
+  muro
+      2
+      2      0,31    0,73    0,70     0,72    0,74    0,74       0,73     0,70     0,72     0,74    0,74
+      [W/m
+ U    [W/m
+ U           0,27    0,74    0,72     0,73    0,75    0,76       0,74     0,72     0,73     0,75    0,76
+             0,24    0,75    0,73     0,74    0,76    0,77       0,75     0,73     0,74     0,76    0,77
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                20 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Grupo 3: Dinteles sin continuidad entre el aislamiento de fachada y la carpintería, con cargadero
+pasante y carpintería a haces exteriores
+
+Transmitancia térmica lineal
+Cómo se aprecia en las tablas, su valor es alto debido al dintel metálico y a la distancia entre la
+carpintería y el aislamiento.
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7      4,0     3,2      2,2     1,8
+              0,73    0,80    0,81     0,82    0,84    0,85      0,80     0,81     0,82     0,84    0,85
+       K]     0,44    0,88    0,88     0,89    0,91    0,92      0,88     0,88     0,89     0,91    0,92
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,93    0,93     0,94    0,96    0,96      0,93     0,93     0,94     0,96    0,96
+       [W/m
+ U     [W/m
+ U            0,27    0,95    0,94     0,96    0,97    0,98      0,95     0,94     0,96     0,97    0,98
+              0,24    0,97    0,96     0,97    0,99    1,00      0,97     0,96     0,97     0,99    1,00
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+5.5          Alféizares
+Grupo 1: Alfeizares con continuidad entre el aislamiento de fachada y la carpintería
+
+Transmitancia térmica lineal
+Al existir continuidad entre el aislamiento y la carpintería, el efecto de puente térmico se reduce al
+aumentar la resistencia al paso de calor de los distintos elementos.
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7      4,0     3,2      2,2     1,8
+              0,73    0,25    0,12     0,10    0,09    0,09      0,25     0,12     0,10     0,09    0,09
+       K]     0,44    0,24    0,12     0,10    0,09    0,09      0,24     0,12     0,10     0,09    0,09
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,19    0,11     0,09    0,08    0,08      0,19     0,11     0,09     0,08    0,08
+       [W/m
+ U     [W/m
+ U            0,27    0,18    0,10     0,09    0,08    0,08      0,18     0,10     0,09     0,08    0,08
+              0,24    0,17    0,10     0,08    0,08    0,08      0,17     0,10     0,08     0,08    0,08
+
+                                                21 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+Grupo 2: Alfeizares sin continuidad entre el aislamiento de fachada y la carpintería, sin gran
+separación entre ambos elementos, y alfeizares en fachadas de una hoja sin aislamiento
+
+Transmitancia térmica lineal
+La importancia de este         puente térmico  está determinada por la distancia entre el aislamiento y la
+carpintería.
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7     4,0      3,2      2,2     1,8
+              0,73    0,20    0,14     0,13    0,13    0,13      0,20     0,14     0,13     0,13    0,13
+       K]     0,44    0,23    0,16     0,15    0,15    0,15      0,23     0,16     0,15     0,15    0,15
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,24    0,17     0,16    0,16    0,17      0,24     0,17     0,16     0,16    0,17
+       [W/m
+ U     [W/m
+ U            0,27    0,25    0,18     0,17    0,17    0,17      0,25     0,18     0,17     0,17    0,17
+              0,24    0,25    0,18     0,17    0,17    0,17      0,25     0,18     0,17     0,17    0,17
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                22 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Grupo 3: Alfeizares sin continuidad entre el aislamiento de fachada y la carpintería, con gran
+separación entre ellos
+
+Transmitancia térmica lineal
+Los valores de la transmitancia térmica lineal se recogen en la siguiente tabla.
+                                         Ψe [W/mK]                                   Ψi [W/mK]
+                                       Umarco [W/m²K]                              Umarco [W/m²K]
+                      5,7     4,0      3,2     2,2     1,8        5,7     4,0      3,2      2,2     1,8
+              0,73    0,43    0,39     0,40    0,42    0,42      0,51     0,44     0,44     0,44    0,44
+       K]     0,44    0,46    0,43     0,44    0,45    0,46      0,54     0,48     0,48     0,48    0,48
+       K]
+  muro
+  muro
+      2
+      2       0,31    0,48    0,45     0,45    0,47    0,48      0,56     0,50     0,50     0,50    0,50
+       [W/m
+ U     [W/m
+ U            0,27    0,49    0,45     0,46    0,48    0,48      0,57     0,51     0,50     0,50    0,51
+              0,24    0,49    0,46     0,47    0,48    0,49      0,57     0,51     0,51     0,51    0,51
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                                23 de 37
+
+Documento de Apoyo al DB HE                                                             DA DB HE / 3
+
+5.6    Capialzados
+Grupo 1: Capialzados de PVC o madera con aislamiento
+
+Transmitancia térmica lineal
+Los valores de  transmitancia térmica lineal de estos detalles son muy bajos, hecho que señala la
+importancia de que la caja de persiana esté aislada.
+                                                   Ψe, Ψi [W/mK]
+                                                   Umarco [W/m2K]
+                                          5,7      4,0     3,2      2,2      1,8
+                                  0,73    0,08     0,05    0,03     0,00    -0,01
+                           K]     0,44    0,11     0,08    0,06     0,03     0,02
+                           K]
+                     muro
+                     muro
+                         2
+                         2        0,31    0,13     0,10    0,08     0,05     0,04
+                          [W/m
+                    U     [W/m
+                    U             0,27    0,13     0,10    0,08     0,06     0,04
+                                  0,24    0,13     0,09    0,08     0,05     0,03
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+                                              24 de 37
+
+Documento de Apoyo al DB HE                                                             DA DB HE / 3
+
+Grupo 2: Capialzados de PVC o madera sin aislamiento
+
+Transmitancia térmica lineal
+La cámara muy ventilada del cajón de persiana somete a la pared interior del mismo a condiciones
+exteriores, por lo que se genera un puente térmico importante. El hecho de que la caja de persiana sea
+de un material poco transmisor, como madera o PVC, amortigua un poco este hecho, pero los valores de
+transmitancia térmica lineal siguen siendo muy altos.
+                                                   Ψe, Ψi [W/mK]
+                                                   Umarco [W/m2K]
+                                          5,7      4,0     3,2      2,2     1,8
+                                  0,73    0,92     0,92    0,92     0,92    0,92
+                           K]     0,44    0,97     0,97    0,97     0,97    0,97
+                           K]
+                     muro
+                     muro
+                         2
+                         2        0,31    0,99     0,99    0,99     0,99    0,99
+                          [W/m
+                    U     [W/m
+                    U             0,27    1,01     1,01    1,01     1,01    1,01
+                                  0,24    1,04     1,04    1,04     1,04    1,04
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+Grupo 3: Capialzados metálicos
+
+                                              25 de 37
+
+Documento de Apoyo al DB HE                                                                  DA DB HE / 3
+
+Transmitancia térmica lineal
+Los efectos del puente térmico se agudizan en estos detalles al ser el capialzado metálico y, por tanto,
+tener menor resistencia térmica.
+                                                       Ψe, Ψi [W/mK]
+                                                       Umarco [W/m2K]
+                                              5,7      4,0     3,2      2,2     1,8
+                                      0,73    1,41     1,41    1,41     1,41    1,41
+                               K]     0,44    1,45     1,45    1,45     1,45    1,45
+                               K]
+                          muro
+                          muro
+                             2
+                             2        0,31    1,44     1,45    1,45     1,44    1,44
+                              [W/m
+                        U     [W/m
+                        U             0,27    1,49     1,48    1,48     1,48    1,48
+                                      0,24    1,51     1,52    1,52     1,52    1,52
+Riesgo de condensaciones superficiales
+Como el resto de elementos del contorno de huecos, estos detalles son propensos a la formación de
+condensaciones superficiales, acentuándose en aquellos casos en los que se produce una zona con
+concentración del flujo térmico y con transmitancia térmica del muro alta.
+
+5.7    Frentes de forjados
+Grupo 1: Frentes de forjado con continuidad del aislamiento de fachada
+
+Transmitancia térmica lineal
+Cuando el aislamiento pasa por delante del frente de forjado prácticamente no se produce     puente
+térmico, de ahí los bajos valores que se obtienen para este grupo de detalles.
+                                                      Ψe [W/mK]                      Ψi [W/mK]
+                                              Espesor forjado (cm)              Espesor forjado (cm)
+                                              25       30      35      25       30       35
+                                     0,73     0,02    0,02    0,02     0,25     0,29     0,33
+                    K]               0,44     0,01    0,01    0,01     0,15     0,17     0,19
+                    K]
+                muro
+                muro
+                   2
+                   2                 0,31     0,00    0,00    0,00     0,10     0,12     0,13
+                    [W/m
+               U    [W/m
+               U                     0,27     0,00    0,00    0,00     0,09     0,10     0,12
+                                     0,24     0,00    0,00    0,00     0,08     0,09     0,10
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para la clase higrométrica 3 o inferior
+en las zonas climáticas D y E con cantos de forjado elevados.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases higrométricas 4 y 5 en
+las zonas climáticas D y E, y en el resto de zonas climáticas, a excepción de la zona climática α, con
+muros de transmitancia térmica alta.
+La zona de condensaciones se localiza en los rincones formados por el encuentro entre forjado y muro.
+
+                                                      26 de 37
+
+Documento de Apoyo al DB HE                                                                 DA DB HE / 3
+
+Grupo 2: Frentes de forjado sin continuidad del aislamiento de fachada
+
+Transmitancia térmica lineal
+Al ser el hormigón armado un conductor relativamente bueno del calor se produce un puente térmico en
+el encuentro entre el forjado y el muro. Este grupo tiene valores de transmitancia térmica lineal más
+desfavorables al no estar aislado el frente de forjado.
+                                                Ψe [W/mK]                      Ψi [W/mK]
+                                        Espesor forjado (cm)              Espesor forjado (cm)
+                                        25       30      35      25       30       35
+                               0,73     0,64    0,70    0,76     0,88     0,97     1,07
+                    K]         0,44     0,67    0,74    0,81     0,81     0,91     0,99
+                    K]
+                muro
+                muro
+                   2
+                   2           0,31     0,65    0,72    0,79     0,75     0,84     0,92
+                    [W/m
+               U    [W/m
+               U               0,27     0,64    0,71    0,78     0,72     0,81     0,89
+                               0,24     0,62    0,69    0,76     0,70     0,78     0,86
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para la clase higrométrica 3 o inferior
+en las zonas climáticas C, D y E, y en climas A y B con muros de transmitancia térmica alta.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases higrométricas 4 y 5 en
+todas las zonas climáticas.
+La zona de condensaciones se localiza en los rincones formados por el encuentro entre forjado y muro.
+5.8 Cubiertas planas
+Grupo 1: Cubiertas planas con continuidad entre el aislamiento de fachada y el de cubierta
+
+Transmitancia térmica lineal
+La continuidad del aislamiento hace que los valores de la transmitancia térmica lineal sean muy bajos.
+
+                                                27 de 37
+
+Documento de Apoyo al DB HE                                                                       DA DB HE / 3
+
+                                        Ψe [W/mK]                                       Ψi [W/mK]
+                                Ucubierta [W/m²K]                               Ucubierta [W/m²K]
+                       0,50     0,38     0,28        0,28     0,28     0,50     0,38     0,28     0,28     0,28
+              0,73     0,03     0,04     0,05        0,05     0,05     0,37     0,37     0,35     0,35     0,35
+       K]     0,44     0,05     0,06     0,06        0,06     0,06     0,32     0,3      0,28     0,28     0,28
+       K]
+  muro
+  muro
+      2
+      2       0,31     0,05     0,06     0,06        0,06     0,06     0,29     0,27     0,25     0,25     0,25
+       [W/m
+ U     [W/m
+ U            0,27     0,05     0,06     0,06        0,06     0,06     0,29     0,27     0,24     0,24     0,24
+              0,24     0,05     0,06     0,06        0,06     0,06     0,28     0,26     0,24     0,24     0,24
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para la clase higrométrica 3 o inferior
+con muros de transmitancia térmica alta.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases higrométricas 4 y 5 en
+todas las zonas climáticas, a excepción de la zona climática α con muros de transmitancia térmica baja.
+Grupo 2: Cubiertas planas sin continuidad entre el aislamiento de fachada y el de cubierta
+
+Transmitancia térmica lineal
+La transmitancia térmica lineal         es alta, y empeora al aumentar el valor de resistencia térmica de la
+cubierta.
+                                        Ψe [W/mK]                                       Ψi [W/mK]
+                                Ucubierta [W/m²K]                               Ucubierta [W/m²K]
+                       0,50     0,38     0,28        0,28     0,28     0,50     0,38     0,28     0,28     0,28
+              0,73     0,58     0,64     0,69        0,69     0,69     0,93     0,96     0,99     0,99     0,99
+       K]     0,44     0,62     0,68     0,73        0,73     0,73     0,90     0,93     0,96     0,96     0,96
+       K]
+  muro
+  muro
+      2
+      2       0,31     0,60     0,66     0,71        0,71     0,71     0,85     0,88     0,91     0,91     0,91
+       [W/m
+ U     [W/m
+ U            0,27     0,58     0,64     0,69        0,69     0,69     0,82     0,85     0,88     0,88     0,88
+              0,24     0,56     0,62     0,67        0,67     0,67     0,80     0,83     0,85     0,85     0,85
+
+                                                     28 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para todas las clases higrométricas y
+todas las zonas climáticas.
+La zona de condensaciones se localiza en el rincón formado por el encuentro entre cubierta y muro.
+5.9 Esquinas
+Grupo 1: Esquinas salientes (al exterior)
+
+Transmitancia térmica lineal
+Este puente térmico  se genera por razones geométricas y no constructivas, a pesar de lo cual es
+necesario tenerlo en cuenta para calcular los procesos energéticos.
+                                                       Ψe        Ψi
+                                                       [W/mK]  [W/mK]
+                                               0,73    -0,24    0,11
+                                        K]     0,44    -0,15    0,08
+                                        K]
+                                  muro
+                                  muro
+                                      2
+                                      2        0,31    -0,11    0,06
+                                       [W/m
+                                 U     [W/m
+                                 U             0,27    -0,10    0,06
+                                               0,24    -0,10    0,05
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de formación de condensaciones superficiales para las clases de
+higrometría 4 o 5 en las zonas climáticas D y E y para las zonas A, B, C y D con muros de transmitancia
+térmica alta.
+Grupo 2: Esquinas entrantes (al interior)
+
+Transmitancia térmica lineal
+Es el puente térmico inverso al anterior, de forma que el signo de la transmitancia térmica es el opuesto.
+
+                                               29 de 37
+
+Documento de Apoyo al DB HE                                                                         DA DB HE / 3
+
+                                                              Ψe        Ψi
+                                                             [W/mK]  [W/mK]
+                                                      0,73    0,18    -0,16
+                                           K]         0,44    0,12    -0,11
+                                           K]
+                                        muro
+                                        muro
+                                             2
+                                             2        0,31    0,09    -0,08
+                                          [W/m
+                                     U    [W/m
+                                     U                0,27    0,08    -0,08
+                                                      0,24    0,08    -0,07
+Riesgo de condensaciones superficiales
+El    efecto  del     puente térmico no   introduce   un      riesgo adicional de formación de     condensaciones
+superficiales.
+
+5.10 Forjados inferiores en contacto con el aire exterior
+Grupo 1: Forjados inferiores en contacto con el aire con aislamiento sobre el forjado o con
+continuidad entre el aislamiento de fachada y del forjado
+
+Transmitancia térmica lineal
+La continuidad del aislamiento térmico entre la fachada y el forjado contribuye a un buen comportamiento
+del detalle constructivo, algo que se ve reflejado en los valores de transmitancia térmica de este grupo.
+                                          Ψe [W/mK]                                          Ψi [W/mK]
+                                        Usuelo [W/m²K]                                     Usuelo [W/m²K]
+                       0,53     0,52        0,42      0,37     0,32     0,53      0,52     0,42     0,37     0,32
+              0,73    -0,17    -0,17       -0,17     -0,18    -0,18     0,26      0,52     0,24     0,23     0,22
+       K]     0,44    -0,06    -0,06       -0,06     -0,06    -0,07     0,26      0,26     0,24     0,23     0,22
+       K]
+  muro
+  muro
+      2
+      2       0,31    -0,02    -0,02       -0,01     -0,02    -0,02     0,27      0,27     0,24     0,23     0,22
+       [W/m
+ U     [W/m
+ U            0,27    -0,01    -0,01        0,00      0,00    -0,01     0,27      0,27     0,24     0,23     0,22
+              0,24     0,00     0,00        0,01      0,01     0,00     0,27      0,27     0,25     0,23     0,22
+
+                                                      30 de 37
+
+Documento de Apoyo al DB HE                                                                         DA DB HE / 3
+
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para clase higrométrica 3 o inferior en
+las zonas climáticas D y E y en el resto de zonas con una transmitancia térmica de muro alta.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases de higrometría 4 y 5 en
+todas las zonas climáticas.
+La zona de condensación de sitúa en el encuentro entre muro y fachada.
+
+Grupo        2: Forjados         inferiores en contacto con  el aire  con aislamiento    bajo    el forjado, sin
+continuidad entre el aislamiento de fachada y el del forjado
+
+Transmitancia térmica lineal
+Al no estar protegido el canto de forjado en estos detalles se produce un mayor flujo energético que el
+propio de los cerramientos. Este hecho se ver reflejado en las tablas, en las que se aprecia que la
+transmitancia térmica lineal aumenta según disminuye la transmitancia térmica de los cerramientos.
+                                              Ψe [W/mK]                                    Ψi [W/mK]
+                                            Usuelo [W/m²K]                               Usuelo [W/m²K]
+                         0,53     0,52      0,42     0,37     0,32     0,53     0,52     0,42       0,37     0,32
+                0,73     0,43     0,43      0,47     0,49     0,51     0,80     0,81     0,84       0,86     0,88
+       K]       0,44     0,51     0,52      0,56     0,58     0,61     0,79     0,79     0,82       0,84     0,86
+       K]
+  muro
+  muro
+      2
+      2         0,31     0,53     0,53      0,58     0,61     0,63     0,77     0,77     0,80       0,82     0,83
+       [W/m
+ U     [W/m
+ U              0,27     0,53     0,53      0,58     0,61     0,63     0,76     0,76     0,79       0,81     0,82
+                0,24     0,52     0,53      0,58     0,60     0,63     0,75     0,75     0,78       0,80     0,81
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales en todas las zonas climáticas y para
+todas las clases higrométricas.
+La zona de condensación de sitúa en el encuentro entre muro y fachada.
+
+                                                        31 de 37
+
+Documento de Apoyo al DB HE                                                                    DA DB HE / 3
+
+5.11 Suelos en contacto con el terreno
+Grupo 1: Suelos en contacto con el terreno con continuidad entre el aislamiento de fachada y de
+solera
+
+Transmitancia térmica lineal
+El grupo de los detalles con mejor continuidad del aislamiento se caracteriza por unos valores de
+transmitancia térmica lineal exterior apreciables por la gran superficie exterior expuesta.
+                                 Ψe [W/mK]                                               Ψi [W/mK]
+                              Uₛₒₗₑᵣₐ [W/m²K]                                         Uₛₒₗₑᵣₐ [W/m²K]
+                       0,53     0,52     0,42     0,37     0,32     0,53     0,52     0,42     0,37     0,32
+              0,73    -0,04    -0,04    -0,04    -0,05    -0,06     0,31     0,30     0,23     0,19     0,15
+       K]     0,44     0,00     0,00     0,00     0,00    -0,01     0,38     0,37     0,30     0,26     0,22
+       K]
+  muro
+  muro
+      2
+      2       0,31     0,03     0,03     0,03     0,02     0,02     0,42     0,41     0,33     0,29     0,25
+       [W/m
+ U     [W/m
+ U            0,27     0,03     0,03     0,03     0,03     0,02     0,43     0,42     0,35     0,30     0,26
+              0,24     0,04     0,04     0,04     0,04     0,03     0,44     0,43     0,35     0,31     0,27
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para clase higrométrica 3 o inferior en
+las zonas climáticas D y E.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases de higrometría 4 y 5 en
+todas las zonas climáticas.
+La zona de condensación de sitúa en el encuentro entre muro y el suelo.
+Grupo 2: Suelos en contacto con el terreno sin continuidad entre el aislamiento de fachada y de
+solera
+
+Transmitancia térmica lineal
+Los valores de transmitancia térmica son algo peores que para el grupo 1. El puente térmico se forma
+por razones geométricas y por la separación entre ambas líneas de aislamiento, la del muro y la de la
+solera. Esta discontinuidad definida no es muy significativa aunque se trata de una situación a evitar en
+la medida de lo posible.
+
+                                                32 de 37
+
+Documento de Apoyo al DB HE                                                                    DA DB HE / 3
+
+                                            Ψe [W/mK]                                    Ψi [W/mK]
+                                         Uₛₒₗₑᵣₐ [W/m²K]                              Uₛₒₗₑᵣₐ [W/m²K]
+                       0,53     0,52     0,42     0,37     0,32     0,53     0,52     0,42     0,37     0,32
+              0,73     0,09     0,09     0,08     0,07     0,06     0,44     0,43     0,35     0,31     0,26
+       K]     0,44     0,15     0,15     0,14     0,14     0,12     0,53     0,52     0,44     0,40     0,35
+       K]
+  muro
+  muro
+      2
+      2       0,31     0,18     0,18     0,17     0,16     0,15     0,57     0,56     0,48     0,43     0,39
+       [W/m
+ U     [W/m
+ U            0,27     0,18     0,18     0,18     0,17     0,16     0,58     0,57     0,49     0,45     0,40
+              0,24     0,19     0,19     0,18     0,18     0,17     0,59     0,58     0,50     0,45     0,41
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para clase higrométrica 3 o inferior en
+las zonas climáticas D y E.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases de higrometría 4 y 5 en
+todas las zonas climáticas.
+La zona de condensación de sitúa en el encuentro entre muro y el suelo.
+Grupo 3: Suelos en contacto con el terreno sin aislamiento en fachada
+
+Transmitancia térmica lineal
+Estos valores se han obtenido para muros de termoarcilla de 24 y 29 cm, y sus valores son similares a
+los de los otros grupos, con la salvedad de que las transmitancias térmicas de los muros son mayores.
+                                            Ψe [W/mK]                                    Ψi [W/mK]
+                                         Uₛₒₗₑᵣₐ [W/m²K]                              Uₛₒₗₑᵣₐ [W/m²K]
+                       0,53     0,52     0,42     0,37     0,32     0,53     0,52     0,42     0,37     0,32
+       K]
+       K]     0,89     0,02     0,02     0,02     0,01     0,00     0,34     0,34     0,27     0,23     0,18
+  muro
+  muro
+      2
+      2
+       [W/m
+ U     [W/m
+ U            0,84     0,05     0,05     0,05     0,04     0,03     0,39     0,38     0,31     0,27     0,23
+
+Riesgo de condensaciones superficiales
+Se ha observado que hay riesgo de condensaciones superficiales para clase higrométrica 3 o inferior en
+las zonas climáticas D y E.
+Se ha observado que hay riesgo de condensaciones superficiales para las clases de higrometría 4 y 5 en
+todas las zonas climáticas.
+La zona de condensación de sitúa en el encuentro entre muro y el suelo.
+
+                                                  33 de 37
+
+Documento de Apoyo al DB HE                                                                   DA DB HE / 3
+
+Apéndice A             Terminología
+Envolvente (térmica): está compuesta por todos los cerramientos que delimitan los espacios habitables
+con el aire exterior, el terreno u otro edificio, y por todas las      particiones interiores que delimitan los
+espacios habitables con espacios no habitables en contacto con el ambiente exterior.
+Flujo unidimensional: se considera que el flujo de calor es unidimensional cuando las líneas de flujo
+son rectas. En ese caso, el comportamiento térmico estático se pude describir completamente por la
+resistencia térmica (R) [m2K/W] o la transmitancia térmica (U) [W/m2K] global del cerramiento.
+Flujo bidimensional:   se considera que el flujo es bidimensional cuando las líneas de flujo tienen
+curvatura pero pueden contenerse en planos paralelos.
+En     un       modelo en el que     no se tenga   en cuenta la inercia térmica, el comportamiento      térmico
+bidimensional          se describe   de forma      simplificada  como  una superposición de   procesos,     uno
+unidimensional y otro bidimensional. El primero se caracteriza mediante su transmitancia térmica U y a él
+se añade        un factor que        representa la curvatura de las líneas de flujo. Este factor se denomina
+transmitancia térmica lineal, se representa por Ψ y tiene unidades de [W/mK].
+Flujo tridimensional: se considera flujo tridimensional en una zona cuando los planos que contienen las
+líneas de flujo no son paralelos.
+Puente térmico: zona de la envolvente térmica del edificio en la que se evidencia una variación de la
+uniformidad de la construcción, ya sea por un cambio del espesor del cerramiento o de los materiales
+empleados,      por       la  penetración  completa   o parcial  de    elementos constructivos   con  diferente
+conductividad, por la diferencia entre el área externa e interna del elemento, etc., que conllevan una
+minoración de la resistencia térmica respecto al resto del cerramiento.
+Los puentes térmicos son partes sensibles de los edificios donde aumenta la probabilidad de producción
+de condensaciones.
+Los puentes térmicos más comunes son:
+a)     Puentes térmicos integrados en los cerramientos:
+       i)       pilares integrados en los cerramientos de las fachadas;
+       ii)      contorno de huecos y lucernarios;
+       iii)     cajas de persianas;
+       iv)      otros puentes térmicos integrados;
+b)     Puentes térmicos formados por encuentro de cerramientos:
+       i)       frentes de forjado en las fachadas;
+       ii)      uniones de cubiertas con fachadas;
+       iii)     cubiertas con pretil;
+       iv)      cubiertas sin pretil;
+       v)       uniones de fachadas con cerramientos en contacto con el terreno;
+       vi)      unión de fachada con losa o solera;
+       vii) unión de fachada con muro enterrado o pantalla;
+c)     Esquinas o encuentros de fachadas, que, dependiendo de la posición del ambiente exterior se
+       subdividen en:
+       i)       esquinas entrantes;
+       ii)      esquinas salientes;
+d)     Encuentros de voladizos con fachadas;
+e)     Encuentros de tabiquería interior con cerramientos exteriores.
+Puente térmico lineal: puente térmico con una sección transversal uniforme a lo largo de una dirección.
+
+                                                        34 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+Sistema dimensional: sistema que determina el método para determinar la longitud (u otra magnitud)
+característica de un elemento constructivo.
+Transmitancia   térmica:       flujo  de calor, en régimen estacionario, para un área y diferencia de
+temperaturas unitarias de los medios situados a cada lado del elemento que se considera.
+Transmitancia térmica lineal: flujo de calor, en régimen estacionario, para una longitud y diferencia de
+temperaturas unitarias de los medios situados a cada lado del puente térmico que se considera.
+Transmitancia térmica puntual: flujo de calor, en régimen estacionario, para un punto y una diferencia
+de temperaturas unitarias de los medios situados a cada lado del puente térmico que se considera.
+
+                                                   35 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+Apéndice B             Notaciones y unidades
+Φ       Flujo de calor por conducción, en W
+λ       Conductividad térmica, en W/m.K
+θi      Temperatura interior, en K
+θₑ      Temperatura exterior, en K
+A       Superficie del elemento, en m²
+L       Longitud de un encuentro, en m
+L2D     Factor de acoplamiento, en W/mK
+Lji     Longitud de los puentes térmicos de tipo i dentro de la tipología j, en m
+R       Resistencia térmica, en m² K/ W
+U       Transmitancia térmica, en W/m²K
+Ψ       Transmitancia térmica lineal, en W/mK
+Ψₑ      Transmitancia térmica lineal medida en sistema de dimensiones exteriores, en W/mK
+Ψi      Transmitancia térmica lineal medida en sistema de dimensiones interiores, en W/mK
+χ       Transmitancia térmica puntual, en W/K
+
+                                               36 de 37
+
+Documento de Apoyo al DB HE                                                               DA DB HE / 3
+
+Otros documentos de referencia
+UNE-EN ISO 10211:2012          Puentes  térmicos  en la edificación. Flujos de calor  y temperaturas
+                               superficiales. Cálculos detallados.
+UNE-EN ISO 13370:2010          Prestaciones térmicas de edificios. Transmisión de calor por el terreno.
+                               Métodos de cálculo.
+UNE-EN ISO 13788:2002          Características higrotérmicas de   los elementos  y    componentes    de
+                               edificación. Temperatura  superficial interior para evitar la humedad
+                               superficial crítica y la condensación intersticial. Métodos de cálculo
+UNE-EN ISO 13789:2010          Prestaciones térmicas de los edificios. Coeficientes de transferencia de
+                               calor por transmisión y ventilación. Método de cálculo.
+UNE-EN ISO 14683:2011          Puentes   térmicos  en  la  edificación. Transmitancia térmica   lineal.
+                               Métodos simplificados y valores por defecto.
+UNE-EN ISO 6946:2012           Componentes y elementos para la edificación. Resistencia térmica y
+                               transmitancia térmica. Método de cálculo.
+
+                                               37 de 37

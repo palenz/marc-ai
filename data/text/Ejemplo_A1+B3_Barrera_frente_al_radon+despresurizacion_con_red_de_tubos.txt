@@ -1,0 +1,289 @@
+BARRERA FRENTE AL RADÓN +                                                                                EJEMPLO
+DESPRESURIZACIÓN CON RED DE TUBOS                                                                        A1+B3
+
+                                                                                          Efectividad    93 ~~%~~  
+                                                                                            Coste        5.620€
+                                                                                 Coste por superficie          102  ~~€/m~~  2
+
+   1. DESCRIPCIÓN DEL EDIFICIO                           ■  Plantas y distribución: Dos plantas (Figura 1). En la
+                                                            planta baja se sitúan el garaje y un local habitable de
+ ■  Uso: Residencial.                                       usos diversos. En la planta primera se encuentran el
+                                                            resto de los locales habitables.
+ ■  Clasificación del municipio según el DB HS6 en fun-
+    ción del potencial de radón: Zona II.                ■  Construcción:                   Estructura   metálica. Fachadas de
+                                                            mampostería en planta baja y fábrica de ladrillo
+ ■  Superficie construida: 170 m².                          en primera planta. Solera en toda la superficie en
+                                                            planta.
+ ■  Superficie en contacto con el terreno: 85 m².
+                                                         ■  Tipo de terreno: Capa de relleno heterogénea, de
+ ■  Superficie construida bajo rasante: No.                 espesor variable y poco compacta. Sustrato natural
+                                                            de granito alterado y rocas graníticas.
+ ■  Tipo de ventilación: Natural a través de huecos de
+    ventanas.                                            ■  Promedio anual de concentración de radón previo a
+                                                            la intervención: 1.170 Bq/m 3.
+
+                                                                                                                   garaje
+
+                                             Figura 1 - Fachada y planta baja de la vivienda
+
+                         Fecha de intervención: 2019 · Coste de ejecución material:         5.620 €
+
+  2  A1+B3        Fichas de ejemplos
+  2
+
+    2. ELECCIÓN DE LA SOLUCIÓN
+Las soluciones de protección más apropiadas según
+la tabla 2¹ de la Guía de rehabilitación frente al radón
+en el caso de la existencia de una solera para una con-
+centración de radón existente mayor de 600 Bq/m³
+son:
+
+■     barrera frente al radón con despresurización;
+
+■     sellado de fisuras, grietas, encuentros y juntas de la
+      envolvente en contacto con el terreno con despre-
+      surización; o
+
+■     barrera frente al radón con disposición de una cá-
+      mara de aire ventilada.
+
+Según la propia Guía, estas soluciones se pueden
+complementar con la mejora de la ventilación de los
+locales habitables.
+
+
+
+    El  mal estado     del cerramiento  en contacto con el
+    terreno conduce a la elección de una solución basada
+    en la disposición de una barrera frente al radón y la
+    despresurización del terreno.
+
+Entre estas posibilidades se considera la barrera fren-
+te al radón (Solución A1 y Solución A1.1) con despre-
+surización del terreno (Solución B3) como la opción
+más adecuada por los siguientes motivos:
+■     el estado de la solera existente no es bueno, por
+      lo que se considera oportuno su sustitución. Al
+      introducir una nueva solera, no es técnicamente
+      difícil disponer una barrera frente al radón de tipo
+      lámina y una despresurización debajo de ella. Tam-
+      poco supone un coste excesivo en relación a su alta
+      eficiencia; y
+
+■     la mejora de la ventilación de los locales habitables
+      se descarta puesto que la ventilación existente se
+      considera suficiente para asegurar la calidad del
+      aire interior sin tener en cuenta el radón. Además, se
+      quiere limitar el posible incremento de la deman-
+      da energética de climatización consecuencia de un
+      aumento excesivo de la ventilación.
+3. DIAGNÓSTICO
+El objetivo de la despresurización del terreno es ga-
+rantizar que la diferencia de presión entre el terreno y
+la vivienda sea negativa en toda la extensión del edifi-
+cio en contacto con el terreno. Para poder lograr este
+objetivo se realiza un diagnóstico de la capacidad de
+movilidad del aire en el sustrato bajo la solera.
+
+El objetivo de la disposición de una barrera frente al
+radón es aislar el edificio lo máximo posible del terre-
+no para evitar la entrada de radón y favorecer además
+la efectividad de la despresurización. Para poder lo-
+grar este objetivo se realiza un diagnóstico de la situa-
+ción existente basado en su inspección y evaluación,
+identificando los puntos críticos en los que la barrera
+podrá presentar discontinuidades. Además, es nece-
+sario evaluar la ventilación de los locales a proteger
+para la correcta selección de la barrera.
+
+Movilidad del aire en el sustrato
+El diagnóstico de la movilidad del aire en el sustrato
+incluye el estudio de la composición del sustrato para
+verificar que exista una capa que pueda ser potencial-
+mente permeable al aire, la evaluación de la presen-
+cia de obstáculos y la estimación del radio de acción
+de la despresurización (a qué distancia puede asegu-
+rarse la extracción de los gases del terreno).
+Al demoler y retirar la solera existente, se observa que
+el sustrato compactado no presenta una movilidad al
+aire adecuada, así como la presencia de un colector de
+aguas residuales y la zapata de cimentación de un pilar.
+Puntos críticos en la barrera
+
+Fruto de la inspección de la situación existente se
+identifican como puntos críticos que podrá tener la
+barrera en su ejecución la junta perimetral y los en-
+cuentros con un pilar y una bajante.
+
+Ventilación del local
+
+La ventilación está producida principalmente por las
+infiltraciones a través de las carpinterías, que son ven-
+tanas correderas de aluminio sin clasificación a per-
+meabilidad al aire. Se considera de forma aproximada
+para el cálculo de la barrera un caudal de ventilación
+correspondiente a 0,4 renovaciones por hora.
+
+                                                                                                 4. DISEÑO
+              (1)  Tabla 2. Soluciones orientativas de protección frente al radón en caso de     Se diseña un sistema de despresurización siguiendo
+                   solera en función de la concentración de radón existente de la Guía de
+                   rehabilitación frente al radón.                                               las directrices indicadas en la Solución B3 que consta
+
+                                        Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos  A1+B3           3
+                                                                                                                                     3
+
+de los siguientes elementos, tal y como se muestra
+en la Figura 2:
+■  un elemento de captación bajo la solera formado                                       Se opta por un sistema de despresurización del terreno
+   por una red de tubos perforados de 100 mm de diá-                                     mediante una red de tubos perforados bajo solera para
+   metro (Figura 3);                                                                    garantizar una extensión adecuada de la despresurización
+                                                                                           con un diseño y ejecución más sencillo que con la
+                                                                  disposición de varias arquetas.
+■  una capa de grava de 20-30 cm que envuelve la red
+   de tubos y sustituye a la capa de relleno existente;
+                                                                                         Además, se prevé la disposición de una barrera frente
+■  una solera de hormigón con fibras de 10 cm de es-                                      al radón de tipo lámina que cubra la superficie co-
+   pesor;                                                                                rrespondiente al local habitable, siguiendo las direc-
+                                                                                         trices indicadas en la Solución A1 y la Solución A1.1
+■  un conducto interior vertical de extracción de 100                                    en lo relativo al sellado de la junta perimetral y los
+   mm de diámetro conectado a la red de tubos per-                encuentros con la bajante y el pilar.
+   forados y con la boca de expulsión situada en la fa-
+   chada; y                                                                               La barrera a emplear es una lámina a base de polio-
+                                                                                         lefina (FPO) para la protección, tanto frente al radón
+■  un  extractor centrífugo          de potencia     aproximada                             como a la humedad, de estructuras enterradas de
+   27 W situado en el conducto interior vertical; gene-                                   hormigón armado (Figura 4). El espesor de la lámina
+   ralmente es preferible la colocación del extractor en                                  es de 1,20 mm y su coeficiente de difusión del radón
+   el exterior del edificio, pero en este caso se opta por                              es de 2,3·10⁻¹¹ m²/s. Se evalúa la idoneidad de esta lá-
+   disponerlo en un armario de uso exclusivo.                                             mina calculando la exhalación de radón con el espe-
+                                                                                          sor y el coeficiente de difusión mencionado y con la
+                     1     pavimento                                                       ventilación estimada del local, comprobándose que
+                     2     solera                                                       es inferior a la exhalación límite estipulada en el HS6.
+                     3     barrera frente al radón
+                     4     tubo perforado rodeado de capa de grava
+                     5     conducto de extracción                                           Bajo la barrera se prevé una capa antipunzonante
+                     6     extractor                              y sobre la barrera una nueva solera.
+                     7     boca de expulsión
+
+                                                                                  1     tubo perforado
+                                                                                  2      ~~colector de aguas ~~  residuales existente
+
+                                                          2
+                                                                                                                 garaje
+
+                                                          1
+           7                                         1
+           6                                         2
+           5                                         3               Figura 3 - Distribución de la red de tubos perforados
+                                                      ~~4~~  
+
+                 Figura 2 - Sección de la solución
+
+4 A1+B3     Fichas de ejemplos
+4
+
+                            Figura 4 - Barrera frente al radón                Figura 6 - Instalación de los tubos perforados y de la capa de grava
+
+            5. EJECUCIÓN
+          Las siguientes figuras muestran las etapas más rele-
+          vantes de la ejecución de la obra:
+          ■  la demolición de la solera existente (Figura 5);
+          ■  la instalación de los tubos perforados y de la capa
+             de grava (Figura 6);
+          ■  la perforación en la fachada para la salida del con-           Figura 7 - Perforación en la fachada para la salida del conducto de
+             ducto de extracción (Figura 7);                                        extracción
+          ■  el extractor ya colocado (Figura 8);
+          ■  la colocación de la capa antipunzonante (Figura 9);
+          ■  la disposición de la lámina flotante sobre la capa an-
+             tipunzonante y el sellado del solape entre dos lámi-
+             nas (Figura 10) con cintas de aplicación en frío;
+          ■  el sellado de los encuentros de la lámina con el pilar
+             (Figura 11);
+          ■  el sellado de la lámina en la junta perimetral (Figu-               Figura 8 - Extractor instalado en un armario de uso exclusivo
+             ra 12); y
+          ■  la lámina ya colocada (Figura 13).
+
+                                                                                Figura 9 - Colocación de la capa antipunzonante sobre la grava
+
+                        Figura 5 - Demolición de la solera existente
+
+                        Ejemplo A1+B3 • Barrera frente al radón + despresurización con red de tubos                    A1+B3  5
+                                                                                                                              5
+
+                                  Figura 10 - Sellado del solape entre dos láminas
+
+                                                                Por encima de la lámina se fija la armadura y se vierte
+                                                                el hormigón de la solera. La lámina está preconfor-
+                                                                mada con una capa de adhesión híbrida especial que
+                                                                proporciona una unión permanente con el hormigón
+                                                                fresco.
+
+                                                                 6. EFECTIVIDAD
+                                                                Después de la colocación de la barrera de protección
+Figura 11 - Sellado del encuentro de la lámina con un pilar     frente al radón y la implementación del sistema de
+                                                                despresurización, el promedio de concentración de
+                                                                radón se reduce de 1.170 a 84 Bq/m³.
+
+                                                                 Reducción de la concentración promedio del 93 % frente
+                                                                 a la concentración previa a la intervención.
+
+ Figura 12 - Sellado de la lámina en la junta perimetral
+
+           Figura 13 - Lámina colocada
+
+6  A1+B3        Fichas de ejemplos
+6
+
+                                                                                             Este documento ha sido elaborado por el Instituto de ciencias
+                                                                                             de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+                                                                                             de la Dirección General de Agenda Urbana y Arquitectura del
+                                                                                             Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+                                                                                             El IETcc, perteneciente al Consejo Superior de Investigaciones
+                                                             SECRETARÍA GENERAL DE           Científicas (CSIC), es el centro de investigación en edificación
+                    GOBIERNO       MINISTERIO                AGENDA URBANA Y VIVIENDA        de referencia en España. La Unidad de Calidad en la Construc-
+                    DE ESPAÑA      DE TRANSPORTES, MOVILIDAD
+                                   Y AGENDA URBANA          DIRECCIÓN GENERAL DE
+                                                            AGENDA URBANA Y ARQUITECTURA     ción del IETcc asesora al MITMA en la elaboración del Código
+                                                                                             Técnico de la Edificación que, desde el año 2019, cuenta con la
+                    GOBIERNO      MINISTERIO                                                 sección HS6 Protección frente a la exposición al radón.
+                    DE ESPAÑA     DE CIENCIA
+                                  E INNOVACIÓN
+                                                                                             Dirección y Coordinación:
+                                                                                             Ministerio de Transportes, Movilidad y Agenda Urbana
+                                                                                              Isabel Marcos Anasagasti
+           Esta ficha forma parte de una serie de documentos englobados                       Raquel Lara Campos
+           en una misma publicación, cuyo objetivo es constituir una he-                      Eduardo González de Prado
+           rramienta de ayuda para el diseño de soluciones de protección                     Instituto de ciencias de la construcción Eduardo Torroja CSIC
+           frente al radón:                                                                   Pilar Linares Alemparte
+           ■    Guía de rehabilitación frente al radón                                       Autoras:
+                                                                                              Pilar Linares Alemparte
+           Fichas de soluciones:                                                              Sonia García Ortega
+           A: De aislamiento del edificio                                                    Diagnóstico y diseño de la solución:
+           ■        Solución A1. Barrera frente al radón                                      Ángel Sánchez Malo · Geomnia Natural Resources SLNE
+           ■        Solución A1-1. Barrera frente al radón. Encuentros
+           ■        Solución A2. Sellado de fisuras, grietas, encuentros y juntas            Ejecución material de la obra:
+           ■        Solución A3. Puertas estancas                                             Geomnia Natural Resources SLNE
+           ■        Solución A4. Creación de sobrepresión                                    Edita:
+           B: De reducción del radón antes de que penetre en los locales                      Centro de Publicaciones Secretaría General Técnica
+                a proteger                                                                    Ministerio de Transportes, Movilidad y Agenda Urbana©
+           ■        Solución B1. Ventilación del espacio de contención: cá-                  Entidad colaboradora:
+                                   mara de aire                                               Consejo Superior de Investigaciones Científicas · CSIC
+           ■        Solución B2. Ventilación del espacio de contención: loca-                 Ministerio de Ciencia e Innovación
+                                   les no habitables
+           ■        Solución B3. Despresurización del terreno                                  Catálogo de publicaciones de la Administración General
+                                                                                               del Estado: publicacionesoficiales.boe.es
+           C: De reducción del radón tras penetrar en los locales a proteger
+           ■        Solución C1. Ventilación de los locales habitables                         Centro virtual de publicaciones del Ministerio de Transpor-
+                                                                                               tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+           Fichas de ejemplos:                                                                 Página web del Código Técnico de la Edificación:
+           ■        Ejemplo A1+B3. Barrera frente al radón + despresurización                  www.codigotecnico.org
+                                                 con red de tubos
+           ■        Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria              Maquetación y diseño gráfico:
+           ■        Ejemplo A2+B3. Sellado + despresurización con red de tubos                Lapizmente. Estrategia • Diseño Gráfico
+           ■        Ejemplo A2+C1. Sellado + ventilación mecánica de los loca-               Los contenidos o ideas recogidas en este documento pertenecen a
+                                                 les habitables                              sus autores. Este documento está basado en el conocimiento dispo-
+                                                                                             nible en el momento de su publicación. No se aceptará por las institu-
+           Publicación completa:                                                             ciones ni los autores implicados responsabilidad de ningún tipo por el
+           ISBN: 978-84-498-1045-9                                                           uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+           NIPO: 796-20-136-5                                                                y no deben interpretarse como detalles constructivos.
+           1ª edición: septiembre 2020                                                       Se permite la reproducción total o parcial del contenido de este do-
+           Edición actual: septiembre 2020                                                   cumento siempre y cuando se cite la fuente original y a sus autores.

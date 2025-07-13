@@ -1,0 +1,209 @@
+SELLADO + VENTILACIÓN MECÁNICA                                                                                  EJEMPLO
+DE LOS LOCALES HABITABLES                                                                                       A2+C1
+
+                                                                                                 Efectividad    26 ~~%~~  
+                                                                                  Coste                                   12.700 ~~€~~  
+                                                                                        Coste por superficie    37         ~~€/m~~  2
+
+   1. DESCRIPCIÓN DEL EDIFICIO                             ■  Construcción: Muros de carga. Fachadas de fábrica
+                                                              de ladrillo con enfoscado de cemento, mamposte-
+ ■  Uso: Socio-cultural.                                      ría y roca viva de forma puntual. Solera en toda la
+                                                              superficie en planta.
+ ■  Clasificación del municipio según el DB HS6 en fun-
+    ción del potencial de radón: Zona II.                  ■  Tipo de terreno: Sustrato natural de granito alterado
+                                                              y rocas graníticas.
+ ■  Superficie construida: 450 m².
+                                                           ■  Promedio anual de concentración de radón previo a
+ ■  Superficie en contacto con el terreno: 340 m².            la intervención: 401 Bq/m³.
+ ■  Superficie construida bajo rasante: No.
+ ■  Tipo de ventilación: Natural a través de huecos de
+    ventanas y aberturas de ventilación en los aseos co-
+    nectadas a un plenum y a un conducto al exterior.
+ ■  Plantas y distribución: Dos plantas en algunas zonas
+    puntuales, en el resto del edificio una sola planta
+    (Figura 1). Sólo se interviene en la zona señalada en
+    azul, que es independiente al resto (Figura 2).                          Figura 1 - Fachada del edificio
+
+                                  Figura 2 - Planta baja del edificio. En azul, zona en la que se interviene
+                      Fecha de intervención: 2018 · Coste de ejecución material:   12.700 €
+
+                                        Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables                      A2+C1  2
+                                                                                                                                               2
+
+    2. ELECCIÓN DE LA SOLUCIÓN                                                  3. DIAGNÓSTICO
+Las soluciones de protección más apropiadas según la                          El objetivo del sellado de fisuras, grietas, encuentros
+tabla 2¹ de la Guía de rehabilitación frente al radón en                      y juntas del cerramiento en contacto con el terreno es
+el caso de la existencia de una solera para una concen-                       limitar la penetración del radón a través de puntos en
+tración de radón existente menor de 600 Bq/m³ son:                            los que se de alguna discontinuidad. Para poder lograr
+                                                                              este objetivo se realiza un diagnóstico de la situación
+■     barrera frente al radón; o                                              existente basado en su inspección y evaluación, iden-
+                                                                              tificando los puntos críticos en los que el cerramiento
+■     sellado de fisuras, grietas, encuentros y juntas de la                  presenta discontinuidades.
+      envolvente en contacto con el terreno.
+                                                                              El objetivo de la mejora de la ventilación de los lo-
+Según la propia Guía, estas soluciones se pueden                              cales habitables como medida de protección frente
+complementar con la mejora de la ventilación de los                           al radón es, una vez que el radón ya ha penetrado en
+locales habitables.                                                           su interior, evitar que se acumule. Se introduce aire
+                                                                              desde el exterior que, por dilución, desplazamiento
+                                                                              o una combinación de ambos, elimina los contami-
+                                                                              nantes del ambiente interior y con ellos el radón. Para
+    La volumetría compleja del edificio, el buen estado del                   poder lograr este objetivo se realiza un diagnóstico
+    cerramiento en contacto con el terreno y la deficiente                    de la situación existente de la ventilación del edificio
+    ventilación conducen a la       elección de una solución                  basado en la inspección y evaluación de aperturas de
+    basada en el sellado de puntos críticos y mejora de la                    ventilación, infiltraciones, flujos de aire, etc.
+    ventilación de los locales habitables.
+                                                                              Puntos críticos en el cerramiento
+Entre estas posibilidades se considera el sellado de                          Fruto de la inspección de la situación existente del
+fisuras, grietas, encuentros y juntas (Solución A2) del                       cerramiento en contacto con el terreno se identifica
+cerramiento en contacto con el terreno con la mejora                          como punto crítico el encuentro con la tapa de una
+de la ventilación de los locales habitables (Solución                         arqueta de la red de saneamiento.
+C1) como la opción más adecuada por los siguientes
+motivos:                                                                      Ventilación
+■     el estado de la solera y del pavimento existente es                     Se observa que el edificio dispone de una ventilación
+      bueno, por lo que no se considera necesaria su sus-                     variable ocasionada por la acción del viento y la dife-
+      titución. El uso de barrera frente al radón sobre la                    rencia de temperatura con el exterior mediante:
+      solera existente se descarta por criterios económi-
+      cos y dificultad de implementación, debido princi-                      ■  las elevadas infiltraciones por las carpinterías (puer-
+      palmente a la complejidad del edificio en cuanto a                         tas y ventanas);
+      desniveles y forma irregular, así como su alta com-
+      partimentación;                                                         ■  la presencia de huecos como el tiro de una chime-
+                                                                                 nea;
+■     el sellado de los puntos críticos del cerramiento es
+      sencillo comparativamente con la disposición de                         ■  las aberturas de extracción en los aseos comunica-
+      una barrera frente al radón; y                                             das con el exterior mediante un conducto; y
+■     la mejora de la ventilación de los locales habitables                   ■  un antiguo sistema de climatización en desuso que
+      es una intervención más fácil de abordar que la dis-                       dispone de rejillas de ventilación en todas las es-
+      posición de la barrera.                                                    tancias comunicadas por conductos con el exterior.
+                                                                              Esta ventilación se considera insuficiente. Existen ma-
+                                                                              los olores en los aseos que evidencian falta de ex-
+                                                                              tracción de aire y se considera que con condiciones
+                                                                              climatológicas adversas el resto de locales tampoco
+                                                                              se ventilan adecuadamente.
+(1)  Tabla 2. Soluciones orientativas de protección frente al radón en caso de
+     solera en función de la concentración de radón existente de la Guía de
+     rehabilitación frente al radón.
+
+                                        Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables    A2+C1  3
+                                                                                                                             3
+
+  4. DISEÑO                                                   ■  boca de expulsión de aire en cubierta;
+Se prevé el sellado de la tapa de la arqueta de la red        ■  aberturas de admisión de aire en los locales secos
+de saneamiento siguiendo las directrices indicadas en            de 125 mm de diámetro; y
+la Solución A2.
+                                                              ■  aberturas de extracción de aire en el núcleo central
+                                                                 compuesto por aseos y pasillo de 125 mm de diá-
+                                                                 metro.
+  Se opta por un sistema específico de ventilación con        Por un lado, el aire fresco libre de radón se toma des-
+  mecanización tanto de la extracción como de la admisión     de el exterior a través de la boca de toma, pasa al
+  que permita estabilizar y ajustar los caudales y flujos de
+  aire a las necesidades detectadas.                          recuperador de calor en donde se atempera y des-
+                                                              pués es impulsado a los locales habitables secos a
+                                                              través de los conductos de impulsión y las aberturas
+Se diseña un sistema de ventilación mecánico especí-          de admisión. Por otro lado, el aire con radón del inte-
+fico siguiendo las directrices indicadas en la Solución       rior se extrae de los aseos y el pasillo central por las
+C1 que consta de los siguientes elementos (Figura 3):         aberturas de extracción y a través de los conductos
+                                                              de extracción es conducido al recuperador de calor.
+■  equipo de ventilación de doble flujo con recupera-         Allí cede parte de su calor al aire fresco y después se
+   dor de calor con un caudal constante de 200 m³/h;          expulsa al exterior a través de la boca de expulsión en
+                                                              cubierta.
+■  red de conductos de impulsión circulares de 90 mm
+   de diámetro desde el ventilador hasta las distintas        Para limitar las molestias producidas por el ruido ge-
+   aberturas de admisión;                                     nerado por la instalación se prevé que el equipo de
+                                                              ventilación se ubique en un local de uso exclusivo y
+■  red de conductos de extracción circulares de 90 mm         se aíslen acústicamente los conductos.
+   de diámetro desde el ventilador hasta las distintas
+   aberturas de extracción;
+                                                                5. EJECUCIÓN
+■  conducto de admisión metálico de 200 mm de diá-
+   metro desde la boca de admisión hasta el ventilador;       El sellado del registro de la arqueta se realiza con un
+                                                              producto elástico en base poliuretano.
+■  conducto de extracción metálico de 200 mm de diá-
+   metro desde el ventilador hasta la boca de expulsión;      La ejecución del sistema de ventilación con recu-
+                                                              perador de calor es similar a la de un sistema de
+■  boca de toma de aire en fachada;                           ventilación implementado por calidad del aire.
+
+                                                                                             aberturas de admisión
+                                                                                             aberturas de extracción
+                                                                                             equipo de ventilación
+                                        Figura 3 - Esquema en planta de la solución propuesta
+
+                                        Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables                        A2+C1    4
+                                                                                                                                                   4
+
+Las Figuras 4, 5, 6, 7 y 8 muestran distintos elementos                  6. EFECTIVIDAD
+del sistema de ventilación durante la ejecución de la
+obra.                                                                  Después de la mejora de la ventilación de los locales,
+                                                                       el promedio de concentración de radón se reduce de
+                                                                       401 a 295 Bq/m³.
+
+                                                                         Reducción de la concentración promedio del 26 % frente
+                                                                         a la concentración previa a la intervención.
+
+   Figura 4 - Boca de toma de aire en la fachada
+
+                                                                          Figura 6 - Abertura de admisión de aire en un local seco y conducto de
+                                                                                   impulsión
+
+                     Figura 5 - Equipo de ventilación                              Figura 7 - Abertura de extracción de aire en un aseo
+
+                                                Figura 8 - Red de conductos de impulsión y expulsión
+
+                                                        Ejemplo A2 + C1 • Sellado + ventilación mecánica de los locales habitables                      A2+C1  5
+                                                                                                                                                               5
+
+                                                                                  Este documento ha sido elaborado por el Instituto de ciencias
+                                                                                  de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+                                                                                  de la Dirección General de Agenda Urbana y Arquitectura del
+                                                                                  Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+                                                                                  El IETcc, perteneciente al Consejo Superior de Investigaciones
+                                                                                  Científicas (CSIC), es el centro de investigación en edificación
+                                                  SECRETARÍA GENERAL DE           de referencia en España. La Unidad de Calidad en la Construc-
+         GOBIERNO       MINISTERIO                AGENDA URBANA Y VIVIENDA        ción del IETcc asesora al MITMA en la elaboración del Código
+         DE ESPAÑA      DE TRANSPORTES, MOVILIDAD
+                        Y AGENDA URBANA          DIRECCIÓN GENERAL DE
+                                                 AGENDA URBANA Y ARQUITECTURA     Técnico de la Edificación que, desde el año 2019, cuenta con la
+                                                                                  sección HS6 Protección frente a la exposición al radón.
+         GOBIERNO      MINISTERIO                                                 Dirección y Coordinación:
+         DE ESPAÑA     DE CIENCIA
+                       E INNOVACIÓN
+                                                                                  Ministerio de Transportes, Movilidad y Agenda Urbana
+                                                                                   Isabel Marcos Anasagasti
+                                                                                   Raquel Lara Campos
+Esta ficha forma parte de una serie de documentos englobados                       Eduardo González de Prado
+en una misma publicación, cuyo objetivo es constituir una he-                     Instituto de ciencias de la construcción Eduardo Torroja CSIC
+rramienta de ayuda para el diseño de soluciones de protección                      Pilar Linares Alemparte
+frente al radón:                                                                  Autoras:
+■    Guía de rehabilitación frente al radón                                        Pilar Linares Alemparte
+                                                                                   Sonia García Ortega
+Fichas de soluciones:
+A: De aislamiento del edificio                                                    Diagnóstico y diseño de la solución:
+                                                                                   Sonia García Ortega
+■        Solución A1. Barrera frente al radón                                      Pilar Linares Alemparte
+■        Solución A1-1. Barrera frente al radón. Encuentros
+■        Solución A2. Sellado de fisuras, grietas, encuentros y juntas            Ejecución material de la obra:
+■        Solución A3. Puertas estancas                                             Ayuntamiento de Torrelodones
+■        Solución A4. Creación de sobrepresión                                    Edita:
+B: De reducción del radón antes de que penetre en los locales                      Centro de Publicaciones Secretaría General Técnica
+     a proteger                                                                    Ministerio de Transportes, Movilidad y Agenda Urbana©
+■        Solución B1. Ventilación del espacio de contención: cá-                  Entidad colaboradora:
+                        mara de aire                                               Consejo Superior de Investigaciones Científicas · CSIC
+■        Solución B2. Ventilación del espacio de contención: loca-                 Ministerio de Ciencia e Innovación
+                        les no habitables
+■        Solución B3. Despresurización del terreno                                  Catálogo de publicaciones de la Administración General
+                                                                                    del Estado: publicacionesoficiales.boe.es
+C: De reducción del radón tras penetrar en los locales a proteger
+■        Solución C1. Ventilación de los locales habitables                         Centro virtual de publicaciones del Ministerio de Transpor-
+                                                                                    tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+Fichas de ejemplos:                                                                 Página web del Código Técnico de la Edificación:
+■        Ejemplo A1+B3. Barrera frente al radón + despresurización                  www.codigotecnico.org
+                                      con red de tubos
+■        Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria              Maquetación y diseño gráfico:
+■        Ejemplo A2+B3. Sellado + despresurización con red de tubos                Lapizmente. Estrategia • Diseño Gráfico
+■        Ejemplo A2+C1. Sellado + ventilación mecánica de los loca-               Los contenidos o ideas recogidas en este documento pertenecen a
+                                      les habitables                              sus autores. Este documento está basado en el conocimiento dispo-
+                                                                                  nible en el momento de su publicación. No se aceptará por las institu-
+Publicación completa:                                                             ciones ni los autores implicados responsabilidad de ningún tipo por el
+ISBN: 978-84-498-1045-9                                                           uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+NIPO: 796-20-136-5                                                                y no deben interpretarse como detalles constructivos.
+1ª edición: septiembre 2020                                                       Se permite la reproducción total o parcial del contenido de este do-
+Edición actual: septiembre 2020                                                   cumento siempre y cuando se cite la fuente original y a sus autores.

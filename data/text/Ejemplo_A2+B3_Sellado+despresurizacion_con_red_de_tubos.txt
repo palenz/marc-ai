@@ -1,0 +1,293 @@
+SELLADO + DESPRESURIZACIÓN                                                                                 EJEMPLO
+CON RED DE TUBOS                                                                                           A2+B3
+
+                                                                                            Efectividad    88%
+                                                                                              Coste        2.500€
+                                                                                   Coste por superficie    43€/ₘ₂
+
+   1. DESCRIPCIÓN DEL EDIFICIO                             ■  Plantas y distribución: Dos plantas (Figura 1). En la
+                                                              planta baja se sitúan el garaje y un local habitable de
+ ■  Uso: Residencial.                                         usos diversos. En la planta primera se encuentran el
+                                                              resto de los locales habitables.
+ ■  Clasificación del municipio según el DB HS6 en fun-
+    ción del potencial de radón: Zona II.                  ■  Construcción: Estructura metálica. Fachadas de fá-
+                                                              brica de ladrillo con enfoscado de cemento y mam-
+ ■  Superficie construida: 150 m².                            postería. Solera en toda la superficie en planta.
+ ■  Superficie en contacto con el terreno: 75 m².          ■  Tipo de terreno: Capa de relleno heterogénea, de
+                                                              espesor variable y poco compacta. Sustrato natural
+ ■  Superficie construida bajo rasante: No.                   de granito alterado y rocas graníticas.
+ ■  Tipo de ventilación: Natural a través de huecos de     ■  Promedio anual de concentración de radón previo a
+    ventanas.                                                 la intervención: 660 Bq/m³.
+
+                                                                     garaje
+
+                                               Figura 1 - Sección y planta baja de la vivienda
+
+                         Fecha de intervención: 2017 · Coste de ejecución material:           2.500 €
+
+                                                         Ejemplo A2+B3 • Sellado + despresurización con red de tubos                              A2+B3  2
+                                                                                                                                                         2
+
+    2. ELECCIÓN DE LA SOLUCIÓN
+
+Las soluciones de protección más apropiadas según la
+tabla 2¹ de la Guía de rehabilitación frente al radón en
+el caso de la existencia de una solera para una concen-
+tración de radón existente mayor de 600 Bq/m³ son:
+■     barrera frente a radón con despresurización;
+■     sellado de fisuras, grietas, encuentros y juntas de la
+      envolvente en contacto con el terreno con despre-
+      surización; o
+
+■     barrera frente al radón con disposición de una cá-
+      mara de aire ventilada.
+Según la propia Guía, estas soluciones se pueden
+complementar con la mejora de la ventilación de los
+locales habitables
+
+
+
+    El buen estado del cerramiento en contacto con el
+    terreno y la limitación de altura libre en la vivienda, entre
+    otros, conducen a la elección de una solución basada
+    en el sellado de puntos críticos y despresurización del
+    terreno.
+
+Entre estas posibilidades se considera el sellado de
+fisuras, grietas, encuentros y juntas (Solución A2) del
+cerramiento en contacto con el terreno con despre-
+surización (Solución B3) como la opción más adecua-
+da por los siguientes motivos:
+
+■     el estado de la solera existente es bueno, por lo que
+      no se considera necesaria su sustitución. El uso de
+      barrera frente al radón sobre la solera existente se
+      descarta por criterios económicos y dificultad de
+      implementación;
+■     la despresurización con el sellado ofrecen una alta
+      eficiencia por lo que podría compensar su coste y
+      dificultad técnica;
+■     la disposición de una cámara de aire por el interior
+      de la solera existente se descarta por la limitada al-
+      tura disponible;
+■     la mejora de la ventilación de los locales habitables
+      se descarta puesto que la ventilación existente se
+   considera suficiente para asegurar la calidad del
+   aire interior sin tener en cuenta el radón. Además, se
+   quiere evitar el posible incremento de la demanda
+   energética de climatización consecuencia de una
+   aumento excesivo de la ventilación.
+
+  3. DIAGNÓSTICO
+El objetivo de la despresurización del terreno es ga-
+rantizar que la diferencia de presiones entre el terreno
+y la vivienda sea negativa en toda la extensión del edi-
+ficio en contacto con el terreno. Para poder lograr este
+objetivo se realiza un diagnóstico de la capacidad de
+movilidad del aire en el sustrato bajo la solera.
+El objetivo del sellado de fisuras, grietas, encuentros
+y juntas del cerramiento en contacto con el terreno
+es limitar la penetración del radón a través de puntos
+en los que se de alguna discontinuidad y favorecer
+además la efectividad de la despresurización. Para
+poder lograr este objetivo se realiza un diagnóstico
+de la situación existente basado en su inspección y
+evaluación identificando los puntos críticos en los que
+el cerramiento presenta discontinuidades.
+
+Movilidad del aire en el sustrato
+El diagnóstico de la movilidad al aire en el sustrato in-
+cluye el estudio de la composición del sustrato para
+verificar que exista una capa que pueda ser potencial-
+mente permeable al aire, la evaluación de la presen-
+cia de obstáculos y la estimación del radio de acción
+de la despresurización (a qué distancia puede asegu-
+rarse la extracción de los gases del terreno).
+
+Para poder estudiar la composición del sustrato se
+practican dos perforaciones en la solera observán-
+dose la siguiente composición de arriba hacia abajo
+(Figura 2):
+■  baldosa de terrazo y mortero de cemento;
+
+■  solera de hormigón pobre (60 mm);
+■  capa de relleno de grava (100 mm de diáme-
+   tro) mezclada con tierras, sin espesor regular (0 a
+   150 mm); y
+■  terreno natural con presencia de roca en algún
+   punto.
+
+           (1)  Tabla 2. Soluciones orientativas de protección frente al radón en caso de
+                solera en función de la concentración de radón existente de la Guía de
+                rehabilitación frente al radón.
+
+                                                         Ejemplo A2+B3 • Sellado + despresurización con red de tubos                                            A2+B3  3
+                                                                                                                                                                       3
+
+                                                                                  De la observación se concluye que el sustrato cuen-
+                                                   1                 2            ta con una capa que puede ser potencialmente per-
+                                                   3                              meable al aire, como es la capa de grava, pese a que
+                                                   4                              la zapata de cimentación del pilar pueda suponer un
+                                                   5                              obstáculo puntual al flujo del aire.
+
+                                         1     baldosa de terrazo                 Mediante un procedimiento experimental basado en
+                                         2     mortero de cemento                 la medida de la diferencia de presiones en distintos
+                                         3     solera                             puntos del sustrato se estima que el radio de acción
+                                         4     grava                              para una despresurización de -5 Pa es de 5 m.
+                                         5     terreno
+                                                                                  Puntos críticos en el cerramiento
+                                                                                  Fruto de la inspección de la situación existente del
+                                                                                  cerramiento en contacto con el terreno se identifican
+                                                                                  como puntos críticos la junta perimetral de la solera y
+                                                                                  la presencia de un pilar.
+
+                                                                                    4. DISEÑO
+                                                                                  Con los resultados del diagnóstico y un modelo de
+     Figura 2 - Sección de la solera y el sustrato (arriba.) y perforación en     simulación² se diseña un sistema de despresurización
+            solera y sustrato (abajo)                                             siguiendo las directrices indicadas en la Solución B3
+                                                                                  que consta de los siguientes elementos, tal y como se
+Además, se observa la presencia de un pilar situado                               muestra en la Figura 3:
+en la zona central de la planta, por lo que se prevé
+que su zapata suponga un obstáculo al flujo del aire                              ■     un elemento de captación bajo la solera formado
+en el sustrato.                                                                         por un tubo perforado de 100 mm de diámetro con
+                                                                                        una longitud de 5 metros (Figura 4);
+
+                                                                                         8    1              pavimento
+                                                                                              2              solera
+                                                                                              3              tubo perforado rodeado de capa de grava
+                                                                                              4              tubo sin perforaciones
+                                                                                         7    5              extractor
+                                                                                              6              salida condensados
+                                                                                              7              conducto de extracción
+                                                                                              8              boca de expulsión
+
+                                                                                         6
+                                                                                         5
+                              1
+                              2
+                              3                                                          4
+
+                                                         Figura 3 - Sección de la solución
+                                                                                  (2)  E. Muñoz, B. Frutos, M. Olaya, J. Sanchez “A finite element mode develop-
+                                                                                       ment for simulation of the impact of slab thickness, joints, and membra-
+                                                                                       nes on indoor radon concentration” Journal of Environmental Radioactivi-
+                                                                                       ty 177 (2017) 280e289.
+
+                                              Ejemplo A2+B3 • Sellado + despresurización con red de tubos                         A2+B3  4
+                                                                                                                                         4
+
+                                                                                         1  tubo perforado
+
+                                                                        1
+
+                                            Figura 4 - Ubicación del tubo perforado
+
+■  una capa de grava de 20-30 cm que envuelve el              5. EJECUCIÓN
+   tubo perforado situada en zanja excavada;
+                                                            Las siguientes figuras muestran las etapas más rele-
+■  un tubo sin perforaciones de 100 mm de diámetro          vantes de la ejecución de la obra:
+   para atravesar la fachada, conectado al tubo perfo-
+   rado;                                                    ■  la excavación de una zanja para la disposición del
+                                                               tubo perforado y la capa de grava (Figura 5);
+■  un conducto exterior vertical de extracción de 100
+   mm de diámetro, conectado al tubo que atraviesa          ■  la instalación de la capa de grava, el tubo perforado
+   la fachada y con la boca de expulsión situada en la         y el tubo sin perforaciones para atravesar la fachada
+   cubierta;                                                   (Figura 6); y
+■  un extractor centrífugo de potencia aproximada 70        ■  el conducto de extracción y el extractor ya coloca-
+   W situado en un punto intermedio del conducto ex-           dos con la expulsión en cubierta (Figura 7).
+   terior vertical; y
+■  un by-pass del extractor o derivación del conducto       El sellado de la junta perimetral y de los encuentros
+   para evitar que el agua de condensación o filtración     con el pilar y el conducto del sistema de despresu-
+   entre en contacto con el mismo.                          rización se realiza con un producto elástico en base
+                                                            poliuretano.
+
+  Se opta por un sistema despresurización del terreno con
+  un tubo perforado bajo solera para intentar conseguir
+  una extensión adecuada de la despresurización con un
+  diseño y ejecución más sencillo que la disposición de
+  varias arquetas.
+
+Además, se prevé el sellado de la junta perimetral y el
+encuentro con el pilar siguiendo las directrices indica-
+das en la Solución A2.
+                                                              Figura 5 - Zanja para la instalación del tubo perforado y la capa de
+                                                                    grava
+
+                                              Ejemplo A2+B3 • Sellado + despresurización con red de tubos                   A2+B3  5
+                                                                                                                                   5
+
+                        Figura 6 - Instalación de la capa de grava, el tubo perforado y el tubo pasamuros
+
+                                                                     6. EFECTIVIDAD
+                                                                    Después del sellado de los puntos críticos detecta-
+                                                                    dos y de la implementación del sistema de despre-
+                                                                    surización, el promedio de concentración de radón se
+                                                                    reduce de 660 a 79 Bq/m³.
+
+                                                                     Reducción de la concentración media del 88% frente a la
+                                                                     concentración previa a la intervención.
+
+Figura 7 - Conducto de extracción, extractor y expulsión en cubierta
+
+                                                                             Ejemplo A2+B3 • Sellado + despresurización con red de tubos           A2+B3  6
+                                                                                                                                                          6
+
+                                                                             Este documento ha sido elaborado por el Instituto de ciencias
+                                                                             de la construcción Eduardo Torroja (IETcc) bajo la supervisión
+                                                                             de la Dirección General de Agenda Urbana y Arquitectura del
+                                                                             Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA).
+                                                                             El IETcc, perteneciente al Consejo Superior de Investigaciones
+                                                                             Científicas (CSIC), es el centro de investigación en edificación
+                                                                             de referencia en España. La Unidad de Calidad en la Construc-
+                                                                             ción del IETcc asesora al MITMA en la elaboración del Código
+                                                                             Técnico de la Edificación que, desde el año 2019, cuenta con la
+                                                  SECRETARÍA GENERAL DE      sección HS6 Protección frente a la exposición al radón.
+         GOBIERNO       MINISTERIO                AGENDA URBANA Y VIVIENDA
+         DE ESPAÑA      DE TRANSPORTES, MOVILIDAD
+                        Y AGENDA URBANA          DIRECCIÓN GENERAL DE        Dirección y Coordinación:
+                                                 AGENDA URBANA Y ARQUITECTURA
+                                                                             Ministerio de Transportes, Movilidad y Agenda Urbana
+                                                                              Isabel Marcos Anasagasti
+         GOBIERNO      MINISTERIO                                             Raquel Lara Campos
+         DE ESPAÑA     DE CIENCIA
+                       E INNOVACIÓN
+                                                                              Eduardo González de Prado
+                                                                             Instituto de ciencias de la construcción Eduardo Torroja CSIC
+                                                                              Pilar Linares Alemparte
+Esta ficha forma parte de una serie de documentos englobados                 Autores:
+en una misma publicación, cuyo objetivo es constituir una he-                 Carmen Alonso Ruiz de Rivas
+rramienta de ayuda para el diseño de soluciones de protección                 Borja Frutos Vázquez
+frente al radón:                                                              Pilar Linares Alemparte
+■    Guía de rehabilitación frente al radón                                   Sonia García Ortega:
+Fichas de soluciones:                                                        Diagnóstico y diseño de la solución:
+A: De aislamiento del edificio                                                Borja Frutos Vázquez
+                                                                              Eduardo Muñoz Lorenzo
+■        Solución A1. Barrera frente al radón                                 Ángel Sánchez Malo · Geomnia Natural Resources SLNE
+■        Solución A1-1. Barrera frente al radón. Encuentros
+■        Solución A2. Sellado de fisuras, grietas, encuentros y juntas       Ejecución material de la obra:
+■        Solución A3. Puertas estancas                                        Geomnia Natural Resources SLNE
+■        Solución A4. Creación de sobrepresión                               Edita:
+B: De reducción del radón antes de que penetre en los locales                 Centro de Publicaciones Secretaría General Técnica
+     a proteger                                                               Ministerio de Transportes, Movilidad y Agenda Urbana©
+■        Solución B1. Ventilación del espacio de contención: cá-             Entidad colaboradora:
+                        mara de aire                                          Consejo Superior de Investigaciones Científicas · CSIC
+■        Solución B2. Ventilación del espacio de contención: loca-            Ministerio de Ciencia e Innovación
+                        les no habitables
+■        Solución B3. Despresurización del terreno                             Catálogo de publicaciones de la Administración General
+                                                                               del Estado: publicacionesoficiales.boe.es
+C: De reducción del radón tras penetrar en los locales a proteger
+■        Solución C1. Ventilación de los locales habitables                    Centro virtual de publicaciones del Ministerio de Transpor-
+                                                                               tes, Movilidad y Agenda Urbana: www.mitma.gob.es
+Fichas de ejemplos:                                                            Página web del Código Técnico de la Edificación:
+■        Ejemplo A1+B3. Barrera frente al radón + despresurización             www.codigotecnico.org
+                                      con red de tubos
+■        Ejemplo A2+B1. Sellado + ventilación de la cámara sanitaria         Maquetación y diseño gráfico:
+■        Ejemplo A2+B3. Sellado + despresurización con red de tubos           Lapizmente. Estrategia • Diseño Gráfico
+■        Ejemplo A2+C1. Sellado + ventilación mecánica de los loca-          Los contenidos o ideas recogidas en este documento pertenecen a
+                                      les habitables                         sus autores. Este documento está basado en el conocimiento dispo-
+                                                                             nible en el momento de su publicación. No se aceptará por las institu-
+Publicación completa:                                                        ciones ni los autores implicados responsabilidad de ningún tipo por el
+ISBN: 978-84-498-1045-9                                                      uso de estas recomendaciones. Las figuras tienen carácter ilustrativo
+NIPO: 796-20-136-5                                                           y no deben interpretarse como detalles constructivos.
+1ª edición: septiembre 2020                                                  Se permite la reproducción total o parcial del contenido de este do-
+Edición actual: septiembre 2020                                              cumento siempre y cuando se cite la fuente original y a sus autores.

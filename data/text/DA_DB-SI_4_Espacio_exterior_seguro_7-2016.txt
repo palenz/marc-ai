@@ -1,0 +1,164 @@
+         Ministerio de Fomento
+         Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+         Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-SI Seguridad en caso de incendio
+Código Técnico de la Edificación
+
+DA DB-SI / 4
+Salida de edificio y espacio exterior seguro
+13 Julio 2016
+
+Referencias
+Documento Básico DB SI         Anejo SI A Terminología – Espacio exterior seguro, salida de edificio.
+
+1       Objeto
+El objeto de este documento es clarificar las condiciones que deben reunir la salida de edificio y el espa-
+cio exterior seguro conforme a las condiciones que se establecen en sus respectivas definiciones.
+2       Definición de salida de edificio y espacio exterior seguro
+Los términos salida de edificio y espacio exterior seguro están fuertemente interrelacionados y se definen
+así en el Anejo SI-A:
+      Salida de edificio
+      Puerta o hueco de salida a un espacio exterior seguro. En el caso de salidas previstas para
+      un máximo de 500 personas puede admitirse como salida de edificio aquélla que comunique
+      con un espacio exterior que disponga de dos recorridos alternativos hasta dos espacios ex-
+      teriores seguros, uno de los cuales no exceda de 50 m.
+      Espacio exterior seguro
+      Es aquel en el que se puede dar por finalizada la evacuación de los ocupantes del edificio,
+      debido a que cumple las siguientes condiciones:
+      1  Permite la dispersión de los ocupantes que abandonan el edificio, en condiciones de se-
+         guridad.
+      2  Se puede considerar que dicha condición se cumple cuando el espacio exterior tiene, de-
+         lante de cada salida de edificio que comunique con él, una superficie de al menos 0,5P
+         m² dentro de la zona delimitada con un radio 0,1P m de distancia desde la salida de edi-
+         ficio, siendo P el número de ocupantes cuya evacuación esté prevista por dicha salida.
+         Cuando P no exceda de 50 personas no es necesario comprobar dicha condición.
+      3  Si el espacio considerado  no está comunicado con la red viaria o con otros espacios
+         abiertos no puede considerarse ninguna zona situada a menos de 15 m de cualquier par-
+         te del edificio, excepto cuando esté dividido en sectores de incendio estructuralmente in-
+         dependientes entre sí y con salidas también independientes al espacio exterior, en cuyo
+         caso dicha distancia se podrá aplicar únicamente respecto del sector afectado por un
+         posible incendio.
+
+                                                1 de 4
+
+Documento de Apoyo al DB SI                                                                 DA DB SI /4
+
+      4  Permite una amplia disipación del calor, del humo y de los gases producidos por el in-
+         cendio.
+      5  Permite el acceso de los efectivos de bomberos y de los medios de ayuda a los ocupan-
+         tes que, en cada caso, se consideren necesarios.
+      6  La cubierta de un edificio se puede considerar como espacio exterior seguro   siempre
+         que, además de cumplir las condiciones anteriores, su estructura sea totalmente inde-
+         pendiente de la del edificio con salida a dicho espacio y un incendio no pueda afectar si-
+         multáneamente a ambos.
+En principio, una salida de edificio debe comunicar directamente con un espacio exterior seguro. Si el
+espacio exterior con el que comunica una puerta o hueco de salida del edificio no cumple las condiciones
+de espacio exterior seguro, la salida de edificio hay que considerarla situada una vez alcanzado un es-
+pacio exterior que sí las cumpla, por ser éste punto en el que se puede dar por terminada la evacuación.
+En tal caso, se deben cumplir hasta dicha salida de edificio los límites establecidos para las longitudes
+de los recorridos de evacuación, así como el dimensionamiento de las anchuras de paso, tanto horizontal
+como por escaleras, si las hubiera.
+No obstante, puede ocurrir que el espacio exterior al que se accede por una determinada salida no cum-
+pla las características necesarias para garantizar la dispersión de ocupantes (punto 2). En estos casos
+se admite considerar dicha salida como salida de edificio si a partir de ella hay dos recorridos alternativos
+hasta dos espacios exteriores seguros, uno de los cuales no exceda de 50 m y siempre que la salida en
+cuestión esté prevista para un máximo de 500 personas, tal como se establece en la definición de salida
+de edificio. (Ver dibujo 1).
+
+                                                      2
+
+                                               Dibujo 1
+
+3       Dimensiones del espacio exterior seguro y comunicación con la red viaria
+o con otros espacios abiertos para permitir la dispersión de los ocupantes
+Aunque en muchos casos no pertenezca al edificio ni esté contenido en su parcela, el espacio exterior
+seguro es un elemento más de la evacuación del mismo. Por tanto, cuando se exigen dos, debe aplicar-
+se la hipótesis de bloqueo de uno de ellos a   7
+                                               efectos de determinar su superficie necesaria.
+La suficiente amplitud del espacio exterior seguro se verifica mediante la demostración de que hay sufi-
+ciente superficie (0,5 m²/ persona) en un entorno de salida cuyo radio aumenta con el número de perso-
+nas. El procedimiento de verificación que establece el DB SI (ver dibujos 2 y 3) está pensado para flujos
+de evacuación superiores a 50 personas, a partir de los cuales tiene sentido proceder a una comproba-
+ción numérica de la superficie.
+
+                                                2 de 4
+
+Documento de Apoyo al DB SI                                                                 DA DB SI /4
+
+La finalidad de exigir un espacio con una superficie mínima es facilitar una dispersión de los ocupantes
+suficientemente rápida y en condiciones de seguridad, considerando que no van a permanecer en dicho
+espacio, sino que se van a alejar, permitiendo con ello la salida del edificio de otros ocupantes. En cam-
+bio, cuando el espacio no está conectado con la red viaria y la dispersión está limitada se establece,
+como medida compensatoria de dicha circunstancia, la condición de excluir del cómputo de superficie
+disponible para la dispersión de los ocupantes los puntos situados a menos de 15 m del edificio.
+A efectos de lo anterior, no se puede considerar que un espacio exterior esté comunicado con la red
+viaria cuando dicha comunicación tenga elementos practicables de cierre no válidos para evacuación o
+cuando su estado abierto no esté garantizado en todo momento durante la actividad.
+
+                   78025
+
+                                           Dibujos 2 y 3
+En las grandes ciudades es relativamente frecuente que existan edificios ubicados en patios de manzana
+cuya evacuación hasta el espacio exterior seguro precise realizarse a través de elementos tales como
+zaguanes, pasajes, etc. de los edificios que conforman dicho patio. Se puede aceptar dicha solución
+condicionada a la constitución de una servidumbre legal de paso.
+Cuando dos salidas de edificio provenientes de sectores o de edificios distintos estén próximas, puede
+admitirse que la validez del   espacio exterior seguro se analice suponiendo afectado un solo sector o
+edificio, bajo las distintas alternativas posibles.
+Como consecuencia, si un edificio está dividido de arriba a abajo en sectores de incendio totalmente
+independientes, incluso estructura, salidas, etc., se puede considerar, a efectos de la aplicación del pun-
+to 3 de la definición y de otras muchas condiciones del DB SI, que cada sector es un edificio, sin que sea
+necesario aplicar la hipótesis de evacuar todo el edificio/manzana, ni por tanto justificar superficie exte-
+rior suficiente para toda su ocupación.
+
+4       Disipación de calor, humo y gases
+Para que una salida de edificio sea válida a efectos de evacuación debe comunicar con un espacio exte-
+rior seguro que ofrezca una garantía suficiente de que, en dicho espacio, el incendio deja de ser una
+amenaza directa para los ocupantes. En la mayoría de los casos, juzgar dicha adecuación no plantea
+excesivas dudas, pero en casos singulares dicha valoración dependerá de sus peculiaridades y del crite-
+rio de quien tenga que establecerla. La validez de un espacio exterior cubierto como espacio exterior
+seguro y, con ello, de las salidas a éste como salidas de edificio, debe ser valorada en cada caso concreto.
+En un centro comercial con una zona peatonal común cubierta, para que los recorridos de evacuación de
+un establecimiento con salida a dicha zona peatonal se puedan dar por terminados en dicha salida, ésta
+debe cumplir las condiciones de salida de edificio, lo que implica que la zona peatonal debe ser espacio
+exterior seguro, lo que a su vez implica, entre otras condiciones, que si en caso de incendio no puede
+
+                                               3 de 4
+
+Documento de Apoyo al DB SI                                                                 DA DB SI /4
+
+quedar totalmente descubierta no es válida a estos efectos, excepto cuando se trate de una solución que
+se acoja a lo establecido en el artículo 5.1.- 3b de la Parte I del CTE.
+
+5       Acceso de los efectivos de bomberos y de los medios de ayuda a los ocu-
+pantes
+Según el punto 5 de la definición de espacio exterior seguro, éste debe permitir “el acceso de los efecti-
+vos de bomberos y de los medios de ayuda a los ocupantes que, en cada caso, se consideren necesa-
+rios”. La accesibilidad de las ayudas exteriores (p. ej. bomberos) hasta el espacio exterior seguro no
+tiene por qué incluir necesariamente la de sus vehículos. Así, por ejemplo, puede admitirse un patio inte-
+rior como espacio exterior seguro, con mayores restricciones (ver apartado 3 de este DA), aunque no
+esté comunicado con la red viaria pública o con espacios abiertos.
+En caso de duda son los propios servicios de extinción los que deben valorar la idoneidad de las medi-
+das propuestas.
+
+6       Cubierta como espacio exterior seguro
+El punto 6 de la definición de “espacio exterior seguro” admite la posibilidad de considerar como tal, tanto
+la cubierta de un edificio, es decir, al cerramiento superior de un volumen edificado, como espacios
+peatonales al aire libre bajo los que pueda haber algún espacio construido, por ejemplo un aparcamiento
+o un vial.
+Dichos espacios peatonales pueden ser aptos como espacio exterior seguro siempre que no presenten
+obstáculos al libre desplazamiento de los ocupantes del edificio a evacuar, permitiendo su rápido
+alejamiento del mismo y siempre que su separación del espacio construido inferior tenga una resistencia
+al fuego suficiente y adecuada a las características de cada caso.
+Cuando se trata de la cubierta de otro edificio la solución de evacuación por cubierta solo es posible si se
+constituye la correspondiente servidumbre legal que la reconozca, o bien cuando ambos edificios sean
+de viviendas bajo un único régimen de propiedad horizontal gestionado por un único órgano comunitario
+(Comunidad de vecinos) de tal forma que no se pueda dar el caso de que comunidades diferentes anu-
+len o bloqueen las salidas a cubierta.
+Dado lo excepcional de proponer la cubierta del edificio como espacio exterior seguro, así como la am-
+plia variedad de casos que pueden darse y la imposibilidad de preverlos reglamentariamente es impor-
+tante de que los bomberos valoren y decidan la validez de cada caso.
+
+                                                4 de 4

@@ -1,0 +1,208 @@
+             Ministerio de Fomento
+             Secretaría de Estado de Infraestructuras, Transporte y Vivienda
+             Secretaría General de Vivienda
+             Dirección General de Arquitectura, Vivienda y Suelo
+
+Documento de Apoyo al Documento Básico
+DB-HR Protección frente al ruido
+Código Técnico de la Edificación
+DA DB-HR / 1
+Guía de uso de las magnitudes de aislamiento acústico en
+relación con las exigencias
+Diciembre 2019
+(Versiones anteriores: Junio 2016 y Abril 2016)
+Las modificaciones que introduce esta versión se marcan mediante línea vertical en el margen izquierdo.
+Los Documentos de Apoyo (DA) son textos de carácter técnico que cuentan con la aprobación de los
+servicios técnicos del Ministerio de Fomento, pero carecen de valor reglamentario. El objetivo de estos
+documentos es ayudar a la comprensión y la puesta en práctica del texto reglamentario.
+Referencias
+Documento Básico:
+DB HR                             5.3 Control de obra terminada
+Normas:
+* UNE-EN ISO 16283-1:2015         Acústica. Mediciones in situ del aislamiento acústico en edificios y en
+                                  elementos de construcción. Parte 1: Aislamiento a ruido aéreo (ISO
+                                  16283-1:2014)
+* UNE-EN ISO 16283-2:2019         Acústica. Mediciones in situ del aislamiento acústico en edificios y en
+                                  elementos de construcción. Parte 2: Aislamiento a ruido de impactos (ISO
+                                  16283-2:2018)
+* UNE-EN ISO 16283-3:2016         Acústica. Mediciones in situ del aislamiento acústico en edificios y en
+                                  elementos de construcción. Parte 3: Aislamiento a ruido de fachada (ISO
+                                  16283-3:2016)
+* UNE-EN ISO 717-1: 2013          Acústica. Evaluación del aislamiento acústico en los edificios y de los
+                                  elementos de construcción. Parte 1: Aislamiento a ruido aéreo (ISO 717-
+                                  1: 2013)
+* UNE-EN ISO 717-2: 2013          Acústica. Evaluación del aislamiento acústico en los edificios y de los
+                                  elementos de construcción. Parte 2: Aislamiento a ruido de impactos (ISO
+                                  717-2: 2013)
+Las normas marcadas con un asterisco (*) están citadas en el articulado del DB-HR.
+1        Objeto
+El objeto de este documento es establecer un procedimiento para realizar la valoración global de los
+resultados de las mediciones de aislamiento acústico a ruido aéreo y a ruido de impactos, a partir de su
+espectro en frecuencia, de forma que sea un único número el que caracterice las prestaciones acústicas
+(descriptor de aislamiento acústico) y el que se compare con las exigencias establecidas en el Documento
+Básico de Protección frente al ruido, DB HR.
+
+                                                                1 de 5
+
+Documento de Apoyo al DB HR                                                                  DA DB HR / 1
+
+Se especifica el procedimiento para la valoración de las magnitudes siguientes:
+     -     Aislamiento acústico a ruido aéreo entre recintos (UNE-EN ISO 16283-1);
+     -     Aislamiento acústico a ruido aéreo de fachadas (UNE-EN ISO 16283-3);
+     -     Aislamiento acústico a ruido de impactos (UNE-EN ISO 16283-2).
+2         Aislamiento acústico a ruido aéreo entre recintos
+Se parte del espectro de la “diferencia de niveles estandarizada entre recintos interiores”, DnT (f), obtenido
+de acuerdo a la norma UNE-EN ISO 16283-1, en las bandas de frecuencia de 1/3 de octava comprendidas
+entre 100 Hz y 5 kHz.
+               DnT = L₁  L 2 +10  lg T  [dB]                                                       (2.1)
+                                     T₀
+          Donde:
+          L₁        nivel medio de presión sonora en el recinto emisor, [dB];
+          L₂        nivel medio de presión sonora en el recinto receptor, [dB];
+          T         tiempo de reverberación del recinto receptor, [s];
+          T₀        tiempo de reverberación de referencia; su valor es T₀=0,5 s.
+Para obtener el valor de aislamiento global DnT,A (diferencia de niveles estandarizada, ponderada A, entre
+recintos interiores) conforme al método establecido en el DB HR, se emplea la expresión siguiente:
+                               5kHz
+               DnT,A =  10  lg Σ¹⁰(ᴸAr,i  DnT,i ) /¹⁰  [dBA]                                       (2.2)
+                               i=100Hz
+          Donde:
+          DnT,i     diferencia de niveles estandarizada en la banda de frecuencia i, [dB] (véase Ecuación 2.1);
+          LAr,i     valor del espectro normalizado del ruido rosa, ponderado A, en la banda de frecuencia i,
+                    [dBA] (véase Tabla 2.1);
+          i         recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz.
+             fi                      LAr,i                       fi                      LAr,i
+            (Hz)                     (dBA)                      (Hz)                     (dBA)
+            100                      -30,1                      800                      -11,8
+            125                      -27,1                      1000                     -11,0
+            160                      -24,4                      1250                     -10,4
+            200                      -21,9                      1600                     -10,0
+            250                      -19,6                      2000                      -9,8
+            315                      -17,6                      2500                      -9,7
+            400                      -15,8                      3150                      -9,8
+            500                      -14,2                      4000                      -10
+            630                      -12,9                      5000                     -10,5
+                    Tabla 2.1 Valores del espectro normalizado de ruido rosa, ponderado A
+El valor final de la magnitud DnT,A se expresará redondeado a un número entero. El redondeo se aplicará
+conforme a lo establecido en la norma UNE-EN ISO 717-1.
+
+                                                       2 de 5
+
+Documento de Apoyo al DB HR                                                                           DA DB HR / 1
+
+3            Aislamiento acústico a ruido aéreo de fachadas¹
+Se parte del espectro de la “diferencia de niveles estandarizada en fachadas”, D2m,nT   (f), obtenido de
+acuerdo a la norma UNE-EN ISO 16283-3, en las bandas de frecuencia de 1/3 de octava comprendidas
+entre 100 Hz y 5 kHz.
+                  D₂ₘ,nT = L₁,₂ₘ  L 2 +10  lg T  [dB]                                                 (3.1)
+                                              T₀
+             Donde:
+             L1,2m      nivel medio de presión sonora medido a 2 metros frente a la fachada, [dB];
+             L₂         nivel medio de presión sonora en el recinto receptor, [dB];
+             T          tiempo de reverberación del recinto receptor, [s];
+             T₀         tiempo de reverberación de referencia; su valor es T₀=0,5 s.
+La valoración global del espectro de aislamiento dependerá de cuál sea el tipo de ruido exterior dominante:
+       -     Ruido exterior dominante de automóviles;
+       -     Ruido exterior dominante de aeronaves;
+       -     Ruido exterior dominante ferroviario o de estaciones ferroviarias.
+El valor final de las magnitudes de aislamiento acústico a ruido aéreo de fachadas, D2m,nT,A y D2m,nT,Atr, se
+expresará redondeado a un número entero. El redondeo se aplicará conforme a lo establecido en la norma
+UNE-EN ISO 717-1.
+
+3.1          Ruido exterior dominante de automóviles
+Para obtener el valor de aislamiento global D2m,nT,Atr (diferencia de niveles estandarizada, ponderada A,
+en fachadas) conforme al método establecido en el DB HR, se emplea la expresión siguiente:
+                               5kHz
+                  D 2ₘ,nT,Atr =  10  lg Σ¹⁰( LAtr,i  ᴰ₂ₘ,nT,i ) /¹⁰  [dBA]                            (3.2)
+                                        i=100Hz
+             Donde:
+             D2m,nT,i   diferencia de niveles estandarizada en la banda de frecuencia i, [dB] (véase Ecuación 3.1);
+             LAtr,i     valor del espectro normalizado del ruido de automóviles, ponderado A, en la banda de
+                        frecuencia i, [dBA] (véase Tabla 3.1);
+             i          recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz.
+              fi                     LAtr,i                      fi                      LAtr,i
+             (Hz)                    (dBA)                      (Hz)                     (dBA)
+             100                      -20                       800                        -9
+             125                      -20                       1000                       -8
+             160                      -18                       1250                       -9
+             200                      -16                       1600                      -10
+             250                      -15                       2000                      -11
+             315                      -14                       2500                      -13
+             400                      -13                       3150                      -15
+             500                      -12                       4000                      -16
+             630                      -11                       5000                      -18
+                       Tabla 3.1 Valores del espectro normalizado de ruido de automóviles, ponderado A
+
+1 Fachadas, cubiertas o suelos en contacto con el aire exterior
+
+                                                               3 de 5
+
+Documento de Apoyo al DB HR                                                                    DA DB HR / 1
+
+3.2     Ruido exterior dominante de aeronaves
+Para obtener el valor de aislamiento global D2m,nT,Atr (diferencia de niveles estandarizada, ponderada A,
+en fachadas) conforme al método establecido en el DB HR, se emplea la expresión siguiente:
+                                  5kHz
+             D₂ₘ,nT,Atr =  10  lg Σ¹⁰( LAav,i  ᴰ₂ₘ,nT,i ) /¹⁰  [dBA]                               (3.3)
+                                  i=100Hz
+        Donde:
+        D2m,nT,i   diferencia de niveles estandarizada en la banda de frecuencia i, [dB] (véase Ecuación 3.1);
+        LAav,i     valor del espectro normalizado del ruido de          aeronaves, ponderado A, en la banda de
+                   frecuencia i, [dBA](véase Tabla 3.2);
+        i          recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz.
+             fi                      LAav,i                      fi                      LAav,i
+            (Hz)                     (dBA)                      (Hz)                     (dBA)
+            100                      -23,8                      800                       -9,5
+            125                      -20,2                      1000                     -10,5
+            160                      -15,4                      1250                     -11,0
+            200                      -13,1                      1600                     -12,5
+            250                      -12,6                      2000                     -14,9
+            315                      -10,4                      2500                     -15,9
+            400                       -9,8                      3150                     -18,6
+            500                       -9,5                      4000                     -23,3
+            630                       -8,7                      5000                     -29,9
+                  Tabla 3.2 Valores del espectro normalizado de ruido de aeronaves, ponderado A
+
+3.3     Ruido exterior dominante ferroviario o de estaciones ferroviarias
+Para obtener el valor de aislamiento global D2m,nT,A (diferencia de niveles estandarizada, ponderada A,
+en fachadas) conforme al método establecido en el DB HR, se emplea la expresión siguiente:
+                                  5kHz
+             D₂ₘ,nT,A =  10  lg   Σ¹⁰( LAef,i  ᴰ₂ₘ,nT,i ) /¹⁰  [dBA]                               (3.4)
+                                i=100Hz
+        Donde:
+        D2m,nT,i   diferencia de niveles estandarizada en la banda de frecuencia i, [dB] (véase Ecuación 3.1);
+        LAef,i     valor del espectro normalizado del ruido ferroviario o de estaciones ferroviarias, ponderado
+                   A, en la banda de frecuencia i, [dBA] (véase Tabla 3.3);
+        i          recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz.
+             fi                      LAef,i                      fi                      LAef,i
+             Hz                       dBA                        Hz                       dBA
+            100                       -20                       800                        -9
+            125                       -20                       1000                       -8
+            160                       -18                       1250                       -9
+            200                       -16                       1600                      -10
+            250                       -15                       2000                      -11
+            315                       -14                       2500                      -13
+            400                       -13                       3150                      -15
+            500                       -12                       4000                      -16
+            630                       -11                       5000                      -18
+  Tabla 3.3 Valores del espectro normalizado de ruido ferroviario o de estaciones ferroviarias, ponderado A
+
+                                                 4 de 5
+
+Documento de Apoyo al DB HR                                                               DA DB HR / 1
+
+4       Aislamiento acústico a ruido de impactos
+Se parte del espectro de la “nivel de presión de ruido de impactos estandarizado”, L’nT (f), obtenido a partir
+de la norma UNE-EN ISO 16283-2, en las bandas de frecuencia de 1/3 de octava comprendidas entre 100
+Hz y 3150 Hz.
+        L'nT = L  10  lg  T    [dB]                                                             (4.1)
+                               T₀
+        Donde:
+        L      nivel medio de presión sonora en el recinto receptor, [dB];
+        T      tiempo de reverberación del recinto receptor, [s];
+        T₀     tiempo de reverberación de referencia; su valor es T₀=0,5 s.
+Para obtener el valor de       aislamiento global L’nT,w (nivel global de presión de ruido de impactos
+estandarizado), se emplea el procedimiento que se indica en la UNE-EN ISO 717-2, redondeando el valor
+a un número entero conforme a dicha norma.
+
+                                                5 de 5

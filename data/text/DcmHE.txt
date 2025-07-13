@@ -1,0 +1,2297 @@
+        MINISTERIO
+        DE TRANSPORTES, MOVILIDAD
+        Y AGENDA URBANA
+
+Documento Básico HE
+Ahorro de energía
+HE0  Limitación del consumo energético
+HE1  Condiciones para el control de la demanda energética
+HE2  Condiciones de las instalaciones térmicas
+HE3  Condiciones de las instalaciones de iluminación
+HE4  Contribución mínima de energía renovable para cubrir la
+     demanda de agua caliente sanitaria
+HE5  Generación mínima de energía eléctrica procedente de
+     fuentes renovables
+HE6  Dotaciones mínimas para la infraestructura de recarga de
+     vehículos eléctricos
+
+                                          14 Junio 2022
+        Modificaciones conforme al Real Decreto 450/2022, de 14 de junio (BOE 15/06/2022)
+
+               Documento Básico HE Ahorro de energía
+                            INTRODUCCIÓN
+
+Disposiciones normativas publicadas en el Boletín Oficial del Estado
+El articulado de este Documento Básico fue aprobado por el Real Decreto 314/2006, de
+17 de marzo (BOE 28/03/2006) y posteriormente ha sido modificado por las siguientes
+disposiciones:
+-     Real Decreto 1371/2007 de 19 de octubre (BOE 23/10/2007)
+-     Corrección de errores y erratas del Real Decreto 314/2006 de 17 de marzo (BOE
+      25/01/2008)
+-     Orden FOM /1635/2013 del 10 de septiembre por el que se actualiza el Documento
+      Básico DB-HE (BOE 12/09/2013)
+-     Corrección de errores y erratas de la Orden FOM / 1635/2013 del 10 de septiembre
+      (BOE 08/11/2013)
+-     Real Decreto 732/2019, de 20 de diciembre (BOE 27/12/2019)
+-     Real Decreto 450/2022, de 14 de junio (BOE 15/06/2022)
+Los textos subrayados o tachados y marcados con fondo tramado amarillo son las
+modificaciones introducidas por la disposición citada en último lugar
+Documento Básico consolidado
+Esta versión del Documento Básico es un texto consolidado a partir de las sucesivas
+modificaciones que se han realizado en el Documento Básico a través de las disposiciones
+publicadas en el BOE. Este texto consolidado no tiene valor jurídico.
+
+                               Documento Básico HE Ahorro de energía
+                                            INTRODUCCIÓN
+
+Introducción
+I     Objeto
+Este Documento Básico (DB) tiene por objeto establecer reglas y procedimientos que permiten cumplir el
+requisito básico de ahorro de energía. Las secciones de este DB se corresponden con las exigencias
+básicas HE 0 a HE 6. La correcta aplicación de cada sección supone el cumplimiento de la exigencia
+básica correspondiente.
+La correcta aplicación del conjunto del DB supone que se satisface el requisito básico "Ahorro de energía".
+Tanto el objetivo del requisito básico "Ahorro de energía", como las exigencias básicas se establecen en
+el artículo 15 de la Parte I del CTE y son los siguientes:
+Artículo 15. Exigencias básicas de ahorro de energía (HE)
+1.     El objetivo del requisito básico “Ahorro de energía” consiste en conseguir un uso racional de la energía
+       necesaria para la utilización de los edificios, reduciendo a límites sostenibles su consumo y conseguir,
+       asimismo, que una parte de  este consumo   proceda  de  fuentes      de energía renovable, como
+       consecuencia de las características de su proyecto, construcción, uso y mantenimiento.
+2.     Para satisfacer este objetivo, los edificios se proyectarán, construirán, utilizarán y mantendrán de forma
+       que se cumplan las exigencias básicas que se establecen en los apartados siguientes.
+3.     El Documento Básico “DB HE Ahorro de energía” especifica parámetros objetivos y procedimientos
+       cuyo cumplimiento asegura la satisfacción de las exigencias básicas y la superación de los niveles
+       mínimos de calidad propios del requisito básico de ahorro de energía.
+15.1. Exigencia básica HE 0: Limitación del consumo energético.
+El consumo energético de los edificios se limitará en función de la zona climática de su ubicación, el uso
+del edificio y, en el caso de edificios existentes, el alcance de la intervención. El consumo energético se
+satisfará, en gran medida, mediante el uso de energía procedente de fuentes renovables.
+15.2. Exigencia básica HE 1: Condiciones para el control de la demanda energética
+Los edificios dispondrán de una envolvente térmica de características tales que limite las necesidades de
+energía primaria para alcanzar el bienestar térmico en función de la zona climática de su ubicación, del
+régimen de verano y de invierno, del uso del edificio y, en el caso de edificios existentes, del alcance de la
+intervención.
+Las características de los elementos de la envolvente térmica en función de su zona climática, serán tales
+que eviten las descompensaciones en la calidad térmica de los diferentes espacios habitables. Así mismo,
+las características de las particiones interiores limitarán la transferencia de calor entre unidades de uso, y
+entre las unidades de uso y las zonas comunes del edificio.
+Se limitarán los riesgos debidos a procesos que produzcan una merma significativa de las prestaciones
+térmicas o  de la vida útil de los elementos que componen la     envolvente térmica, tales como las
+condensaciones.
+15.3. Exigencia básica HE 2: Condiciones de las instalaciones térmicas
+Las instalaciones térmicas de las que dispongan los edificios serán apropiadas para lograr el bienestar
+térmico de sus ocupantes. Esta exigencia se desarrolla actualmente en el vigente Reglamento de
+Instalaciones Térmicas en los Edificios (RITE), y su aplicación quedará definida en el proyecto del edificio.
+15.4. Exigencia básica HE 3: Condiciones de las instalaciones de iluminación
+Los edificios dispondrán de instalaciones de iluminación adecuadas a las necesidades de sus usuarios y
+a la vez eficaces energéticamente, disponiendo de un sistema de control que permita ajustar su
+
+                                                  3
+
+                               Documento Básico HE Ahorro de energía
+                                            INTRODUCCIÓN
+funcionamiento a la ocupación real de la zona, así como de un sistema de regulación que optimice el
+aprovechamiento de la luz natural en las zonas que reúnan unas determinadas condiciones.
+15.5. Exigencia básica HE 4: Contribución mínima de energía renovable para cubrir la demanda de
+agua caliente sanitaria
+Los edificios satisfarán sus necesidades de ACS y de climatización de piscina cubierta empleando en gran
+medida energía procedente de fuentes renovables o procesos de cogeneración renovables; bien generada
+en el propio edificio o bien a través de la conexión a un sistema urbano de calefacción.
+15.6. Exigencia básica HE 5: Generación mínima de energía eléctrica         procedente de fuentes
+renovables
+Los edificios dispondrán de sistemas de generación de energía eléctrica procedente de fuentes renovables
+para uso propio o suministro a la red.
+15.7. Exigencia básica HE 6: Dotaciones mínimas para la infraestructura de recarga de vehículos
+eléctricos
+Los edificios dispondrán de una infraestructura mínima que posibilite la recarga de vehículos eléctricos.
+II Ámbito de aplicación
+El ámbito de aplicación en este DB se especifica, para cada sección de las que se compone el mismo, en
+sus respectivos apartados.
+El contenido de este DB se refiere únicamente al requisito básico "Ahorro de energía". También deben
+cumplirse las exigencias básicas de los demás requisitos básicos, lo que se posibilita mediante la
+aplicación del DB correspondiente a cada uno de ellos.
+Se define como edificio de consumo de energía casi nulo, aquel edificio, nuevo o existente, que cumple
+con las exigencias reglamentarias establecidas en este Documento Básico “DB HE Ahorro de Energía” en
+lo referente a la limitación de consumo energético para edificios de nueva construcción.
+III Criterios generales de aplicación
+Pueden utilizarse otras soluciones diferentes a las contenidas en este DB, en cuyo caso deberá seguirse
+el procedimiento establecido en el artículo 5 de la Parte I del CTE, y deberá justificarse en el proyecto el
+cumplimiento del requisito básico y de las exigencias básicas.
+El “Catálogo de Elementos Constructivos del CTE”    aporta valores para determinadas características
+técnicas exigidas en este DB. Los valores que el Catálogo asigna a soluciones constructivas que no se
+fabrican industrialmente, sino que se generan en la obra tienen garantía legal en cuanto a su aplicación
+en los proyectos, mientras que para los productos de construcción fabricados industrialmente dichos
+valores tienen únicamente carácter genérico y orientativo.
+Cuando se cita una disposición reglamentaria en este DB debe entenderse que se hace referencia a la
+versión vigente en el momento en el que se aplica el mismo. Cuando se cita una norma UNE, UNE-EN o
+UNE-EN ISO debe entenderse que se hace referencia a la versión que se indica, aun cuando exista una
+versión posterior, salvo en el caso normas armonizadas UNE-EN que sean transposición de normas EN
+cuyas referencias hayan sido publicadas en el Diario  Oficial de la Unión Europea en el marco de la
+aplicación del Reglamento (UE) nº 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de
+2011, por el que se establecen condiciones armonizadas para la comercialización de      productos de
+construcción y se deroga la Directiva89/106/CEE del Consejo, en cuyo caso la cita se deberá relacionar
+con la última Comunicación de la Comisión que incluya dicha referencia. En el caso de normas de métodos
+de ensayo referenciadas en las normas armonizadas, debe aplicarse la versión incluida en las normas
+armonizadas UNE-EN citadas anteriormente.
+Las normas recogidas en este DB podrán ser sustituidas por otras de las utilizadas en cualquiera de los
+Estados miembros de la Unión Europea, o que sean parte del Acuerdo sobre el Espacio Económico
+Europeo, y en aquellos Estados que tengan un acuerdo de asociación aduanera con la Unión Europea,
+siempre que se demuestre que poseen especificaciones técnicas equivalentes.
+
+                                                  4
+
+                               Documento Básico HE Ahorro de energía
+                                            INTRODUCCIÓN
+
+IV Criterios de aplicación en edificios existentes
+Criterio 1: no empeoramiento
+Salvo en los casos en los que un DB establezca un criterio distinto, las condiciones preexistentes que sean
+menos exigentes que las establecidas en algún DB no se podrán reducir, y las que sean más exigentes
+únicamente podrán reducirse hasta el nivel establecido en el correspondiente DB.
+Criterio 2: flexibilidad
+En los casos en los que no sea posible alcanzar el nivel de prestación establecido con carácter general en
+este  DB,     podrán adoptarse soluciones  que     permitan el mayor grado     de adecuación posible,
+determinándose el mismo, siempre que se dé alguno de los siguientes casos:
+       a)     en edificios con valor histórico o arquitectónico reconocido, cuando otras soluciones pudiesen
+              alterar de manera inaceptable su carácter o aspecto, o;
+       b)     la aplicación de otras soluciones no suponga  una      mejora  efectiva en las    prestaciones
+              relacionadas con el requisito básico de “Ahorro de energía”, o;
+       c)     otras soluciones no sean técnica o económicamente viables, o;
+       d)     otras soluciones impliquen cambios sustanciales en elementos de la envolvente térmica o en
+              las instalaciones de generación térmica sobre los que no se fuera a actuar inicialmente.
+En  el proyecto  debe   justificarse el motivo  de la aplicación de  este    criterio de flexibilidad. En la
+documentación    final de   la obra  debe quedar   constancia del    nivel de prestación alcanzado     y los
+condicionantes de uso y mantenimiento, si existen.
+Criterio 3: reparación de daños
+Los elementos de la parte existente no afectados por ninguna de las condiciones establecidas en este DB,
+podrán conservarse en su estado actual siempre que no presente, antes de la intervención, daños que
+hayan mermado de forma significativa sus prestaciones iniciales. Si el edificio presenta daños relacionados
+con el requisito básico de “Ahorro de energía”, la intervención deberá contemplar medidas específicas para
+su resolución.
+V Condiciones particulares para el cumplimiento del DB-HE
+La aplicación de los procedimientos de este DB se llevará a cabo de acuerdo con las condiciones
+particulares que en el mismo se establecen y con las condiciones generales para el cumplimiento del CTE,
+las condiciones del proyecto, las condiciones en la ejecución de las obras y las condiciones del edificio
+que figuran en los artículos 5, 6, 7 y 8 respectivamente de la parte I del CTE.
+Los fabricantes de     productos con norma armonizada deberán presentar copia de la declaración de
+prestaciones y el marcado CE del producto, incluyendo el primer documento las prestaciones relacionadas
+con el uso o usos previstos del producto que aparecen en el Anexo o Anexos Z de su norma armonizada,
+conforme al vigente Reglamento 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011,
+por el que se establecen condiciones armonizadas para la comercialización de productos de construcción.
+VI Términos y definiciones
+A efectos de aplicación de este DB, los términos que figuran en letra cursiva deben utilizarse conforme al
+significado y a las condiciones que se establecen para cada uno de ellos, bien en el Anejo de terminología
+de este DB o bien en el Anejo III de la Parte I de este CTE, cuando sean términos de uso común en el
+conjunto del Código.
+
+                                                   5
+
+                               Documento Básico HE Ahorro de energía
+                                               ÍNDICE
+                                               Índice
+Sección HE 0 Limitación del consumo energético                                                    9
+1      Ámbito de aplicación                                                                       9
+2      Caracterización de la exigencia                                                            9
+3      Cuantificación de la exigencia                                                             9
+       3.1       Consumo de energía primaria no renovable                                         9
+       3.2       Consumo de energía primaria total                                               10
+4      Procedimiento y datos para la determinación del consumo energético                         11
+       4.1       Procedimiento de cálculo                                                         11
+       4.2       Solicitaciones exteriores                                                       12
+       4.3       Solicitaciones interiores y condiciones operacionales                           12
+       4.4       Modelo térmico: Envolvente térmica y zonificación                               12
+       4.5       Sistemas de referencia en uso residencial privado                               12
+       4.6       Superficie para el cálculo de indicadores de consumo                            13
+5      Justificación de la exigencia                                                             13
+6      Construcción, mantenimiento y conservación                                                13
+       6.1       Ejecución                                                                       13
+       6.2       Control de la ejecución de la obra                                              13
+       6.3       Control de la obra terminada                                                    14
+       6.4       Mantenimiento y conservación del edificio                                       14
+Sección HE 1 Condiciones para el control de la demanda energética                               15
+1      Ámbito de aplicación                                                                      15
+2      Caracterización de la exigencia                                                           15
+3      Cuantificación de la exigencia                                                            15
+       3.1       Condiciones de la envolvente térmica                                            15
+       3.1.1     Transmitancia de la envolvente térmica                                          16
+       3.1.2     Control solar de la envolvente térmica                                          17
+       3.1.3     Permeabilidad al aire de la envolvente térmica                                  17
+       3.2       Limitación de descompensaciones                                                 18
+       3.3       Limitación de condensaciones en la envolvente térmica                           18
+4      Justificación de la exigencia                                                             18
+5      Construcción, mantenimiento y conservación                                                19
+       5.1       Características exigibles a los productos                                       19
+       5.2       Características exigibles a los componentes de la envolvente térmica            20
+       5.3       Ejecución                                                                       20
+       5.4       Control de recepción en obra de productos                                       20
+       5.5       Control de la ejecución de la obra                                              20
+       5.6       Control de la obra terminada                                                    20
+       5.7       Mantenimiento y conservación del edificio                                       21
+Sección HE 2 Condiciones de las instalaciones térmicas                                           22
+Sección HE 3 Condiciones de las instalaciones de iluminación                                     23
+1      Ámbito de aplicación                                                                      23
+2      Caracterización de la exigencia                                                           23
+3      Cuantificación de la exigencia                                                            24
+       3.1       Eficiencia energética de la instalación de iluminación                          24
+
+                            Documento Básico HE Ahorro de energía
+                                         INTRODUCCIÓN
+      3.2     Potencia instalada                                                             25
+      3.3     Sistemas de control y regulación                                               25
+      3.4     Sistemas de aprovechamiento de la luz natural                                  25
+4     Justificación de la exigencia                                                          26
+5     Construcción, mantenimiento y conservación                                             27
+      5.1     Ejecución                                                                      27
+      5.2     Control de la ejecución de la obra                                             27
+      5.3     Control de la obra terminada                                                   27
+      5.4     Mantenimiento y conservación del edificio                                      27
+Sección HE 4 Contribución mínima de energía renovable para cubrir la demanda
+de agua caliente sanitaria                                                                  28
+1     Ámbito de aplicación                                                                   28
+2     Caracterización de la exigencia                                                        28
+3     Cuantificación de la exigencia                                                         28
+      3.1     Contribución renovable mínima para ACS y/o climatización de piscina            28
+      3.2     Sistema de medida de energía suministrada                                      29
+4     Justificación de la exigencia                                                          29
+5     Construcción, mantenimiento y conservación                                             29
+      5.1     Ejecución                                                                      29
+      5.2     Control de la ejecución de la obra                                             29
+      5.3     Control de la obra terminada                                                   29
+      5.4     Mantenimiento y conservación del edificio                                      30
+Sección HE 5 Generación mínima de energía eléctrica procedente de fuentes
+renovables                                                                                  31
+1     Ámbito de aplicación                                                                   31
+2     Caracterización de la exigencia                                                        31
+3     Cuantificación de la exigencia                                                         31
+4     Justificación de la exigencia                                                          32
+5     Construcción, mantenimiento y conservación                                             32
+      5.1     Ejecución                                                                      32
+      5.2     Control de la ejecución de la obra                                             32
+      5.3     Control de la obra terminada                                                   32
+      5.4     Mantenimiento y conservación del edificio                                      32
+Sección HE 6 Dotaciones mínimas para la infraestructura de recarga de vehículos
+eléctricos                                                                                  33
+1     Ámbito de aplicación                                                                   33
+2     Caracterización de la exigencia                                                        33
+3     Cuantificación de la exigencia                                                         34
+4     Justificación de la exigencia                                                          34
+5     Construcción, mantenimiento y conservación                                             34
+      5.1     Ejecución                                                                      34
+      5.2     Control de la ejecución de la obra                                             34
+      5.3     Control de la obra terminada                                                   35
+      5.4     Mantenimiento y conservación del edificio                                      35
+
+                                                    7
+
+                        Documento Básico HE Ahorro de energía
+                                     INTRODUCCIÓN
+Anejo A     Terminología............................................................................................. 36
+Anejo B     Zonas climáticas ......................................................................................46
+1     Zonas climáticas .......................................................................................................................... 46
+2     Clima de referencia ...................................................................................................................... 47
+Anejo C     Consideraciones para la definición de la envolvente térmica .............48
+Anejo D     Condiciones operacionales y perfiles de uso ....................................... 49
+Anejo E     Valores orientativos de transmitancia ...................................................51
+Anejo F     Demanda de referencia de ACS ..............................................................52
+Anejo G     Temperatura del agua de red ..................................................................54
+1     Temperatura media mensual del agua de red ........................................................................... 54
+Anejo H     Determinación de la permeabilidad al aire del edificio.........................56
+1     Determinación mediante ensayo ................................................................................................ 56
+2     Determinación mediante valores de referencia ........................................................................ 56
+
+                                          8
+
+                                        Documento Básico HE Ahorro de energía
+                                        HE 0. Limitación del consumo energético
+Sección HE 0
+Limitación del consumo energético
+
+1              Ámbito de aplicación
+1       Esta sección es de aplicación a:
+        a)     edificios de nueva construcción;
+        b)     intervenciones en edificios existentes, en los siguientes casos:
+                ampliaciones en las que se incremente más de un 10% la superficie o el volumen construido de
+                la unidad o unidades de uso sobre las que se intervenga, cuando la superficie útil     ~~total~~   ampliada
+                supere los 50 m²;
+                cambios de uso, cuando la superficie útil total supere los 50 m²;
+                reformas en las que se renueven de forma conjunta las instalaciones de generación térmica y
+                más del 25% de la superficie total de la envolvente térmica final del edificio.
+        Las exigencias derivadas de ampliaciones y cambios de uso son de aplicación, respectivamente, a la
+        parte ampliada y a la unidad o unidades de uso que cambian su uso, mientras que en el caso de las
+        reformas referidas en este apartado, son de aplicación al conjunto del edificio.
+2       Se excluyen del ámbito de aplicación:
+       a)     los edificios protegidos oficialmente por ser parte de un entorno declarado o en razón de su particular
+              valor arquitectónico o histórico, en la medida en que el cumplimiento de determinadas exigencias
+              básicas de eficiencia energética pudiese alterar de manera inaceptable su carácter o aspecto, siendo
+              la autoridad que dicta la protección oficial quien determine los elementos inalterables;
+       b)     construcciones provisionales con un plazo previsto de utilización igual o inferior a dos años;
+       c)     edificios industriales, de la defensa y agrícolas no residenciales, o partes de los mismos, de baja
+              demanda energética. Aquellas zonas que no requieran garantizar unas condiciones térmicas de
+              confort, como las destinadas a talleres y procesos industriales, se considerarán de baja demanda
+              energética;
+       d)     edificios aislados con una superficie útil total inferior a 50 m².
+
+2              Caracterización de la exigencia
+1       El consumo energético de los edificios se limitará en función de la zona climática de invierno de su
+        localidad de ubicación, el uso del edificio y, en el caso de edificios existentes, el alcance de la intervención.
+
+3              Cuantificación de la exigencia
+3.1            Consumo de energía primaria no renovable
+1       El consumo de energía primaria no renovable (Cₑₚ,ₙᵣₑₙ) de los espacios contenidos en el interior de la
+        envolvente térmica del edificio o, en su caso, de la parte del edificio considerada, no superará el valor
+        límite (Cₑₚ,nren,lim) obtenido de la tabla 3.1.a-HE0 o la tabla 3.1.b-HE0:
+
+                                                    9
+
+                                                                          Documento Básico HE Ahorro de energía
+                                        HE 0. Limitación del consumo energético
+                                                                                    Tabla 3.1.a - HE0
+                                                           Valor límite Cep,nren,lim [kW·h/m²·año] para uso residencial privado
+                                                                       Zona climática de invierno
+                                                           α           A                 B     C      D       E
+                 Edificios nuevos y ampliaciones           20          25       28             32     38      43
+                 Cambios de uso a residencial              40          50       55             65     70      80
+                 privado y reformas
+                 En territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla) se multiplicarán los valores
+                 de la tabla por 1,25
+                                                                                    Tabla 3.1.b - HE0
+                   Valor límite Cep,nren,lim [kW·h/m²·año] para uso distinto del residencial privado
+                                                                                Zona climática de invierno
+                      α               A               B               C                       D               E
+                 70 + 8 · CFI    55 + 8 · CFI    50 + 8 · CFI    35 + 8 · CFI            20 + 8 · CFI    10 + 8 · CFI
+                 CFI: Carga interna media[W/m²]
+                 En territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla) se multiplicarán los valores
+                 resultantes por 1,40
+
+2     En edificios que tengan unidades de uso residencial privado junto a otras de distinto uso, el valor límite
+      del consumo de energía primaria no renovable (Cₑₚ,nren,lim) se deberá aplicar de forma independiente a
+      cada una de las partes del edificio con uso diferenciado.
+3.2      Consumo de energía primaria total
+1     El consumo de energía primaria total (Cₑₚ,ₜₒₜ) de los espacios contenidos en el interior de la envolvente
+      térmica del edificio o, en su caso, de la parte del edificio considerada, no superará el valor límite (Cep,tot,lim)
+      obtenido de la tabla 3.2.a-HE0 o de la tabla 3.2.b-HE0:
+
+                                                  Tabla 3.2.a - HE0
+                            Valor límite Cep,tot,lim [kW·h/m²·año] para uso residencial privado
+                                                                       Zona climática de invierno
+                                                                 α           A              B   C     D       E
+                 Edificios nuevos y ampliaciones                 40       50             56     64    76      86
+                 Cambios de uso a residencial privado            55       75             80     90   105      115
+                 y reformas
+                 En territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla) se multiplicarán los
+                 valores de la tabla por 1,15
+
+                                                    Tabla 3.2.b - HE0
+                      Valor límite Cep,tot,lim [kW·h/m²·año] para uso distinto del residencial privado
+                                               Zona climática de invierno
+                       α                A                B                C                    D                E
+                 165 + 9 · CFI    155 + 9 · CFI    150 + 9 · CFI    140 + 9 · CFI        130 + 9 · CFI    120 + 9 · CFI
+                CFI: Carga interna media[W/m²]
+                En territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla) se multiplicarán los valores
+                resultantes por 1,40
+
+                                                         10
+
+                                        Documento Básico HE Ahorro de energía
+                                        HE 0. Limitación del consumo energético
+2      En edificios que tengan unidades de uso residencial privado junto a otras de distinto uso, el valor límite
+       del consumo de energía primaria total (Cep,tot,lim) se deberá aplicar de forma independiente a cada una de
+       las partes del edificio con uso diferenciado.
+
+4             Procedimiento y datos para la determinación del consumo energético
+4.1           Procedimiento de cálculo
+1      Las exigencias relativas al consumo de energía del edificio o parte del edificio establecidas en este
+       documento básico se verificarán usando un procedimiento de cálculo acorde a las características
+       establecidas en este apartado.
+2      El procedimiento de cálculo debe permitir determinar la eficiencia energética, expresada como consumo
+       de energía primaria no renovable (Cep,nren), y el consumo de energía primaria total (Cep,tot), necesario para
+       mantener el edificio, o parte del edificio, por periodo de un año en las condiciones operacionales, cuando
+       se somete a las solicitaciones interiores y solicitaciones exteriores definidas reglamentariamente.
+3      El procedimiento de cálculo debe permitir desglosar el consumo energético de energía final en función
+       del    vector energético utilizado (tipo de combustible o electricidad) para satisfacer las necesidades
+       energéticas de cada uno de los servicios técnicos (calefacción, refrigeración, ACS, ventilación, control de
+       la humedad y, en su caso, iluminación). Para ello, podrá emplear simulación mediante un modelo térmico
+       del edificio o métodos simplificados equivalentes, debiendo considerar, bien de forma detallada o bien de
+       forma simplificada, los siguientes aspectos:
+       a)     el diseño, emplazamiento y orientación del edificio;
+       b)     la evolución hora a hora en régimen transitorio de los procesos térmicos;
+       c)     el acoplamiento térmico entre zonas adyacentes del edificio a distintas temperaturas;
+       d)     las solicitaciones exteriores, las solicitaciones interiores y las condiciones operacionales, teniendo en
+              cuenta la posibilidad de que los espacios se comporten en oscilación libre;
+       e)     las ganancias y pérdidas de energía por conducción a través de la envolvente térmica, compuesta
+              por los cerramientos opacos, los huecos y los puentes térmicos, con consideración de la inercia
+              térmica de los materiales;
+       f)     las ganancias y pérdidas producidas por la radiación solar al atravesar los elementos transparentes o
+              semitransparentes y las relacionadas con el calentamiento de elementos opacos de la envolvente
+              térmica, considerando las propiedades de los elementos, su orientación e inclinación y las sombras
+              propias del edificio u otros obstáculos que puedan bloquear dicha radiación;
+       g)     las ganancias y pérdidas de energía producidas por el intercambio de aire con el exterior debido a
+              ventilación e infiltraciones teniendo en cuenta las exigencias de calidad del aire de los distintos
+              espacios y las estrategias de control empleadas;
+       h)     las necesidades de los servicios de calefacción, refrigeración, ACS y ventilación, control  de la
+              humedad y, en usos distintos al residencial privado, de iluminación;
+       i)     el dimensionado y los rendimientos de los equipos y sistemas de producción de frío y de calor, ACS,
+              ventilación, control de la humedad e iluminación;
+       j)     el empleo de distintas fuentes de energía, sean generadas in situ o remotamente o procedentes de
+              biomasa sólida, biogás o gases renovables;
+       k)     los coeficientes de paso de energía final a energía primaria procedente de fuentes renovables o no
+              renovables;
+       l)     la contribución de energías renovables producidas in situ o en las proximidades de la parcela o
+              procedentes de biomasa sólida, biogás o gases renovables.
+4      El cálculo de los indicadores de eficiencia energética, producción y consumo de energía se realizará
+       empleando un intervalo de tiempo mensual.
+5      Los coeficientes de paso empleados para la conversión de energía final a energía primaria (sea total,
+       procedente de fuentes renovables o procedente de fuentes no renovables) serán los           publicados
+       oficialmente.
+6      El total de horas fuera de consigna no excederá el 4% del tiempo total de ocupación.
+7      Los espacios del modelo tendrán asociadas unas condiciones operacionales y perfiles de uso de acuerdo
+       al Anejo D.
+
+                                                        11
+
+                                    Documento Básico HE Ahorro de energía
+                                   HE 0. Limitación del consumo energético
+8     Los valores de la demanda de referencia de ACS se fijarán de acuerdo al Anejo F. El Anejo G incluye
+      valores de temperatura del agua de red para el cálculo del consumo de ACS.
+9     El cálculo del balance energético necesario para la verificación de las exigencias de este DB se realiza
+      de acuerdo a la UNE-EN ISO 52000-1:2019 Evaluación global de la eficiencia energética de los edificios.
+      Parte 1: marco general y procedimientos, utilizando un factor de exportación kₑₓₚ=0.
+10    A efectos de imputación a los distintos servicios, el reparto de la energía eléctrica producida in situ, en
+      cada intervalo de tiempo, se hace proporcionalmente a los consumos eléctricos de los consumos
+      considerados (calefacción, refrigeración, ventilación, ACS y en uso terciario, además, iluminación).
+11    En aquellos aspectos no definidos por este DB, el cálculo de las necesidades de energía, consumo
+      energético e indicadores energéticos estará de acuerdo con el Documento Reconocido de la Certificación
+      energética de edificios Condiciones técnicas de los procedimientos para la evaluación de la eficiencia
+      energética de los edificios.
+4.2     Solicitaciones exteriores
+1     Se consideran solicitaciones exteriores las acciones del clima sobre el edificio con efecto sobre su
+      comportamiento térmico.
+2     A efectos de cálculo, se establece un conjunto de zonas climáticas para las que se especifica un clima
+      de referencia que define las solicitaciones exteriores en términos de temperatura y radiación solar.
+3     La zona climática de cada localidad, así como su clima de referencia, se determina a partir de los valores
+      tabulados recogidos en el Anejo B, o de documentos reconocidos elaborados por las Comunidades
+      Autónomas.
+4.3     Solicitaciones interiores y condiciones operacionales
+1     Se consideran solicitaciones interiores las cargas térmicas generadas en el interior del edificio debidas a
+      los aportes de energía de los ocupantes,    equipos e iluminación.  Las  solicitaciones interiores        se
+      caracterizan mediante un perfil de uso que describe las cargas internas para cada tipo de espacio. Los
+      espacios del modelo térmico tendrán asociado un perfil de uso de acuerdo con el Anejo D.
+2     Las condiciones operacionales para espacios en uso residencial privado, se definen por los siguientes
+      parámetros que se recogen en los perfiles de uso del Anejo D:
+        a) temperaturas de consigna alta;
+        b) temperaturas de consigna baja;
+        c) distribución horaria del consumo de ACS.
+4.4     Modelo térmico: Envolvente térmica y zonificación
+1     El modelo térmico del edificio estará compuesto por una serie de espacios conectados entre sí y con el
+      exterior del edificio mediante la envolvente térmica del edificio, definida según los criterios del Anejo C.
+2     La definición de las zonas térmicas podrá diferir de la real siempre que refleje adecuadamente el
+      comportamiento térmico del edificio. En particular, podrá integrarse una          zona térmica en otra mayor
+      adyacente cuando no supere el 10% de la superficie útil de esta.
+3     Los espacios del modelo térmico se clasificarán en espacios habitables y espacios no habitables. Los
+      primeros se clasificarán además según su carga interna (baja, media, alta o muy alta), en su caso, y
+      según su necesidad de mantener unas determinadas condiciones de temperatura para el bienestar
+      térmico de sus ocupantes (espacios acondicionados o espacios no acondicionados).
+4.5     Sistemas de referencia en uso residencial privado
+1     En el caso de edificios de uso residencial privado, cuando no se defina en proyecto sistemas para el
+      servicio de calefacción, refrigeración o calentamiento de agua, se considerará, a efectos de cálculo, la
+      presencia de un sistema con las características indicadas en la tabla 4.5-HE0:
+                                   Tabla 4.5-HE0  Sistemas de referencia
+                     Tecnología                      Vector        Rendimiento
+                                                   energético      nominal
+                     Producción de calor y ACS    Gas natural     0,92 (PCS)
+                     Producción de frío           Electricidad       2,60
+                                                   12
+
+                                      Documento Básico HE Ahorro de energía
+                                     HE 0. Limitación del consumo energético
+4.6             Superficie para el cálculo de indicadores de consumo
+1        La superficie considerada en el cálculo de los indicadores de consumo se obtendrá como suma de las
+         superficies útiles de los espacios habitables incluidos dentro de la envolvente térmica.
+2        Se podrá excluir de la superficie de cálculo la de los espacios que deban mantener unas condiciones
+         específicas determinadas no por el confort de los ocupantes sino por la actividad que en ellos se
+         desarrolla (laboratorios con condiciones de temperatura, cocinas industriales, salas de ordenadores,
+         piscinas cubiertas, etc).
+
+5               Justificación de la exigencia
+1        Para justificar el cumplimiento de las exigencias de esta sección, los documentos de proyecto incluirán
+         la siguiente información sobre el edificio o parte del edificio evaluada:
+        a)     la definición de la localidad y de la zona climática de ubicación;
+        b)     la definición de la envolvente térmica y sus componentes;
+        c)     el perfil de uso, nivel de acondicionamiento (acondicionado o no acondicionado), nivel de ventilación
+               de cálculo y condiciones operacionales de los espacios habitables y de los espacios no habitables;
+       d)     el procedimiento empleado para el cálculo del consumo energético;
+       e)     la demanda energética de calefacción, refrigeración y ACS;
+        f)     el consumo energético (energía final consumida por vector energético) de los distintos servicios
+               técnicos (calefacción, refrigeración, ACS, ventilación,  control   de la humedad         y, en su caso,
+               iluminación);
+        g)     la energía producida y la aportación de energía procedente de fuentes renovables;
+        h)     la descripción y disposición de los sistemas empleados para satisfacer las necesidades de los distintos
+               servicios técnicos;
+        i)     los rendimientos considerados para los distintos equipos de los servicios técnicos;
+        j)     los factores empleados para la conversión de energía final a energía primaria;
+        k)     el consumo de energía primaria no renovable (Cep,nren) del edificio y el valor límite aplicable (Cep,nren,lim);
+        l)     el consumo de energía primaria total (Cep,tot) y el valor límite aplicable (Cep,tot,lim);
+        m) el número de horas fuera de consigna y el valor límite aplicable.
+
+6               Construcción, mantenimiento y conservación
+6.1             Ejecución
+1        Las obras de construcción del edificio se ejecutarán con sujeción al proyecto y sus modificaciones
+         autorizadas por el director de obra previa conformidad del promotor, a la legislación aplicable, a las
+         normas de la buena práctica constructiva, y a las instrucciones del director de obra y del director de la
+         ejecución de la obra, conforme a lo indicado en el artículo 7 de la Parte I del CTE.
+6.2             Control de la ejecución de la obra
+1        El control de la ejecución de las obras se realizará de acuerdo con las especificaciones del proyecto, sus
+         anexos y modificaciones autorizados por el director de obra y las instrucciones del director de la ejecución
+         de la obra, conforme a lo indicado en el artículo 7.3 de la Parte I del CTE y demás normativa vigente de
+         aplicación.
+2        Se comprobará que la ejecución de la obra se realiza de acuerdo con los controles y con la frecuencia
+         de los mismos establecida en el pliego de condiciones del proyecto.
+3        Cualquier  modificación  que pueda introducirse  durante      la ejecución  de la   obra       quedará  en la
+         documentación de la obra ejecutada sin que en ningún caso dejen de cumplirse las condiciones mínimas
+         señaladas en este Documento Básico.
+4        En el Libro del Edificio se incluirá la documentación referente a las características de los productos,
+         equipos y sistemas incorporados a la obra.
+
+                                                          13
+
+                                      Documento Básico HE Ahorro de energía
+                                     HE 0. Limitación del consumo energético
+6.3      Control de la obra terminada
+1     El control de la obra terminada debe seguir los criterios indicados en el artículo 7.4 de la Parte I del CTE.
+2     En esta Sección del Documento Básico no se prescriben pruebas finales.
+6.4      Mantenimiento y conservación del edificio
+1     El plan de mantenimiento incluido en el Libro del Edificio, contemplará las operaciones y periodicidad
+      necesarias para  el mantenimiento,   en el transcurso  del tiempo,          de los parámetros de diseño y
+      prestaciones de la envolvente térmica e instalaciones.
+2     Así mismo, en el Libro del Edificio se documentará todas las intervenciones, ya sean de reparación,
+      reforma o rehabilitación realizadas a lo largo de la vida útil del edificio.
+
+                                                     14
+
+                                   Documento Básico HE Ahorro de energía
+                         HE 1. Condiciones para el control de la demanda energética
+Sección HE 1
+Condiciones para el control de la demanda energética
+
+1              Ámbito de aplicación
+1       Esta sección es de aplicación a:
+        a)     edificios de nueva construcción;
+        b)     intervenciones en edificios existentes:
+                 ampliaciones;
+                 cambios de uso;
+                 reformas.
+2       Se excluyen del ámbito de aplicación:
+       a)     los edificios protegidos oficialmente por ser parte de un entorno declarado o en razón de su particular
+              valor arquitectónico o histórico, en la medida en que el cumplimiento de determinadas exigencias
+              básicas de eficiencia energética pudiese alterar de manera inaceptable su carácter o aspecto, siendo
+              la autoridad que dicta la protección oficial quien determine los elementos inalterables;
+       b)     construcciones provisionales con un plazo previsto de utilización igual o inferior a dos años;
+       c)     edificios industriales, de la defensa y agrícolas no residenciales, o partes de los mismos, de baja
+              demanda energética. Aquellas zonas que no requieran garantizar unas condiciones        térmicas de
+              confort, como las destinadas a talleres y procesos industriales, se considerarán de baja demanda
+              energética;
+       d)     edificios aislados con una superficie útil total inferior a 50 m².
+
+2              Caracterización de la exigencia
+1       Para    controlar la demanda   energética,    los edificios dispondrán  de una envolvente     térmica de
+        características tales que limite las necesidades de energía primaria para alcanzar el bienestar térmico,
+        en función del régimen de verano y de invierno, del uso del edificio y, en el caso de edificios existentes,
+        del alcance de la intervención.
+2       Las características de los elementos de la envolvente térmica en función de su zona climática de invierno,
+        serán tales que eviten las descompensaciones en la calidad térmica de los diferentes espacios habitables.
+3       Las particiones interiores limitarán la transferencia de calor entre las distintas unidades de uso del edificio,
+        entre las unidades de uso y las zonas comunes del edificio, y en el caso de las medianerías, entre
+        unidades de uso de distintos edificios.
+4       Se limitarán los riesgos debidos a procesos que produzcan una merma significativa de las prestaciones
+        térmicas o de la vida útil de los elementos que componen la             envolvente térmica, tales como las
+        condensaciones.
+
+3              Cuantificación de la exigencia
+3.1            Condiciones de la envolvente térmica
+La envolvente térmica del edificio, definida según los criterios del Anejo C, cumplirá las siguientes condiciones:
+
+                                                          15
+
+                                                           Documento Básico HE Ahorro de energía
+                                                 HE 1. Condiciones para el control de la demanda energética
+3.1.1   Transmitancia de la envolvente térmica
+1     La transmitancia térmica (U) de cada elemento perteneciente a la envolvente térmica no superará el valor
+      límite (Ulim) de la tabla 3.1.1.a-HE1:
+                   Tabla 3.1.1.a - HE1         Valores límite de transmitancia térmica, Ulim [W/m²K]
+                                                                          Zona climática de invierno
+           Elemento                                                      α  A          B           C         D      E
+           Muros y suelos en contacto con el aire exterior (US, UM)     0,80   0,70   0,56         0,49     0,41    0,37
+           Cubiertas en contacto con el aire exterior (UC)              0,55   0,50   0,44         0,40     0,35    0,33
+           Muros, suelos y cubiertas en contacto con espacios no
+           habitables o con el terreno (UT)                             0,90   0,80   0,75         0,70     0,65    0,59
+           Medianerías o particiones interiores pertenecientes a la
+           envolvente térmica (UMD)
+           Huecos (conjunto de marco, vidrio y, en su caso, cajón de    3,2    2,7    2,3          2,1      1,8     1,80
+           persiana) (UH)*
+           Puertas con superficie semitransparente igual o inferior al            5,7
+           50%
+          *Los huecos con uso de escaparate en unidades de uso con actividad comercial pueden incrementar el valor
+          de UH en un 50%.
+
+2     En el caso de reformas, el valor límite (Ulim) de la tabla 3.1.1.a-HE1 será de aplicación únicamente a
+      aquellos elementos de la envolvente térmica:
+       a) que se sustituyan, incorporen, o modifiquen sustancialmente;
+       b) que vean modificadas sus condiciones interiores o exteriores como resultado de la intervención,
+          cuando estas supongan un incremento de las necesidades energéticas del edificio.
+      Asimismo, en reformas se podrán superar los valores de la tabla 3.1.1.a-HE1 cuando el coeficiente global
+      de transmisión de calor  (K) obtenido considerando la               transmitancia térmica       final de los elementos
+      afectados no supere el obtenido aplicando los valores de la tabla.
+
+3     El coeficiente global de transmisión de calor a través de la envolvente térmica (K) del edificio, o parte
+      del mismo, con uso residencial privado, no superará el valor límite (Klim) obtenido de la tabla 3.1.1.b-
+      HE1:
+                   Tabla 3.1.1.b - HE1         Valor límite Klim [W/m²K] para uso residencial privado
+                                                 Compacidad               Zona climática de invierno
+                                                 V/A [m³/m²]      α       A       B                C        D        E
+                                                 V/A ≤ 1         0,67    0,60     0,58             0,53     0,48    0,43
+        Edificios nuevos y ampliaciones
+                                                 V/A ≥ 4         0,86    0,80     0,77             0,72     0,67    0,62
+        Cambios de uso.                          V/A ≤ 1         1,00    0,87     0,83             0,73     0,63    0,54
+        Reformas en las que se renueve más
+        del 25% de la superficie total de la     V/A ≥ 4         1,07    0,94     0,90             0,81     0,70    0,62
+        envolvente térmica final del edificio
+        Los valores límite de las compacidades intermedias (1<V/A<4) se obtienen por interpolación.
+        En el caso de ampliaciones los valores límite se aplicarán sólo en caso de que la superficie o el volumen construido
+        se incrementen más del 10%.
+4     El coeficiente global de transmisión de calor a través de la envolvente térmica (K) del edificio, o parte del
+      mismo, con uso distinto al residencial privado no superará el valor límite (Klim) obtenido de la tabla 3.1.1.c-
+      HE1:
+
+                                                              16
+
+                                     Documento Básico HE Ahorro de energía
+                           HE 1. Condiciones para el control de la demanda energética
+             Tabla 3.1.1.c - HE1      Valor límite Klim [W/m²K] para uso distinto del residencial privado
+                                                   Compacidad                    Zona climática de invierno
+                                                  V/A [m³/m²]            α        A        B        C        D       E
+
+         Edificios nuevos.                          V/A ≤ 1              0,96     0,81     0,76     0,65     0,54    0,43
+         Ampliaciones.
+         Cambios de uso.
+         Reformas en las que se renueve más
+         del 25% de la superficie total de la                V/A ≥ 4     1,12     0,98     0,92     0,82     0,70    0,59
+         envolvente térmica final del edificio
+
+         Los valores límite de las compacidades intermedias (1<V/A<4) se obtienen por interpolación.
+         En el caso de ampliaciones los valores límite se aplicarán sólo en caso de que la superficie o el volumen
+         construido se incrementen más del 10%.
+         Las unidades de uso con actividad comercial cuya compacidad V/A sea mayor que 5 se eximen del cumplimiento
+         de los valores de esta tabla.
+5     Los elementos con soluciones constructivas diseñadas para reducir la demanda energética, tales como
+      invernaderos  adosados,         muros parietodinámicos,           muros    Trombe,   etc.,    cuyas         prestaciones o
+      comportamiento térmico no se describen adecuadamente mediante la                        transmitancia térmica, están
+      excluidos de las comprobaciones relativas a la transmitancia térmica (U) y no se contabilizan para el
+      coeficiente global de transmisión de calor (K) definidos en este apartado.
+6     Alternativamente, los edificios o, cuando se trate de intervenciones parciales en edificios existentes, las
+      partes de los mismos sobre las que se intervenga, cuyas demandas de calefacción y refrigeración sean
+      menores, en ambos casos, de 15 kWh/m², podrán excluirse del cumplimiento del coeficiente global de
+      transmisión de calor a través de la envolvente térmica (K).
+3.1.2   Control solar de la envolvente térmica
+1     En el caso de edificios nuevos y ampliaciones, cambios de uso o reformas en las que se renueve más
+      del 25% de la superficie total de la envolvente térmica final del edificio, el parámetro de control solar (qsol;jul)
+      no superará el valor límite de la tabla 3.1.2-HE1:
+                Tabla 3.1.2-HE1       Valor límite del parámetro de control solar, qsol;jul,lim [kWh/m²·mes]
+                                       Uso                               qsol;jul
+                               Residencial privado                         2,00
+                                    Otros usos                             4,00
+3.1.3   Permeabilidad al aire de la envolvente térmica
+1     Las soluciones constructivas y condiciones de ejecución de los elementos de la envolvente térmica
+      asegurarán una adecuada estanqueidad al aire. Particularmente, se cuidarán los encuentros entre
+      huecos y opacos, puntos de paso a través de la envolvente térmica y puertas de paso a espacios no
+      acondicionados.
+2     La permeabilidad al aire (Q₁₀₀) de los huecos que pertenezcan a la envolvente térmica no superará el
+      valor límite de la tabla 3.1.3.a-HE1:
+                 Tabla 3.1.3.a-HE1    Valor límite de permeabilidad al aire de huecos de la envolvente térmica,
+                                                Q100,lim [m³/h·m²]
+                                                                         Zona climática de invierno
+                                                              α           A        B        C        D        E
+              Permeabilidad al aire de huecos (Q100,lim)*    ≤ 27        ≤ 27     ≤ 27     ≤ 9      ≤ 9      ≤ 9
+              * La permeabilidad indicada es la medida con una sobrepresión de 100Pa, Q₁₀₀.
+                Los valores de permeabilidad establecidos se corresponden con los que definen la clase 2 (≤27 m³/h·m²)
+                y clase 3 (≤9 m³/h·m²) de la UNE-EN 12207:2017.
+                La permeabilidad del hueco se obtendrá teniendo en cuenta, en su caso, el cajón de persiana.
+                                                             17
+
+                                            Documento Básico HE Ahorro de energía
+                                  HE 1. Condiciones para el control de la demanda energética
+3        En el caso de reformas, la anterior tabla 3.1.3.a-HE1 solo será de aplicación a aquellos elementos de la
+         envolvente térmica que se sustituyan, incorporen, o modifiquen sustancialmente.
+4        En edificios nuevos de uso residencial privado con una superficie útil total superior a 120 m², la relación
+         del cambio de aire con una presión diferencial de 50 Pa (n₅₀) no superará el valor límite de la tabla 3.1.3.b-
+         HE1.
+                 Tabla 3.1.3.b-HE1   Valor límite de la relación del cambio de aire con una presión de 50 Pa,
+                                                             n₅₀ [h⁻¹]
+                                Compacidad V/A [m³/m²]            n₅₀
+                                V/A <= 2                           6
+                                V/A >= 4                           3
+                                Los  valores   límite de las compacidades intermedias (2<V/A<4) se
+                                obtienen por interpolación.
+5        El Anejo H establece la metodología para la determinación de la permeabilidad al aire del edificio.
+3.2           Limitación de descompensaciones
+1        La transmitancia térmica de las particiones interiores no superará el valor de la tabla 3.2-HE1, en función
+         del uso asignado a las distintas unidades de uso que delimiten:
+                 Tabla 3.2 - HE1     Transmitancia térmica límite de particiones interiores, Ulim [W/m²K]
+                                               Tipo de elemento           α  Zona climática de invierno
+                                                                                      A    B       C        D       E
+                                               Particiones horizontales  1,90     1,80    1,55     1,35    1,20    1,00
+              Entre unidades del mismo uso
+                                               Particiones verticales    1,40     1,40    1,20     1,20    1,20    1,00
+              Entre unidades de distinto uso   Particiones horizontales y
+              Entre unidades de uso y zonas    verticales                1,35     1,25    1,10     0,95    0,85    0,70
+              comunes
+2        En el caso de reformas, el valor límite (Ulim) de la tabla 3.2-HE1 será de aplicación únicamente a aquellas
+         particiones interiores:
+             a)  que se sustituyan, incorporen, o modifiquen sustancialmente;
+             b)  que vean modificadas sus condiciones interiores o exteriores como resultado de la intervención,
+                 cuando estas supongan un incremento de las necesidades energéticas del edificio.
+3.3           Limitación de condensaciones en la envolvente térmica
+1       En el caso de que se produzcan condensaciones intersticiales en la envolvente térmica del edificio, estas
+        serán tales que no produzcan una merma significativa en sus prestaciones térmicas o supongan un riesgo
+        de degradación o pérdida de su vida útil. En ningún caso, la máxima condensación acumulada en cada
+        periodo anual podrá superar la cantidad de evaporación posible en el mismo periodo.
+
+4             Justificación de la exigencia
+1        Para justificar que un edificio cumple las exigencias de esta sección, los documentos de proyecto incluirán
+         la siguiente información sobre el edificio o parte del edificio evaluada:
+       a)     la definición de la localidad y de la zona climática de ubicación;
+       b)     la compacidad (V/A) del edificio o parte del edificio;
+       c)     el esquema geométrico de definición de la envolvente térmica
+       d)     la caracterización de  los elementos que componen la envolvente térmica (cerramientos opacos,
+              huecos y puentes térmicos), así como los valores límite de los parámetros que resulten aplicables;
+       e)     la caracterización  geométrica,  constructiva  e higrotérmica           de  los elementos    afectados por la
+              comprobación de     la limitación de descompensaciones,     así            como los  valores límite que    les
+              correspondan;
+                                                             18
+
+                                   Documento Básico HE Ahorro de energía
+                         HE 1. Condiciones para el control de la demanda energética
+       f)       las características técnicas mínimas que deben reunir los productos que se incorporen a las obras y
+                sean relevantes para el comportamiento energético;
+       g)       en edificios nuevos de   uso residencial privado, la relación del cambio de aire         con una presión
+                diferencial de 50 Pa (n₅₀);
+       h)       la verificación del cumplimiento de la exigencia de limitación de condensaciones.
+2       La caracterización de los cerramientos opacos incluirá:
+        a)      las características geométricas y constructivas;
+        b)      las condiciones de contorno (contacto con el aire, el terreno, o         adiabático) y el espacio al que
+                pertenecen;
+        c)      los parámetros que describan adecuadamente sus prestaciones térmicas, pudiendo emplear una
+                descripción simplificada mediante agregación de capas paralelas y homogéneas que presente un
+                comportamiento térmico equivalente donde:
+                 i) las capas con masa térmica      apreciable se caracterizan mediante su espesor, densidad,
+                 conductividad y calor específico y,
+                 ii) las capas sin masa térmica significativa (cámaras de aire, membranas, etc) se caracterizan por
+                 la resistencia total de la capa y su espesor.
+3       La caracterización de los huecos incluirá:
+         a)     las características geométricas y constructivas;
+         b)     el espacio al que pertenecen;
+         c)     la descripción y caracterización de las protecciones solares, sean fijas o móviles, y otros elementos
+                que puedan producir sombras o disminuir la captación solar de los huecos;
+         d)     la superficie y la transmitancia térmica del vidrio y del marco, así como la del conjunto del hueco;
+         e)     el factor solar del vidrio, salvo en el caso de puertas con superficie semitransparente inferior al 50%;
+         f)     la absortividad de la cara exterior del marco;
+         g)     la permeabilidad al aire.
+4       La caracterización de los puentes térmicos lineales incluirá:
+         a)     su tipo, descripción y localización;
+         b)     la transmitancia térmica lineal, obtenida en relación con los cerramientos contiguos;
+         c)     su longitud;
+         d)     el sistema dimensional utilizado cuando no se empleen dimensiones interiores, o pueda dar lugar a
+                dudas.
+
+5               Construcción, mantenimiento y conservación
+5.1             Características exigibles a los productos
+1       Los edificios se caracterizan térmicamente a través de las propiedades higrotérmicas de los productos
+        de construcción que componen su envolvente térmica.
+2       Los productos       para los cerramientos   se definen mediante su conductividad térmica       (W/m·K), su
+        emisividad  , si fuese particularmente relevante, y el factor de resistencia a la difusión del vapor de agua
+        μ. En su caso, además, cuando proceda, se podrá definir la densidad  (kg/m³) y el calor específico cₚ
+        (J/kg·K).
+3       Los productos para huecos (incluidas las puertas) se caracterizan mediante la transmitancia térmica U
+        (W/m²·K) y el factor solar g┴ para la parte semitransparente del hueco; por la transmitancia térmica U
+        (W/m2·K) y la absortividad α para los marcos de huecos (incluidas puertas); y por la transmitancia térmica
+        lineal Ψ (W/mK) para los espaciadores.
+4       Las carpinterías de los huecos se caracterizan, además, por la resistencia a la permeabilidad al aire en
+        m³/h·m² o bien su clase, según lo establecido en la norma UNE-EN 12207:2017.
+5       Los valores de diseño de las propiedades citadas deben obtenerse de valores declarados por el fabricante
+        para cada producto.
+
+                                                              19
+
+                                  Documento Básico HE Ahorro de energía
+                        HE 1. Condiciones para el control de la demanda energética
+6      El pliego de condiciones del proyecto debe incluir las características higrotérmicas de los productos
+       utilizados en la envolvente térmica del edificio. Deben incluirse en la memoria los cálculos justificativos
+       de dichos valores y consignarse éstos en el pliego.
+7      En todos los casos se utilizarán valores térmicos de diseño, los cuales se pueden calcular a partir de los
+       valores térmicos declarados según la norma UNE-EN ISO 10456:2012 y, complementariamente, la norma
+       UNE-EN ISO 13786:2017, en el caso de productos de alta inercia térmica. En general y salvo justificación,
+       los valores de diseño serán los definidos para una temperatura de 10ºC y un contenido de humedad
+       correspondiente al equilibrio con un ambiente a 23ºC y 50 % de humedad relativa.
+5.2           Características exigibles a los componentes de la envolvente térmica
+1      Las características exigibles a los cerramientos y particiones interiores son las expresadas mediante su
+       transmitancia térmica o, en componentes que no se describen adecuadamente a través de dicho
+       parámetro, su resistencia térmica R (K·m²/W).
+2      El cálculo de estos parámetros debe figurar en la memoria del proyecto. En el pliego de condiciones del
+       proyecto se deben consignar los valores y características exigibles a los         cerramientos y particiones
+       interiores, así como sus condiciones particulares de ejecución.
+5.3           Ejecución
+1      Las obras de construcción del edificio se ejecutarán con sujeción al proyecto y sus modificaciones
+       autorizadas por el director de obra previa conformidad del promotor, a la legislación aplicable, a las
+       normas de la buena práctica constructiva, y a las instrucciones del director de obra y del director de la
+       ejecución de la obra, conforme a lo indicado en el artículo 7 de la Parte I del CTE.
+5.4           Control de recepción en obra de productos
+1      En el pliego de condiciones del proyecto han de indicarse las condiciones particulares de control para la
+       recepción de los productos que forman los cerramientos y particiones interiores de la envolvente térmica,
+       incluyendo los ensayos necesarios para comprobar que los mismos reúnen las características exigidas
+       en los apartados anteriores.
+2      Debe comprobarse que los productos recibidos:
+       a)     corresponden a los especificados en el pliego de condiciones del proyecto;
+       b)     disponen de la documentación exigida;
+       c)     están caracterizados por las propiedades exigidas;
+       d)     han sido ensayados, cuando así se establezca en el pliego de condiciones o lo determine el director
+       de la ejecución de la obra con el visto bueno del director de obra, con la frecuencia establecida.
+3      El control debe seguir los criterios indicados en el artículo 7.2 de la Parte I del CTE.
+5.5           Control de la ejecución de la obra
+1      El control de la ejecución de las obras se realizará de acuerdo con las especificaciones del proyecto, sus
+       anexos y modificaciones autorizados por el director de obra y las instrucciones del director de la ejecución
+       de la obra, conforme a lo indicado en el artículo 7.3 de la Parte I del CTE y demás normativa vigente de
+       aplicación.
+2      Se comprobará que la ejecución de la obra se realiza de acuerdo con los controles y con la frecuencia
+       de los mismos establecida en el pliego de condiciones del proyecto.
+3      Cualquier  modificación que pueda  introducirse    durante la  ejecución de      la obra quedará  en      la
+       documentación de la obra ejecutada sin que en ningún caso dejen de cumplirse las condiciones mínimas
+       señaladas en este Documento Básico.
+4      En el Libro del Edificio se incluirá la documentación referente a las características de los productos,
+       equipos y sistemas incorporados a la obra.
+5.6           Control de la obra terminada
+1      El control de la obra terminada debe seguir los criterios indicados en el artículo 7.4 de la Parte I del CTE.
+2      En esta Sección del Documento Básico no se prescriben pruebas finales.
+
+                                                    20
+
+                                   Documento Básico HE Ahorro de energía
+                         HE 1. Condiciones para el control de la demanda energética
+5.7      Mantenimiento y conservación del edificio
+1     El plan de mantenimiento incluido en el Libro del Edificio, contemplará las operaciones y periodicidad
+      necesarias para  el mantenimiento,   en el transcurso  del tiempo,          de los parámetros de diseño y
+      prestaciones de la envolvente térmica.
+2     Así mismo, en el Libro del Edificio se documentará todas las intervenciones, ya sean de reparación,
+      reforma o rehabilitación realizadas a lo largo de la vida útil del edificio.
+
+                                                     21
+
+                                   Documento Básico HE Ahorro de energía
+                              HE 2. Condiciones de las instalaciones térmicas
+Sección HE 2
+Condiciones de las instalaciones térmicas
+
+Las instalaciones térmicas de las que dispongan los edificios serán apropiadas para lograr el bienestar térmico
+de sus ocupantes. Esta exigencia se desarrolla actualmente en el vigente      Reglamento de Instalaciones
+Térmicas en los Edificios (RITE), y su aplicación quedará definida en el proyecto del edificio.
+
+                                                     22
+
+                                   Documento Básico HE Ahorro de energía
+                           HE 3. Condiciones de las instalaciones de iluminación
+Sección HE 3
+Condiciones de las instalaciones de iluminación
+
+1             Ámbito de aplicación
+1     Esta sección es de aplicación a las instalaciones de iluminación interior en:
+       a) edificios de nueva construcción;
+       b) intervenciones en edificios existentes con:
+                renovación o ampliación de una parte de la instalación
+                cambio de uso característico del edificio.
+                cambios de actividad en una zona del edificio.
+2     Se excluyen del ámbito de aplicación:
+       a)     las instalaciones interiores de viviendas.
+       b)     las instalaciones de alumbrado de emergencia.
+       c)     los edificios protegidos oficialmente por ser parte de un entorno declarado o en razón de su particular
+              valor arquitectónico o histórico, en la medida en que el cumplimiento de determinadas exigencias
+              básicas de eficiencia energética pudiese alterar de manera inaceptable su carácter o aspecto, siendo
+              la autoridad que dicta la protección oficial quien determine los elementos inalterables;
+       d)     construcciones provisionales con un plazo previsto de utilización igual o inferior a dos años;
+       e)     edificios aislados con una superficie útil total inferior a 50 m².
+       f)     edificios industriales, de la defensa y agrícolas, o parte de los mismos, en la parte destinada a talleres
+              y procesos industriales, de la defensa y agrícolas no residenciales.
+3     En el caso de intervenciones en edificios existentes, se considerarán los siguientes criterios de aplicación:
+       a)     se aplicará esta sección a las instalaciones de iluminación interior de todo el edificio, en los siguientes
+              casos:
+                intervenciones en edificios existentes con una superficie útil total final (incluidas las partes
+                ampliadas, en su caso) superior a 1000 m², donde se renueve más del 25% de la superficie
+                iluminada.
+                cambios de uso característico.
+       b)     cuando se renueve o amplíe una parte de la instalación, se adecuará la parte de la instalación
+              renovada o ampliada para que se cumplan los valores de eficiencia energética límite en función de la
+              actividad.
+       c)     cuando la renovación afecte a zonas del edificio para las cuales se establezca la obligatoriedad de
+              sistemas de control o regulación, se dispondrá de estos sistemas.
+       d)     en cambios de actividad en una zona del edificio que impliquen un valor más bajo del          Valor de
+              Eficiencia Energética de la Instalación (VEEI) límite respecto al de la actividad inicial, se adecuará la
+              instalación de dicha zona.
+
+2             Caracterización de la exigencia
+1     Los edificios dispondrán de instalaciones de iluminación adecuadas a las necesidades de sus usuarios y
+      a la vez eficaces energéticamente disponiendo de un sistema de control que permita ajustar el encendido
+      a la ocupación real de la zona, así como de un sistema de regulación que optimice el aprovechamiento
+      de la luz natural, en las zonas que reúnan unas determinadas condiciones.
+
+                                                        23
+
+                                              Documento Básico HE Ahorro de energía
+                                      HE 3. Condiciones de las instalaciones de iluminación
+
+3         Cuantificación de la exigencia
+3.1       Eficiencia energética de la instalación de iluminación
+1      El valor de eficiencia energética de la instalación (VEEI) de la instalación de iluminación no superará el
+       valor límite (VEEIlim) establecido en la tabla 3.1-HE3:
+                    Tabla 3.1 - HE3      Valor límite de eficiencia energética de la instalación (VEEIlim)
+             Uso del recinto                                                                                 VEEI
+                                                                                                            límite
+             Administrativo en general                                                                       3,0
+             Andenes de estaciones de transporte                                                             3,0
+             Pabellones de exposición o ferias                                                               3,0
+             Salas de diagnóstico (1)                                                                        3,5
+             Aulas y laboratorios (2)                                                                        3,5
+             Habitaciones de hospital (3)                                                                    4,0
+             Recintos interiores no descritos en este listado                                                4,0
+             Zonas comunes (4)                                                                               4,0
+             Almacenes, archivos, salas técnicas y cocinas                                                   4,0
+             Aparcamientos                                                                                   4,0
+             Espacios deportivos (5)                                                                         4,0
+             Estaciones de transporte (6)                                                                    5,0
+             Supermercados, hipermercados y grandes almacenes                                                5,0
+             Bibliotecas, museos y galerías de arte                                                          5,0
+             Zonas comunes en edificios no residenciales                                                     6,0
+             Centros comerciales (excluidas tiendas) (7)                                                     6,0
+             Hostelería y restauración (8)                                                                   8,0
+             Religioso en general                                                                            8,0
+             Salones de actos, auditorios y salas de usos múltiples y convenciones, salas de                 8,0
+             ocio o espectáculo, salas de reuniones y salas de conferencias (9)
+             Tiendas y pequeño comercio (10)                                                                 8,0
+             Habitaciones de hoteles, hostales, etc.                                                         10,0
+             Locales con nivel de iluminación superior a 600lux                                              2,5
+(1)    Incluye la instalación de iluminación de salas de examen general, salas de emergencia, salas de escáner y radiología, salas de examen
+ocular y auditivo y salas de tratamiento. Sin embargo, quedan excluidos locales como las salas de operación, quirófanos, unidades de
+cuidados intensivos, dentista, salas de descontaminación, salas de autopsias y mortuorios y otras salas que por su actividad puedan
+considerarse como salas especiales.
+ (2)        Incluye la instalación de iluminación del aula y las pizarras de las aulas de enseñanza, aulas de práctica de ordenador, música,
+laboratorios de lenguaje, aulas de dibujo técnico, aulas de prácticas y laboratorios, manualidades, talleres de enseñanza y aulas de arte,
+aulas de preparación y talleres, aulas comunes de estudio y aulas de reunión, aulas clases nocturnas y educación de adultos, salas de
+lectura, guarderías, salas de juegos de guarderías y sala de manualidades.
+ (3)       Incluye la instalación de iluminación interior de la habitación y baño, formada por iluminación general, iluminación de lectura e
+iluminación para exámenes simples.
+(4)  Espacios utilizados por cualquier persona o usuario, como recibidor, vestíbulos, pasillos, escaleras, espacios de tránsito de personas,
+aseos públicos, etc.
+ (5)  Incluye las instalaciones de iluminación del terreno de juego y graderíos de espacios deportivos, tanto para actividades de
+entrenamiento y competición, pero no se incluye las instalaciones de iluminación necesarias para las retransmisiones televisadas.
+ Los graderíos serán asimilables a zonas comunes.
+(6) Espacios destinados al tránsito de viajeros como recibidor de terminales, salas de llegadas y salidas de pasajeros, salas de recogida
+de equipajes, áreas de conexión, de ascensores, áreas de mostradores de taquillas, facturación e información, áreas de espera, salas
+de consigna, etc.
+(7) Incluye los espacios de recibidor, recepción, pasillos, escaleras, vestuarios y aseos de los centros comerciales.
+(8) Incluye los espacios destinados a las actividades propias del servicio al público como recibidor, recepción, restaurante, bar, comedor,
+autoservicio, pasillos, escaleras, vestuarios, servicios, aseos, etc.
+(9) En el caso de cines, teatros, salas de conciertos, etc. se excluye la iluminación con fines de espectáculo, incluyendo la representación
+y el escenario.
+
+                                                                     24
+
+                                   Documento Básico HE Ahorro de energía
+                           HE 3. Condiciones de las instalaciones de iluminación
+(10) El término tienda se refiere tanto al pequeño comercio independiente como a la parte de uso comercial que no es de uso común en
+centros comerciales
+3.2     Potencia instalada
+1    La potencia total de lámparas y equipos auxiliares por superficie iluminada (PTOT / STOT) no superará el
+     valor máximo establecido en la Tabla 3.2-HE3
+                    Tabla 3.2 - HE3 Potencia máxima por superficie iluminada (PTOT,lim/STOT)
+
+                       Uso                   E                   Potencia máxima a instalar
+                                  Iluminancia media en el                  (W/m²)
+                                   plano horizontal (lux)
+                   Aparcamiento                                              5
+                                           ≤ 600                             10
+                   Otros usos
+                                           > 600                             25
+3.3     Sistemas de control y regulación
+1     Las instalaciones de iluminación de cada zona dispondrán de un sistema de control y regulación que
+      incluya:
+       a) un sistema de encendido y apagado manual externo al cuadro eléctrico, y
+       b) un sistema de encendidos por horario centralizado en cada cuadro eléctrico.
+2     En zonas de uso esporádico (aseos, pasillos, escaleras, zonas de tránsito, aparcamientos, etc.) el
+      sistema del apartado b) se podrá sustituir por una de las dos siguientes opciones:
+         un control de encendido y apagado por sistema de detección de presencia temporizado, o
+         un sistema de temporización mediante pulsador     ~~temporizado~~  .
+3.4     Sistemas de aprovechamiento de la luz natural
+1     Se instalarán sistemas de aprovechamiento de la luz natural que regulen, automáticamente y de forma
+      proporcional al aporte de luz natural, el nivel de iluminación de las luminarias situadas a menos de 5
+      metros de una ventana y de las situadas bajo un lucernario, cuando se cumpla la expresión T(Aw / A) >
+      0,11 junto con alguna de las condiciones siguientes:
+       a) zonas con cerramientos acristalados al exterior donde el ángulo θ sea superior a 65 grados (θ > 65º):
+                           Edificio objeto
+                           Locales con aporte                    Edificio obstáculo de
+                           de luz natural                        luz natural
+
+                                                 Figura 3.4.a-HE3
+       b) zonas con cerramientos acristalados dando a patios o atrios descubiertos que tengan una anchura
+        superior a dos veces la distancia entre el suelo de la planta de la zona en estudio y la cubierta del
+        edificio: ai > 2 hi
+
+                                                    25
+
+                                                Documento Básico HE Ahorro de energía
+                                        HE 3. Condiciones de las instalaciones de iluminación
+                                       Edificio objeto
+                             h         Locales con aporte      à4
+                          h;           de luz natural          a3
+                      hz
+                   h1                                                                                               a2
+
+                                                                                                                    a1
+                                                             Patio interior
+                                               Figura 3.4.b-HE3
+      c) zonas con cerramientos acristalados a patios o atrios cubiertos por acristalamientos donde la anchura
+        del atrio en esa zona sea superior a 2/Tc veces la distancia Hi (ai > 2·hi / Tc):
+
+                                 ha     Locales con aporte       44
+                                hz      de luz natural         a3
+                          hz
+                         h1                                    à2
+
+                                                               91
+                                                                 Atrio
+                                               Figura 3.4.c-HE3
+      siendo:
+        T      el coeficiente de transmisión luminosa del vidrio de la ventana del local en tanto por uno;
+        Aw     elárea de acristalamiento de la ventana de la zona [m²];
+        A      el área total de las fachadas de la zona, con ventanas al exterior o al patio interior o al atrio [m²],
+               cuando se trate de zonas con cerramientos acristalados al exterior, o bien el área total de las
+               superficies interiores del local (suelo + techo + paredes + ventanas) [m²], cuando se trate de
+               zonas con cerramientos acristalados a patios o atrios;
+        θ      el ángulo desde el punto medio del acristalamiento hasta la cota máxima del edificio obstáculo
+               [grados sexagesimales];
+        ai     el ancho del patio o atrio a la altura de la zona [m];
+        hi     la distancia entre el suelo de la zona en estudio y la cubierta del edificio [m];
+        Tc     el coeficiente de transmisión luminosa del vidrio de cerramiento del patio, expresado en %.
+2     Las zonas comunes en edificios residenciales, las habitaciones de hospital, las habitaciones de hoteles,
+          hostales, etc., así como las tiendas y pequeño comercio están excluidas de la exigencia de incorporar
+      sistemas de aprovechamiento de la luz natural.
+
+4       Justificación de la exigencia
+1     Para justificar que un edificio cumple las exigencias de este DB, los documentos de proyecto incluirán la
+      siguiente información sobre el edificio o parte del edificio evaluada:
+     a)                                                           los valores, para las instalaciones de iluminación, de la potencia total instalada en los conjuntos de
+                                                               lámpara más equipo auxiliar (PTOT), la superficie total iluminada (STOT), y la potencia total instalada por
+        unidad de superficie iluminada (PTOT/STOT), así como los valores límite que sean de aplicación;
+     b)                                                           los valores, para cada zona iluminada, el factor de mantenimiento (Fₘ) previsto, la iluminancia media
+                                                                     horizontal mantenida (Eₘ) obtenida, el índice de deslumbramiento unificado (UGR) alcanzado, los
+                                                                  índices de rendimiento de color (Rₐ) de las lámparas seleccionadas, el valor de eficiencia energética
+                                                                  de la instalación (VEEI) resultante en el cálculo, las potencias de los conjuntos de lámpara y equipo
+                                                             26
+
+                                   Documento Básico HE Ahorro de energía
+                           HE 3. Condiciones de las instalaciones de iluminación
+            auxiliar (P), la eficiencia de las lámparas utilizadas (en términos de l ~~u~~  m/W), así como los valores límite
+            que sean de aplicación a cada uno de ellos;
+     c)     el sistema de control y regulación que corresponda a cada zona iluminada.
+
+5    Construcción, mantenimiento y conservación
+5.1         Ejecución
+1     Las obras de construcción del edificio se ejecutarán con sujeción al proyecto y sus modificaciones
+      autorizadas por el director de obra previa conformidad del promotor, a la legislación aplicable, a las
+      normas de la buena práctica constructiva y a las instrucciones del director de obra y del director de la
+      ejecución de la obra, conforme a lo indicado en el artículo 7 de la Parte I del CTE.
+5.2         Control de la ejecución de la obra
+1     El control de la ejecución de las obras se realizará de acuerdo con las especificaciones del proyecto, sus
+      anexos y modificaciones autorizados por el director de obra y las instrucciones del director de la ejecución
+      de la obra, conforme a lo indicado en el artículo 7.3 de la Parte I del CTE y demás normativa vigente de
+      aplicación.
+2     Se comprobará que la ejecución de la obra se realiza de acuerdo con los controles y con la frecuencia
+      de los mismos establecida en el pliego de condiciones del proyecto.
+3     Cualquier  modificación que  pueda   introducirse  durante la ejecución               de la obra quedará en la
+      documentación de la obra ejecutada sin que en ningún caso dejen de cumplirse las condiciones mínimas
+      señaladas en este Documento Básico.
+4     En el Libro del Edificio se incluirá la documentación referente a las características de         los productos,
+      equipos y sistemas incorporados a la obra.
+5.3         Control de la obra terminada
+1     El control de la obra terminada debe seguir los criterios indicados en el artículo 7.4 de la Parte I del CTE.
+2     En esta Sección del Documento Básico no se prescriben pruebas finales.
+5.4         Mantenimiento y conservación del edificio
+1     El plan de mantenimiento incluido en el Libro del Edificio, contemplará las operaciones y periodicidad
+      necesarias para  el mantenimiento,   en el transcurso  del tiempo,            de      los parámetros de diseño y
+      prestaciones de las instalaciones de iluminación.
+2     Así mismo, en el Libro del Edificio se documentará todas las intervenciones, ya sean de reparación,
+      reforma o rehabilitación realizadas a lo largo de la vida útil del edificio.
+
+                                                       27
+
+                                              Documento Básico HE Ahorro de energía
+                 HE 4. Contribución mínima de energía renovable para cubrir la demanda de agua caliente sanitaria
+Sección HE 4
+Contribución mínima de energía renovable para cubrir la
+demanda de agua caliente sanitaria
+
+1                Ámbito de aplicación
+1      Las condiciones establecidas en este apartado son de aplicación a:
+                  a) edificios de nueva construcción con una demanda de agua caliente sanitaria (ACS) superior a 100 l/d,
+                calculada de acuerdo al Anejo F.
+                 b) edificios existentes con una demanda de agua caliente sanitaria (ACS) superior a 100 l/d, calculada de
+                acuerdo al Anejo F, en los que se reforme íntegramente, bien el edificio en sí, o bien la instalación de
+                generación térmica, o en los que se produzca un cambio de uso característico del mismo.
+                    c) ampliaciones o intervenciones, no cubiertas en el punto anterior, en edificios existentes con una
+                demanda inicial de ACS superior a 5.000 l/día, que supongan un incremento superior al 50% de la
+                demanda inicial;
+                  d) climatizaciones de: piscinas cubiertas nuevas, piscinas cubiertas existentes en las que se renueve la
+                instalación de generación térmica o piscinas descubiertas existentes que pasen a ser cubiertas.
+
+2                Caracterización de la exigencia
+1                   Los edificios satisfarán sus necesidades de ACS y de calentamiento de agua para la climatización de
+                      piscina cubierta empleando en gran medida energía procedente de fuentes renovables o procesos de
+                  cogeneración renovables; bien generada en el propio edificio o bien a través de la conexión a un sistema
+       urbano de calefacción.
+
+3                Cuantificación de la exigencia
+3.1              Contribución renovable mínima para ACS y/o climatización de piscina
+1                     La contribución mínima de energía procedente de fuentes renovables cubrirá al menos el 70% de la
+                    demanda energética anual para ACS y para climatización de piscina, obtenida a partir de los valores
+        mensuales, e incluyendo las pérdidas térmicas por distribución, acumulación y recirculación.           Esta
+        contribución mínima podrá reducirse al 60% cuando la demanda de ACS sea inferior a 5000 l/d.
+                  Se considerará únicamente la aportación renovable de la energía con origen in situ o en las proximidades
+        del edificio, o procedente de biomasa sólida.
+2                  En el caso de ampliaciones e intervenciones en edificios existentes, contemplados en el punto 1 c) del
+                   ámbito de aplicación, la contribución renovable mínima se establece sobre el incremento de la demanda
+       de ACS respecto a la demanda inicial.
+3                    Las fuentes renovables que satisfagan la contribución renovable mínima de ACS y/o climatización de
+                 piscina, pueden estar integradas en la propia generación térmica del edificio o ser accesibles a través de
+       la conexión a un sistema urbano de calefacción.
+4                      Las bombas de calor destinadas a la producción de ACS y/o climatización de piscina, para poder
+                      considerar su contribución renovable a efectos de esta sección, deberán disponer de un valor de
+                    rendimiento medio estacional (SCOPdhw) igual o superior a 2,5 cuando sean accionadas eléctricamente
+        ~~y~~   e igual o superior a 1,15 cuando sean accionadas mediante energía térmica. El valor de SCOPdhw se
+       determinará para la temperatura de preparación del ACS, que no será inferior a 45ºC
+                                                      28
+
+                                            Documento Básico HE Ahorro de energía
+               HE 4. Contribución mínima de energía renovable para cubrir la demanda de agua caliente sanitaria
+5       La contribución renovable mínima para ACS y/o climatización de piscinas cubiertas podrá sustituirse
+        parcial o totalmente por energía residual procedente equipos de refrigeración, de deshumectadoras y del
+        calor residual de combustión del motor de bombas de calor accionadas térmicamente, siempre y cuando
+        el aprovechamiento de esta energía residual sea efectiva y útil para el ACS. Únicamente se tomará en
+        consideración la energía obtenida por la instalación de recuperadores de calor ajenos a la propia
+        instalación térmica del edificio. En el caso de recuperación de energía residual procedente de equipos de
+        refrigeración en edificios de uso residencial ~~es~~   privado, no se podrá contabilizar un aprovechamiento de
+        energía superior al 20% de la extraída.
+3.2            Sistema de medida de energía suministrada
+1       Los sistemas de medida de la energía suministrada procedente de fuentes renovables se adecuarán al
+        vigente Reglamento de Instalaciones Térmicas en los Edificios (RITE).
+
+4              Justificación de la exigencia
+Para justificar que un edificio cumple las exigencias de este DB, los documentos de proyecto incluirán la
+siguiente información sobre el edificio o parte del edificio evaluada:
+       a)     la demanda mensual de agua caliente sanitaria (ACS) y de climatización de piscina, incluyendo las
+              pérdidas térmicas por distribución, acumulación y recirculación.
+       b)     la contribución renovable aportada para          satisfacer las necesidades de energía para ACS      y
+              climatización de piscina.
+       c)     la contribución de la energía residual aportada, en su caso, para el ACS;
+       d)     comprobación de que la contribución renovable para las necesidades de ACS utilizada cubre la
+              contribución obligatoria.
+
+5              Construcción, mantenimiento y conservación
+5.1            Ejecución
+1       Las obras de construcción del edificio se ejecutarán con sujeción al proyecto y sus modificaciones
+        autorizadas por el director de obra previa conformidad del promotor, a la legislación aplicable, a las
+        normas de la buena práctica constructiva y a las instrucciones del director de obra y del director de la
+        ejecución de la obra, conforme a lo indicado en el artículo 7 de la Parte I del CTE.
+5.2            Control de la ejecución de la obra
+1       El control de la ejecución de las obras se realizará de acuerdo con las especificaciones del proyecto, sus
+        anexos y modificaciones autorizados por el director de obra y las instrucciones del director de la ejecución
+        de la obra, conforme a lo indicado en el artículo 7.3 de la Parte I del CTE y demás normativa vigente de
+        aplicación.
+2       Se comprobará que la ejecución de la obra se realiza de acuerdo con los controles y con la frecuencia
+        de los mismos establecida en el pliego de condiciones del proyecto.
+3       Cualquier  modificación que     pueda introducirse       durante  la  ejecución de la obra quedará en     la
+        documentación de la obra ejecutada sin que en ningún caso dejen de cumplirse las condiciones mínimas
+        señaladas en este Documento Básico.
+4       En el Libro del Edificio se incluirá la documentación referente a las características de los productos,
+        equipos y sistemas incorporados a la obra.
+5.3            Control de la obra terminada
+1       El control de la obra terminada debe seguir los criterios indicados en el artículo 7.4 de la Parte I del CTE.
+2       En esta Sección del Documento Básico no se prescriben pruebas finales.
+
+                                                               29
+
+                                   Documento Básico HE Ahorro de energía
+      HE 4. Contribución mínima de energía renovable para cubrir la demanda de agua caliente sanitaria
+5.4      Mantenimiento y conservación del edificio
+1     El plan de mantenimiento incluido en el Libro del Edificio, contemplará las operaciones y periodicidad
+      necesarias para  el mantenimiento,   en el transcurso  del tiempo,          de los parámetros de diseño y
+      prestaciones de las instalaciones de aprovechamiento de energía procedente de fuentes renovables.
+2     Así mismo, en el Libro del Edificio se documentará todas las intervenciones, ya sean de reparación,
+      reforma o rehabilitación realizadas a lo largo de la vida útil del edificio.
+
+                                                     30
+
+                                               Documento Básico HE Ahorro de energía
+                           HE 5. Generación mínima de energía eléctrica procedente de fuentes renovables
+Sección HE 5
+Generación mínima de energía eléctrica procedente de fuentes
+renovables
+
+1               Ámbito de aplicación
+1           Esta sección es de aplicación       ~~a edificios con uso distinto al residencial privado~~   en los siguientes casos:
+             a) edificios de nueva construcción cuando superen los 1.000 m² construidos
+             b) ampliaciones de edificios existentes cuando se incremente la superficie construida en más de          ~~3~~  1.000
+                m²
+             c) edificios existentes que se reformen íntegramente, o en los que se produzca un cambio de uso
+                característico del mismo, cuando se superen los        ~~3~~  1.000 m² de superficie construida;
+            Se considerará que la superficie construida incluye la superficie de las zonas destinadas a aparcamiento
+            en el interior del edificio     ~~la superficie de aparcamiento~~    ~~subterráneo~~    ~~(si existe)~~   y excluye las zonas
+            exteriores comunes.
+                           .
+ ~~2~~        ~~En aquellos edificios en los que por razones urbanísticas o arquitectónicas, o porque se trate de~~  
+              ~~edificios protegidos oficialmente, siendo la autoridad que dicta la protección oficial quien determina los~~  
+              ~~elementos inalterables, no se pueda instalar toda la potencia exigida, se deberá justificar esta~~  
+              ~~imposibilidad analizando las distintas alternativas y se adoptará la solución que más se aproxime a las~~  
+              ~~condiciones de máxima producción.~~  
+
+2               Caracterización de la exigencia
+1            ~~En los edificios que así se establezca en esta sección se incorporarán~~            Los edificios      dispondrán de
+            sistemas de generación de energía eléctrica procedente de fuentes renovables para uso propio o
+            suministro a la red.
+
+3               Cuantificación de la exigencia
+1           La potencia a instalar mínima Pmin será la menor de las resultantes de estas dos expresiones               ~~se obtendrá~~  
+             ~~a partir de la siguiente expresión~~  :
+             ~~Pmin = 0,01 · S~~  
+             ~~Sin superar el valor de la siguiente expresión:~~  
+             ~~Plim = 0,05 · SC~~  
+            P₁ = Fpr;el · S
+            P₂=0,1 ·(0,5·Sc - Soc)
+            donde,
+                Pmin ,     ~~Plim~~        potencia a instalar [kW];
+                Fpr;el     factor de producción eléctrica, que toma valor de 0,005 para uso residencial privado y 0,010
+                           para el resto de usos [kW/m²];
+                S          superficie construida del edificio [m²];
+                Sc         superficie       ~~construida~~   de cubierta no transitable o accesible únicamente para conservación  ~~del~~  
+                            ~~edificio~~   [m²]
+
+                                                                    31
+
+                                           Documento Básico HE Ahorro de energía
+                       HE 5. Generación mínima de energía eléctrica procedente de fuentes renovables
+               Soc     superficie de cubierta no transitable o accesible únicamente para conservación ocupada por
+                       captadores solares térmicos [m²]
+2       ~~La potencia obligatoria a instalar, en todo caso, no será inferior a 30 kW ni superará los 100 kW .~~   En
+       aquellos edificios en los que, por razones urbanísticas o arquitectónicas o porque se trate de edificios
+       protegidos oficialmente, siendo la autoridad que dicta la protección oficial quien determina los elementos
+       inalterables, no se pueda alcanzar la potencia a instalar mínima, se deberá justificar esta imposibilidad,
+       analizando las distintas alternativas, y se adoptará la solución que alcance la máxima potencia instalada
+       posible.
+4             Justificación de la exigencia
+Para justificar que un edificio cumple las exigencias de este DB, los documentos de proyecto incluirán la
+siguiente información sobre el edificio o parte del edificio evaluada:
+       a)      la potencia de generación eléctrica alcanzada;
+       b)      potencia a instalar mínima exigible;
+       c)     en su caso, razones que impiden alcanzar la potencia a instalar mínima exigible, análisis de las
+              alternativas y solución adoptada para alcanzar la máxima potencia instalada posible.
+
+5             Construcción, mantenimiento y conservación
+5.1           Ejecución
+1      Las obras de construcción del edificio se ejecutarán con sujeción al proyecto y sus modificaciones
+       autorizadas por el director de obra previa conformidad del promotor, a la legislación aplicable, a las
+       normas de la buena práctica constructiva y a las instrucciones del director de obra y del director de la
+       ejecución de la obra, conforme a lo indicado en el artículo 7 de la Parte I del CTE.
+5.2           Control de la ejecución de la obra
+1      El control de la ejecución de las obras se realizará de acuerdo con las especificaciones del proyecto, sus
+       anexos y modificaciones autorizados por el director de obra y las instrucciones del director de la ejecución
+       de la obra, conforme a lo indicado en el artículo 7.3 de la Parte I del CTE y demás normativa vigente de
+       aplicación.
+2      Se comprobará que la ejecución de la obra se realiza de acuerdo con los controles y con la frecuencia
+       de los mismos establecida en el pliego de condiciones del proyecto.
+3      Cualquier      modificación que pueda introducirse    durante la ejecución  de la   obra   quedará en     la
+       documentación de la obra ejecutada sin que en ningún caso dejen de cumplirse las condiciones mínimas
+       señaladas en este Documento Básico.
+4      En el Libro del Edificio se incluirá la documentación referente a las características de los productos,
+       equipos y sistemas incorporados a la obra.
+5.3           Control de la obra terminada
+1      El control de la obra terminada debe seguir los criterios indicados en el artículo 7.4 de la Parte I del CTE.
+2      En esta Sección del Documento Básico no se prescriben pruebas finales.
+5.4           Mantenimiento y conservación del edificio
+1      El plan de mantenimiento incluido en el Libro del Edificio, contemplará las operaciones y periodicidad
+       necesarias      para el mantenimiento, en   el  transcurso del tiempo,      de los parámetros de diseño    y
+       prestaciones de las instalaciones de generación eléctrica procedente de fuentes renovables.
+2      Así mismo, en el Libro del Edificio se documentará todas las intervenciones, ya sean de reparación,
+       reforma o rehabilitación realizadas a lo largo de la vida útil del edificio.
+
+                                                       32
+
+                                            Documento Básico HE Ahorro de energía
+                     HE 6. Dotaciones mínimas para la infraestructura de recarga de vehículos eléctricos
+Sección HE 6
+Dotaciones mínimas para la infraestructura de recarga de
+vehículos eléctricos
+
+1           Ámbito de aplicación
+1     Las condiciones establecidas en este apartado son de aplicación a edificios que cuenten con una zona
+      destinada a aparcamiento, ya sea interior o exterior adscrita al edificio, en los siguientes supuestos:
+       a)   edificios de nueva construcción;
+       b)   edificios existentes, en los siguientes casos:
+             cambios de uso característico del edificio;
+             ampliaciones, en aquellos casos en los que se incluyan intervenciones en el aparcamiento y se
+                     incremente más de un 10% la superficie o el volumen construido de la unidad o unidades de uso
+                     sobre las que se intervenga, siendo, además, la superficie útil ampliada superior a 50 m²;
+             ~~~~    reformas que incluyan intervenciones en el aparcamiento y en las que se renueve más del 25%
+                     de la superficie total de la envolvente térmica final del edificio.
+             intervenciones en la instalación eléctrica del edificio que afecten a más del 50% de la potencia
+                     instalada en el edificio antes de la intervención, para aquellos casos en los que el aparcamiento
+                     se sitúe en el interior de la edificación, siempre que exista un derecho para actuar en el
+                     aparcamiento por parte del promotor que realiza dicha intervención;
+             intervenciones en la instalación eléctrica del aparcamiento que afecten a más del 50% de la
+                     potencia instalada en el mismo antes de la intervención;
+2     Se excluyen del ámbito de aplicación:
+     a)     los edificios de uso distinto del residencial privado con una zona de uso aparcamiento de 10 plazas o
+            menos;
+     b)     los edificios existentes de uso distinto al residencial privado con una zona destinada a aparcamiento
+            de 20 plazas o menos y los edificios existentes de uso residencial privado, cuando, en ambos casos,
+            el coste derivado del cumplimiento de este apartado exceda del 7% del coste de la intervención de
+            ampliación, cambio de uso o reforma que genera la obligación de cumplimiento. Para la determinación
+            del coste de las intervenciones anteriormente referidas se considerará      su coste real y efectivo,
+            entendiendo como tal, su coste de ejecución material;
+     c)     los edificios protegidos oficialmente por ser parte de un entorno declarado o en razón de su particular
+            valor arquitectónico o histórico, en la medida en que el cumplimiento de las exigencias establecidas
+            en esta sección pudiese alterar de manera inaceptable su carácter o aspecto, siendo la autoridad que
+            dicta la protección oficial quien determine los elementos inalterables.
+
+2           Caracterización de la exigencia
+1     Los edificios dispondrán de una infraestructura mínima que posibilite la recarga de vehículos eléctricos.
+      Esta          infraestructura de recarga de vehículos eléctricos cumplirá         con lo dispuesto en el vigente
+      Reglamento electrotécnico de baja tensión y en su Instrucción Técnica Complementaria (ITC) BT 52
+      "Instalaciones con fines especiales. Infraestructura para la recarga de vehículos eléctricos”.
+
+                                                            33
+
+                                      Documento Básico HE Ahorro de energía
+               HE 6. Dotaciones mínimas para la infraestructura de recarga de vehículos eléctricos
+3              Cuantificación de la exigencia
+1       En los edificios de uso residencial privado se instalarán sistemas de conducción de cables que permitan
+        el futuro suministro a estaciones de recarga para el 100% de las plazas de aparcamiento.
+2       En los edificios de uso distinto al residencial privado se instalarán sistemas de conducción de cables que
+        permitan el futuro suministro a estaciones de recarga para al menos el 20% de las plazas de aparcamiento.
+        Además, se instalará una estación de recarga por cada 40 plazas de aparcamiento, o fracción.
+        En los edificios de uso distinto al residencial privado que sean titularidad de la Administración General
+        del Estado o de los organismos públicos vinculados a ella o dependientes de la misma, la dotación será
+        mayor que la establecida con carácter general, debiéndose instalar     una estación de recarga por cada
+        20 plazas de aparcamiento, o fracción.
+        En caso de que los aparcamientos dispongan de plazas de aparcamiento accesibles, según se
+        establece en el DB SUA, se instalará una estación de recarga por cada 5 plazas de aparcamiento
+        accesibles. Las estaciones de recarga de estas plazas se computarán a efectos de cumplimiento de la
+        cuantificación de la exigencia.
+3       En los edificios que tengan unidades de uso residencial privado junto a otras de distinto uso, en los que
+        las zonas de aparcamiento vinculadas a cada uso no estén claramente diferenciadas, se aplicará el
+        criterio correspondiente al uso característico del edificio.
+
+4              Justificación de la exigencia
+1        Para justificar que un edificio cumple las exigencias de este DB, los documentos de proyecto incluirán la
+         siguiente información sobre el edificio o parte del edificio evaluada:
+       a)     esquema de conexión utilizado para  el dimensionado,    según    los descritos en el Reglamento
+              electrotécnico de baja tensión;
+       b)     descripción de la conducción principal y las canalizaciones dispuestas, indicando el porcentaje de
+              plazas de aparcamiento que cuentan con sistemas de conducción de cables y el porcentaje mínimo
+              exigido;
+       c)     número de estaciones de recarga instaladas y número mínimo resultante de la cuantificación de la
+              exigencia.
+       d)     tipos de estaciones de recarga y potencia de las mismas.
+
+5              Construcción, mantenimiento y conservación
+5.1            Ejecución
+1       Las obras de construcción del edificio se ejecutarán con sujeción al          proyecto y sus modificaciones
+        autorizadas por el director de obra previa conformidad del promotor, a la legislación aplicable, a lo
+        especificado    en el  Reglamento    electrotécnico de      baja tensión y en su Instrucción Técnica
+        Complementaria ITC BT-52 "Instalaciones con fines especiales. Infraestructura para la recarga de
+        vehículos eléctricos”, a las normas de la buena práctica constructiva y a las instrucciones del director de
+        obra y del director de la ejecución de la obra, conforme a lo indicado en el artículo 7 de la Parte I del CTE.
+5.2            Control de la ejecución de la obra
+1       El control de la ejecución de la obra se realizará de acuerdo con las especificaciones del proyecto, sus
+        anexos y modificaciones autorizados por el director de obra y las instrucciones del director de la ejecución
+        de la obra, siguiendo lo especificado en el Reglamento electrotécnico de baja tensión, conforme a lo
+        indicado en el artículo 7.3 de la Parte I del CTE y demás normativa vigente de aplicación.
+2       Se comprobará que la ejecución de la obra se realiza de acuerdo con los controles y con la frecuencia
+        de los mismos establecida en el pliego de condiciones del proyecto.
+3       Cualquier     modificación que pueda introducirse   durante   la ejecución de la obra quedará en         la
+        documentación de la obra ejecutada sin que en ningún caso dejen de cumplirse las condiciones mínimas
+        señaladas en este Documento Básico.
+4       En el Libro del Edificio se incluirá la documentación referente a las características de los productos,
+        equipos y sistemas incorporados a la obra.
+                                                    34
+
+                                   Documento Básico HE Ahorro de energía
+            HE 6. Dotaciones mínimas para la infraestructura de recarga de vehículos eléctricos
+5.3      Control de la obra terminada
+1     El control de la obra terminada debe seguir los criterios indicados en el artículo 7.4 de la Parte I del CTE.
+2     En esta Sección del Documento Básico no se prescriben pruebas finales.
+5.4      Mantenimiento y conservación del edificio
+1     El plan de mantenimiento incluido en el Libro del Edificio, contemplará las operaciones y periodicidad
+      necesarias para  el mantenimiento,   en el transcurso  del tiempo,          de los parámetros de diseño y
+      prestaciones de la infraestructura de recarga de vehículos eléctricos.
+2     Así mismo, en el Libro del Edificio se documentará todas las intervenciones, ya sean de reparación,
+      reforma o rehabilitación realizadas a lo largo de la vida útil del edificio.
+
+                                                     35
+
+                                   Documento Básico HE Ahorro de energía
+                                           Anejo A. Terminología
+
+Anejo A         Terminología
+Absortividad (α): fracción de la radiación solar incidente a una superficie que es absorbida por la misma.
+Puede tomar valores de 0,0 (0% de radiación absorbida) hasta 1,0 (100% de radiación absorbida).
+Adiabático: ver Cerramiento adiabático.
+Bienestar térmico: Condiciones interiores de temperatura, humedad y velocidad del aire establecidas
+reglamentariamente que se considera producen una sensación de bienestar adecuada y suficiente a sus
+ocupantes.
+Carga interna: conjunto de solicitaciones generadas en el interior del edificio, debidas, fundamentalmente, a
+los aportes de energía de las fuentes internas (ocupantes, equipos eléctricos, iluminación, etc.). Se expresa
+en W/m².
+La carga interna media (CFI) cuantifica la carga interna del edificio o zona del edificio a lo largo de una semana
+tipo. De acuerdo a ella puede clasificarse un espacio, una zona o el conjunto del edificio siguiendo la tabla a-
+Anejo A:
+                                  Tabla a-Anejo A. Nivel de carga interna
+                             Nivel de carga interna     Carga interna media,
+                                                              CFI [W/m²]
+                            Baja                              CFI < 6
+                            Media                           6 ≤ CFI < 9
+                            Alta                            9 ≤ CFI < 12
+                            Muy alta                          12 ≤ CFI
+Carga interna media (CFI): carga media horaria de una semana tipo, repercutida por unidad de superficie del
+edificio o zona del edificio, teniendo en cuenta la carga sensible debida a la ocupación, la carga debida a
+iluminación y la carga debida a los equipos:
+        CFI = ΣCoc / (7·24) + ΣCil / (7·24) + ΣCeq / (7·24)
+        ΣCoc = suma de las cargas sensibles nominales por ocupación [W/m²], por hora y a lo largo de una semana tipo
+        ΣCil = suma de las cargas nominales por iluminación [W/m²], por hora y a lo largo de una semana tipo
+        ΣCeq = suma de las cargas nominales de equipos [W/m²], por hora y a lo largo de una semana tipo
+La carga interna media (CFI) del edificio se obtiene ponderando por la superficie útil la carga interna media de
+cada espacio. Se expresa en W/m².
+Cerramiento: elemento constructivo del edificio que lo separa del exterior, ya sea aire, terreno u otros edificios.
+Comprende las cubiertas, suelos, huecos, fachadas/muros y medianeras.
+En la intervención en edificios existentes, cuando un elemento de cerramiento separe una zona ampliada
+respecto a otra existente, se considerará perteneciente a la zona ampliada
+Cerramiento adiabático: cerramiento a través del cual se considera que no se produce intercambio de calor.
+Clima de referencia: clima normalizado que define los parámetros climáticos (temperatura, radiación solar…)
+representativos de una zona climática concreta para el cálculo de la demanda. Permite estandarizar las
+solicitaciones exteriores.
+Coeficiente de transmisión luminosa del vidrio (T): porcentaje de luz natural en su espectro visible que
+deja pasar un vidrio. Se expresa en tanto por uno (fracción) o tanto por ciento (%).
+Coeficiente global de transmisión de calor (a través de la envolvente térmica del edificio) (K): Valor
+medio del coeficiente de transmisión de calor para la superficie de intercambio térmico de la envolvente (Aint).
+Se expresa en W/m²·K:
+        K= Σₓ Hₓ / Aint
+donde:
+
+                                                     36
+
+                                   Documento Básico HE Ahorro de energía
+                                           Anejo A. Terminología
+        Hₓ        corresponde al coeficiente de transferencia         de calor del elemento x perteneciente a la
+                  envolvente térmica (incluyendo sus puentes térmicos). Se incluyen aquellos    elementos en
+                  contacto con el terreno, con el ambiente exterior, y se excluyen aquellos en contacto con otros
+                  edificios u otros espacios adyacentes;
+        Aint      es el área de intercambio de la envolvente térmica      obtenida como suma de los distintos
+                  componentes considerados en la transmisión de calor. Excluye, por tanto, las áreas de
+                  elementos de la envolvente térmica en contacto con edificios o espacios adyacentes exteriores
+                  a la envolvente térmica.
+De forma simplificada, puede calcularse este parámetro a partir de las transmitancias térmicas y superficies
+de los elementos de la envolvente térmica y de un factor de ajuste:
+        K= Σₓ     btr,x [ Σi Ax,i Ux,i + Σₖ lx,k  ψx,k + Σj xx,j ] /  Σₓ Σi btr,x Ax,i
+donde:
+        btr,x     es el factor de ajuste para los elementos de la envolvente. Su valor es 1 excepto para elementos
+                  en contacto con edificios o espacios adyacentes exteriores a la envolvente térmica, donde toma
+                  el valor 0;
+        Ax,i      es el área de intercambio del elemento de la envolvente térmica considerado;
+        Ux,i      es el valor de la transmitancia térmica del elemento de la envolvente térmica considerado;
+        lx,k      es la longitud del puente térmico considerado;
+        ψx,k      es el valor de la transmitancia térmica lineal del puente térmico considerado;
+        xx,j      es la transmitancia puntual del puente térmico considerado.
+En el cálculo simplificado no se considera la transmitancia y superficie de las soluciones constructivas
+diseñadas para reducir las necesidades energéticas (invernaderos adosados, muros parietodinámicos, muros
+Trombe, etc).
+Compacidad (V/A): Relación entre el volumen encerrado por la envolvente térmica (V) del edificio (o parte
+del edificio) y la suma de las superficies de intercambio térmico con el aire exterior o el terreno de dicha
+envolvente térmica (A = ΣAi). Se expresa en m³/m².
+Por tanto, para el cálculo de la compacidad, se excluye el cómputo del área de los cerramientos y de las
+particiones interiores en contacto con otros edificios o con espacios adyacentes exteriores a la envolvente
+térmica.
+Condiciones operacionales: conjunto de temperaturas de consigna definidas para un espacio habitable
+acondicionado. Está compuesto por un conjunto de temperaturas de consigna, que definen la temperatura de
+activación de los equipos de calefacción (consigna baja) y de refrigeración (consigna alta). Las condiciones
+operacionales para espacios de uso residencial privado serán las especificadas en el Anejo D.
+Consumo (energético): energía que es necesario suministrar a los sistemas (existentes o supuestos) para
+atender los servicios de calefacción, refrigeración, ventilación, ACS, control de la humedad y, en edificios de
+uso distinto al residencial privado, de iluminación, del edificio, teniendo en cuenta la eficiencia de los sistemas
+empleados. Se expresa con unidades kW·h/m².año.
+Puede expresarse como consumo de energía final (por vector energético) o consumo de energía primaria y
+referirse al conjunto de los servicios (total) o a un servicio específico.
+Consumo de energía primaria no renovable (Cep,nren): parte no renovable de la energía primaria que es
+necesario suministrar a los sistemas. Se determina teniendo en cuenta el valor del coeficiente de paso del
+componente no renovable de cada vector energético.
+Consumo de energía primaria total (Cep,tot): valor global de la energía primaria que es necesario suministrar
+a los sistemas. Incluye tanto la energía suministrada y la producida in situ, como la extraída del medioambiente.
+Control solar (qsol;jul): Es la relación entre las ganancias solares para el mes de julio (Qsol;jul) de los huecos
+pertenecientes a la envolvente térmica con sus protecciones solares móviles activadas, y la superficie útil de
+los espacios habitables incluidos dentro de la envolvente térmica (Autil). Puede aplicarse al edificio o a parte
+del mismo.
+Para su cálculo de forma simplificada, se considera nula la energía reirradiada al cielo.
+                                                        37
+
+                                   Documento Básico HE Ahorro de energía
+                                           Anejo A. Terminología
+                       qsol;jul = Qsol;jul / Autil= (Σₖ Fsh;obst · ggl;sh;wi · (1 − FF ) · Aw;p · Hsol;jul) / Autil
+
+ donde:
+          Fsh;obst      es el factor reductor por sombreamiento por obstáculos externos (comprende todos los
+                        elementos exteriores al hueco como voladizos, aletas laterales, retranqueos, obstáculos
+                        remotos, etc.), para el mes de julio, del hueco k, y representa la reducción en irradiación
+                        solar incidente debida al sombreamiento permanente de dichos obstáculos.
+          ggl;sh;wi     es la transmitancia total de energía solar del acristalamiento con el dispositivo de sombra
+                        móvil activado, para el mes de julio y del hueco k;
+          FF            es la fracción de marco del hueco k (de forma simplificada puede adoptarse el valor de 0,25)
+          Aw;p         es la superficie (m²) del hueco k;
+          Hsol;jul      es la irradiación solar media acumulada del mes de julio (kWh/m²·mes) para el clima
+                        considerado y la inclinación y orientación del hueco k;
+          Autil         área considerada conforme a lo establecido en el apartado 4.6 del HE0
+Cubierta: cerramiento en contacto con el aire exterior o con el terreno por su cara superior y cuya inclinación
+es inferior a 60º respecto al plano horizontal.
+Demanda (energética): energía útil necesaria que tendrían que proporcionar los sistemas técnicos para
+mantener en el interior del edificio unas condiciones definidas reglamentariamente. Se puede dividir en
+demanda energética de calefacción, de refrigeración, de agua caliente sanitaria (ACS), de ventilación, de
+control de la humedad y de iluminación, y se expresa en kW·h/m².año.
+Edificio de consumo de energía casi nulo: edificio, nuevo o existente, que cumple con las exigencias
+reglamentarias establecidas en este Documento Básico “DB HE Ahorro de Energía” en lo referente a la
+limitación de consumo energético para edificios de nueva construcción.
+Eficacia luminosa: cociente entre el flujo luminoso emitido y la potencia eléctrica de la fuente. Se expresa en
+lm/W (lúmenes/vatio).
+Energía final: energía tal y como se utiliza en los puntos de consumo. Es la    ~~que compran los consumidores,~~  
+ ~~en forma de electricidad, carburantes u otros combustibles usados de forma directa~~       suministrada a los
+sistemas del           edificio para proveer los servicios; normalmente este suministro se realiza a través        de
+combustibles, generación in situ o redes específicas (electricidad, gas, calor o frío de distrito, etc).
+Según su origen de generación puede clasificarse la energía final en:
+    a)     in situ, que comprende aquella generada en el edificio o en la parcela de emplazamiento del edificio,
+           sea de tipo solar fotovoltaica, solar térmica, energía térmica extraída del ambiente, etc.;
+    b)     en las proximidades del edificio, que comprende aquella con procedencia local o en el distrito, como
+           la biomasa sólida, los sistemas urbanos de calefacción o refrigeración, la electricidad generada en las
+           proximidades del edificio, etc.;
+    c)     distante, que comprende el resto de orígenes, como en el caso de los combustibles fósiles o el de la
+           electricidad de red.
+Energía primaria: energía suministrada al edificio procedente de fuentes renovables y no renovables, que no
+ha sufrido ningún proceso previo de conversión o transformación. Es la energía contenida en los combustibles
+y otras fuentes de energía e incluye la energía necesaria para generar la energía final consumida, incluyendo
+las pérdidas por su transporte hasta el edificio, almacenamiento, etc.
+                   Energía primaria = Energía final + Pérdidas en transformación + Pérdidas en transporte
+                                   Pérdidas                                    Pérdidas
+                                                                           Sistemas técnicos
+                      ENERGIA    Procesos de:       ENERGIAS               Demanda de      ENERGIA
+                                 Transformación                             Calefacción
+                   PRIMARIA      Transporte         FINALES                 Refrigeración    ÚTIL
+                                 Distribución                               ACS
+                                                                            Iluminación
+                                                                            Ventilación
+                                                                            Control de humedad
+
+                                                         38
+
+                                 Documento Básico HE Ahorro de energía
+                                         Anejo A. Terminología
+La energía primaria (total) puede descomponerse en energía primaria procedente de fuentes renovables, o
+energía primaria renovable, y en energía primaria procedente de fuentes no renovables, o energía primaria
+no renovable, de acuerdo con la Directiva de Energías Renovables (2009/28/CE).
+De forma simplificada, la relación entre energía final y primaria se puede expresar con un coeficiente de paso,
+que refleja, para una zona geográfica determinada, el efecto de las pérdidas en transformación y transporte
+en cada una de las partes de la energía primaria (renovable y no renovable) de cada vector energético.
+Energía procedente de fuentes renovables: energía procedente de fuentes renovables no fósiles, es decir,
+energía eólica, solar, aerotérmica, geotérmica, hidrotérmica y oceánica, hidráulica, biomasa, gases de
+vertedero, gases de plantas de depuración y biogás. Debe tenerse en cuenta que no toda la energía generada
+a partir de fuentes renovables puede ser considerada renovable. La energía generada a partir de fuentes
+renovables puede tener, en algunos casos, un componente de energía no renovable que debe ser tratado
+como tal en el cálculo energético.
+Envolvente (térmica): ver Anejo C
+Equipo auxiliar: equipos eléctricos o electrónicos asociados a la         lámpara, diferentes para cada tipo de
+lámpara, cuya función es el encendido y control de las    condiciones de funcionamiento. Estos equipos
+auxiliares, salvo cuando son electrónicos, están formados por combinación de arrancador/cebador, balasto y
+condensador.
+Espacio habitable: espacio formado por uno o varios recintos habitables   contiguos con el mismo uso y
+condiciones térmicas equivalentes agrupados a efectos de cálculo energético.
+En función de su carga interna, un espacio habitable se clasifica como espacio habitable de carga interna
+baja, carga interna media, carga interna alta o carga interna muy alta de acuerdo con la tabla a-Anejo A.
+Espacio   habitable   acondicionado:   espacio  habitable  que  necesita  mantener    unas determinadas
+condiciones operacionales para el bienestar térmico de sus ocupantes. En uso residencial privado, todos los
+espacios  interiores de las viviendas  se consideran  acondicionados   y deben        cumplir las condiciones
+operacionales de acuerdo al Anejo D.
+A efectos de cálculo, de forma simplificada, pueden considerarse igualmente acondicionados otros espacios
+habitables, como pasillos, escaleras y otras zonas comunes.
+Espacio habitable no acondicionado: espacio habitable para el que se prevé que, durante la vida útil del
+edificio, no va a necesitar mantener unas determinadas condiciones de temperatura para el bienestar térmico
+de sus ocupantes. Al ser un espacio habitable dispone, sin embargo, de fuentes internas (iluminación,
+ocupación y equipos).
+Espacio no habitable: espacio formado por uno o varios recintos no habitables contiguos con el mismo uso
+y condiciones térmicas equivalentes, agrupados a efectos de cálculo de la demanda energética. En esta
+categoría se consideran los garajes, aparcamientos, trasteros, cuartos de basuras e instalaciones (ver recintos
+habitables).
+Estación de recarga: conjunto de elementos necesarios para efectuar la conexión del vehículo eléctrico a la
+instalación eléctrica fija necesaria para su recarga. Las estaciones de recarga se clasifican como:
+     1.       Punto de recarga simple, compuesto por las protecciones necesarias, una o varias bases de toma de
+     corriente no específicas para el vehículo eléctrico y, en su caso, la envolvente.
+     2. Punto de recarga tipo SAVE (Sistema de alimentación específico del vehículo eléctrico).
+Fachada: cerramiento en contacto con el aire exterior cuya inclinación es superior a 60º respecto al plano
+horizontal. Está compuesto de una parte opaca (muro) y otra semitransparente (huecos).
+Factor de mantenimiento (Fₘ): cociente entre la iluminancia media sobre el plano de trabajo después de un
+cierto periodo de uso de una instalación de alumbrado y la iluminancia media obtenida bajo la misma condición
+para la instalación considerada como nueva.
+Factor de sombra (Fₛ): fracción de la radiación incidente en un hueco que no es bloqueada por la presencia
+de obstáculos de fachada, tales como: retranqueos, voladizos, toldos, salientes laterales u otros.
+
+                                                   39
+
+                                  Documento Básico HE Ahorro de energía
+                                          Anejo A. Terminología
+Factor solar (g┴): cociente entre la radiación solar a incidencia normal que se introduce en el edificio a través
+del acristalamiento y la que se introduciría si el acristalamiento se sustituyese por un hueco perfectamente
+transparente. Se refiere exclusivamente a la parte semitransparente de un hueco.
+Horas fuera de consigna: número de horas a lo largo del año en el que cualquiera de los espacios
+habitables acondicionados del edificio o, en su caso, parte del edificio, se sitúa, durante los periodos de
+ocupación, fuera del rango de temperaturas de consigna de calefacción o de refrigeración, con un margen
+superior a un 1 ºC, definido en sus condiciones operacionales.
+Hueco: cualquier elemento transparente o semitransparente de la envolvente térmica del edificio. Comprende
+las ventanas,   lucernarios  (huecos de cubierta) así como las    puertas acristaladas con         una superficie
+semitransparente superior al 50%.
+Iluminancia: cociente del flujo luminoso d incidente sobre un elemento de la superficie que contiene el punto,
+por el área dA de ese elemento, siendo la unidad de medida el lux.
+ ~~Iluminancia inicial (Einicial): iluminancia media cuando la instalación es nueva. Se expresa en lux (lx).~~  
+Iluminancia media en el plano horizontal (E): iluminancia promedio sobre el área especificada. Se expresa
+en lux (lx).
+El número mínimo de puntos a considerar en su cálculo, estará en función del índice del local (K) y de la
+obtención de un reparto cuadriculado simétrico.
+    a)     4 puntos si K < 1
+    b)     9 puntos si 1 ≤ K < 2
+    c)     16 puntos si 2 ≤ K < 3
+    d)     25 puntos si K ≥ 3
+donde:
+           K = L · A / (H · (L + A))
+siendo:
+           L     la longitud del local en metros;
+           A     la anchura del local en metros ;
+           H     la distancia del plano de trabajo a las luminarias en metros.
+Iluminancia media horizontal mantenida (Eₘ): valor por debajo del cual no debe descender la iluminancia
+media en el área especificada. Es la iluminancia              media en el período en el que debe ser realizado el
+mantenimiento. Se expresa en lux (lx).
+Índice de deslumbramiento unificado (UGR): es el índice de deslumbramiento molesto procedente
+directamente de las luminarias         de una instalación de iluminación interior, definido en la publicación CIE
+(Comisión Internacional de Alumbrado) nº 117.
+Índice de rendimiento de color (Rₐ): efecto de un iluminante sobre el aspecto cromático de los objetos que
+ilumina por comparación con su aspecto bajo un iluminante de referencia. La forma en que la luz de una
+lámpara reproduce los colores de los objetos iluminados se denomina índice de rendimiento de color (Rₐ). El
+color que presenta un objeto depende de la distribución de la energía espectral de la luz con que está
+iluminado y de las características reflexivas selectivas de dicho objeto.
+Inercia térmica: propiedad del edificio de amortiguar             y retardar el efecto de las fluctuaciones de la
+temperatura exterior en el interior del edificio como resultado de la capacidad del edificio para conducir y
+almacenar calor. La cantidad de calor almacenado depende de la masa térmica de los materiales, mientras
+que la velocidad de intercambio de calor con el entorno depende de su conductividad térmica.
+Infraestructura de recarga de vehículos eléctricos: conjunto de dispositivos físicos y lógicos, destinados a
+la recarga de vehículos eléctricos que cumplan los requisitos de seguridad y disponibilidad previstos para
+cada caso por el Reglamento electrotécnico de baja tensión, con capacidad para prestar servicio de recarga
+de forma completa e integral. Incluye las  estaciones de recarga, el sistema de control, canalizaciones
+eléctricas, los cuadros eléctricos de mando y protección y los equipos de medida, cuando éstos sean
+exclusivos para la recarga del vehículo eléctrico.
+Invernadero adosado: recinto no acondicionado formado por un cerramiento exterior con un porcentaje alto
+de superficie acristalada que se coloca adyacente a las fachadas de un edificio. El elemento de fachada que
+                                                    40
+
+                                   Documento Básico HE Ahorro de energía
+                                           Anejo A. Terminología
+actúa  de  separación   entre el  invernadero   y las zonas  interiores del edificio puede  incluir  también
+acristalamientos. Es posible la existencia de una circulación de aire generalmente forzada a través de dicho
+recinto, bien en forma de recirculación del aire interior o de precalentamiento de aire exterior que se usa para
+ventilación. A esta misma categoría pertenecen las galerías y los balcones acristalados.
+Lámpara: fuente construida para producir una radiación óptica, generalmente visible.
+Luminaria: aparato que distribuye, filtra o transforma la luz emitida por una o varias lámparas y que, además
+de los accesorios necesarios para fijarlas, protegerlas y conectarlas al circuito eléctrico de alimentación
+contiene, en su caso, los equipos auxiliares necesarios para su funcionamiento, definida y regulada en la
+norma UNE EN 60598-1:2015.
+Masa térmica: capacidad de los materiales de almacenar calor. La cantidad de calor almacenado depende
+de la densidad del material y su calor específico.
+Material: parte de un producto sin considerar su modo de entrega, forma y dimensiones, sin ningún
+revestimiento o recubrimiento.
+Medianería: cerramiento que linda con otro edificio ya construido o que se construya a la vez y que conforme
+una división común. Si el edificio se construye con posterioridad el cerramiento se considerará, a efectos
+térmicos, una fachada.
+Muro: cerramiento opaco en contacto con el aire exterior o con el terreno cuya inclinación es superior a 60º
+respecto al plano horizontal (ver Fachada).
+Muro parietodinámico: cerramiento que aprovecha la energía solar para el precalentamiento del aire exterior
+de ventilación. Generalmente está formado por una hoja interior de fábrica, una cámara de aire y una hoja
+exterior acristalada o metálica que absorbe la radiación solar. La circulación del aire puede ser natural
+(termosifón) o forzada.
+Muro Trombe: cerramiento que aprovecha la energía solar para el calentamiento por recirculación del aire
+interior del edificio. Generalmente está formado por una hoja interior de fábrica, una cámara de aire y un
+acristalamiento exterior. La circulación del aire puede ser natural (termosifón) o forzada. También se denomina
+muro solar ventilado.
+Partición interior: elemento constructivo del edificio que divide su interior en recintos independientes. Pueden
+ser verticales u horizontales (suelos y techos).
+En la intervención en edificios existentes, cuando un elemento de cerramiento separe una zona ampliada
+respecto a otra existente, se considerará perteneciente a la zona ampliada.
+Perfil de uso: descripción hora a hora, para un año tipo, de las cargas internas (carga sensible por ocupación,
+carga latente por ocupación, equipos, iluminación y ventilación).
+Periodo de utilización: tiempo característico de utilización de un espacio habitable o del edificio. A efectos
+de la definición de perfiles de uso se establecen periodos de utilización tipo de 8h, 12h, 16h y 24h.
+Para edificios de uso residencial privado se establece un periodo de utilización de 24h.
+Permeabilidad al aire: propiedad de una superficie (p.e., una ventana o puerta) de dejar pasar el aire cuando
+se encuentra sometida a una diferencia de presiones entre sus caras. La permeabilidad al aire se caracteriza
+por la capacidad de paso del aire, expresada en m³/h·m², en función de la diferencia de presiones.
+Potencia a instalar: la potencia instalada se corresponderá con la potencia      activa máxima que puede
+alcanzar una unidad de producción y vendrá determinada por la potencia menor de las especificadas en la
+placas de características de los grupos motor, turbina o alternador instalados en serie, o en su caso, cuando
+la instalación esté configurada por varios motores, turbinas o alternadores en paralelo será la menor de las
+sumas de las potencias de las placas de características de los motores, turbinas o alternadores que se
+encuentren en paralelo.
+En el caso de instalaciones fotovoltaicas la potencia instalada será la suma de las potencias máximas unitarias
+de los módulos fotovoltaicos que configuran dicha instalación, medidas en condiciones estándar según la
+norma UNE-EN 61215:2006 para módulos de silicio cristalino o la norma UNE-EN 61646:2009 para módulos
+de lámina delgada.
+
+                                                     41
+
+                                  Documento Básico HE Ahorro de energía
+                                          Anejo A. Terminología
+Potencia del conjunto lámpara más equipo auxiliar: potencia nominal de entrada del conjunto equipo
+auxiliar-lámpara, donde el equipo auxiliar constituye el conjunto de equipos eléctricos o electrónicos asociados
+a la lámpara, diferentes para cada tipo de lámpara, destinados al encendido y control de las condiciones de
+funcionamiento de una lámpara.
+Potencia total del conjunto lámpara más equipo auxiliar: potencia máxima de entrada de los circuitos
+equipo auxiliar-lámpara, medidos en las condiciones definidas en las normas UNE-EN 50294:1999 y UNE-EN
+60923:2006.
+Producto: forma final de un material listo para su uso, de forma y dimensiones dadas y que incluye cualquier
+recubrimiento o revestimiento.
+Puente térmico: zona de la envolvente térmica del edificio en la que se evidencia una variación de la
+uniformidad de la construcción, ya sea por un cambio del espesor del      cerramiento o de los materiales
+empleados, por la penetración completa o parcial de elementos constructivos con diferente conductividad, por
+la diferencia entre el área externa e interna del elemento, etc., que conllevan una minoración de la resistencia
+térmica respecto al resto del cerramiento.
+Los puentes térmicos son partes sensibles de los edificios donde aumenta la probabilidad de producción de
+condensaciones.
+Los puentes térmicos más comunes son:
+   a)     Puentes térmicos integrados en los cerramientos:
+           i)      pilares integrados en los cerramientos de las fachadas;
+           ii)     contorno de huecos y lucernarios;
+           iii)    cajas de persianas;
+           iv)     otros puentes térmicos integrados;
+   b)     Puentes térmicos formados por encuentro de cerramientos:
+           i)      frentes de forjado en las fachadas;
+           ii)     uniones de cubiertas con fachadas;
+           iii)    cubiertas con pretil;
+           iv)     cubiertas sin pretil;
+           v)      uniones de fachadas con cerramientos en contacto con el terreno;
+           vi)     unión de fachada con losa o solera;
+           vii) unión de fachada con muro enterrado o pantalla;
+   c)     Esquinas o encuentros de fachadas, que, dependiendo de la posición del ambiente exterior se
+          subdividen en:
+           i)      esquinas entrantes;
+           ii)     esquinas salientes;
+   d)     Encuentros de voladizos con fachadas;
+   e)     Encuentros de tabiquería interior con cerramientos exteriores.
+Puente térmico lineal: puente térmico con una sección transversal uniforme a lo largo de una dirección.
+Recinto: espacio del edificio limitado por cerramientos, particiones o cualquier otro elemento separador.
+Recinto habitable: recinto interior destinado al uso de personas cuya densidad de ocupación y tiempo de
+estancia exigen unas condiciones acústicas, térmicas y de salubridad adecuadas. Se consideran recintos
+habitables los siguientes:
+   a)     habitaciones y estancias (dormitorios, comedores, bibliotecas, salones, etc.) en edificios
+          residenciales;
+   b)     aulas, bibliotecas, despachos, en edificios de uso docente;
+   c)     quirófanos, habitaciones, salas de espera, en edificios de uso sanitario;
+   d)     oficinas, despachos; salas de reunión, en edificios de uso administrativo;
+   e)     cocinas, baños, aseos, pasillos y distribuidores, en edificios de cualquier uso;
+   f)     zonas comunes de circulación en el interior de los edificios;
+
+                                                      42
+
+                                  Documento Básico HE Ahorro de energía
+                                          Anejo A. Terminología
+   g) cualquier otro con un uso asimilable a los anteriores.
+Se consideran   recintos no  habitables aquellos no destinados al uso permanente de personas o cuya
+ocupación, por ser ocasional o excepcional y por ser bajo el tiempo de estancia, sólo exige unas condiciones
+de salubridad adecuadas. En esta categoría se incluyen explícitamente como no habitables los garajes,
+trasteros, las salas técnicas, y desvanes no acondicionados, y sus zonas comunes.
+ ~~Reflectancia: cociente entre el flujo radiante o luminoso reflejado y el flujo incidente en las condiciones dadas.~~  
+ ~~Se expresa en tanto por ciento o en tanto por uno.~~  
+Relación del cambio de aire:     relación entre el flujo de aire a través de la envolvente  térmica    de la
+construcción y su volumen interno. En el ámbito de este DB se emplea el valor obtenido para una presión
+diferencial a través de la envolvente de 50 Pa, n₅₀.
+Salas Técnicas: salas donde se ubican instalaciones que dan servicio al edificio como sala de calderas, sala
+de bombeo, centros de transformación, sala de cuadros eléctricos, sala de contadores, sala de sistemas de
+alimentación ininterrumpidas o cualquier sala de máquinas, así como salas de fotocopiadoras o reprografía,
+sala de fax, centralita telefónica, salas de mensajería y empaquetado.
+Sistema de alimentación específico de vehículo eléctrico (SAVE): conjunto de equipos montados con el
+fin de suministrar energía eléctrica para la recarga de un vehículo eléctrico, incluyendo protecciones de la
+estación de recarga, el cable de conexión (con conductores de fase, neutro y protección) la base de toma de
+corriente o el conector y, en su caso, un convertidor alterna-continua. Este sistema permitirá en su caso la
+comunicación entre el vehículo eléctrico y la instalación fija.
+Sistema de control y regulación: conjunto de dispositivos, cableado y componentes destinados a controlar
+de forma automática o manual el encendido y apagado o el flujo luminoso de una instalación de iluminación.
+Se distinguen 4 tipos fundamentales:
+   a)  regulación y control bajo demanda del usuario, por interruptor manual, pulsador, potenciómetro o mando
+       a distancia;
+   b)  regulación de iluminación artificial según aporte de luz natural por ventanas, cristaleras o lucernarios;
+   c)  control del encendido y apagado según presencia en la zona;
+   d)  regulación y control por sistema centralizado de gestión.
+Sistema de aprovechamiento de la luz natural: conjunto de dispositivos, cableado y componentes
+destinados a regular de forma automática el flujo luminoso de una instalación de iluminación, en función del
+flujo luminoso aportado a la zona por la luz natural, de tal forma ambos flujos aporten un nivel de iluminación
+fijado en un punto, donde se encontraría el sensor de luz. Existen 2 tipos fundamentales de regulación:
+   a)  regulación todo/nada: la iluminación se enciende o se apaga por debajo o por encima de un nivel de
+       iluminación prefijado;
+   b)  regulación progresiva: la iluminación se va ajustando progresivamente según el aporte de luz natural
+       hasta conseguir el nivel de iluminación prefijado.
+Sistema de detección de presencia: conjunto de dispositivos, cableado y componentes destinados a
+controlar de forma automática, el encendido y apagado de una instalación de iluminación en función de
+presencia o no de personas en la zona. Existen 4 tipos fundamentales de detección:
+   a)  infrarrojos;
+   b)  acústicos por ultrasonido;
+   c)  por microondas;
+   d)  híbrido de los anteriores.
+Sistema de temporización: conjunto de dispositivos, cableado y componentes destinados a controlar de
+forma automática, el apagado de una instalación de iluminación en función de un tiempo de encendido
+prefijado.
+Sistema dimensional: sistema que determina el método para determinar la longitud (u otra magnitud)
+característica de un elemento constructivo.
+Sistema urbano de calefacción (o sistema urbano de refrigeración): distribución de energía térmica en
+forma de vapor, agua caliente o fluidos refrigerantes, desde una fuente central de producción a través de una
+red hacia múltiples edificios o emplazamientos, para la calefacción o refrigeración de espacios o procesos.
+
+                                                         43
+
+                                  Documento Básico HE Ahorro de energía
+                                          Anejo A. Terminología
+Solicitaciones exteriores: acciones exteriores al edificio que tienen efecto sobre el comportamiento térmico
+del mismo. Comprende, fundamentalmente, las cargas térmicas debidas al clima.
+Para caracterizar estas acciones a efectos de cálculo, se definen, diversas zonas climáticas en función de
+unas necesidades convencionales de calefacción y refrigeración.
+Solicitaciones interiores: acciones interiores al edificio que tienen efecto sobre el comportamiento térmico
+del mismo. Comprende, fundamentalmente, las cargas térmicas, dependientes del uso, debidas a los aportes
+de energía de los ocupantes, equipos e iluminación.
+Se caracterizan mediante un perfil de uso que describe, hora a hora, para un año tipo y para cada tipo de
+espacio:
+   a)  la carga interna debida a la ocupación (sólo espacios habitables);
+   b)  la carga interna debida a la iluminación;
+   c)  la carga interna debida a los equipos.
+Suelo: cerramiento horizontal o ligeramente inclinado que esté en contacto por su cara inferior con el aire,
+con el terreno, o con un espacio no habitable.
+Temperatura de consigna: temperatura o rango de temperaturas consideradas en el cálculo de la demanda
+energética que fija el límite de temperatura interior a partir del cual operan los sistemas de acondicionamiento
+del edificio, requiriendo aportes energéticos.
+Transmitancia térmica (U): flujo de calor, en régimen estacionario, para un área y diferencia de temperaturas
+unitarias de los medios situados a cada lado del elemento que se considera. Se expresa en W/m²K.
+Transmitancia térmica lineal: flujo de calor, en régimen estacionario, para una longitud y diferencia de
+temperaturas unitarias de los medios situados a cada lado del puente térmico que se considera.
+Unidad de uso: edificio o parte de él destinada a un uso específico, en la que sus usuarios están vinculados
+entre sí bien por pertenecer a una misma unidad familiar, empresa, corporación; o bien por formar parte de
+un grupo o colectivo que realiza la misma actividad. En el ámbito de este Documento Básico, se consideran
+unidades de uso diferentes, entre otras, las siguientes:
+   a)  en edificios de vivienda, cada una de las viviendas.
+   b)  en edificios de otros usos, cada uno de los establecimientos o locales comerciales independientes.
+Uso residencial privado: Edificio o zona destinada a alojamiento permanente, cualquiera que sea el tipo de
+edificio: vivienda unifamiliar, edificio de pisos o de apartamentos, etc, tanto de promoción pública como privada.
+Valor de eficiencia energética de la instalación (VEEI): valor que mide la eficiencia energética de una
+instalación de iluminación de un espacio o local con un determinado uso y por tanto, con unos parámetros de
+iluminación acordes con el mismo. En este valor de eficiencia no se incluyen las instalaciones de iluminación
+de   escaparates  o  espacios   destinados    a exponer    productos al  público (zonas expositivas),    las
+correspondientes al alumbrado de emergencia o a la iluminación de las unidades de uso residencial privado.
+Se expresa en W/m² por cada 100 lux y se obtiene mediante la expresión
+        VEEI = 100 · P / (S · Eₘ)
+donde
+        P es la potencia de la lámpara más el equipo auxiliar [W],
+        S es la superficie iluminada [m²],
+        Eₘ es la iluminancia media horizontal mantenida [lux].
+Vehículo eléctrico: vehículo de motor equipado de un grupo de propulsión con al menos un mecanismo
+eléctrico no periférico que funciona como convertidor de energía y está dotado de un sistema recargable de
+almacenamiento de energía eléctrica, que puede recargarse desde el exterior.
+Zona climática: zona para la que se definen unas solicitaciones exteriores comunes. Se identifica mediante
+una letra, correspondiente a la zona climática de invierno, y un número, correspondiente a la zona climática
+de verano.
+
+                                                    44
+
+                                 Documento Básico HE Ahorro de energía
+                                         Anejo A. Terminología
+Además de los que puedan establecer documentos reconocidos elaborados por las Comunidades Autónomas,
+el Anejo B permite determinar la zona climática de cada localidad, y su clima de referencia.
+Zona común: Zona o zonas que dan servicio a varias unidades de uso.
+Zona térmica: Espacio formado por uno o varios recintos en los que sus temperaturas pueden considerarse
+idénticas, siendo atendidas por un mismo subsistema de climatización. En cada recinto       pueden existir
+sistemas de control que ajusten las aportaciones térmicas.
+
+                                                   45
+
+                                                                              Documento Básico HE Ahorro de energía
+                                                                                    Anejo B. Zonas climáticas
+
+Anejo B               Zonas climáticas
+
+1             Zonas climáticas
+1        La tabla a-Anejo B permite obtener la zona climática (Z.C.) de un emplazamiento en función de su
+         provincia y su altitud respecto al nivel del mar (h):
+                                               Tabla a-Anejo B. Zonas climáticas
+                                                                                         Altitud sobre el nivel del mar (h)
+                                      51                                          101 111 201 251 301 351 401 451 501 551 601 651 701 751 801 851 901 951 10011051
+                                                                                                                                                                    1251
+Provincia                ≤            -     -     -  -           -        -        -  -  -        -        -     -  -        -  -  -      -     -     -      -  -    -  ≥
+                         50                                                   100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 100010501250
+                                                                                                                                                                  13001301
+                         m            m     m     m  m           m     m        m     m  m        m     m     m     m  m        m  m      m     m     m      m  m    m m
+Albacete                                          C3                                                                   D3                                       E1
+Alicante/Alacant                      B4                                                 C3                                                        D3
+Almería                   A4                   B4                   B3                                     C3                                            D3
+Araba/Álava                                                D1                                                                                    E1
+Asturias                  C1                                     D1                                                                       E1
+Ávila                                                      D2                                                          D1                                    E1
+Badajoz                                        C4                                     C3                                           D3
+Balears, Illes                        B3                                                                                     C3
+Barcelona                             C2                                     D2                            D1                                         E1
+Bizkaia                               C1                                                                                     D1
+Burgos                                                     D1                                                                                    E1
+Cáceres                                                    C4                                                                      D3                             E1
+Cádiz                           A3                                  B3                            C3                   C2                                    D2
+Cantabria                       C1                                                    D1                                                        E1
+Castellón/Castelló              B3                                  C3                               D3                            D2                           E1
+Ceuta                                                                                                   B3
+Ciudad Real                                       C4                                        C3                                           D3
+Córdoba                         B4                                           C4                                                           D3
+Coruña, A                             C1                                                                               D1
+Cuenca                                                                        D3                                                                D2                E1
+Gipuzkoa                                       D1                                                                                  E1
+Girona                    C2                                                 D2                                                                 E1
+Granada                  A4                       B4                                        C4                         C3                             D3            E1
+Guadalajara                                                                                 D3                                                         D2        E1
+Huelva                   A4           B4                   B3                                           C3                                               D3
+Huesca                                C3                            D3        D2                                                                   E1
+Jaén                                        B4                                C4                                                                D3                 E1
+León                                                                                                    E1
+Lleida                    C3                                                 D3                                                                 E1
+Lugo                                                 D1                                                                                  E1
+Madrid                                               C3                                                                D3                              D2        E1
+Málaga                    A3                         B3                                           C3                                               D3
+Melilla                                                                                                 A3
+Murcia                    B3                                        C3                                                                    D3
+Navarra                   C2                         D2                                           D1                                            E1
+Ourense                         C3                   C2                       D2                                                                         E1
+Palencia                                                                      D1                                                                         E1
+Palmas, Las                                 α3                                A2                                                          B2                    C2
+Pontevedra                                  C1                                                                                  D1
+Rioja, La                    C2                                                             D2                                                        E1
+Salamanca                                                                          D2                                                                        E1
+Santa Cruz de Tenerife                      α3                                A2                                                          B2                    C2
+Segovia                                                                                           D2                                                              E1
+Sevilla                      B4                                                                                        C4
+Soria                                                                     D2                                                    D1                       E1
+Tarragona                 B3                                        C3                                                                   D3
+Teruel                                            C3                                        C2                                  D2                              E1
+Toledo                                               C4                                                                                  D3
+Valencia/València         B3                               C3                                                          D2                                       E1
+Valladolid                                                                    D2                                                                         E1
+Zamora                                                                        D2                                                                         E1
+Zaragoza                              C3                                                 D3                                                     E1
+
+                                                                                   46
+
+                                  Documento Básico HE Ahorro de energía
+                                        Anejo B. Zonas climáticas
+2       Clima de referencia
+1     La Dirección General de Arquitectura, Vivienda y Suelo, del Ministerio de Fomento, publicará en formato
+      informático los datos que definen el clima de referencia de cada zona climática, que establece las
+      condiciones exteriores de cálculo.
+
+                                                    47
+
+                                       Documento Básico HE Ahorro de energía
+                         Anejo C. Consideraciones para la definición de la envolvente térmica
+
+Anejo C          Consideraciones para la definición de la envolvente
+térmica
+
+1.  La envolvente térmica está compuesta por todos los cerramientos y particiones interiores, incluyendo sus
+    puentes térmicos, que delimitan todos los espacios habitables del edificio o parte del edificio. No obstante,
+    a criterio del proyectista:
+    a)  podrá incluirse alguno o la totalidad de los espacios no habitables.
+    b)  podrán excluirse espacios tales como:
+         i)      espacios habitables que vayan a permanecer no acondicionados durante toda la vida del edificio,
+                 tales como escaleras, ascensores o, pasillos no acondicionados,
+         ii)     espacios muy ventilados, con una ventilación permanente de, al menos, 10 dm³/s por m² de área
+                 útil de dicho espacio,
+         iii)    espacios con grandes aberturas permanentes al exterior, de al menos 0,003 m² por m² de área útil
+                 de dicho espacio.
+
+                                                     48
+
+                                           Documento Básico HE Ahorro de energía
+                                    Anejo D. Condiciones operacionales y perfiles de uso
+
+Anejo D                                 Condiciones operacionales y perfiles de uso
+1     Los espacios del modelo térmico tendrán asociadas unas condiciones operacionales y perfiles de uso
+      que se correspondan con el uso concreto de cada espacio.
+2     El conjunto de temperaturas de consigna de las condiciones operacionales y el perfil de uso para espacios
+      de uso residencial privado, a efectos de cálculo de la demanda energética, serán las especificadas en la
+      tabla a-Anejo D, la tabla b-Anejo D y la tabla c-Anejo D:
+                      Tabla a-Anejo D. Condiciones operacionales de espacios acondicionados
+                                               en uso residencial privado
+                                                                    Horario (semana tipo)
+                                                       0:00-6:59    7:00-14:59        15:00-22:59 23:00-23:59
+                                    Enero a Mayo           –            –                  –           –
+           Temperatura de           Junio a Septiembre     27           –                  25          27
+          consigna Alta (°C)
+                                    Octubre a Diciembre    –            –                  –           –
+                                    Enero a Mayo           17           20                 20          17
+           Temperatura de           Junio a Septiembre     –            –                  –           –
+          consigna Baja (°C)
+                                    Octubre a Diciembre    17           20                 20          17
+
+                      Tabla b-Anejo D. Perfil de uso de espacios en uso residencial privado
+                                                             Horario (semana tipo)
+       Carga interna W/m²                  0:00     7:00     15:00              18:00    19:00    23:00
+                                            -        -         -                  -        -        -
+                                           6:59    14:59     17:59              18:59    22:59    23:59
+       Ocupación (sensible) L              2,15     0,54      1,08               1,08     1,08     2,15
+                               S y F       2,15     2,15      2,15               2,15     2,15     2,15
+
+       Ocupación (latente)     L           1,36     0,34      0,68               0,68     0,68     1,36
+                               S y F       1,36     1,36      1,36               1,36     1,36     1,36
+       Iluminación             L, S y F    0,44     1,32      1,32               2,20     4,40     2,20
+       Equipos                 L, S y F    0,44     1,32      1,32               2,20     4,40     2,20
+      L: día laboral, S: sábado, F: domingo y festivo.
+
+                  Tabla c-Anejo D. Perfil de uso de ACS de espacios en uso residencial privado
+           Hora       %             Hora       %             Hora               %    Hora    %
+            0h         1             6h        3             12h                5     18h    5
+            1h         0             7h        10            13h                5     19h    7
+            2h         0             8h        7             14h                4     20h    6
+            3h         0             9h        7             15h                3     21h    6
+            4h         0            10h        6             16h                4     22h    5
+            5h         1                11h    6             17h                4     23h    5
+        El % se refiere al tanto por ciento respecto a la demanda diaria de ACS.
+
+                                                           49
+
+                                   Documento Básico HE Ahorro de energía
+                            Anejo D. Condiciones operacionales y perfiles de uso
+3     Las condiciones operacionales y el perfil de uso de usos distintos del residencial privado serán las que
+      se definan en el proyecto, pudiendo emplear condiciones operacionales y perfiles de uso normalizados
+      cuando las condiciones de uso de los espacios puedan ser asimilables.
+4     En el Documento Reconocido de la Certificación energética de edificios que establece las Condiciones
+      técnicas de los procedimientos para la evaluación de la eficiencia energética de los edificios, se define
+      un conjunto de perfiles normalizados caracterizados por el uso, la carga interna (baja, media o alta) y el
+      periodo de utilización (8, 12, 16 y 24h).
+
+                                                     50
+
+                                   Documento Básico HE Ahorro de energía
+                               Anejo E. Valores orientativos de transmitancia
+
+Anejo E          Valores orientativos de transmitancia
+1     La tabla a-Anejo E aporta valores orientativos de los parámetros característicos de la envolvente térmica
+      que pueden resultar útiles para el predimensionado de soluciones constructivas de edificios de     uso
+      residencial privado, para el cumplimiento de las condiciones establecidas para el coeficiente global de
+      transmisión de calor a través de la envolvente (apartado 3.1.1 – HE1):
+                             Tabla a-Anejo E. Transmitancia térmica del elemento,
+                                                         U [W/m² K]
+                                                                               Zona Climática de invierno
+                                                                                α  A  B  C   D                     E
+       Muros y suelos en contacto con el aire exterior, UM, US                 0,56   0,50   0,38   0,29   0,27   0,23
+       Cubiertas en contacto con el aire exterior, UC                          0,50   0,44   0,33   0,23   0,22   0,19
+       Elementos en contacto con espacios no habitables o con el terreno, UT   0,80   0,80   0,69   0,48   0,48   0,48
+       Huecos (conjunto de marco, vidrio y, en su caso, cajón de persiana), UH 2,7    2,7    2,0    2,0    1,6    1,5
+
+ 2    Los valores anteriores presuponen un correcto tratamiento de los puentes térmicos.
+
+                                                         51
+
+                                  Documento Básico HE Ahorro de energía
+                                  Anejo F. Demanda de referencia de ACS
+
+Anejo F         Demanda de referencia de ACS
+
+1     La demanda de referencia de ACS para edificios de uso residencial privado se obtendrá considerando
+      unas necesidades de 28 litros/día·persona (a 60ºC), una ocupación al menos igual a la mínima
+      establecida en la tabla a-Anejo F y, en el caso de viviendas multifamiliares, un factor de centralización
+      de acuerdo a la tabla b-Anejo F, incrementadas de acuerdo con las pérdidas térmicas por distribución,
+      acumulación y recirculación.
+             Tabla a-Anejo F. Valores mínimos de ocupación de cálculo en uso residencial privado
+                        Número de dormitorios           1        2     3     4     5     6    ≥6
+                        Número de Personas              1,5      3     4     5     6     6    7
+                 Tabla b-Anejo F. Valor del factor de centralización en viviendas multifamiliares
+       Nº viviendas               N≤3           4≤N≤10  11≤N≤20        21≤N≤50          51≤N≤75 76≤N≤100    N≥101
+       Factor de centralización    1            0,95      0,90           0,85             0,80    0,75       0,70
+
+2     Para el cálculo de la demanda de referencia de ACS para edificios de uso distinto al residencial privado
+      se consideran como aceptables los valores de la tabla c-Anejo F que recoge valores orientativos de la
+      demanda de ACS para usos distintos del residencial privado, a la temperatura de referencia de 60ºC, que
+      serán incrementados de acuerdo con las pérdidas térmicas por distribución, acumulación y recirculación.
+      La demanda de referencia de ACS para casos no incluidos en la tabla c-Anejo F se obtendrá a partir de
+      necesidades de ACS contrastadas por la experiencia o recogidas por fuentes de reconocida solvencia.
+            Tabla c-Anejo F Demanda orientativa de ACS para usos distintos del residencial privado
+                       Criterio de demanda                                         Litros/día·persona
+                       Hospitales y clínicas                                               55
+                       Ambulatorio y centro de salud                                       41
+                       Hotel *****                                                         69
+                       Hotel ****                                                          55
+                       Hotel ***                                                           41
+                       Hotel/hostal **                                                     34
+                       Camping                                                             21
+                       Hostal/pensión *                                                    28
+                       Residencia                                                          41
+                       Centro penitenciario                                                28
+                       Albergue                                                            24
+                       Vestuarios/Duchas colectivas                                        21
+                       Escuela sin ducha                                                   4
+                       Escuela con ducha                                                   21
+                       Cuarteles                                                           28
+                       Fábricas y talleres                                                 21
+                       Oficinas                                                            2
+                       Gimnasios                                                           21
+                       Restaurantes                                                        8
+                       Cafeterías                                                          1
+
+                                                               52
+
+                                  Documento Básico HE Ahorro de energía
+                                  Anejo F. Demanda de referencia de ACS
+3     El consumo de ACS a una temperatura (T), de preparación, distribución o uso, distinta de la de referencia
+      (60ºC), se puede obtener a partir del consumo de ACS a la temperatura de referencia         usando las
+      siguientes expresiones:
+        D(T) = ∑    12 Di(T)
+                    i=1
+       Di(T) = Di(60ºC)     60-Ti
+     donde:                 T-Ti
+       D(T)          Demanda de agua caliente sanitaria anual a la temperatura T elegida;
+       Di(T)         Demanda de agua caliente sanitaria para el mes i, a la temperatura T elegida;
+       Di(60 ºC)     Demanda de agua caliente sanitaria para el mes i, a la temperatura de 60 ºC;
+       T             Temperatura del acumulador final;
+       Ti            Temperatura media del agua fría en el mes i (según Anejo G).
+
+                                                      53
+
+                                            Documento Básico HE Ahorro de energía
+                                             Anejo G. Temperatura del agua de red
+
+Anejo G                            Temperatura del agua de red
+
+1                    Temperatura media mensual del agua de red
+1     La tabla a-Anejo G contiene la temperatura diaria media mensual (ºC) del agua fría de red para las
+      capitales de provincia, para su uso en el cálculo del consumo de ACS:
+                             Tabla a-Anejo G. Temperatura diaria media mensual de agua fría (ºC)
+     Capital de provincia       Altitud  EN     FE    MA    AB    MY JN        JL    AG    SE    OC    NO     DI
+     A Coruña                      26     10    10    11    12    13     14    16    16    15    14    12     11
+     Albacete                     686     7     8     9  11       14     17    19    19    17    13    9      7
+     Alicante/Alacant              8      11    12    13    14    16     18    20    20    19    16    13     12
+     Almería                       16     12    12    13    14    16     18    20    21    19    17    14     12
+     Ávila                        1131    6     6     7     9     11     14    17    16    14    11    8      6
+     Badajoz                      186     9     10    11    13    15     18    20    20    18    15    12     9
+     Barcelona                     12     9     10    11    12    14     17    19    19    17    15    12     10
+     Bilbao/Bilbo                  6      9     10    10  11      13     15    17    17    16    14    11     10
+     Burgos                       929     5     6     7     9     11     13    16    16    14    11    7      6
+     Cáceres                      459     9     10    11    12    14     18    21    20    19    15    11     9
+     Cádiz                         14     12    12    13    14    16     18    19    20    19    17    14     12
+     Castellón/Castelló            27     10    11    12    13    15     18    19    20    18    16    12     11
+     Ceuta                         40     11    11    12    13    14     16    18    18    17    15    13     12
+     Ciudad Real                  628     7     8     10  11      14     17    20    20    17    13    10     7
+     Córdoba                      106     10    11    12    14    16     19    21    21    19    16    12     10
+     Cuenca                       999     6     7     8     10    13     16    18    18    16    12    9      7
+     Girona                        70     8     9     10  11      14     16    19    18    17    14    10     9
+     Granada                      683     8     9     10    12    14     17    20    19    17    14    11     8
+     Guadalajara                  685     7     8     9  11       14     17    19    19    16    13    9      7
+     Huelva                        30     12    12    13    14    16     18    20    20    19    17    14     12
+     Huesca                       488     7     8     10  11      14     16    19    18    17    13    9      7
+     Jaén                         568     9     10    11    13    16     19    21    21    19    15    12     9
+     Las Palmas de Gran Canaria    13     15    15    16    16    17     18    19    19    19    18    17     16
+     León                         838     6     6     8     9     12     14    16    16    15    11    8      6
+     Lleida                       182     7     9     10    12    15     17    20    19    17    14    10     7
+     Logroño                      385     7     8     10  11      13     16    18    18    16    13    10     8
+     Lugo                         454     7     8     9     10    11     13    15    15    14    12    9      8
+     Madrid                       655     8     8     10    12    14     17    20    19    17    13    10     8
+     Málaga                        11     12    12    13    14    16     18    20    20    19    16    14     12
+     Melilla                       15     12    13    13    14    16     18    20    20    19    17    14     13
+     Murcia                        39     11    11    12    13    15     17    19    20    18    16    13     11
+     Ourense                      139     8     10    11    12    14     16    18    18    17    13    11     9
+     Oviedo                       232     9     9     10    10    12     14    15    16    15    13    10     9
+     Palencia                     734     6     7     8     10    12     15    17    17    15    12    9      6
+     Palma de Mallorca             15     11    11    12    13    15     18    20    20    19    17    14     12
+     Pamplona/Iruña               490     7     8     9     10    12     15    17    17    16    13    9      7
+     Pontevedra                    27     10    11    11    13    14     16    17    17    16    14    12     10
+     Salamanca                    800     6     7     8     10    12     15    17    17    15    12    8      6
+     San Sebastián                 12     9     9     10  11      12     14    16    16    15    14    11     9
+     Santa Cruz de Tenerife        5      15    15    16    16    17     18    20    20    20    18    17     16
+     Santander                     11     10    10    11  11      13     15    16    16    16    14    12     10
+     Segovia                      1002    6     7     8     10    12     15    18    18    15    12    8      6
+     Sevilla                       11     11    11    13    14    16     19    21    21    20    16    13     11
+     Soria                        1063    5     6     7     9     11     14    17    16    14    11    8      6
+     Tarragona                     69     10    11    12    14    16     18    20    20    19    16    12     11
+     Teruel                       912     6     7     8     10    12     15    18    17    15    12    8      6
+     Toledo                       629     8     9     11    12    15     18    21    20    18    14    11     8
+     Valencia                      13     10    11    12    13    15     17    19    20    18    16    13     11
+     Valladolid                   698     6     8     9     10    12     15    18    18    16    12    9      7
+     Vitoria-Gasteiz              540     7     7     8     10    12     14    16    16    14    12    8      7
+     Zamora                       649     6     8     9     10    13     16    18    18    16    12    9      7
+     Zaragoza                     199     8     9     10    12    15     17    20    19    17    14    10     8
+
+                                                54
+
+                                     Documento Básico HE Ahorro de energía
+                                      Anejo G. Temperatura del agua de red
+
+2     Para localidades distintas a las recogidas en la tabla a-Anejo G se podrá obtener la temperatura del agua
+      fría de red (TAFY) mediante la siguiente expresión:
+        TAFY = TAFCP - B · Az
+      donde:
+        TAFCP     es la temperatura media mensual de agua fría de la capital de provincia, obtenida de la tabla
+                  a-Anejo G;
+        B         es un coeficiente de valor 0,0066 para los meses de octubre a marzo y 0,0033 para los meses
+                  de abril a septiembre;
+        Az        es la diferencia entre la altitud de la localidad y la de su capital de provincia
+                  (Az = Altitudlocalidad – Altitudcapital).
+3      Alternativamente a los valores indicados en la tabla a-Anejo G, podrán utilizarse otras temperaturas de
+       agua de red recogidas por fuentes de reconocida solvencia.
+
+                                                       55
+
+                                       Documento Básico HE Ahorro de energía
+                                 Anejo H. Determinación de la permeabilidad al aire del edificio
+
+Anejo H            Determinación de la permeabilidad al aire del edificio
+La determinación de la permeabilidad al aire del edificio debe realizarse con alguno de los métodos siguientes:
+
+1       Determinación mediante ensayo
+1     El valor de la relación del cambio de aire a 50 Pa, n₅₀        ~~puede obtenerse~~   mediante ensayo se obtendrá
+       ~~según~~   a partir del método 1 ó 2 de la norma UNE-EN ISO 9972:2019 Prestaciones térmicas de los
+      edificios. Determinación de la permeabilidad al aire de los edificios. Método de presurización con
+      ventilador.   ~~B de la norma UNE-EN 13829:2002 Determinación de la estanqueidad al aire en edificios.~~  
+       ~~Método de presurización por medio de ventilador.~~  
+
+2       Determinación mediante valores de referencia
+1     El valor de la relación del cambio de aire a 50 Pa, n₅₀,  ~~puede calcularse~~   mediante valores de referencia,
+      se obtendrá a partir de la siguiente expresión:
+                                       n₅₀ = 0,629 · (Cₒ · Aₒ + Cₕ · Aₕ) / Vint
+      donde:
+        n₅₀        es el valor de la relación del cambio de aire a 50Pa;
+        Vint       es el volumen interno de la envolvente térmica, en [m³];
+        Cₒ         es el coeficiente de caudal de aire de la parte opaca de la envolvente térmica,
+                   expresada a 100 Pa, en [m³/hm²], obtenido de la tabla a-Anejo H;
+        Aₒ         es la superficie de la parte opaca de la envolvente térmica en contacto con el aire exterior, en
+                   [m²];
+        Cₕ         es la permeabilidad de los huecos de la envolvente térmica, expresada a 100Pa, en
+                   [m³/hm²], según su valor de ensayo;
+        Aₕ         es la superficie de los huecos de la envolvente térmica, en [m²].
+
+                    Tabla a-Anejo H. Valores de referencia del coeficiente de caudal de aire
+                        para la parte opaca de la envolvente térmica, Cₒ [m³/h·m²] (100 Pa)
+                                       Tipo de edificio                      Cₒ
+                    Nuevo o existente con permeabilidad mejorada             16
+                    Existente                                                29
+
+                                                           56

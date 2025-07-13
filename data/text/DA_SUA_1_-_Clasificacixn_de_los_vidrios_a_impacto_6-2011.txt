@@ -1,0 +1,208 @@
+         Ministerio de Fomento
+         Secretaría de Estado de Vivienda y Actuaciones Urbanas
+         Dirección General de Arquitectura y Política de Vivienda
+
+Documento de Apoyo al Documento Básico
+DB-SUA Seguridad de utilización y accesibilidad
+Código Técnico de la Edificación
+DA DB-SUA / 1
+Clasificación de los vidrios según sus prestaciones frente a
+impacto y su forma de rotura según la norma UNE-EN
+12600:2003
+Junio 2011
+
+Referencias
+Documento Básico DB SUA       Sección SUA 2 Seguridad frente al riesgo de impacto o de atrapamiento.
+                              1.3 Impacto con elementos frágiles.
+Norma UNE EN 12600:2003       Vidrio para la edificación. Ensayo pendular. Método de ensayo al impacto
+                              y clasificación par vidrio plano.
+
+1       Objeto
+El objeto de este documento es explicar el significado de los parámetros de la norma UNE EN
+12600:2003 exigidos en el apartado 1.3 de la sección SUA 2.
+
+2       Prestaciones del vidrio frente al impacto de una persona
+La prestación exigida en el apartado 1.3 de la sección SUA 2 pretende limitar tanto el riesgo de corte
+sobre el usuario como la posible caída de éste desde un desnivel mayor a 55 cm cuando se produzca la
+rotura de un vidrio. Por ello, cualquier vidrio susceptible de sufrir un impacto por una determinada cara
+debe tener por esa cara la clasificación que se establece en la tabla 1.1 o disponer de una barrera de
+protección conforme al apartado 3.2 del SUA 1 que cubra el área de riesgo.
+Para obtener la clasificación del vidrio, este apartado del DB SUA remite a la norma UNE EN 12600 que
+clasifica los productos de vidrio plano utilizados en la edificación por:
+-     sus prestaciones frente al impacto: la clasificación por altura de caída corresponde a valores gradua-
+      dos de energía trasmitida por el impacto de una persona
+-     la forma de rotura: el sistema de clasificación está relacionado con el incremento de la seguridad de
+      las personas mediante la reducción de las heridas de corte y punzonamiento a las mismas y las ca-
+      racterísticas de contención del material.
+El ensayo que se describe en la norma somete a la probeta de vidrio fijada a un marco, al impacto de un
+péndulo neumático desde 3 alturas de caída distintas, simulando de esta forma el impacto de una perso-
+na contra un vidrio (véase figura 1).
+
+                                                1 de 5
+
+Documento de Apoyo al DB SUA                                                             DA DB SUA / 1
+
+                                                     Lucu
+     haao"
+                                                      Fxwdra
+       Figura 1 Imágenes del procedimiento y aparato de ensayo tomados de la norma EN 12600.
+
+3         Significado de los parámetros “X(Y)Z”
+Para la clasificación del vidrio, los parámetros X(Y)Z a los que se hace referencia en la tabla 1.1 de la
+Sección SUA 2 apartado1.3 se corresponden con los α(β)φ de la norma UNE-EN 12600:2003.
+Estos parámetros tienen en consideración tanto la fabricación del vidrio para cumplir unas determinadas
+prestaciones (p.e. como laminado o templado) como su resistencia al impacto en unas determinadas
+condiciones de ensayo. Es importante señalar que para el parámetro Y sólo se tiene en cuenta la fabri-
+cación del vidrio y no sus prestaciones frente al impacto, que es lo que se determina en el ensayo para
+los parámetros X y Z.
+3.1       Parámetros “X” y “Z”
+Los parámetros X (α según la norma) y   Z (φ según la norma) pueden adoptar los valores 1, 2 ó 3 (de
+más a menos resistente) en función de la altura de caída del péndulo para la que el vidrio no rompe o
+rompe de acuerdo con unas determinadas condiciones de rotura establecidas para el ensayo.
+La diferencia entre ambos es que mientras para el parámetro X se admite una rotura con las característi-
+cas de un vidrio laminado o con las de un vidrio templado, para el parámetro Z sólo se admite la rotura
+con las características de un vidrio laminado. Las condiciones técnicas requeridas en el ensayo a ambos
+tipos de rotura están especificadas en la norma.
+El valor de Z puede ser 0 cuando a la menor altura de caída, el vidrio rompa sin hacerlo con estas condi-
+ciones de rotura.
+3.2       Parámetro Y
+El parámetro Y (β según la norma) se refiere a los modos de rotura. Se obtiene por la forma de fabrica-
+ción del vidrio según la descripción de su norma y puede adoptar los valores de los siguientes apartados.
+
+                                                2 de 5
+
+Documento de Apoyo al DB SUA                                                                  DA DB SUA / 1
+
+3.2.1     Modo de rotura de tipo A
+En el tipo A aparecen numerosas grietas formando muchos fragmentos separados con bordes cortantes
+algunos de los cuales son grandes. Esta rotura es típica de vidrios tales como los siguientes:
+-      Vidrio recocido (según norma UNE EN 572-1);
+-      Vidrio de silicato sodocálcico termoendurecido al calor (según norma UNE EN 1863-1);
+-      Vidrio de silicato sodocálcico endurecido químicamente (según norma UNE EN 12337-1).
+3.2.2     Modo de rotura de tipo B
+En el tipo B aparecen numerosas grietas pero los fragmentos permanecen juntos y no se separan. Esta
+rotura es típica de vidrios tales como los siguientes:
+-      Vidrio laminado de seguridad (según norma UNE EN ISO 12543-1);
+-      Vidrio armado (según norma UNE EN 572-1);
+-      Vidrio armado pulido (según norma UNE EN 572-3);
+-      Vidrio recocido con película de refuerzo (vidrio que tiene una película plástica flexible adherida a una
+       superficie).
+3.2.3     Modo de rotura de tipo C
+En el tipo C se da desintegración, llevando a un gran número de pequeñas partículas que no son relati-
+vamente dañinas. Esta rotura es típica de vidrios tales como los siguientes:
+-      Vidrio de seguridad de silicato sodocálcico templado térmicamente (véase norma UNE EN 12150-1).
+
+4         Los parámetros “X(Y)Z” y su relación con el riesgo
+4.1       Diferencia de cota menor que 0,55 m
+En vidrios en áreas con riesgos de impacto y con diferencia de cota a ambos lados menor que 0,55 m, el
+riesgo que se pretende limitar es el de corte en caso de rotura del vidrio. Esto puede conseguirse con
+vidrios que no rompan, con vidrios que rompan en pequeños fragmentos (como los templados) o con
+vidrios que rompan pero cuyos fragmentos permanezcan unidos (como los laminados).
+Los valores de los parámetros “X(Y)Z” que aseguran que se cumple esta prestación son los siguientes:
+-      Parámetro Y: debe ser B o C, véase apartado 3.2.
+-      Parámetro X: debe ser al menos 3 de forma que el vidrio en el ensayo no rompa o rompa de acuerdo
+       a unas condiciones de ensayo, véase apartado 3.1. Puesto que los valores 1 y 2 son más exigentes
+       que 3, también son válidos.
+-      Parámetro Z: dado que este parámetro sólo admite la rotura de tipo laminado y para este desnivel la
+       diferencia entre ambos tipos de rotura (la de tipo templado y la de tipo laminado) es irrelevante para
+       conseguir la prestación, puede adoptar cualquier valor. Véase apartado 3.1.
+4.2       Diferencia de cota mayor o igual a 0,55 m
+En vidrios en áreas con riesgo de impacto y con diferencia de cota a ambos lados mayor o igual a 0,55
+m, los riesgos que se pretenden limitar son los de corte y caída en caso de rotura del vidrio. Esto puede
+conseguirse con vidrios que no rompan o con vidrios que rompan pero cuyos fragmentos permanezcan
+unidos (como los laminados), pero no con vidrios que rompan en pequeños fragmentos.
+Los valores de los parámetros “X(Y)Z” que aseguran que se cumple esta prestación son los siguientes:
+-      Parámetro Y: debe ser B o C, véase apartado 3.2.
+
+                                                  3 de 5
+
+Documento de Apoyo al DB SUA                                                                  DA DB SUA / 1
+
+-                                Parámetro Z: debe ser al menos 1 ó 2 en función de la diferencia de cota a ambos lados de la super-
+                                  ficie acristalada de forma que el vidrio en el ensayo no rompa o rompa de acuerdo a unas condicio-
+                                 nes de ensayo, véase apartado 3.1. En este caso lo importante es diferenciar la rotura como lamina-
+                               do por lo que el parámetro de referencia es el Z. Por tanto, el vidrio templado solo sería válido si no
+     rompe a las alturas de ensayo correspondientes.
+-                                  Parámetro X: dado que este parámetro admite la rotura como laminado o como templado y para este
+     desnivel la exigida es la rotura como laminado, es irrelevante. Véase apartado 3.1.
+
+5       Ejemplos
+Un vidrio 1(C)3 sería válido para una zona con riesgo de impacto y desnivel menor a 55 cm. Los vidrios
+del tipo 2(B)2 ó 1(C)2 podrían utilizarse en zonas con desnivel entre 0,55 y 12 m. En zonas con desnivel
+superior a 12 m sería necesario utilizar vidrios tales como 1(C)1 ó 1(B)1.
+
+6       Marcado CE
+La clasificación de prestaciones del vidrio a impacto o frente a la resistencia al cuerpo pendular determi-
+nado de acuerdo a la norma europea UNE EN 12600 viene reflejada en el marcado CE del producto para
+los vidrios de seguridad. Las figuras 2 y 3 muestran ejemplos de marcado para vidrio templado y laminar
+de seguridad:
+                                    Ce                                        Simbolo del marcado €E, de acuerdo con la
+                                                                                         Directiva 93 68 CEE
+                                  01234                                       Número de identificación del organismo de
+                                                                                 certificación (si es relevante) [16]
+                                AnyCo             PO Box 21. B-1050                    Nombre dirección regislrada del
+                                         Lld
+                                                                                              tabricante
+                                                                               Dos últimos digitos del ano de impresión
+                                                                                             del marcado
+                                         01234-CPD-00234                                Número del cerlilicado
+                                                                                              relevante) [17]
+                                EN 12150 2                                            Número de la norma europea
+                  Vidrio de silicato sodocalcico de seguridad templado tennicamente    Descripción del producto
+                  para ser utilizado en edilicios obras de construccion
+                  Caracteristicas:                                              Informacion sobre las caracteristicas
+                  Resislencia   fuego                                     PSD                 esenciales
+                  Reacción al fuego                                      4/ "
+                  Prestación   [uego exlerior                             PND
+                  Resistencia la bala                                     PYD
+                  Resistencia  la explosión                               PND
+                  Resistencia  la efracción                               PND
+                  Resistencia al impacto de cuerpo pendular             I(C)2
+                  Resistencia contra cambios repentinos de
+                  temperatura   diferenciales de temperatura            200 K
+                  Resistencia al vientoMleve. Carea permanente
+                   impuesta
+                  tislamiento acústico al ruido aéreo directo     31 -2 -3 dB
+                  Propiedadesternucas                               5,6 W(nK)
+                  Propiedades de radiación:
+                   transmnitancia      rellexion luminosu           0,70/0.13
+                   caracteristicas de energia solar                 0,55/0.11
+         Figura 2. Ejemplo de marcado CE para un vidrio templado de seguridad de clase 1(C)2
+
+                                                                       4 de 5
+
+Documento de Apoyo al DB SUA                                                                                               DA DB SUA / 1
+
+                                       Ce                                          Marcado de conformidad CE que consiste en el
+                                                                                    simbolo "CE' eslablecido en la Dircctiva 93/68 CEE
+                                                01234                               Número de identilicación del organismno de
+                                                                                                 cerilicación (si procede)
+                                  AnyCo Ltd PO Box 21 . B-1050                Nombre Ilicrcomnlerclal del habnicante      direccion
+                                                                                                 registrada del fabricante
+                                                                                Los dos últimos digitos del año en que se fijó el
+                                                                                                 marcado
+                                       01234-CPD-00234                        Número del cerlificado de conlormidad CE (si procede)
+                                              FY14449                                       Numero de la nonna europea
+                      Vidrio laminadoseguridad previsto        ulilización          Descripción del producto información sobre las
+                      editicios obras de construcción                                caracleristicas reglamentadas
+                      Caracteristicas:
+                      Resistencia al [uego                                 E3O
+                      Reacción    fuego
+                      Comportamiento frente al(uceoerteriol                PND
+                      Resistencia  la bala                                 PND
+                      Resistencia  la explosión                            PND
+                      Resistencia  la elraccion                            PND
+                      Resistencia al impacto de un péndulo               2(B)2
+                      Resistencia contra cambios repentinos de
+                      Iemperalura   diferenciales   temperatura           40 K
+                      Resistencia   viento, nieve; carga
+                      permanente    impuesta                             10 Mi
+                      Aislamiento al ruido aéreo               34 =1-3 dB
+                      Propiedades térmicas                          55 W/(nFK)
+                      Propiedades de radiación:
+                        transmisión rellexión luminosas              0,70/0.13
+                        caracleristicas de energia solar          0.55/0,11
+
+             Figura 3. Ejemplo de marcado CE para un vidrio laminar de seguridad de clase 2(B)2
+
+                                                                              5 de 5

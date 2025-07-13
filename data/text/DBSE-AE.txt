@@ -1,0 +1,1383 @@
+Documento BásicoSE-AE
+Seguridad Estructural
+Acciones en la edificación
+
+              Abril 2009
+
+NO_CONTENT_HERE
+
+                              Documento Básico SE-AE Acciones en la edificación
+
+                                             Índice
+1 Generalidades
+       1.1 Ámbito de aplicación
+2 Acciones permanentes
+       2.1 Peso propio
+       2.2 Pretensado
+       2.3 Acciones del terreno
+3 Acciones variables
+       3.1 Sobrecarga de uso
+       3.2 Acciones sobre barandillas y elementos divisorios
+       3.3 Viento
+       3.4 Acciones térmicas
+       3.5 Nieve
+4 Acciones accidentales
+       4.1 Sismo
+       4.2 Incendio
+       4.3 Impacto
+Anejo A. Terminología
+Anejo B. Notaciones y unidades
+       B.1 Notaciones
+       B.3 Unidades
+Anejo C. Prontuario de pesos y coeficientes de rozamiento interno
+Anejo D. Acción del viento
+       D.1 Presión dinámica
+       D.2 Coeficiente de exposición
+       D.3 Coeficientes de presión exterior
+Anejo E. Datos climáticos
+
+                                             SE-AE i
+
+NO_CONTENT_HERE
+
+                               Documento Básico SE-AE Acciones en la edificación
+
+1 Generalidades
+
+1.1 Ámbito de aplicación
+1     El campo de aplicación de este Documento Básico es el de la determinación de las acciones sobre
+      los edificios, para verificar el cumplimiento de los requisitos de seguridad estructural (capacidad por-
+      tante y estabilidad) y aptitud al servicio, establecidos en el DB-SE.
+2     Están fuera del alcance de este Documento Básico las acciones y las fuerzas que actúan sobre
+      elementos tales como aparatos elevadores o puentes grúa, o construcciones como los silos o los
+      tanques.
+3     En general, las fuerzas de rozamiento no se definen en este Documento Básico, ya que se conside-
+      ran como efectos de las acciones.
+4     Salvo que se indique lo contrario, todos los valores tienen el sentido de característicos.
+5     Los tipos de acciones y su tratamiento se establecen en el DB-SE
+
+                                                SE-AE 1
+
+NO_CONTENT_HERE
+
+                              Documento Básico SE-AE Acciones en la edificación
+
+2 Acciones permanentes
+
+2.1 Peso propio
+1     El peso propio a tener en cuenta es el de los elementos estructurales, los cerramientos y elementos
+      separadores, la tabiquería, todo tipo de carpinterías, revestimientos (como pavimentos, guarneci-
+      dos, enlucidos, falsos techos), rellenos (como los de tierras) y equipo fijo.
+2     El valor característico del peso propio de los elementos constructivos, se determinará, en general,
+      como su valor medio obtenido a partir de las dimensiones nominales y de los pesos específicos
+      medios. En el Anejo C se incluyen los pesos de materiales, productos y elementos constructivos tí-
+      picos.
+3     En el caso de tabiques ordinarios cuyo peso por metro cuadrado no sea superior a 1,2 kN/m² y cuya
+      distribución en planta sea sensiblemente homogénea, su peso propio podrá asimilarse a una carga
+      equivalente uniformemente distribuida. Como valor de dicha carga equivalente se podrá adoptar el
+      valor del peso por metro cuadrado de alzado multiplicado por la razón entre la superficie de tabique-
+      ría y la de la planta considerada. En el caso de tabiquería más pesada, ésta podrá asimilarse al
+      mismo valor de carga equivalente uniforme citado más un incremento local, de valor igual al exceso
+      de peso del tabique respecto a 1,2 kN por m² de alzado.
+      En general, en viviendas bastará considerar como peso propio de la tabiquería una carga de 1,0 kN
+      por cada m² de superficie construida.
+4     Si se procede por medición directa del peso de la tabiquería proyectada, deberán considerarse las
+      alteraciones y modificaciones que sean razonables en la vida del edificio.
+5     El peso de las fachadas y elementos de compartimentación pesados, tratados como acción local, se
+      asignará como carga a aquellos elementos que inequívocamente vayan a soportarlos, teniendo en
+      cuenta, en su caso, la posibilidad de reparto a elementos adyacentes y los efectos de arcos de des-
+      carga. En caso de continuidad con plantas inferiores, debe considerarse, del lado de la seguridad
+      del elemento, que la totalidad de su peso gravita sobre sí mismo.
+6     El valor característico del peso propio de los equipos e instalaciones fijas, tales como calderas co-
+      lectivas, transformadores, aparatos de elevación, o torres de refrigeración, debe definirse de acuer-
+      do con los valores aportados por los suministradores.
+2.2 Pretensado
+1     La acción del pretensado se evaluará a partir de lo establecido en la Instrucción EHE.
+2.3 Acciones del terreno
+1     Las acciones derivadas del empuje del terreno, tanto las procedentes de su peso como de otras
+      acciones que actúan sobre él, o las acciones debidas a sus desplazamientos y deformaciones, se
+      evalúan y tratan según establece el DB-SE-C.
+
+                                               SE-AE 3
+
+NO_CONTENT_HERE
+
+                                  Documento Básico SE-AE Acciones en la edificación
+
+3 Acciones variables
+
+3.1 Sobrecarga de uso
+1     La sobrecarga de uso es el peso de todo lo que puede gravitar sobre el edificio por razón de su uso.
+2     La sobrecarga de uso debida a equipos pesados, o a la acumulación de materiales en bibliotecas,
+      almacenes o industrias, no está recogida en los valores contemplados en este Documento Básico,
+      debiendo determinarse de acuerdo con los valores del suministrador o las exigencias de la propie-
+      dad.
+3.1.1 Valores de la sobrecarga
+1     Por lo general, los efectos de la sobrecarga de uso pueden simularse por la aplicación de una carga
+      distribuida uniformemente. De acuerdo con el uso que sea fundamental en cada zona del mismo,
+      como valores característicos se adoptarán los de la Tabla 3.1. Dichos valores incluyen tanto los
+      efectos derivados del uso normal, personas, mobiliario, enseres, mercancías habituales, contenido
+      de los conductos, maquinaria y en su caso vehículos, así como las derivadas de la utilización poco
+      habitual, como acumulación de personas, o de mobiliario con ocasión de un traslado.
+2     Asimismo, para comprobaciones locales de capacidad portante, debe considerase una carga con-
+      centrada actuando en cualquier punto de la zona. Dicha carga se considerará actuando simultá-
+      neamente con la sobrecarga uniformemente distribuida en las zonas de uso de tráfico y aparca-
+      miento de vehículos ligeros, y de forma independiente y no simultánea con ella en el resto de los
+      casos.
+      Dichas carga concentrada se considerará aplicadas sobre el pavimento acabado en una superficie
+      cuadrada de 200 mm en zonas uso de de tráfico y aparcamiento y de 50 mm de lado en el resto de
+      los casos.
+
+                               Tabla 3.1. Valores característicos de las sobrecargas de uso
+                                                                                                     Carga      Carga
+Categoría de uso                  Subcategorías de uso                                              uniforme concentrada
+                                                                                                    [kN/m²]      [kN]
+                                  A1        Viviendas y zonas de habitaciones en, hospi-               2          2
+ A     Zonas residenciales                  tales y hoteles
+                                  A2        Trasteros                                                  3          2
+ B     Zonas administrativas                                                                           2          2
+                                  C1        Zonas con mesas y sillas                                   3          4
+                                  C2        Zonas con asientos fijos                                   4          4
+       Zonas de acceso al                   Zonas sin obstáculos que impidan el libre
+       público (con la excep-     C3        movimiento de las personas como vestíbulos                 5          4
+ C     ción de las superficies              de edificios públicos, administrativos, hoteles;
+       pertenecientes a las                 salas de exposición en museos; etc.
+       categorías A, B, y D)      C4        Zonas destinadas a gimnasio u actividades                  5          7
+                                            físicas
+                                  C5        Zonas de aglomeración (salas de conciertos,                5          4
+                                            estadios, etc)
+                                  D1        Locales comerciales                                        5          4
+ D     Zonas comerciales          D2        Supermercados, hipermercados o grandes                     5          7
+                                            superficies
+ E     Zonas de tráfico y de aparcamiento para vehículos ligeros (peso total < 30 kN)                  2        20 (1)
+ F     Cubiertas transitables accesibles sólo privadamente (2)                                         1          2
+       Cubiertas accesibles       G1(7)     Cubiertas con inclinación inferior a 20º         (5)    1(4) (6)      2
+ G     únicamente para con-                 Cubiertas ligeras sobre correas (sin forjado)            0,4(4)       1
+       servación (3)              G2        Cubiertas con inclinación superior a 40º                   0          2
+
+                                                           SE-AE 5
+
+                                 Documento Básico SE-AE Acciones en la edificación
+
+(1)     Deben descomponerse en dos cargas concentradas de 10 kN separadas entre si 1,8 m. Alternativamente dichas cargas se
+        podrán sustituir por una sobrecarga uniformemente distribuida en la totalidad de la zona de 3,0 kN/m² para el cálculo de ele-
+        mentos secundarios, como nervios o viguetas, doblemente apoyados, de 2,0 kN/m² para el de losas, forjados reticulados o ner-
+        vios de forjados continuos, y de 1,0 kN/m² para el de elementos primarios como vigas, ábacos de soportes, soportes o zapatas.
+(2)     En cubiertas transitables de uso público, el valor es el correspondiente al uso de la zona desde la cual se accede.
+(3)     Para cubiertas con un inclinación entre 20º y 40º, el valor de qₖ se determina por interpolación lineal entre los valores corres-
+        pondientes a las subcategorías G1 y G2.
+(4)     El valor indicado se refiere a la proyección horizontal de la superficie de la cubierta.
+(5)     Se entiende por cubierta ligera aquella cuya carga permanente debida únicamente a su cerramiento no excede de 1 kN/m².
+(6)     Se puede adoptar un área tributaria inferior a la total de la cubierta, no menor que 10 m² y situada en la parte más desfavorable
+        de la misma, siempre que la solución adoptada figure en el plan de mantenimiento del edificio.
+(7)     Esta sobrecarga de uso no se considera concomitante con el resto de acciones variables.
+3        En las zonas de acceso y evacuación de los edificios de las zonas de categorías A y B, tales como
+         portales, mesetas y escaleras, se incrementará el valor correspondiente a la zona servida en 1
+         kN/m².
+4        Para su comprobación local, los balcones volados de toda clase de edificios se calcularán con la
+         sobrecarga de uso correspondiente a la categoría de uso con la que se comunique, más una sobre-
+         carga lineal actuando en sus bordes de 2 kN/m.
+5        Para las zonas de almacén o biblioteca, se consignará en la memoria del proyecto y en las instruc-
+         ciones de uso y mantenimiento el valor de sobrecarga media, y en su caso, distribución de carga,
+         para la que se ha calculado la zona, debiendo figurar en obra una placa con dicho valor
+6        En porches, aceras y espacios de tránsito situados sobre un elemento portante o sobre un terreno
+         que desarrolla empujes sobre otro elementos  estructurales, se considerará una sobrecarga de uso
+         de 1 kN/m² si se trata de espacios privados y de 3 kN/m² si son de acceso público.
+7        Los valores indicados ya incluyen el efecto de la alternancia de carga, salvo en el caso de elemen-
+         tos críticos, como vuelos, o en el de zonas de aglomeración.
+8        A los efectos de combinación de acciones, las sobrecargas de cada tipo de uso tendrán la conside-
+         ración de acciones diferentes. Los items dentro de cada subcategoría de la tabla 3.1 son tipos dis-
+         tintos.
+3.1.2 Reducción de sobrecargas
+1        Para el dimensionado de los elementos portantes horizontales (vigas, nervios de forjados, etc.), y
+         de sus elementos de enlace (ménsulas, ábacos, etc.), la suma de las sobrecargas de una misma
+         categoría de uso que actúen sobre él, puede reducirse multiplicándola por el coeficiente de la Tabla
+         3.2, para las categorías de uso A, B, C y D.
+2        Para el dimensionado de un elemento vertical (pilar, muro), la suma de las sobrecargas de un mis-
+         mo uso que graviten sobre él, puede reducirse multiplicándola por el coeficiente de la Tabla 3.2, pa-
+         ra las categorías de uso A, B, C y D.
+                             Tabla 3.2. Coeficiente de reducción de sobrecargas
+               Elementos verticales                                Elementos horizontales
+         Número de plantas del mismo uso                          Superficie tributaria (m²)
+         1 ó 2        3 ó 4        5 ó más             16             25              50             100
+          1,0          0,9                     0,8    1,0            0,9             0,8             0,7
+
+3        Los coeficientes de reducción anteriores podrán aplicarse simultáneamente en un elemento vertical
+         cuando las plantas situadas por encima de dicho elemento estén destinadas al mismo uso y siem-
+         pre que correspondan a diferentes usuarios, lo que se hará constar en la memoria del proyecto y en
+         las instrucciones de uso y mantenimiento. En el caso de 1 ó 2 plantas, se puede aplicar la reducción
+         por superficie tributaria a los elementos verticales.
+3.2 Acciones sobre barandillas y elementos divisorios
+1        La estructura propia de las barandillas, petos, antepechos o quitamiedos de terrazas, miradores,
+         balcones o escaleras deben resistir una fuerza horizontal, uniformemente distribuida, y cuyo valor
+
+                                                      SE-AE 6
+
+                                Documento Básico SE-AE Acciones en la edificación
+
+      característico se obtendrá de la tabla 3.3. La fuerza se considerará aplicada a 1,2 m o sobre el bor-
+      de superior del elemento, si éste está situado a menos altura.
+
+                   Tabla 3.3 Acciones sobre las barandillas y otros elementos divisorios
+                    Categoría de uso                                 Fuerza horizontal [kN/m]
+                           C5                                                    3,0
+                      C3, C4, E, F                                               1,6
+                   Resto de los casos                                            0,8
+
+2     En las zonas de tráfico y aparcamiento, los parapetos, petos o barandillas y otros elementos que
+      delimiten áreas accesibles para los vehículos deben resistir una fuerza horizontal, uniformemente
+      distribuida sobre una longitud de 1 m, aplicada a 1,2 m de altura sobre el nivel de la superficie de
+      rodadura o sobre el borde superior del elemento si éste está situado a menos altura, cuyo valor ca-
+      racterístico se definirá en el proyecto en función del uso específico y de las características del edifi-
+      cio, no siendo inferior a qₖ = 50 kN.
+3     Los elementos divisorios, tales como tabiques, deben soportar una fuerza horizontal mitad a la defi-
+      nida en la tabla 3.3, según el uso a cada lado del mismo.
+3.3 Viento
+3.3.1 Generalidades
+1     La distribución y el valor de las presiones que ejerce el viento sobre un edificio y las fuerzas resul-
+      tantes dependen de la forma y de las dimensiones de la construcción, de las características y de la
+      permeabilidad de su superficie, así como de la dirección, de la intensidad y del racheo del viento.
+2     Las disposiciones de este Documento Básico no son aplicables a los edificios situados en altitudes
+      superiores a 2.000 m. En estos casos, las presiones del viento se deben establecer a partir de da-
+      tos empíricos disponibles.
+3     En general, los edificios ordinarios no son sensibles a los efectos dinámicos del viento. Este Docu-
+      mento Básico no cubre las construcciones de esbeltez superior a 6, en las que sí deben tenerse en
+      cuenta dichos efectos.
+3.3.2 Acción del viento
+1     La acción de viento, en general una fuerza perpendicular a la superficie de cada punto expuesto, o
+      presión estática, qₑ puede expresarse como:
+      qₑ = qb · cₑ · cₚ                                                                            (3.1)
+      siendo:
+      qb     la presión dinámica del viento. De forma simplificada, como valor en cualquier punto del territo-
+             rio español, puede adoptarse 0,5 kN/m². Pueden obtenerse valores más precisos mediante el
+             anejo D, en función del emplazamiento geográfico de la obra.
+      cₑ     el coeficiente de exposición, variable con la altura del punto considerado, en función del grado
+             de aspereza del entorno donde se encuentra ubicada la construcción. Se determina de acuer-
+             do con lo establecido en 3.3.3. En edificios urbanos de hasta 8 plantas puede tomarse un valor
+             constante, independiente de la altura, de 2,0.
+      cₚ     el coeficiente eólico o de presión, dependiente de la forma y orientación de la superficie res-
+             pecto al viento, y en su caso, de la situación del punto respecto a los bordes de esa superficie;
+             un valor negativo indica succión. Su valor se establece en 3.3.4 y 3.3.5.
+2     Los edificios se comprobarán ante la acción del viento en todas direcciones, independientemente de
+      la existencia de construcciones contiguas medianeras, aunque generalmente bastará la considera-
+      ción en dos sensiblemente ortogonales cualesquiera. Para cada dirección se debe considerar la ac-
+      ción en los dos sentidos. Si se procede con un coeficiente eólico global, la acción se considerará
+      aplicada con una excentricidad en planta del 5% de la dimensión máxima del edificio en el plano
+      perpendicular a la dirección de viento considerada y del lado desfavorable.
+
+                                                SE-AE 7
+
+                                     Documento Básico SE-AE Acciones en la edificación
+
+3        La acción de viento genera además fuerzas tangenciales paralelas a la superficie. Se calculan co-
+         mo el producto de la presión exterior por el coeficiente de rozamiento, de valor igual a 0,01 si la su-
+         perficie es muy lisa, por ejemplo de acero o aluminio, 0,02 si es rugosa como en el caso de hormi-
+         gón, y 0,04 si es muy rugosa, como en el caso de existencia de ondas, nervadura o pliegues. En las
+         superficies a barlovento y sotavento no será necesario tener en cuenta la acción del rozamiento si
+         su valor no supera el 10% de la fuerza perpendicular debida a la acción del viento.
+3.3.3 Coeficiente de exposición
+1        El coeficiente de exposición tiene en cuenta los efectos de las turbulencias originadas por el relieve
+         y la topografía del terreno. Su valor se puede tomar de la tabla 3.4, siendo la altura del punto consi-
+         derado la medida respecto a la rasante media de la fachada a barlovento. Para alturas superiores a
+         30 m los valores deben obtenerse de las expresiones generales que se recogen en el Anejo D. Para
+         paneles prefabricados de gran formato el punto a considerar es su punto medio.
+2        En el caso de edificios situados en las cercanías de acantilados o escarpas de pendiente mayor de
+         40º, la altura se medirá desde la base de dichos accidentes topográficos. Este Documento Básico
+         sólo es de aplicación para alturas de acantilado o escarpa inferiores a 50 m.
+3        A efectos de grado de aspereza, el entorno del edificio se clasificará en el primero de los tipos de la
+         tabla 3.4 al que pertenezca, para la dirección de viento analizada.
+
+                             Tabla 3.4. Valores del coeficiente de exposición cₑ
+        Grado de aspereza del entorno                                         3      Altura del punto considerado (m)
+                                                                                     6       9       12      15      18      24      30
+ I      Borde del mar o de un lago, con una superficie de agua en la          2,4    2,7     3,0     3,1     3,3     3,4     3,5     3,7
+        dirección del viento de al menos 5 km de longitud
+ II     Terreno rural llano sin obstáculos ni arbolado de importancia         2,1    2,5     2,7     2,9     3,0     3,1     3,3     3,5
+III     Zona rural accidentada o llana con algunos obstáculos aislados,       1,6    2,0     2,3     2,5     2,6     2,7     2,9     3,1
+        como árboles o construcciones pequeñas
+ IV     Zona urbana en general, industrial o forestal                         1,3    1,4     1,7     1,9     2,1     2,2     2,4     2,6
+ V      Centro de negocio de grandes ciudades, con profusión de edificios     1,2    1,2     1,2     1,4     1,5     1,6     1,9     2,0
+        en altura
+3.3.4 Coeficiente eólico de edificios de pisos
+1        En edificios de pisos, con forjados que conectan todas las fachadas a intervalos regulares, con hue-
+         cos o ventanas pequeños practicables o herméticos, y compartimentados interiormente, para el
+         análisis global de la estructura, bastará considerar coeficientes eólicos globales a barlovento y sota-
+         vento, aplicando la acción de viento a la superficie proyección del volumen edificado en un plano
+         perpendicular a la acción de viento. Como coeficientes eólicos globales, podrán adoptarse los de la
+         tabla 3.5.
+                                     Tabla 3.5. Coeficiente eólico en edificios de pisos
+                                                                         Esbeltez en el plano paralelo al viento
+                                                   < 0,25     0,50                   0,75            1,00            1,25    ≥ 5,00
+Coeficiente eólico de presión, cₚ                   0,7       0,7                    0,8             0,8             0,8      0,8
+Coeficiente eólico de succión, cₛ                   -0,3      -0,4                   -0,4            -0,5            -0,6     -0,7
+
+         Para otros casos y como alternativa al coeficiente eólico global se podrá determinar la acción de
+         viento como resultante de la que existe en cada punto, a partir de los coeficientes eólicos que se es-
+         tablecen en del Anejo D.2 para diversas formas canónicas, aplicando los de la que presente rasgos
+         más coincidentes con el caso analizado, considerando en su caso la forma conjunta del edificio con
+         los medianeros.
+
+                                                         SE-AE 8
+
+                               Documento Básico SE-AE Acciones en la edificación
+
+2     En edificios con cubierta plana la acción del viento sobre la misma, generalmente de succión, opera
+      habitualmente del lado de la seguridad, y se puede despreciar.
+3     Para análisis locales de elementos de fachada o cerramiento, tales como carpinterías, acristala-
+      mientos, aplacados, anclajes, o correas, la acción de viento se determinará como resultante de la
+      que existe en cada punto, a partir de los coeficientes eólicos que se establecen en el Anejo D.3 en
+      el sentido indicado anteriormente
+3.3.5 Coeficiente eólico de naves y construcciones diáfanas
+1     En naves y construcciones diáfanas, sin forjados que conecten las fachadas, la acción de viento
+      debe individualizarse en cada elemento de superficie exterior. Cuando en al menos dos de los lados
+      del edificio (fachadas o cubiertas) el área total de los huecos exceda el 30% del área total del lado
+      considerado, la acción del viento se determina considerando la estructura como una marquesina o
+      una pared libre.
+2     A efectos del cálculo de la estructura, del lado de la seguridad se podrá utilizar la resultante en cada
+      plano de fachada o cubierta de los valores del Anejo D.3, que recogen el pésimo en cada punto de-
+      bido a varias direcciones de viento. A los efectos locales, tales como correas, paneles de cerra-
+      miento, o anclajes, deben utilizarse los valores correspondientes a la zona o zonas en que se en-
+      cuentra ubicado dicho elemento.
+3     Si el edificio presenta grandes huecos la acción de viento genera, además de presiones en el exte-
+      rior, presiones en el interior, que se suman a las anteriores.
+      El coeficiente eólico de presión interior, cpi, se considera único en todos los en todos los paramentos
+      interiores del edificio que delimitan la zona afectada por la fachada o cubierta que presenta grandes
+      huecos. Para la determinación de la presión interior, en edificios de una sola planta, se considerará
+      como coeficiente de exposición el correspondiente a la altura del punto medio del hueco, salvo que
+      exista un hueco dominante, en cuyo caso el coeficiente de exposición será el correspondiente a la
+      altura media de dicho hueco. Si el edificio tiene varias plantas se considerara la altura media de la
+      planta analizada. Un hueco se considera dominante si su área es por lo menos diez veces superior
+      a la suma de las áreas de los huecos restantes.
+4     Cuando el área de las aberturas de una fachada sea el doble de las aberturas en el resto de las
+      fachadas del edificio, se tomará cpi = 0,75cₚₑ; si es el triple cpi = 0,9cₚₑ siendo cₚₑ el coeficiente eóli-
+      co de presión exterior. En casos intermedios se interpolará linealmente. En otro caso se tomarán los
+      valores de la tabla 3.6
+                                Tabla 3.6 Coeficientes de presión interior
+        Esbeltez en el  Área de huecos en zonas de succión respecto al área total de huecos del edificio
+            plano       0,0     0,1     0,2     0,3    0,4     0,5     0,6    0,7     0,8     0,9      1
+      paralelo al viento
+              ≤1        0,7     0,7     0,6     0,4    0,3     0,1     0,0    -0,1    -0,3    -0,4    -0,5
+              ≥4        0,5     0,5     0,4     0,3    0,2     0,1     0,0    -0,1    -0,2    -0,3    -0,3
+
+                   Fig. 3.1 Presiones ejercidas por el viento en una construcción diáfana
+
+                                                SE-AE 9
+
+                                Documento Básico SE-AE Acciones en la edificación
+
+3.4 Acciones térmicas
+3.4.1 Generalidades
+1     Los edificios y sus elementos están sometidos a deformaciones y cambios geométricos debidos a
+      las variaciones de la temperatura ambiente exterior. La magnitud de las mismas depende de las
+      condiciones climáticas del lugar, la orientación y de la exposición del edificio, las características de
+      los materiales constructivos y de los acabados o revestimientos, y del régimen de calefacción y ven-
+      tilación interior, así como del aislamiento térmico.
+2     Las variaciones de la temperatura en el edificio conducen a deformaciones de todos los elementos
+      constructivos, en particular, los estructurales, que, en los casos en los que estén impedidas, produ-
+      cen tensiones en los elementos afectados.
+3     La disposición de juntas de dilatación puede contribuir a disminuir los efectos de las variaciones de
+      la temperatura. En edificios habituales con elementos estructurales de hormigón o acero, pueden no
+      considerarse las acciones térmicas cuando se dispongan juntas de dilatación de forma que no exis-
+      tan elementos continuos de más de 40 m de longitud. Para otro tipo de edificios, los DB incluyen la
+      distancia máxima entre juntas de dilatación en función de las características del material utilizado.
+3.4.2 Cálculo de la acción térmica
+1     Los efectos globales de la acción térmica pueden obtenerse a partir de la variación de temperatura
+      media de los elementos estructurales, en general, separadamente para los efectos de verano, dila-
+      tación, y de invierno, contracción, a partir de una temperatura de referencia, cuando se construyó el
+      elemento y que puede tomarse cono la media anual del emplazamiento o 10ºC.
+2     Las temperaturas ambiente extremas de verano y de invierno pueden obtenerse del Anejo E.
+3     Para elementos expuestos a la intemperie, como temperatura mínima se adoptará la extrema del
+      ambiente. Como temperatura máxima en verano se adoptará la extrema del ambiente incrementada
+      en la procedente del efecto de la radiación solar, según la tabla 3.7
+                     Tabla 3.7 Incremento de temperatura debido a la radiación solar
+Orientación de la superficie                            Muy claro   Color de la superficie  Oscuro
+                                                                           Claro
+Norte y Este                                               0 ºC             2 ºC             4 ºC
+Sur y Oeste                                               18 ºC            30 ºC            42 ºC
+
+4     Como temperatura de los elementos protegidos en el interior del edificio puede tomarse, durante
+      todo el año, una temperatura de 20ºC.
+5     Como temperatura de los elementos de la envolvente no directamente expuestos a la intemperie se
+      puede adoptar la media entre las de los dos casos anteriores.
+3.5 Nieve
+1     La distribución y la intensidad de la carga de nieve sobre un edificio, o en particular sobre una cu-
+      bierta, depende del clima del lugar, del tipo de precipitación, del relieve del entorno, de la forma del
+      edificio o de la cubierta, de los efectos del viento, y de los intercambios térmicos en los paramentos
+      exteriores.
+2     Los modelos de carga de este apartado sólo cubren los casos del depósito natural de la nieve. En
+      cubiertas accesibles para personas o vehículos, deben considerarse las posibles acumulaciones
+      debidas a redistribuciones artificiales de la nieve. Asimismo, deben tenerse en cuenta las condicio-
+      nes constructivas particulares que faciliten la acumulación de nieve.
+3.5.1 Determinación de la carga de nieve
+1     En cubiertas planas de edificios de pisos situados en localidades de altitud inferior a 1.000 m, es
+      suficiente considerar una carga de nieve de 1,0 kN/m². En otros casos o en estructuras ligeras, sen-
+      sibles a carga vertical, los valores pueden obtenerse como se indica a continuación.
+
+                                               SE-AE 10
+
+                                     Documento Básico SE-AE Acciones en la edificación
+
+2     Como valor de carga de nieve por unidad de superficie en proyección horizontal, qₙ, puede tomarse:
+      q n = μ · s k                                                                                                   (3.2)
+      siendo:
+      μ      coeficiente de forma de la cubierta según 3.5.3
+      sₖ     el valor característico de la carga de nieve sobre un terreno horizontal según 3.5.2
+3     Cuando la construcción esté protegida de la acción de viento, el valor de carga de nieve podrá re-
+      ducirse en un 20%. Si se encuentra en un emplazamiento fuertemente expuesto, el valor deberá
+      aumentarse en un 20%.
+4     Para el cálculo de los elementos volados de la cubierta de edificios situados en altitudes superiores
+      a 1.000 m debe considerarse, además de la carga superficial de nieve, una carga lineal pₙ, en el
+      borde del elemento, debida a la formación de hielo, que viene dada por la expresión (donde k = 3
+      metros):
+      p n = k ·μ² · s k                                                                                               (3.3)
+5     La carga que actúa sobre elementos que impidan el deslizamiento de la nieve, se puede deducir a
+      partir de la masa de nieve que puede deslizar. A estos efectos se debe suponer que el coeficiente
+      de rozamiento entre la nieve y la cubierta es nulo.
+3.5.2 Carga de nieve sobre un terreno horizontal
+1     El valor de la sobrecarga de nieve sobre un terreno horizontal, sk, en las capitales de provincia y
+      ciudades autónomas se puede tomar de la tabla 3.8
+              Tabla 3.8 Sobrecarga de nieve en capitales de provincia y ciudades autónomas
+                Capital    Altitud   sₖ     2         Capital      Altitud  sₖ 2         Capital           Altitud    sₖ 2
+                            m       kN/m                            m       kN/m                            m         kN/m
+               Albacete     690      0,6          Guadalajara       680    0,6        Pontevedra             0       0,3
+     Alicante / Alacant       0      0,2               Huelva        0     0,2         Salamanca            780      0,5
+                Almería       0      0,2               Huesca       470    0,7        SanSebas-              0       0,3
+                  Ávila    1.130     1,0                 Jaén       570    0,4        tián/Donostia          0       0,3
+                Badajoz     180      0,2                 León       820    1,2        Santander            1.000     0,7
+              Barcelona       0      0,4      Lérida / Lleida       150    0,5        Segovia               10       0,2
+         Bilbao / Bilbo       0      0,3              Logroño       380    0,6        Sevilla              1.090     0,9
+                 Burgos     860      0,6                 Lugo       470    0,7             Soria             0       0,4
+                Cáceres     440      0,4         Madrid             660    0,6        Tarragona              0       0,2
+                  Cádiz      0       0,2               Málaga        0     0,2          Tenerife            950      0,9
+              Castellón      0       0,2               Murcia       40     0,2        Teruel                550      0,5
+            Ciudad Real     640      0,6     Orense / Ourense       130    0,4        Toledo                 0       0,2
+                Córdoba     100      0,2               Oviedo       230    0,5        Valencia/València     690      0,4
+      Coruña / A Coruña      0       0,3             Palencia       740    0,4        Valladolid            520      0,7
+                 Cuenca    1.010     1,0    Palma de Mallorca        0     0,2        Vitoria / Gasteiz     650      0,4
+        Gerona / Girona     70       0,4          Palmas, Las        0     0,2            Zamora            210      0,5
+                Granada     690      0,5         Pamplona/Iruña     450    0,7          Zaragoza             0       0,2
+                                                                                      Ceuta y Melilla
+
+2     En otras localidades el valor puede deducirse del Anejo E, en función de la zona y de la altitud to-
+      pográfica del emplazamiento de la obra.
+3     En emplazamientos con altitudes superiores a las máximas tabuladas en el citado Anejo, como
+      carga de nieve se adoptará la indicada por la ordenanza municipal, cuando exista, o se establecerá
+      a partir de los datos empíricos disponibles.
+4     El peso específico de la nieve acumulada es muy variable, pudiendo adoptarse 1,2 kN/m³ para la
+      recién caída, 2,0 kN/m³ para la prensada o empapada, y 4,0 kN/m³ para la mezclada con granizo.
+3.5.3 Coeficiente de forma
+1     El viento puede acompañar o seguir a las nevadas, lo que origina un depósito irregular de la nieve
+      sobre las cubiertas. Por ello, el espesor de la capa de nieve puede ser diferente en cada faldón. Pa-
+      ra la determinación del coeficiente de forma de cada uno de ellos, se aplicarán sucesivamente las
+      siguientes reglas
+
+                                                  SE-AE 11
+
+                               Documento Básico SE-AE Acciones en la edificación
+
+2     En un faldón limitado inferiormente por cornisas o limatesas, y en el que no hay impedimento al
+      deslizamiento de la nieve, el coeficiente de forma tiene el valor de 1 para cubiertas con inclinación
+      menor o igual que 30º y 0 para cubiertas con inclinación de mayor o igual que 60º (para valores in-
+      termedios se interpolará linealmente). Si hay impedimento, se tomará μ = 1 sea cual sea la inclina-
+      ción.
+3     En un faldón que limita inferiormente con una limahoya, lo que supone un impedimento al desliza-
+      miento de la nieve, se distinguen dos casos:
+      a)     si el faldón sucesivo está inclinado en el mismo sentido, como coeficiente de forma del de en-
+      cima se tomará el correspondiente a la inclinación del de debajo en una anchura de 2m.
+      b)    si está inclinado en sentido contrario, y la semisuma de las inclinaciones, β, es mayor de 30º,
+      el coeficiente de forma de ambos será de 2,0; en otro caso será μ = 1 + β/30º en una anchura de
+      2m.
+
+                               Figura 3.3 Coeficiente de forma en faldones
+4     Se tendrán en cuenta las posibles distribuciones asimétricas de nieve, debidas al trasporte de la
+      misma por efecto del viento, reduciendo a la mitad el coeficiente de forma en las partes en que la
+      acción sea favorable.
+3.5.4 Acumulación de nieve
+1     Adicionalmente, en los faldones limitados inferiormente por limatesas y cuyo coeficiente de forma,
+      μ, sea menor que la unidad, descargan parte de la nieve aguas abajo. Tal descarga ocasiona acu-
+      mulaciones de nieve si hay discontinuidades como limahoyas o cambios de nivel en esa dirección.
+      La descarga total por unidad de longitud, pd, puede evaluarse como:
+      pd = (1-μ)·L·sₖ                                                                                 (3.4)
+      siendo:
+      L     proyección horizontal media de la recta de máxima pendiente del faldón.
+2     La acumulación de nieve sobre una discontinuidad (limahoya o cambio de nivel) aguas abajo del
+      faldón se simula mediante una carga lineal, pₐ, de valor:
+      pₐ = min (μi, 1) · pd                                                                           (3.5)
+      que puede suponerse repartida uniformemente en un ancho no mayor que 2,0 m a un lado u otro de
+      la limahoya o del cambio de nivel.
+3     Si queda descarga por repartir (pd > pₐ), se considerará otra discontinuidad más debajo sometida a
+      la carga restante, y así sucesivamente hasta repartir la totalidad de la descarga o llegar al perímetro
+      del edificio. En cualquier caso, la suma de todas las cargas sobre discontinuidades no será mayor
+      que la descarga total del faldón.
+4     Sobre cada discontinuidad se sumarán, en su caso, las descargas que puedan provenir de los dis-
+      tintos faldones que haya aguas arriba.
+
+                                               SE-AE 12
+
+                              Documento Básico SE-AE Acciones en la edificación
+
+4 Acciones accidentales
+
+4.1 Sismo
+1     Las acciones sísmicas están reguladas en la NSCE, Norma de construcción sismorresistente: parte
+      general y edificación.
+4.2 Incendio
+1     Las acciones debidas a la agresión térmica del incendio están definidas en el DB-SI
+2     En las zonas de tránsito de vehículos destinados a los servicios de protección contra incendios, se
+      considerará una acción de 20 kN/m² dispuestos en una superficie de 3 m de ancho por 8 m de lar-
+      go, en cualquiera de las posiciones de una banda de 5 m de ancho, y las zonas de maniobra, por
+      donde se prevea y se señalice el paso de este tipo de vehículos.
+3     Para la comprobación local de las zonas citadas, se supondrá, de forma independiente y no simul-
+      tánea con la anterior, la actuación de una carga de 100 kN, actuando sobre una superficie circular
+      de 20 cm de diámetro sobre el pavimento terminado, en uno cualquiera de sus puntos.
+4.3 Impacto
+4.3.1 Generalidades
+1     Las acciones sobre un edificio causadas por un impacto dependen de la masa, de la geometría y de
+      la velocidad del cuerpo impactante, así como de la capacidad de deformación y de amortiguamiento
+      tanto del cuerpo como del elemento contra el que impacta.
+2     Salvo que se adoptaren medidas de protección, cuya eficacia debe verificarse, con el fin de dismi-
+      nuir la probabilidad de ocurrencia de un impacto o de atenuar sus consecuencias en caso de produ-
+      cirse, los elementos resistentes afectados por un impacto deben dimensionarse teniendo en cuenta
+      las acciones debidas al mismo, con el fin de alcanzar una seguridad estructural adecuada.
+3     El impacto de un cuerpo sobre un edificio puede representarse mediante una fuerza estática equi-
+      valente que tenga en cuenta los parámetros mencionados.
+4     Este Documento Básico considera sólo las acciones debidas a impactos accidentales, quedando
+      excluidos los premeditados, tales como la del impacto de un vehículo o la caída del contrapeso de
+      un aparato elevador.
+4.3.2 Impacto de vehículos
+1     La acción de impacto de vehículos desde el exterior del edificio, se considerará donde y cuando lo
+      establezca la ordenanza municipal. El impacto desde el interior debe considerarse en todas las zo-
+      nas cuyo uso suponga la circulación de vehículos.
+2     Los valores de cálculo de las fuerzas estáticas equivalentes debidas al impacto de vehículos de
+      hasta 30 kN de peso total, son de 50 kN en la dirección paralela la vía y de 25 kN en la dirección
+      perpendicular, no actuando simultáneamente.
+3     La fuerza equivalente de impacto se considerará actuando en un plano horizontal y se aplicará so-
+      bre una superficie rectangular de 0,25 m de altura y una anchura de 1,5 m, o la anchura del elemen-
+      to si es menor, y a una altura de 0,6 m por encima del nivel de rodadura, en el caso de elementos
+      verticales, o la altura del elemento, si es menor que 1,8 m en los horizontales.
+4     En zonas en las que se prevea la circulación de carretillas elevadoras, el valor de cálculo de la fuer-
+      za estática equivalente debida a su impacto será igual a cinco veces el peso máximo autorizado de
+      la carretilla. Se aplicará sobre una superficie rectangular de 0,4 m de altura y una anchura de 1,5 m,
+      o la anchura del elemento si es menor, y a una altura dependiente de la forma de la carretilla; en
+      ausencia de información específica se supondrá una altura de 0,75 m por encima del nivel de roda-
+      dura.
+
+                                               SE-AE 13
+
+                               Documento Básico SE-AE Acciones en la edificación
+
+5     Las características de la carretilla considerada deberán reflejarse en la memoria del proyecto y en
+      las instrucciones de uso y mantenimiento.
+6     Cuando en las instrucciones de uso y mantenimiento del edificio, se mencione otro tipo de vehícu-
+      los, por ejemplo helicópteros, deberá definirse en el proyecto el valor característico y el modelo em-
+      pleado para la acción correspondiente.
+4.4. Otras acciones accidentales
+1     En los edificios con usos tales como fábricas químicas, laboratorios o almacenes de materiales
+      explosivos, se hará constar en el proyecto las acciones accidentales específicas consideradas, con
+      indicación de su valor característico y su modelo.
+
+                                               SE-AE 14
+
+                              Documento Básico SE-AE Acciones en la edificación
+
+Anejo A. Terminología
+1     A continuación se definen algunos términos técnicos que se emplean en este Documento Básico.
+      Los términos de carácter general están definidos en el documento DB-SE.
+      Carga: Fuerza, debida a la gravedad, que actúa sobre un edificio y que interesa a su estructura.
+      Carga de nieve: Carga producida por la nieve.
+      Esbeltez de un edificio: Relación entre la máxima altura sobre rasante y el fondo en la dirección
+      del viento
+      Impacto: Colisión entre un cuerpo en movimiento y una construcción.
+      Periodo de retorno: Probabilidad de ocurrencia de un determinado evento en un periodo de refe-
+      rencia definido.
+      Peso propio: Carga producida por la gravedad en la masa de los elementos constructivos.
+      Sobrecarga de uso: Peso de todo lo que puede gravitar sobre el edificio por razón de su uso.
+      Superficie de aplicación: Superficie sobre la que actúa una fuerza concentrada.
+      Temperatura ambiente: Temperatura del aire exterior en el emplazamiento de un edificio.
+
+                                               SE-AE 15
+
+NO_CONTENT_HERE
+
+                              Documento Básico SE-AE Acciones en la edificación
+
+Anejo B. Notaciones y unidades
+
+B.1 Notaciones
+1     Mayúsculas latinas
+      A          Área; altitud sobre el nivel del mar; constante
+      Z          Parámetro de la aspereza del entorno
+2     Minúsculas latinas
+      cₑ         Coeficiente de exposición
+      cₚₑ        Coeficiente de presión exterior
+      cpi        Coeficiente de presión interior
+      d          Diámetro; espesor; longitud del edificio
+      e          Dimensión
+      h          Altura del edificio
+      hₘ         Altura media
+      k          Coeficiente de forma de la nieve colgada; Coeficiente del terreno
+      m          Masa
+      n          Número; coeficiente
+      p          Carga distribuida en línea
+      q          Carga uniformemente distribuida en superficie
+      qb         Valor básico de la presión dinámica del viento
+      sₖ         Valor característico de la carga de nieve sobre un terreno horizontal
+      vb         Valor básico de la velocidad del viento
+      x          Distancia
+      z          Altura de referencia
+3     Griegas
+      α          Pendiente de una cubierta
+      β          Ángulo
+      μ          Coeficiente de forma para determinar la carga de nieve
+      θ          Ángulo de dirección del viento
+      ρ          Densidad del aire
+      ϕ          Factor de obstrucción
+B.3 Unidades
+1     Se utiliza el Sistema Internacional de Unidades de Medida, SI.
+2     Para los cálculos se recomienda el uso de las unidades siguientes:
+      - Fuerzas y cargas:      kN, kN/m, kN/m²
+      - Masa:                 kg;
+      - Longitud:             m, mm;
+      - Tensiones:            N/mm²; kN/m²
+      - Momentos:             kN·m.
+3     A efectos prácticos se podrá considerar la siguiente correspondencia entre las unidades de fuerza
+      de los sistemas MKS y SI: 1 kilopondio [1 kp] = 10 Newton [10 N].
+
+                                                SE-AE 17
+
+NO_CONTENT_HERE
+
+                                         Documento Básico SE-AE Acciones en la edificación
+
+Anejo C. Prontuario de pesos y coeficientes de rozamiento interno
+
+                              Tabla C.1 Peso específico aparente de materiales de construcción
+                                         Peso especí-              Materiales y elementos        Peso especí-
+            Materiales y elementos      fico aparente                                           fico aparente
+                                            kN/m³                                                   kN/m³
+Materiales de albañilería                              Madera
+            Arenisca                     21,0 a 27,0               Aserrada, tipos C14 a C40      3,5 a 5,0
+            Basalto                      27,0 a 31,0               Laminada encolada              3,7 a 4,4
+            Calizas compactas, mármoles      28.0                  Tablero contrachapado             5,0
+            Diorita, gneis                   30,0                  Tablero cartón gris               8,0
+            Granito                      27,0 a 30,0               Aglomerado con cemento            12,0
+            Sienita, diorita, pórfido        28,0                  Tablero de fibras              8,0 a 10,0
+            Terracota compacta           21,0 a 27,0               Tablero ligero                    4,0
+Fábricas                                               Metales
+            Bloque hueco de cemento      13,o a 16,0               Acero                         77,0 a 78,5
+            Bloque hueco de yeso             10,0                  Aluminio                          27,0
+            Ladrillo cerámico macizo         18,0                  Bronce                        83,0 a 85,0
+            Ladrillo cerámico perforado      15,0                  Cobre                         87,0 a 89,0
+            Ladrillo cerámico hueco          12,0                  Estaño                            74,0
+            Ladrillo silicocalcáreo          20,0                  Hierro colado                 71,0 a 72,5
+Mampostería con mortero                                            Hierro forjado                    76,0
+            de arenisca                      24,0                  Latón                         83,0 a 85,0
+            de basalto                       27,0                  Plomo                        112,0 a 114,0
+            de caliza compacta               26,0                  Zinc                          71,0 a 72,0
+            de granito                       26,0      Plásticos y orgánicos
+Sillería                                                           Caucho en plancha                 17,0
+            de arenisca                      26,0                  Lámina acrílica                   12,0
+            de arenisca o caliza porosas     24,0                  Linóleo en plancha                12,0
+            de basalto                       30,0                  Mástico en plancha                21,0
+            de caliza compacta o mármol      28,0                  Poliestireno expandido            0,3
+            de granito                       28,0      Otros
+Hormigones y morteros                                              Adobe                             16,0
+            Hormigón ligero    (1)        9,0 a 20,0               Asfalto                           24,0
+            Hormigón normal                  24,0                  Baldosa cerámica                  18,0
+            Hormigón pesado                 > 28,0                 Baldosa de gres                   19,0
+            Mortero de cemento           19,0 a 23,0               Papel                             11,0
+            Mortero de yeso              12,0 a 28,0               Pizarra                           29,0
+            Mortero de cemento y cal     18,0 a 20,0               Vidrio                            25,0
+            Mortero de cal               12,0 a 18,0
+(1) En hormigón armado con armados usuales o fresco aumenta 1 kN/m3
+
+                              Tabla C.2 Peso por unidad de superficie de elementos de cobertura
+            Materiales y elementos           Peso                  Materiales y elementos            Peso
+                                            kN/m²                                                   kN/m²
+Aislante (lana de vidrio o roca)                       Tablero de madera, 25 mm espesor              0,15
+            por cada 10 mm de espesor        0,02      Tablero de rasilla, una hoja
+Chapas grecadas, canto 80 mm,                                      una hoja sin revestir             0,40
+            Acero 0,8 mm espesor             0,12                  una hoja más tendido de yeso      0,50
+            Aluminio, 0 8 mm espesor         0,04      Tejas planas (sin enlistonado)
+            Plomo, 1,5 mm espesor            0,18                  ligeras (24 kg/pieza)             0,30
+            Zinc, 1,2 mm espesor             0,10                  corrientes (3,0 kg/pieza)         0,40
+Cartón embreado, por capa                    0,05                  pesadas (3,6 kg/pieza)            0,50
+Enlistonado                                  0,05      Tejas curvas (sin enlistonado)
+Hoja de plástico armada, 1,2 mm              0,02                  ligeras (1,6 kg/pieza)            0,40
+Pizarra, sin enlistonado                                           corrientes (2,0 kg/pieza)         0,50
+            solape simple                    0,20                  pesadas (2,4 kg/pieza)            0,60
+            solape doble                     0,30      Vidriera (incluida la carpintería)
+Placas de fibrocemento, 6 mm espesor         0,18                  vidrio normal, 5 mm espesor       0,25
+                                                                   vidrio armado, 6 mm espesor       0,35
+
+                                                   SE-AE 19
+
+                                    Documento Básico SE-AE Acciones en la edificación
+
+                  Tabla C.3 Peso por unidad de superficie de elementos de pavimentación
+       Materiales y elementos                Peso                   Materiales y elementos              Peso
+                                            kN/m²                                                      kN/m²
+Baldosa hidráulica o cerámica                              Linóleo o loseta de goma y mortero
+(incluyendo material de agarre)
+         0,03 m de espesor total             0,50                       20 mm de espesor total          0,50
+         0,05 m de espesor total             0,80          Parque y tarima de 20 mm de espesor
+         0,07 m de espesor total             1,10                       sobre rastreles                 0,40
+Corcho aglomerado                                          Tarima de 20 mm de espesor
+         tarima de 20 mm y rastrel           0,40                       rastreles recibidos con yeso    0,30
+                                                           Terrazo sobre mortero, 50 mm espesor         0,80
+
+                                 Tabla C.4 Peso por unidad de superficie de tabiques
+       Tabiques (sin revestir)               Peso                   Revestimientos (por cara)           Peso
+                                            kN/m²                                                      kN/m²
+Rasilla, 30 mm de espesor                    0,40          Enfoscado o revoco de cemento                0,20
+Ladrillo hueco, 45 mm de espesor             0,60          Revoco de cal, estuco                        0,15
+         de 90 mm de espesor                 1,00          Guarnecido y enlucido de yeso                0,15
+
+                                 Tabla C.5 Peso propio de elementos constructivos
+
+Elemento                                                                                              Peso
+Forjados                                                                                            kN / m²
+                  Chapa grecada con capa de hormigón; grueso total < 0,12 m                            2
+                  Forjado unidireccional, luces de hasta 5 m; grueso total < 0,28 m                    3
+                  Forjado uni o bidireccional; grueso total < 0,30 m                                   4
+                  Forjado bidireccional, grueso total < 0,35 m                                         5
+                  Losa maciza de hormigón, grueso total 0,20 m                                         5
+Cerramientos y particiones       (para una altura libre del orden de 3,0 m) incluso enlucido         kN / m
+                  Tablero o tabique simple; grueso total< 0,09 m                                       3
+                  Tabicón u hoja simple de albañilería; grueso total < 0,14 m                          5
+                  Hoja de albañilería exterior y tabique interior; grueso total < 0,25 m               7
+Solados (incluyendo material de agarre)                                                             kN / m²
+                  Lámina pegada o moqueta; grueso total < 0,03 m                                      0,5
+                  Pavimento de madera, cerámico o hidráulico sobre plastón; grueso total < 0,08 m     1,0
+                  Placas de piedra, o peldañeado; grueso total < 0,15 m                               1,5
+Cubierta, sobre forjado (peso en proyección horizontal)                                             kN / m²
+                  Faldones de chapa, tablero o paneles ligeros                                        1,0
+                  Faldones de placas, teja o pizarra                                                  2,0
+                  Faldones de teja sobre tableros y tabiques palomeros                                3,0
+                  Cubierta plana, recrecido, con impermeabilización vista protegida                   1,5
+                  Cubierta plana, a la catalana o invertida con acabado de grava                      2,5
+Rellenos                                                                                            kN / m³
+                  Agua en aljibes o piscinas                                                           10
+                  Terreno , como en jardineras, incluyendo material de drenaje (1)                     20
+     (1) El peso total debe tener en cuenta la posible desviación de grueso respecto a lo indicado en planos.
+
+                                                        SE-AE 20
+
+                                      Documento Básico SE-AE Acciones en la edificación
+
+              Tabla C.6 Peso específico y ángulo de rozamiento de materiales almacenables y a granel(1)
+                Material              Peso₃   Ángulo                 Material                           Peso₃  Ángulo
+                                      kN/m                                                              kN/m
+Arena                               14 a 19    30º     Carbón en leña de trozos             4                   45º
+Arena de piedra pómez                  7       35º     Hulla
+Arena y grava                       15 a 20    35º       briquetas amontonadas              8                   35º
+Cal suelta                             13      25º       briquetas apiladas                 13                   -
+Cemento clinker suelto                 16      28º       en bruto, de mina                  10                  35º
+Cemento en sacos                       15                puverizada                         7                   25º
+Escoria de altos hornos                                Leña                                5,4                  45º
+   troceada                            17      40º     Lignito
+   granulada                           12      30º       briquetas amontonadas             7,8                  30º
+   triturada, de espuma                9       35º       briquetas apiladas                12,8                  -
+Poliéster en resina                    12       -        en bruto                       7,8 a 9,8            30º a 40º
+Polietileno, poliestirol granulado    6,4      30º       pulverizado                       4,9               25º a 40º
+Resinas y colas                        13       -      Turba negra y seca
+Yeso suelto                            15      25º       muy empaquetada                  6 a 9                  -
+Agua dulce                             10       -        amontonada y suelta              3 a 6                 45º
+(1) En la ENV 1990 pueden encontrarse valores adicionales de materiales agrícolas, industriales y otros.
+
+                                                  SE-AE 21
+
+NO_CONTENT_HERE
+
+                               Documento Básico SE-AE Acciones en la edificación
+
+Anejo D. Acción del viento
+
+D.1 Presión dinámica
+1     El valor básico de la presión dinámica del viento puede obtenerse con la expresión:
+      qb = 0,5 · δ· vb²                                                                            (D.1)
+      siendo δ la densidad del aire y vb el valor básico de la velocidad del viento.
+2     El valor básico de la velocidad del viento corresponde al valor característico de la velocidad media
+      del viento a lo largo de un período de 10 minutos, tomada en una zona plana y desprotegida frente
+      al viento (grado de aspereza del entorno II según tabla D.2) a una altura de 10 m sobre el suelo. El va-
+      lor característico de la velocidad del viento mencionada queda definido como aquel valor cuya pro-
+      babilidad anual de ser sobrepasado es de 0,02 (periodo de retorno de 50 años).
+3     La densidad del aire depende, entre otros factores, de la altitud, de la temperatura ambiental y de la
+      fracción de agua en suspensión. En general puede adoptarse el valor de 1,25 kg/m³. En emplaza-
+      mientos muy cercanos al mar, en donde sea muy probable la acción de rocío, la densidad puede
+      ser mayor.
+4     El valor básico de la velocidad del viento en cada localidad puede obtenerse del mapa de la figura
+      D.1. El de la presión dinámica es, respectivamente de 0,42 kN/m², 0,45 kN/m² y 0,52 kN/m² para las
+      zonas A, B y C de dicho mapa.
+
+                           Figura D.1 Valor básico de la velocidad del viento, vb
+5     Para comprobaciones de estados límite de servicio, la velocidad básica indicada en párrafos ante-
+      riores puede modificarse con el coeficiente de la tabla D.1 según el periodo de retorno considerado,
+      tomando para esa variable un tiempo igual al periodo de servicio con el que se proyecta el edificio.
+               8 [ F |
+                           1
+                                                SE-AE 23
+
+                                  Documento Básico SE-AE Acciones en la edificación
+
+                    Tabla D.1 Corrección de la velocidad básica en función del periodo de servicio
+Periodo de retorno (años)                                1     2         5       10         20             50   200
+Coeficiente corrector                                    0,41  0,78      0,85    0,90       0,95          1,00  1,08
+D.2 Coeficiente de exposición
+1        El coeficiente de exposición cₑ para alturas sobre el terreno, z, no mayores de 200 m, puede deter-
+         minarse con la expresión:
+         cₑ = F · (F + 7 k)                                                                                      (D.2)
+         F = k ln (max (z,Z) / L)                                                                                (D.3)
+         siendo k, L, Z parámetros característicos de cada tipo de entorno, según la tabla D.2
+
+                                     Tabla D.2 Coeficientes para tipo de entorno
+        Grado de aspereza del entorno                                                k      Parámetro
+                                                                                                  L (m)         Z (m)
+ I      Borde del mar o de un lago, con una superficie de agua en la     dirección  0,156         0,003         1,0
+        del viento de al menos 5 km de longitud
+ II     Terreno rural llano sin obstáculos ni arbolado de importancia               0,17          0,01          1,0
+III     Zona rural accidentada o llana con algunos obstáculos aislados,  como       0,19          0,05          2,0
+        árboles o construcciones pequeñas
+ IV     Zona urbana en general, industrial o forestal                               0,22           0,3          5,0
+ V      Centro de negocios de grandes ciudades, con profusión de edificios en       0,24           1,0          10,0
+        altura
+
+D.3 Coeficientes de presión exterior
+1        Los coeficientes de presión exterior o eólico, cₚ, dependen de la dirección relativa del viento, de la
+         forma del edificio, de la posición de elemento considerado y de su área de influencia.
+2        En las tablas D.3 a D.13 se dan valores de coeficientes de presión para diversas formas simples de
+         construcciones, obtenidos como el pésimo de entre los del abanico de direcciones de viento defini-
+         das en cada caso. En todas ellas la variable A se refiere al área de influencia del elemento o punto
+         considerado. El signo “ indica que el valor es idéntico al de la casilla superior. Cuando se aportan
+         dos valores de distinto signo separados, significa que la acción de viento en la zona considerada
+         puede variar de presión a succión, y que deben considerarse las dos posibilidades. En todas las ta-
+         blas puede interpolarse linealmente para valores intermedios de las variables. Los valores nulos se
+         ofrecen para poder interpolar.
+3        Para comprobaciones locales de elementos de fachada o cubierta, el área de influencia será la del
+         propio elemento. Para comprobaciones de elementos estructurales subyacentes, el área de asigna-
+         ción de carga. Si la zona tributaria del elemento se desarrolla en dos o más zonas de las estableci-
+         das en las tablas, como es el caso de análisis de elementos estructurales generales, el uso de los
+         coeficientes tabulados opera del lado de la seguridad, toda vez que no representan valores simultá-
+         neos de la acción de viento.
+4        Para elementos con área de influencia A, entre 1 m² y 10 m², el coeficiente de presión exterior se
+         puede obtener mediante la siguiente expresión:
+         cpe,A = cpe,1 +(cpe,10 – cpe,1)· log₁₀A                                                                (D.4)
+         siendo:
+         cpe,10     coeficiente de presión exterior para elementos con un área de influencia A ≥ 10 m²
+         cpe,1      coeficiente de presión exterior para elementos con un área de influencia A ≤ 1 m²
+
+                                                               SE-AE 24
+
+                                      Documento Básico SE-AE Acciones en la edificación
+
+5     En caso de construcciones con forma diferente de las aquí establecidas, deberá procederse por
+      analogía, considerando, si es preciso, que el volumen está formado por la construcción considerada
+      y las medianeras.
+6     Se permite el empleo de las tablas de coeficientes de presión de la norma EN 1991-1-4, tanto para
+      las formas canónicas no incluidas en este Documento Básico como para los coeficientes globales
+      de fuerza de las que sí están incluidas.
+
+Tabla D.3 Paramentos verticales
+
+                                A₂    h/d       Zona (según figura), -45º < θ < 45º
+                              (m )              A       B       C       D      E
+                         ≥ 10         5        -1,2    -0,8    -0,5    0,8    -0,7
+                                      1         “       “       “       “     -0,5
+                                      ≤ 0,25    “       “              0,7    -0,3
+                         5            5        -1,3    -0,9    -0,5    0,9    -0,7
+                                      1         “       “       “       “     -0,5
+                                      ≤ 0,25    “       “       “     0,8     -0,3
+                         2            5        -1,3    -1,0    -0,5    0,9    -0,7
+                                      1         “       “       ·”      “     -0,5
+                                      ≤ 0,25    “       “       “     0,7     -0,3
+                         ≤ 1          5        -1,4    -1,1    -0,5    1,0    -0,7
+                                      1         “       “       “       “     -0,5
+                                      ≤ 0,25    “       “       “       “     -0,3
+
+                                                  SE-AE 25
+
+                                    Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.4 Cubiertas planas
+
+                            hₚ/h             A (m2)           F      Zona (según figura),  -45º < θ < 45º
+                                                                              G              H                I
+                                              ≥ 10           -1,8            -1,2           -0,7            0,2
+Bordes con aristas                                                                                          -0,2
+                                              ≤ 1            -2,5            -2,0           -1,2            0,2
+                                                                                                            -0,2
+                                              ≥ 10           -1,6            -1,1           -0,7            0,2
+                           0,025                                                                            -0,2
+                                              ≤ 1            -2,2            -1,8           -1,2            0,2
+                                                                                                            -0,2
+                                              ≥ 10           -1,4            -0,9           -0,7            0,2
+Con parapetos               0,05                                                                            -0,2
+                                              ≤ 1            -2,0            -1,6           -1,2            0,2
+                                                                                                            -0,2
+                                              ≥ 10           -1,2            -0,8           -0,7            0,2
+                            0,10                                                                            -0,2
+                                              ≤ 1            -1,8            -1,4           -1,2            0,2
+                                                                                                            -0,2
+Nota: Se considerarán cubiertas planas aquellas con una pendiente no superior a 5º
+
+                                                      SE-AE 26
+
+                                   Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.5 Cubiertas a un agua.
+a)   Dirección del viento -45º ≤ θ ≤ 45º
+
+         Pendiente de la       A (m²)                           Zona (según figura),  -45º < θ < 45
+            cubierta α                                   F                       G                      H
+                                ≥ 10                    -1,7                    -1,2                   -0,6
+                5º                                      +0,0                    +0,0                   +0,0
+                                ≤ 1                     -2,5                    -2,0                   -1,2
+                                                        +0,0                    +0,0                   +0,0
+                                ≥ 10                    -0,9                    -0,8                   -0,3
+         15º                                            0,2                     0,2                    0,2
+                                ≤ 1                     -2,0                    -1,5                   -0,3
+                                                        0,2                     0,2                    0,2
+                                ≥ 10                    -0,5                    -0,5                   -0,2
+         30º                                            0,7                     0,7                    0,4
+                                ≤ 1                     -1,5                    -1,5                   -0,2
+                                                        0,7                     0,7                    0,4
+                                ≥ 10                    -0,0                    -0,0                   -0,0
+               45º                                      0,7                     0,7                    0,6
+                                ≤ 1                     -0,0                    -0,0                   -0,0
+                                                        0,7                     0,7                    0,6
+               60º              ≥ 10                    0,7                     0,7                    0,7
+                                ≤ 1                     0,7                     0,7                    0,7
+               75º              ≥ 10                    0,8                     0,8                    0,8
+                                ≤ 1                     0,8                     0,8                    0,8
+
+                                                      SE-AE 27
+
+                                Documento Básico SE-AE Acciones en la edificación
+
+b)   Dirección del viento 135º ≤ θ ≤ 225º
+
+  Pendiente de la           A (m²)                          Zona (según figura), 135º ≤ θ ≤ 225º
+     cubierta α                                      F                    G                     H
+         5º                  ≥ 10                   -2,3                 -1,3                  -0,8
+                             ≤ 1                    -2,5                 -2,0                  -1,2
+        15º                  ≥ 10                   -2,5                 -1,3                  -0,9
+                             ≤ 1                    -2,8                 -2,0                  -1,2
+        30º                  ≥ 10                   -1,1                 -0,8                  -0,8
+                             ≤ 1                    -2,3                 -1,5                  -0,8
+        45º                  ≥ 10                   -0,6                 -0,5                  -0,7
+                             ≤ 1                    -1,3                 -0,5                  -0,7
+        60º                  ≥ 10                   -0,5                 -0,5                  -0,5
+                             ≤ 1                    -1,0                 -0,5                  -0,5
+        75º                  ≥ 10                   -0,5                 -0,5                  -0,5
+                             ≤ 1                    -1,0                 -0,5                  -0,5
+
+                                                 SE-AE 28
+
+                                      Documento Básico SE-AE Acciones en la edificación
+
+c)     Dirección del viento 45º ≤ θ ≤ 135º
+
+    Pendiente de la                A (m²)                            Zona (según figura),      45º ≤ θ ≤ 135º
+       cubierta α                                       Finf           Fsup             G              H               I
+           5º                       ≥ 10                -2,1           -2,1            -1,8           -0,6           -0,5
+                                    ≤ 1                 -2,4           -2,6            -2,0           -1,2           -0,5
+          15º                       ≥ 10                -1,6           -2,4            -1,9           -0,8           -0,7
+                                    ≤ 1                 -2,4           2,9             -2,5           -1,2           -1,2
+          30º                       ≥ 10                -1,3           -2,1            -1,5           -1,0           -0,8
+                                    ≤ 1                 -2,0           -2,9            -2,0           -1,3           -1,2
+          45º                       ≥ 10                -1,3           -1,5            -1,4           -1,0           -0,9
+                                    ≤ 1                 -2,0           -2,4            -2,0           -1,3           -1,2
+          60º                       ≥ 10                -1,2           -1,2            -1,2           -1,0           -0,7
+                                    ≤ 1                 -2,0           -2,0            -2,0           -1,3           -1,2
+          75º                       ≥ 10                -1,2           -1,2            -1,2           -1,0           -0,5
+                                    ≤ 1                 -2,0           -2,0            -2,0           -1,3           -0,5
+
+                                                           SE-AE 29
+
+                                   Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.6 Cubiertas a dos aguas
+a)   Dirección del viento -45º ≤ θ ≤   45º
+
+          Pendiente de la        A (m²)              F             G    Zona (según figura)
+             cubierta α                                                          H             I             J
+                -45º              ≥ 10              -0,6          -0,6          -0,8          -0,7          -1
+                                  ≤ 1               -0,6          -0,6          -0,8          -0,7         -1,5
+                -30º              ≥ 10              -1,1          -0,8          -0,8          -0,6         -0,8
+                                  ≤ 1                -2           -1,5          -0,8          -0,6         -1,4
+                -15º              ≥ 10              -2,5          -1,3          -0,9          -0,5         -0,7
+                                  ≤ 1               -2,8           -2           -1,2          -0,5         -1,2
+                                  ≥ 10              -2,3          -1,2          -0,8          0,2          0,2
+                -5º                                                                           -0,6         -0,6
+                                  ≤ 1               -2,5           -2           -1,2          0,2          0,2
+                                                                                              -0,6         -0,6
+                                  ≥ 10              -1,7          -1,2          -0,6          -0,6         0,2
+           5º                                       +0,0          +0,0          +0,0                       -0,6
+                                  ≤ 1               -2,5           -2           -1,2          -0,6         0,2
+                                                    +0,0          +0,0          +0,0                       -0,6
+                                  ≥ 10              -0,9          -0,8          -0,3          -0,4          -1
+          15º                                       0,2           0,2           0,2          +0,0          +0,0
+                                  ≤ 1                -2           -1,5          -0,3          -0,4         -1,5
+                                                    0,2           0,2           0,2          +0,0          +0,0
+                                  ≥ 10              -0,5          -0,5          -0,2          -0,4         -0,5
+          30º                                       0,7           0,7           0,4            0             0
+                                  ≤ 1               -1,5          -1,5          -0,2          -0,4         -0,5
+                                                    0,7           0,7           0,4            0             0
+                                  ≥ 10              -0,0          -0,0          -0,0          -0,2         -0,3
+                45º                                 0,7           0,7           0,6          +0,0          +0,0
+                                  ≤ 1               -0,0          -0,0          -0,0          -0,2         -0,3
+                                                    0,7           0,7           0,6          +0,0          +0,0
+                60º               ≥ 10              0,7           0,7           0,7           -0,2         -0,3
+                                  ≤ 1               0,7           0,7           0,7           -0,2         -0,3
+                75º               ≥ 10              0,8           0,8           0,8           -0,2         -0,3
+                                  ≤ 1               0,8           0,8           0,8           -0,2         -0,3
+
+                                                      SE-AE 30
+
+                                     Documento Básico SE-AE Acciones en la edificación
+
+b)     Dirección del viento 45º ≤ θ ≤ 135º
+
+    Pendiente de la               A (m²)                            Zona (según figura),     -45º ≤ θ ≤ 45º
+      cubierta α                                          F                  G                  H                  I
+          -45º                     ≥ 10                  -1,4               -1,2               -1,0               -0,9
+                                   ≤ 1                   -2,0               -2,0               -1,3               -1,2
+          -30º                     ≥ 10                  -1,5               -1,2               -1,0               -0,9
+                                   ≤ 1                   -2,1               -2,0               -1,3               -1,2
+          -15º                     ≥ 10                  -1,9               -1,2               -0,8               -0,8
+                                   ≤ 1                   -2,5               -2,0               -1,2               -1,2
+          -5º                      ≥ 10                  -1,8               -1,2               -0,7               -0,6
+                                   ≤ 1                   -2,5               -2,0               -1,2               -1,2
+           5º                      ≥ 10                  -1,6               -1,3               -0,7               -0,6
+                                   ≤ 1                   -2,2               -2,0               -1,2               -0,6
+          15º                      ≥ 10                  -1,3               -1,3               -0,6               -0,5
+                                   ≤ 1                   -2,0               -2,0               -1,2               -0,5
+          30º                      ≥ 10                  -1,1               -1,4               -0,8               -0,5
+                                   ≤ 1                   -1,5               -2,0               -1,2               -0,5
+          45º                      ≥ 10                  -1,1               -1,4               -0,9               -0,5
+                                   ≤ 1                   -1,5               -2,0               -1,2               -0,5
+          60º                      ≥ 10                  -1,1               -1,2               -0,8               -0,5
+                                   ≤ 1                   -1,5               -2,0               -1,0               -0,5
+          75º                      ≥ 10                  -1,1               -1,2               -0,8               -0,5
+                                   ≤ 1                   -1,5               -2,0               -1,0               -0,5
+ Nota:
+      -   No se deben mezclar valores positivos y negativos en una sola cara.
+
+                                                          SE-AE 31
+
+                                    Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.7 Cubiertas a cuatro aguas
+
+  Pendiente               2                                         Zona (según figura)
+de la cubier-        A (m )           F        G          H         I         J         K         L         M         N
+     ta α
+                      ≥ 10          -1,7      -1,2       -0,6      -0,3      -0,6      -0,6      -1,2      -0,6      -0,4
+      5º                            +0,0      +0,0       +0,0
+                       ≤ 1          -2,5      -2,0       -1,2      -0,3      -0,6      -0,6      -2,0      -1,2      -0,4
+                                    +0,0      +0,0       +0,0
+                      ≥ 10          -0,9      -0,8       -0,3      -0,5      -1,0      -1,2      -1,4      -0,6      -0,3
+     15º                            +0,2      +0,2       +0,2
+                       ≤ 1          -2,0      -1,5       -0,3      -0,5      -1,5      -2,0      -2,0      -1,2      -0,3
+                                    +0,2      +0,2       +0,2
+                      ≥ 10          -0,5      -0,5       -0,2      -0,4      -0,7      -0,5      -1,4      -0,8      -0,2
+     30º                            +0,5      +0,7       +0,4
+                       ≤ 1          -1,5      -1,5       -0,2      -0,4      -1,2      -0,5      -2,0      -1,2      -0,2
+                                    +0,5      +0,7       +0,4
+                      ≥ 10          -0,0      -0,0       -0,0      -0,3      -0,6      -0,3      -1,3      -0,8      -0,2
+     45º                            +0,7      +0,7       +0,6
+                       ≤ 1          -0,0      -0,0       -0,0      -0,3      -0,6      -0,3      -2,0      -1,2      -0,2
+                                    +0,7      +0,7       +0,6
+     60º              ≥ 10          +0,7      +0,7       +0,7      -0,3      -0,6      -0,3      -1,2      -0,4      -0,2
+                       ≤ 1          +0,7      +0,7       +0,7      -0,3      -0,6      -0,3      -2,0      -0,4      -0,2
+     75º              ≥ 10          +0,8      +0,8       +0,8      -0,3      -0,6      -0,3      -1,2      -0,4      -0,2
+                       ≤ 1          +0,8      +0,8       +0,8      -0,3      -0,6      -0,3      -2,0      -0,4      -0,2
+Nota:
+-     La pendiente de la cubierta a barlovento resulta dominante para los coeficientes de presión.
+
+                                                         SE-AE 32
+
+                                  Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.8 Cubiertas en diente de sierra
+     a)    Dirección del viento -45º ≤ θ ≤  45º
+
+     b)    Dirección del viento -45º ≤ θ ≤ 45º
+
+Notas:
+     -     Los coeficientes de presión para cada faldón se podrán tomar de la tabla relativa a cubierta a un agua, mo-
+           dificándolos de acuerdo con las indicaciones de las figuras a) y b) anteriores.
+     -     En el caso de la figura b) se deberán considerar dos situaciones. En la primera el viento ejerce una presión
+           sobre la cubierta del primer faldón a barlovento, y en la segunda la misma cubierta está sometida a una
+           succión del viento.
+
+                                                    SE-AE 33
+
+                                   Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.9 Cubiertas múltiples
+Dirección del viento -45º ≤θ≤ 45º
+
+Notas:
+     -     Los coeficientes de presión para cada par de faldones se podrán tomar de la tabla relativa a cubiertas a dos
+           aguas, modificándolos de acuerdo con las indicaciones de las figuras a) y b) anteriores.
+     -     En el caso de la figura a) los coeficientes de presión cₚₑ correspondientes a los módulos extremos se podrán
+           tomar de la tabla relativa a cubiertas a un agua.
+
+                                                      SE-AE 34
+
+                                   Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.10 Marquesinas a un agua
+
+                                                                  Coeficientes de presión exterior
+                                                                               cρ,10
+             Pendiente de     Efecto del     Factor de                  Zona (según figura)
+            la cubierta α    viento hacia   obstrucción          A               B               C
+                                                 ϕ
+                                Abajo        0 ≤ ϕ ≤ 1          0,5             1,8             1,1
+                  0º            Arriba           0              -0,6            -1,3            -1,4
+                                Arriba           1              -1,5            -1,8            -2,2
+                                Abajo        0 ≤ ϕ ≤ 1          0,8             2,1             1,3
+                  5º            Arriba           0              -1,1            -1,7            -1,8
+                                Arriba           1              -1,6            -2,2            -2,5
+                                Abajo        0 ≤ ϕ ≤ 1          1,2             2,4             1,6
+                 10º            Arriba           0              -1,5            -2,0            -2,1
+                                Arriba           1              -2,1            -2,6            -2,7
+                                Abajo        0 ≤ ϕ ≤ 1          1,4             2,7             1,8
+                 15º            Arriba           0              -1,8            -2,4            -2,5
+                                Arriba           1              -1,6            -2,9            -3,0
+                                Abajo        0 ≤ ϕ ≤ 1          1,7             2,9             2,1
+                 20º            Arriba           0              -2,2            -2,8            -2,9
+                                Arriba           1              -1,6            -2,9            -3,0
+                                Abajo        0 ≤ ϕ ≤ 1          2,0             3,1             2,3
+                 25º            Arriba           0              -2,6            -3,2            -3,2
+                                Arriba           1              -1,5            -2,5            -2,8
+                                Abajo        0 ≤ ϕ ≤ 1          2,2             3,2             2,4
+                 30º            Arriba           0              -3,0            -3,8            -3,6
+                                Arriba           1              -1,5            -2,2            -2,7
+Notas:
+      -     El grado de obstrucción del flujo del viento por debajo de una marquesina se caracteriza mediante el factor
+            de obstrucción, ϕ, definido como la relación entre el área obstruida y el área de la sección total bajo la mar-
+            quesina. Ambas áreas se consideran en un plano perpendicular a la dirección del viento.
+
+                                                      SE-AE 35
+
+                              Documento Básico SE-AE Acciones en la edificación
+
+-     Los coeficientes de presión tienen en cuenta los efectos del viento actuando sobre ambas superficies, la su-
+      perior y la inferior. Un valor negativo del coeficiente indica que la acción del viento tiende a levantar la mar-
+      quesina, y un valor positivo lo contrario. Por regla general, a efectos del dimensionado de las marquesinas
+      se deberán considerar ambas situaciones.
+-     Los coeficientes de presión representan la máxima presión localizada sobre un área de por lo menos 10 m².
+      Los coeficientes de presión se podrán emplear en el dimensionado de los elementos de cobertura y de sus
+      fijaciones.
+-     A efectos del dimensionado de la estructura, la resultante de la acción del viento se supondrá actuando a
+      una distancia de d/4, medida desde el borde de barlovento.
+-     A sotavento del punto de máximo bloqueo, se emplearán los valores de los coeficientes de presión exterior
+      correspondientes a un factor de obstrucción ϕ=0.
+
+                                                 SE-AE 36
+
+                                   Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.11 Marquesinas a dos aguas
+
+                                                                      Coeficientes de presión
+                                                                               cρ,10
+                 Pendiente       Efecto del      Factor de              Zona (según figura)
+               de la cubier-    viento hacia   obstrucción        A         B         C          D
+                    ta α                             ϕ
+                                   Abajo         0 ≤ ϕ ≤ 1       0,8       1,6       0,6        1,7
+                    -20º           Arriba            0           -0,9      -1,3      -1,6       -0,6
+                                   Arriba            1           -1,5      -2,4      -2,4       -0,6
+                                   Abajo         0 ≤ ϕ ≤ 1       0,6       1,5       0,7        1,4
+                    -15º           Arriba            0           -0,8      -1,3      -1,6       -0,6
+                                   Arriba            1           -1,6      -2,7      -2,6       -0,6
+                                   Abajo         0 ≤ ϕ ≤ 1       0,6       1,4       0,8        1,1
+                    -10º           Arriba            0           -0,8      -1,3      -1,5       -0,6
+                                   Arriba            1           -1,6      -2,7      -2,6       -0,6
+                                   Abajo         0 ≤ ϕ ≤ 1       0,5       1,5       0,8        0,8
+                    -5º            Arriba            0           -0,7      -1,3      -1,6       -0,6
+                                   Arriba            1           -1,5      -2,4      -2,4       -0,6
+                                   Abajo         0 ≤ ϕ ≤ 1       0,6       1,8       1,3        0,4
+                     5º            Arriba            0           -0,6      -1,4      -1,4       -1,1
+                                   Arriba            1           -1,3      -2,0      -1,8       -1,5
+                                   Abajo         0 ≤ ϕ ≤ 1       0,7       1,8       1,4        0,4
+                    10º            Arriba            0           -0,7      -1,5      -1,4       -1,4
+                                   Arriba            1           -1,3      -2,0      -1,8       -1,8
+                                   Abajo         0 ≤ ϕ ≤ 1       0,9       1,9       1,4        0,4
+                    15º            Arriba            0           -0,9      -1,7      -1,4       -1,8
+                                   Arriba            1           -1,3      -2,2      -1,6       -2,1
+                                   Abajo         0 ≤ ϕ ≤ 1       1,1       1,9       1,5        0,4
+                    20º            Arriba            0           -1,2      -1,8      -1,4       -2,0
+                                   Arriba            1           -1,4      -2,2      -1,6       -2,1
+                                   Abajo         0 ≤ ϕ ≤ 1       1,2       1,9       1,6        0,5
+                    25º            Arriba            0           -1,4      -1,9      -1,4       -2,0
+                                   Arriba            1           -1,4      -2,0      -1,5       -2,0
+                                   Abajo         0 ≤ ϕ ≤ 1       1,3       1,9       1,6        0,7
+                    30º            Arriba            0           -1,4      -1,9      -1,4       -2,0
+                                   Arriba            1           -1,4      -1,8      -1,4       -2,0
+
+                                                      SE-AE 37
+
+                                    Documento Básico SE-AE Acciones en la edificación
+
+Notas:
+     -     El grado de obstrucción del flujo del viento por debajo de una marquesina se caracteriza mediante el factor
+           de obstrucción, ϕ, definido como la relación entre el área obstruida y el área de la sección total bajo la mar-
+           quesina. Ambas áreas se consideran en un plano perpendicular a la dirección del viento.
+     -     Los coeficientes de presión tienen en cuenta los efectos del viento actuando sobre ambas superficies, la
+           superior y la inferior. Un valor negativo del coeficiente indica que la acción del viento tiende a levantar la
+           marquesina, y un valor positivo lo contrario. Por regla general, a efectos del dimensionado de las marquesi-
+           nas se deberán considerar ambas situaciones.
+     -     Los coeficientes de presión, cρ,10, representan la máxima presión localizada sobre un área de por lo menos
+           10 m². Los coeficientes de presión, cρ,10, se podrán emplear en el dimensionado de los elementos de cober-
+           tura y de sus fijaciones.
+     -     A efectos del dimensionado de la estructura, la resultante de la acción del viento sobre cada uno de los fal-
+           dones se admitirá actuando en su centro. Además, se considerará también la situación en la que el viento
+           actúa únicamente sobre uno de los dos faldones.
+     -     Para factores de obstrucción con 0<ϕ<1, los coeficientes de sustentación y de fuerza se podrán determinar
+           mediante interpolación lineal.
+     -     A sotavento del punto de máxima obstrucción, se emplearán los valores de los coeficientes de sustentación
+           correspondientes a un factor de obstrucción ϕ=0.
+
+                                                       SE-AE 38
+
+                                   Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.12 Cubiertas cilíndricas
+
+Notas:
+     -     Para 0 < g/d < 0,5, el coeficiente de presión exterior, cpe,10, correspondiente a la superficie A, se obtendrá
+           mediante interpolación lineal.
+     -     Para 0,2 ≤ f/d ≤ 0,3 y g/d ≥ 0,5, se adoptará el más desfavorable de los dos posibles valores del coeficiente
+           de presión exterior, cpe,10, correspondiente a la zona A.
+
+                                                      SE-AE 39
+
+                                      Documento Básico SE-AE Acciones en la edificación
+
+Tabla D.13 Cubiertas esféricas
+
+Notas:
+     -     cpe,10 es constante a lo largo de cada uno de los arcos del círculo de intersección entre la esfera y los planos
+           perpendiculares a la dirección del viento.
+     -     Los valores de cpe,10 a lo largo de los arcos de circunferencia paralelos a la dirección del viento se podrán
+           determinar mediante interpolación lineal ente los valores en A, B, C.
+     -     Para 0<g/d<1 el coeficiente de presión exterior en A se obtendrá mediante interpolación lineal entre los valo-
+           res indicados en la figura.
+     -     Para 0<g/d<0,5, los coeficientes de presión exterior en B y C se obtendrán mediante interpolación lineal en-
+           tre los valores indicados en la figura.
+
+                                                      SE-AE 40
+
+                                               Documento Básico SE-AE Acciones en la edificación
+
+Anejo E. Datos climáticos
+1           El valor característico de la temperatura máxima del aire, depende del clima del lugar y de la altitud.
+            A falta de datos empíricos más precisos, se podrá tomar, independientemente de la altitud, igual al
+            límite superior del intervalo reflejado en el mapa de la figura E.1
+     14 Oow      0oW 12 OOY  1UU     0oW 0 OOW  8 UUV             7 00 W     6 0oW     5 0ov      4ooW          3 0ow      20ow  UU           0 00E  1 0o'E  20FE  3 00E         OOE  5 0O E
+                                                                                                                                                                                            0o N
+
+ 43 OoN                                                   Lugo               Ovledo               Santander                Sebastián                                                        23 OON
+
+                                         Porr  Gor                                                              Vitoria    Pamplona
+ 42 OON-                                              Ourense                             Palencia Burgos       Logrono                 Huesca                                               OON
+
+ 41 0oN                                                                      Zamora Valladolid                  Soria            Zaragoza            Leida   Barce ona
+                                                                                                                                                     arragona                             41 OCN
+                                                                             Salamanca            Segovia
+                                                                                                            Guadalajara
+ 40 0ON-                                                                                           Madrid                  Cuenca  Teruel     Castehon                                      FOON
+
+ J0 0oN                                                           Caceres                         Toledo                                Valercia                  Palma   Mallorc
+                                                          Baqe                                    Cluda Real               Albacete                                                          OCN
+ 38 0oN                                                                                                                                 Alicar
+                                                                                       Córdoba     Jaen                            Murcia                         Intervalos de Tmax         OON
+                                                                                                                                                                          PCI
+ 37 OON                                                   Huelva            Sevllla                Granada                                                                32a 40
+ 13 00 wV                                                                                                                                                                40 a 42          37 OON
+                     17 Cow  16 Oow  16 Oow     14 @ow                                    Mála                  Almería                                                   42a 44
+        2 0O}                                                                                                                                                            44 a 46
+ 76 0ON                                                                                                                                                                  46 a 48          38 OON
+                                                                  Don        Ceuta                                                                                       48 a 50
+                                                                                                                                                                         50 a 52
+       26 OC}
+ 35 0oN                              anaria                                                                     Melllla                                                    29Rm             OON
+                 1on         101     1500
+                 12 0oW      10 0ow  @ 0ow     8 O0W  7 0ow       6 OoW                5 0ow      400W          3 Oow      2 0oW        1dow      0 00 E    1O0E   2 OOE  3 OOE       4OOE
+                             Figura E.1 Isotermas de la temperatura anual máxima del aire (Tₘₐₓ en ºC)
+
+2           Como valor característico de la temperatura mínima del aire exterior, puede tomarse la de la tabla
+            E.2, en función de la altitud del emplazamiento, y la zona climática invernal, según el mapa de la fi-
+            gura E.3.
+
+                                               Tabla E.1 Temperatura mínima del aire exterior (ºC)
+             Altitud (m)    1         2                                     Zona de clima invernal, (según figura E.2)
+                                                                              3                                  4                        5                        6      7
+                  0         -7       -11                                     -11                                 -6                       -5                       -6     6
+                 200       -10       -13                                     -12                                 -8                       -8                       -8     5
+                 400       -12       -15                                     -14                                -10                      -11                       -9     3
+                 600       -15       -16                                     -15                                -12                      -14                      -11     2
+                 800       -18       -18                                     -17                                -14                      -17                      -13     0
+                1.000      -20       -20                                     -19                                -16                      -20                      -14     -2
+                1.200      -23       -21                                     -20                                -18                      -23                      -16     -3
+                1.400      -26       -23                                     -22                                -20                      -26                      -17     -5
+                1.600      -28       -25                                     -23                                -22                      -29                      -19     -7
+                1.800      -31       -26                                     -25                                -24                      -32                      -21     -8
+                2.000      -33       -28                                     -27                                -26                      -35                      -22    -10
+
+                                                                                          SE-AE 41
+
+                                                 Documento Básico SE-AE Acciones en la edificación
+
+       14 Oow    1 0o  120o 11 0oW      10 0o  200      8 00           6 00           5 00W         o 3 Cc                   2 00w  10O       00o (  10o(  300 {     3 00 {  41 00 (  600 (
+                                                                                                                                                                                           CON
+      AulN                                              Lugo           Oviedo                       Santal                                                                                 43 OOHi
+                                                                       ZONA                                                  amplona
+      42OCH                                        Ourense                      Leon       Palencia      Burge    Logrono                Huesc                       Gerone
+
+                                                                       Zamora         Valladolid                                    Zaragoza         lelda
+                                                                                           ZONA 3                                   ZONA 2           Tarragop Barcelona                 A1 Oon
+                                                                                Salamanca      Segov)
+                                                                                                     Guadalajara
+                                                                                                        Magrid
+                                                                                               Toledo                        ence
+                                                                       Caceres  ZONA 4                                       ZONA 5Valercia                Palma           Mallorc
+                                                                Bac                                Ciudad Real               Albacete                                ZONA 5             30 Gon
+     38 0o1/~                                                                                                                            Alica
+                                                                                      Ccrdoba       Jaen                            Murcia                                                0on1
+     87 Oo-                                                     Hual   Sevilla        ZONA Grarada                                                                                         0oN
+                 1a0n  To4
+       20 00                                                                               Malag
+
+       2u @o                            ZONA                           Oow      eula       ZONA 6                                                                                          001
+                                        anara                                                                     Malilla                                                    298m          Ooh
+                 16 0ow  17co     0O    31500    14 0ow
+                         @cw     00W    0 @o     8 001  70o            0 00W    500                                @ow       o                             10*0 {            Ao       00t
+                                                        Figura E.2 Zonas climáticas de invierno
+
+3       Como valor de carga de nieve en un terreno horizontal, sk, puede tomarse de la tabla E.2 función de
+        la altitud del emplazamiento o término municipal, y de la zona climática del mapa de la figura E.2
+
+                               Tabla E.2 Sobrecarga de nieve en un terreno horizontal (kN/m²)
+        Altitud (m)                  1                  2              Zona de clima invernal, (según figura E.2)
+                                                                                 3                             4      5      6      7
+             0                      0,3                 0,4            0,2                                    0,2    0,2    0,2    0,2
+            200                     0,5                 0,5            0,2                                    0,2    0,3    0,2    0,2
+            400                     0,6                 0,6            0,2                                    0,3    0,4    0,2    0,2
+            500                     0,7                 0,7            0,3                                    0,4    0,4    0,3    0,2
+            600                     0,9                 0,9            0,3                                    0,5    0,5    0,4    0,2
+            700                     1,0                 1,0            0,4                                    0,6    0,6    0,5    0,2
+            800                     1,2                 1,1            0,5                                    0,8    0,7    0,7    0,2
+            900                     1,4                 1,3            0,6                                    1,0    0,8    0,9    0,2
+           1.000                    1,7                 1,5            0,7                                    1,2    0,9    1,2    0,2
+           1.200                    2,3                 2,0            1,1                                    1,9    1,3    2,0    0,2
+           1.400                    3,2                 2,6            1,7                                    3,0    1,8    3,3    0,2
+           1.600                    4,3                 3,5            2,6                                    4,6    2,5    5,5    0,2
+           1.800                     -                  4,6            4,0                                     -      -     9,3    0,2
+           2.200                     -                  8,0                           -                        -      -      -      -
+
+                                                                                           SE-AE 42

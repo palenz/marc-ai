@@ -1,0 +1,113 @@
+                MINISTERIO
+                DE TRANSPORTES, MOVILIDAD
+                Y AGENDA URBANA
+
+Documento de Apoyo al Documento Básico
+DB-SI Seguridad en caso de incendio
+Código Técnico de la Edificación
+
+DA DB-SI / 1
+Justificación de la puesta en obra de productos de
+construcción en cuanto a sus características de
+comportamiento ante el fuego
+Diciembre 2022
+Versiones anteriores: Junio 2011, Junio 2014, Junio 2016 y Agosto 2019. Las modificaciones que
+introduce esta versión se marcan mediante línea vertical en el margen izquierdo.
+
+Referencias
+Documento Básico DB SI     Introducción - Apartado V. Condiciones de comportamiento ante el fuego de
+                           los productos de construcción y de los elementos constructivos.
+
+1       Objeto
+El objeto de este documento es explicar cómo debe justificarse la utilización de los productos de cons-
+trucción en las obras, en lo que se refiere a sus características de comportamiento ante el fuego.
+En los siguientes apartados se especifican las comprobaciones y acreditaciones documentales necesa-
+rias para justificar la puesta en obra de un producto de construcción, en cuanto a sus características de
+reacción y de resistencia ante el fuego.
+
+2       Cuestión previa
+A la recepción en la obra del producto, se ha de comprobar si éste debe ostentar el marcado CE, ya que
+si así fuera y careciera del mismo, debe ser rechazado. La Comunicación de la Comisión Europea con el
+listado de los productos que deben ostentar dicho marcado, así como la publicación de dicha Comunica-
+ción en el DOUE, se pueden consultar en el apartado “Normas armonizadas para la aplicación del Re-
+glamento” dentro de “Disposiciones de desarrollo europeas” de la siguiente página web del Ministerio de
+Industria, Comercio y Turismo (MINCOTUR):
+https://industria.gob.es/Calidad-Industrial/seguridadindustrial/productosindustriales/Productos-de-la-
+Construccion/Paginas/Reglamento-Europeo-Productos-Construccion.aspx
+Ha de tenerse en cuenta que pueden llegar a obra productos con marcado CE y su correspondiente De-
+claración de Prestaciones que, no encontrándose en el anterior listado de normas armonizadas, se ha-
+yan acogido al mismo de manera voluntaria mediante la figura del Documento de Evaluación Europea.
+
+                                                1 de 3
+
+Documento de Apoyo al DB SI                                                                    DA DB SI /1
+
+3       Productos con marcado CE
+Se debe comprobar que la clase de resistencia o de reacción al fuego que consta en el etiquetado o en
+la documentación de acompañamiento del marcado CE cumple con lo requerido en la reglamentación y
+en el proyecto.
+El documento “¿Cómo se comprueba el marcado CE?”, que se puede encontrar en el Apartado “Vigilan-
+cia de Mercado” de la citada página web del MINCOTUR, contiene información y recomendaciones prác-
+ticas de gran utilidad acerca de cómo se debe verificar la documentación relativa al marcado CE.
+
+4       Productos sin marcado CE o con marcado CE en el que no conste la carac-
+        terística requerida
+En este caso, la comprobación de las propiedades de comportamiento ante el fuego debe hacerse a
+través de la acreditación documental que acompañe al producto, la cual debe contener la descripción e
+identificación completa del mismo, mediante una de las siguientes opciones:
+a)     Si se trata de un informe de clasificación que proviene de un laboratorio de ensayo español, debe
+       verificarse el valor o clase requeridos en el informe de clasificación o de caracteriz ación del producto,
+       así como que el laboratorio está acreditado por ENAC. (www.enac.es)
+b)     Si la documentación proviene de un organismo de otro Estado de la UE, además de la verificación
+       del valor o clase requeridos según lo indicado en el apartado a) anterior, debe verificarse que el labo-
+       ratorio está acreditado por la entidad de acreditación de su país, conforme al Reglamento (CE) nº
+       765/2008 del Parlamento Europeo y del Consejo, de 9 de julio por el que se establecen los requisitos
+       de acreditación y vigilancia del mercado relativos a la comercialización de productos. Pueden consul-
+       tarse los organismos nacionales de acreditación de cada país en la siguiente página web:
+      https://european-accreditation.org/ea-members/directory-of-ea-members-and-mla-signatories/#SPAIN
+       Se indica, en todo caso, que el fabricante de un producto comercializado legalmente en otro Estado
+       miembro de la Unión Europea puede comercializar su producto en España optando por la vía del re-
+       conocimiento mutuo, cumpliendo para ello con los requisitos que establece el Reglamento   (UE)
+       2019/515 relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Esta-
+       do miembro.
+c)     Si la documentación consiste en un distintivo de calidad de carácter voluntario (marca o sello de con-
+       formidad a norma) emitido por un organismo de certificación español, debe verificarse el valor o clase
+       requeridos según lo indicado en el apartado a) anterior, así como que dicho organismo de certifica-
+       ción está acreditado por ENAC. (www.enac.es)
+d)     Si la documentación consiste en una evaluación técnica de idoneidad, el valor o clase reflejado en la
+       misma debe verificarse según se ha indicado en el apartado a) anterior. Ha de comprobarse que la
+       fecha de vigencia de la evaluación técnica de idoneidad es válida en el momento de la recepción del
+       producto.
+e)     En los casos c) y d) anteriores, el director de ejecución de la obra podría considerar suficiente verifi-
+       car el valor o clase requerido en la documentación del distintivo o de la evaluación técnica y no en el
+       informe de clasificación o de caracterización del producto, ya sea en base a un criterio de confianza y
+       bajo su responsabilidad, o bien por estar reconocido oficialmente el distintivo de calidad o la evalua-
+       ción técnica de idoneidad en cuestión.
+f)     La aceptación de sistemas complejos y no convencionales de compartimentación (por ejemplo, las
+       cortinas cortafuego) no puede justificarse únicamente mediante un simple ensayo convencional de
+       resistencia al fuego. La utilización de dichos productos en las obras debe ampararse en una evalua-
+       ción técnica de idoneidad emitida por una entidad autorizada para ello por las Administraciones Pú-
+       blicas competentes, que verifique todas aquellas características del sistema que sean críticas para
+       garantizar la función que le sea exigible.
+En todo caso, deberá además comprobarse la vigencia de la documentación acreditativa que se aporte,
+referida a la fecha de suministro de cada producto a la obra, teniendo en cuenta que un informe de clasi-
+
+                                                 2 de 3
+
+Documento de Apoyo al DB SI                                                                   DA DB SI /1
+
+ficación o de caracterización de un producto puede amparar al mismo durante los 5 o 10 años posterio-
+res a la fecha de realización del ensayo correspondiente, según se refiera a reacción al fuego o a resis-
+tencia al fuego, respectivamente. Si se trata de la documentación citada en los puntos c) y d) anteriores,
+se debe verificar además su fecha de validez.
+Conforme al punto II.2. de la Parte I, Anejo II del CTE, “… el director de la ejecución de la obra recopilará
+la documentación acreditativa de todo lo anterior”, la cual “… será depositada en el Colegio profesional
+correspondiente o, en su caso, en la Administración Pública competente” y será incluida por el director
+de obra en el Libro del Edificio, conforme se establece en el artículo 8, punto 1 del CTE.
+La documentación deberá estar redactada en español y, en su caso, en alguno de los idiomas cooficiales
+en la comunidad autónoma en la que se presente. A estos efectos, los laboratorios acreditados españo-
+les se consideran, de forma no excluyente respecto de otras entidades o profesionales, traductores es-
+pecialmente cualificados y adecuados para realizar dichas traducciones, con validez equivalente a la de
+los traductores jurados.
+
+                                                 3 de 3

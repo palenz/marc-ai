@@ -1,0 +1,849 @@
+                                               DA                                                           Directivas
+
+                          Guías
+
+                                                                                                            DR
+
+Conceptos básicos sobre la modificación del Código Técnico de la Edificación
+CTE “ᴿᵉᵃˡ Decreto 732/2019, de 20 de diciembre, por el que
+                        se modifica el Código Técnico de la Edificación, aprobado    GOBIERNO     MINISTERIO
+                        por Real Decreto 314/2006, de 17 de marzo”                  DE ESPAÑA     DE TRANSPORTES, MOVILIDAD
+                                                                                                  YAGENDA URBANA
+
+Este documento ha sido elaborado por los servicios técnicos del Ministerio de Transportes, Movilidad y Agenda Urbana al objeto de facilitar
+el acercamiento al recientemente aprobado Real Decreto 732/2019, de 20 de diciembre, por el que se modifica el Código Técnico de la
+Edificación aprobado por Real Decreto 314/2006, de 17 de marzo, proporcionando información sobre los conceptos básicos relacionados
+con la modificación reglamentaria.
+Esta información se completará con otros documentos de ayuda a la aplicación del Código Técnico de la Edificación que se centrarán de
+forma más concreta en los Documentos Básicos del CTE más afectados por esta modificación.
+Abril 2020
+
+    CTE                                               “Real Decreto 732/2019, de 20 de
+                                                      diciembre, por el que se modifica
+                                                      el Código Técnico de la Edificación,
+     C Ó D I G O       T É C N I C O                  aprobado  por                 Real    Decreto
+     D E  L A         E D I F I C A C I Ó N           314/2006, de 17 de marzo”
+
+? Qué es el Código Técnico                                  ?
+      de la Edificación
+  El Código Técnico              de  la     Edificación (CTE) es el
+  marco normativo que fija las exigencias básicas
+  de calidad que deben cumplir los edificios.
+  En el CTE se desarrollan las exigencias básicas de
+  seguridad y de habitabilidad.
+                                 Como       consecuencia    de  la
+                                 aprobación de la       Ley 51/2003,
+                                 de 2 de diciembre, de igualdad
+                                 de         oportunidades,      no
+                                 discriminación         y accesibilidad
+                                 universal     de las     personas con
+                                 discapacidad, LIONDAU; el CTE
+                                 incorporó también el desarrollo
+                                            de la      exigencia básica
+                                            de accesibilidad a nivel
+                                            estatal.
+                                            El CTE se ordena en dos
+                                            partes:
+
+
+
+La     Parte  I  contiene  las  disposiciones  y
+condiciones generales de aplicación del Código.             Real
+La Parte  II  está formada por los denominados              Decreto
+Documentos Básicos.                                             Parte I
+Los    Documentos  Reconocidos  del CTE        son
+documentos       técnicos complementarios a    los          SE             SI      SUA
+Documentos       Básicos, que no tienen carácter
+reglamentario y facilitan la aplicación del Código.          Seguridad     Seguridad en  Seguridad de
+Pueden consultarse en      el Registro General del          estructural          caso de  utilización y
+CTE                                                                              incendio  accesibilidad
+www.codigotecnico.org/index.php/menu-                       HE             HR              HS
+documentos-reconocidos.html.                                               Protección
+Se     han    elaborado    otros  documentos   y            Ahorro de            frente al
+herramientas, para ayudar a la interpretación y                 energía          ruido     Salubridad
+aplicación    del  reglamento,    como  son    los     •     Documentos Reconocidos
+Documentos       Básicos   con    comentarios, los     •     Documentos Básicos con comentarios
+Documentos de Apoyo o Guías de aplicación;             •     Guías de aplicación
+que    pueden    consultarse  en  la   página  web     •     Documentos de Apoyo
+www.codigotecnico.org.
+
+         GOBIERNO      MINISTERIO                                                                                                                                          CTE_1
+         DE ESPANA     DE TRANSPORTES, MOVILIDAD
+                       YAGENDA URBANA
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica
+                                    el Código Técnico de la Edificación,                   DA
+ C Ó D I G O T É C N I C O          aprobado  por   Real      Decreto
+ D E  L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                            Guías
+
+ ? A qué documentos ᵃᶠᵉᶜᵗᵃ esta modificación ?
+                                              •    DB-HE “Ahorro de Energía”. Se modifican todas sus
+                                                   exigencias.
+                                              •    DB-HS Se   introduce     una nueva exigencia básica
+                                                   “Protección frente al gas radón” (HS6).
+                                              •    DB-SI “Seguridad en caso de incendio”. Se modifica
+                                                   la regulación relativa a la propagación exterior de
+                                                   incendio.
+                                   Rn         •    Se actualizan referencias normativas de todos los
+                                                   documentos básicos.
+                                                    Actualización de referencias normativas en
+                                                    todos los documentos básicos
+
+                                                                                                                             CTE_2
+
+    CTE                                   “Real Decreto 732/2019, de 20 de
+                                          diciembre, por el que se modifica
+                                          el Código Técnico de la Edificación,                              DA
+     C Ó D I G O  T É C N I C O           aprobado     por              Real      Decreto
+     D E  L A   E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                                         Guías
+
+?ᴾᵒʳ qué se ha modificado ᵉˡ                             ?
+    Código Técnico de la Edificación
+   DB HE
+   A    través del CTE   se    transponen      en  el marco
+   reglamentario español algunas Directivas europeas,
+   como   es   el caso de     la     Directiva 2010/31/UE,
+   relativa a eficiencia energética de los edificios.
+   Esta Directiva  establece      la obligación de revisar y
+   actualizar  los requisitos        mínimos   de     eficiencia
+   energética  periódicamente        para adaptarlos     a   los
+   avances técnicos del sector de la construcción. Por
+   ello, se hace necesaria     esta      nueva  revisión del
+   Documento Básico DB-HE “Ahorro de Energía”.
+   DB HS
+   La Directiva 2013/59/EURATOM establece normas
+   de seguridad básicas       para   la   protección contra
+   los  peligros   derivados         de  la    exposición      a
+   radiaciones ionizantes.
+
+
+
+Mediante la incorporación de la nueva sección           HE
+de   protección frente al gas radón (HS6), se
+realiza  una    transposición  parcial  de esta
+Directiva.                                              Ahorro de
+                                                          energía  HS
+DB SI
+Debido        a  la  evolución  que        están
+experimentando las soluciones constructivas de
+fachada,      en parte como    consecuencia del
+incremento       de las  exigencias de  eficiencia      SI         Salubridad
+energética de la envolvente de los edificios, se
+han  realizado      algunas modificaciones en     el    Seguridad en
+Documento Básico DB-SI de “Seguridad en caso                  caso de
+de   incendio”   para    limitar adecuadamente    el          incendio
+riesgo de propagación del incendio.
+
+                                                                                                                                               CTE_3
+
+CTE                                  “Real Decreto 732/2019, de 20 de
+                                     diciembre, por el que se modifica
+                                     el Código Técnico de la Edificación,                         DA
+ C Ó D I G O  T É C N I C O          aprobado    por    Real     Decreto
+ D E   L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                                Guías
+
+  ? Cuándo es obligatoria su aplicación                      ?
+                                                      Entrada en vigor                                              Obligatoriedad
+                                                                              6 MESES PERIODO
+                                                                            VOLUNTARIO AMPLIADO
+                                                                            POR ESTADO DE ALARMA
+                                                                             Solicitud de licencia de obras hasta el
+                                                                                   23/09/2020
+
+                                     30[                28/12/2019                                                  24/09/2020     4
+
+                                     PUBLICACIÓN EN EL                  ESTADO DE ALARMA POR COVID-19                             OBRAS NUEVAS E
+                                            BOE                                                                                   INTERVENCIONES EN
+                                     27/12/2019                 Durante el estado de alarma declarado por Real                    EDIFICIOS EXISTENTES
+                                                                Decreto 463/2020, de 14 de marzo, el plazo de       Solicitud de licencia de obras a partir del
+                                                                  aplicación voluntaria del RD 732/2019 fue                       24/09/2020
+                                                                   suspendido y se reanudó de acuerdo a lo
+                                                               establecido por el Real Decreto 537/2020, de 22
+                                                                                   de mayo
+
+                                                                                                                                            CTE_4
+
+    CTE                                   “Real Decreto 732/2019, de 20 de
+                                          diciembre, por el que se modifica
+                                          el Código Técnico de la Edificación,                Guías
+     C Ó D I G O T É C N I C O            aprobado               por      Real      Decreto
+     D E    L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+               ¿A qué obras no es de aplicación este Real
+Decreto?
+No será de aplicación el presente Real Decreto a
+las  obras  de nueva  construcción      y      a      las
+intervenciones en edificios existentes         que, en
+ambos    casos tengan  solicitada       la       licencia
+municipal de obras a la entrada en vigor de este
+Real Decreto (hasta el 27 de diciembre de 2019)
+        ¿Cuál  es  el  periodo       de        aplicación
+voluntaria de este Real Decreto ?
+
+El   presente  Real Decreto   será    de aplicación
+voluntaria a las obras de nueva construcción y a
+las intervenciones en edificios existente para las
+que,    en  ambos   casos,    se     solicite  licencia
+municipal de obras dentro del plazo de 6 meses
+desde   la  entrada en vigor  del     presente   Real
+Decreto.    Este plazo de 6   meses inicial    se   ha
+ampliado como consecuencia de la suspensión
+de plazos derivada del estado de alarma, de tal
+manera que el periodo de aplicación voluntaria
+de la norma finalizará el 23 de septiembre de
+2020
+      ¿Cuándo es de aplicación obligatoria este        Aquellas obras para las que se hubiera obtenido
+Real Decreto ?                                         licencia entre el 14 de marzo de 2019 y el 1 de
+El  presente  Real Decreto  será de        aplicación  junio de   2020 deberán comenzar en el plazo
+obligatoria a las obras de nueva construcción y a      previsto en la propia licencia, o en defecto de
+las intervenciones en edificios existentes para la     previsión, en 6 meses desde su otorgamiento,
+que,    en ambos   casos,   se solicite  licencia      contando estos plazos a partir del 1 de junio de
+municipal de obras una vez transcurrido el plazo       2020.
+de  6   meses     desde la entrada en vigor       del  Aquellas obras para las que se obtenga licencia a
+presente   Real Decreto.   Este plazo de      6 meses  partir del 1 de junio de 2020 deberán comenzar
+inicial se ha ampliado como consecuencia de la         en el plazo previsto en la propia licencia, o en
+suspensión    de  plazos derivada  del estado  de      defecto  de  previsión, en 6    meses desde su
+alarma,    de tal  manera   que   el periodo   de      otorgamiento.
+aplicación obligatoria de la norma comenzará el        En caso    de que las   obras en  los supuestos
+24 de septiembre de 2020                               anteriores  no comenzaran dentro de los plazos
+             ¿Cómo ha afectado el estado de alarma al  establecidos  y suponiendo     que no estuvieran
+inicio  de las obras    y a la  aplicación del RD      adaptadas   al  Real Decreto  732/2019 tendrán
+732/2019?                                              que adaptarse   a las exigencias  de  dicho Real
+                                                       Decreto a partir de ese momento.
+Aquellas obras para las que se hubiera obtenido
+licencia entre el 28 de diciembre de 2019 y el 14
+de marzo de 2020 deberán comenzar antes de la
+fecha   calculada  de acuerdo a las instrucciones
+que puede consultar en el siguiente  enlace.
+
+                                                                                                                                                               CTE_5
+
+NO_CONTENT_HERE
+
+                                               DA                                                  Directivas
+
+                           Guías
+
+                                                                                                         DR
+Conceptos básicos sobre la modificación del Código Técnico de la Edificación
+DB - HE
+Ahorro de Energía
+
+NO_CONTENT_HERE
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica
+                                    el Código Técnico de la Edificación,                DA
+ C Ó D I G O T É C N I C O          aprobado    por  Real  Decreto
+ D E  L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                                 Guías
+
+  ? Qué es el ᴰᴮ⁻ᴴᴱ?                                                        ? Por qué se debe                    ?
+                                                                                              actualizar
+
+  El Documento Básico DB-HE de Ahorro de energía es el documento             La creciente conciencia del riesgo que representa el cambio climático ha
+  que establece las exigencias      de eficiencia energética que deben       llevado a la adopción de acuerdos   internacionales para reducir      el
+  cumplir los edificios para asegurar que el confort de sus ocupantes se     impacto ambiental de las actividades humanas.
+  alcanza con un uso racional de la energía.                                 Por otro  lado, la energía ha sido  tradicionalmente un  problema
+                                                                             estructural de la economía de nuestro país, debido en gran medida a la
+                                                                             dependencia del suministro exterior.
+                                                                             La mayor eficiencia energética de los edificios que implica el nuevo DB-
+                                                                             HE contribuye de forma importante, tanto a paliar el cambio climático,
+                                                                             como a reducir el índice de dependencia energética.
+                                                  (nn                        Además,   las reglamentaciones deben reflejar los  avances técnicos   y
+                                                                             tecnológicos y las ventajas que conllevan. En este marco de evolución,
+                                                                             las reglamentaciones deben, a su vez, incorporar las mejoras de calidad
+                                                                             reglamentaria que se estiman necesarias tras la experiencia adquirida.
+
+                                                                                                                                      DB HE_1
+
+CTE                                     “Real Decreto 732/2019, de 20 de
+                                        diciembre, por el que se modifica
+                                        el Código Técnico de la Edificación,            DA
+ C Ó D I G O   T É C N I C O            aprobado  por  Real            Decreto
+ D E L A      E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+    ? Cuándo se aplica el ᴰᴮ⁻ᴴᴱ                   ?                             Guías
+          El ámbito de aplicación se establece en cada sección del DBHE,
+          siempre en concordancia con lo fijado en el artículo 2 de la
+          Parte I del CTE.
+          Edificios nuevos
+          En la construcción de edificios nuevos, en términos generales,
+          siempre se aplica el DB-HE.
+          Intervenciones en edificios existentes
+          Determinadas     intervenciones,  cuando     éstas  tienen      una
+          influencia     importante    en el comportamiento energético    del
+          edificio, variando los niveles exigibles en función del nivel de
+          intervención, uso, localización, y características del edificio.
+          Se contemplan    criterios      que flexibilizan la aplicación con el
+          objetivo de conseguir el mayor grado de adecuación posible.
+         Exclusión                                                                   5
+         •     Edificios con un plazo de utilización inferior a 2 años.
+         •     Edificios protegidos oficialmente
+         •     Edificios que,   por     su uso, son de     bajas necesidades
+               energéticas.
+
+                                                                                                                         DB HE_2
+
+CTE                                  “Real Decreto 732/2019, de 20 de
+                                     diciembre, por el que se modifica
+                                     el Código Técnico de la Edificación,
+ C Ó D I G O T É C N I C O           aprobado  por      Real   Decreto
+ D E L A   E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+ ? Cuáles son las principales novedades ?
+
+       Se  define un nuevo esquema de          exigencias con vocación   de
+       estabilidad, que permite la evolución reglamentaria.
+
+       Se actualiza la definición    del     Edificio de Consumo de Energía
+       Casi Nulo mediante el ajuste de los valores de estas exigencias.
+       La  anterior limitación       de  las necesidades  energéticas        se
+       sustituye              por una combinación de una limitación del Consumo
+       de Energía Primaria Total y unas condiciones de calidad mínima
+       energética de los cerramientos y del diseño arquitectónico.
+
+       Se  potencia    el uso de    energía  renovable reduciendo el  valor
+       límite del Consumo de Energía Primaria no Renovable existente
+       previamente.
+       Se  potencia    el uso de    renovables generadas  en el edificio o
+       su  entorno  cercano;        aumentando la contribución de   energía
+       renovable    mínima    obligatoria    para producir agua    caliente
+       sanitaria, permitiendo, además, el uso de cualquier     tecnología
+       sin   dar prioridad    a ninguna en concreto.
+
+
+
+               DA
+
+
+Guías
+ Se potencia la generación de energía eléctrica en los edificios;
+ extendiendo   la obligación a un   mayor número de ellos,
+ permitiendo, como en el caso anterior, el uso de cualquiera de
+ las tecnologías disponibles.
+ Por otro   lado, aunque no  queda  reflejado en el texto del
+ documento expresamente, es importante señalar que se adopta
+ un nuevo método de cálculo de consumo de energía primaria
+ según UNE-EN     ISO 52000-1:2017, que   permite una mejor
+ valoración del consumo al introducirse la consideración de los
+ consumos de equipos de ventilación (incluida la recuperación de
+ calor), de  todos los suministros de combustible y de la energía
+ extraída del medio ambiente, así como una mejor definición de
+ la influencia del diseño arquitectónico en la reducción de   las
+ necesidades energéticas.
+ Además, la eliminación de exigencias cualitativas, la equiparación
+ de los valores de las exigencias independientemente del tamaño
+ de  los edificios, la consideración de nuevas exigencias a los
+ cerramientos  y  al diseño arquitectónico o la ampliación de las
+ posibilidades  de  competencia tecnológica, redundan en      una
+ mejora de la calidad reglamentaria.
+
+                                                                                                                                           DB HE_3
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica
+                                    el Código Técnico de la Edificación,                DA
+ C Ó D I G O T É C N I C O          aprobado  por  Real      Decreto
+ D E L A  E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+ ? Cómo se facilita la aplicación del nuevo ?                               Guías
+      reglamento
+         1. Mantiene la estructura                                           4. Mayor transparencia
+         Para facilitar el manejo     del nuevo documento,   se  ha          Para una   mejor y mayor transparencia  del método de
+         mantenido      la  estructura    de  secciones existente  y  la     evaluación de la eficiencia energética  de los edificios, se ha
+         disposición de apartados dentro de cada sección.                    adoptado el método de la norma UNE-EN ISO 52000-1:2017 y
+                                                                             se   ha  actualizado el documento       reconocido “Condiciones
+         2. Plazo de aplicación voluntario                                   técnicas de los  procedimientos para    la evaluación     de la
+         Para facilitar la transición al nuevo DB-HE, se ha establecido      eficiencia energética de los edificios”.
+         un plazo   de  aplicación   voluntaria de seis   meses contados
+         desde la entrada en vigor del Real Decreto 732/2019 el día 28
+         de diciembre de 2019. En este periodo se podrá optar por
+         solicitar la licencia para un proyecto que cumpla DB-HE 2013
+         o el nuevo DB-HE 2019, indistintamente.
+         3. Se actualiza el documento de apoyo y otras herramientas                      0 1813
+         Para facilitar la aplicación se ha actualizado el documento de           27210
+         apoyo DA-DB-HE-1 - Cálculo de parámetros característicos de
+         la  envolvente.    Asimismo, se ha   actualizado la Herramienta
+         Unificada  Lider-Calener     (HULC),   se ha     desarrollado  la
+         aplicación VisorEPBD      y se han   redactado   documentos  de
+         ayuda.
+
+                                                                                                                                DB HE_4
+
+CTE                                       “Real Decreto 732/2019, de 20 de
+                                          diciembre, por el que se modifica
+                                          el Código Técnico de la Edificación,                                                         DA
+ C Ó D I G O  T É C N I C O               aprobado           por              Real          Decreto
+ D E  L A  E D I F I C A C I Ó N          314/2006, de 17 de marzo”
+ Se mantiene la estructura                                                                                      Guías
+                                                             para facilitar su aplicación
+              ESTRUCTURA DB-HE 2013 - ESTRUCTURA DB-HE 2019
+             ESTRUCTURA DB-HE 2013                           –                ESTRUCTURA DB-HE 2018
+  HE0      Limitación del consumo energético                 C               Limitación del consumo energético          C
+            Consumo energía primaria no renovable                 ep,nren     Consumo energía primaria no renovable        ep,nren
+                                                                              Consumo energía primaria total            Cep,total
+  HE1      Limitación de la demanda energética                               Condiciones para el control de la
+            Demanda energética de                  D              - D        demanda energética
+            calefacción +refrigeración             cal            ref         Transmitancia de la envolvente térmica       K
+                                                                              Control solar de la envolvente térmica       qsol;jul     1. Mantiene la estructura
+                                                                              Permeabilidad al aire de la envolvente       n₅₀
+                                                                              térmica
+            Limitación descompensaciones                                      Limitación descompensaciones                              Para facilitar el manejo del nuevo
+            Limitación condensaciones                                         Limitación condensaciones
+  HE2      Rendimiento de las instalaciones térmicas                         Condiciones de las instalaciones térmicas                  documento,     se ha mantenido la
+            Limitaciones RITE                                                 Limitaciones RITE                                         estructura de secciones  existente y
+  HE3      Eficiencia energética de las instalaciones                        Condiciones de las instalaciones de                        la disposición de apartados  dentro
+           de iluminación                                                    iluminación                                                de cada sección.
+            VEEI, Pₜₒₜ , Sistemas de control y regulación                     VEEI, Pₘₐₓ , Sistemas de control y regulación
+  HE4      Contribución solar mínima de ACS                                  Contribución mínima de energía
+            Producción mínima renovable                                      renovable para cubrir demanda de ACS
+                                                                              60-70% cubierto por renovables
+  HE5      Contribución fotovoltaica mínima de                               Generación mínima de energía eléctrica
+           energía eléctrica
+            Potencia mínima a instalar                                       Potencia mínima a instalar
+
+                                                                                                                                                                            DB HE_5
+
+CTE                                   “Real Decreto 732/2019, de 20 de
+                                      diciembre, por el que se modifica
+                                      el Código Técnico de la Edificación,                        DA
+ C Ó D I G O T É C N I C O            aprobado  por       Real  Decreto
+ D E  L A   E D I F I C A C I Ó N     314/2006, de 17 de marzo”                         Qué consumo miden estos ?
+
+  ? Qué pide el ᴰᴮ⁻ᴴᴱ ?                                                       ? indicadores principales
+      Obligación básica:                                                              El consumo de un edificio es una relación entre las necesidades
+                                                                                      energéticas del mismo (su demanda) y el    rendimiento de       los
+                                                                                      sistemas que satisfacen dichas necesidades.
+HE0   El DB-HE obliga a que los edificios se proyecten para un consumo                A fecha   actual, los consumos de energía  primaria    que      son
+      reducido de energía     y      que este se satisfaga, en gran medida,           evaluados   para  la evaluación de la eficiencia energética de   un
+      mediante el uso de energía procedente de fuentes renovables,                    edificio, contemplan los siguientes servicios técnicos:
+      con   el objetivo  de   mitigar el      cambio climático y reducir la
+      dependencia e intensidad del uso de energía del país.                              Calefacción         Ventilación                         ACS
+      Esto se aborda:                                                                    Refrigeración       Control de                      Iluminación
+      •     Limitando las necesidades totales de energía del edificio, a                                              humedad          (solo para terciario)
+            través del indicador Cep,tot                                                          DEMANDA ENERGÉTICA                   Calefacción
+                                                                                      C=                                               Refrigeración
+      •     Limitando el consumo de energía procedente de fuentes no                          RENDIMIENTO MEDIO DEL SISTEMA            ACS
+                                                                                                                                       Iluminación
+            renovables, mediante el indicador Cep,nren                                                                                 Ventilación
+                                      Estos indicadores se recogen en la sección     Por tanto, excluye otros consumos ligados al uso del edificio como
+                                       HE0 - Limitación del consumo energético       los electrodomésticos, sistemas de transporte vertical (ascensores,
+                                                                                     escaleras mecánicas, etc…), recarga de vehículos eléctricos, etc.
+
+                                                                                                                                             DB HE_6
+
+CTE                                  “Real Decreto 732/2019, de 20 de
+                                     diciembre, por el que se modifica
+                                     el Código Técnico de la Edificación,               DA
+ C Ó D I G O  T É C N I C O          aprobado    por  Real     Decreto
+ D E L A  E D I F I C A C I Ó N      314/2006, de 17 de marzo”
+         Un inciso antes de seguir…                   ?
+
+   La  ? Qué es ˡᵃ energía primaria                                                                               1
+      energía que se suministra directamente al edificio se denomina
+   energía   final y es la que     compran los consumidores en forma de                                                      1
+   electricidad,   carburantes     u otros combustibles usados de forma
+   directa (vectores energéticos).                                                             1               1
+   Sin embargo, el suministro de esa energía exige diferentes procesos                        8 1 2
+   de transformación, transporte y distribución, que necesitan energía                                  8
+   adicional. Así,   llamamos      energía primaria a la cantidad total de
+   energía,   incluyendo los       aportes adicionales,  que es     necesario
+   extraer   de la naturaleza      para suministrar una cantidad      dada de
+   energía final.
+   De manera convencional, definimos unos factores de paso que nos
+   permiten traducir una cantidad de energía final a energía primaria o
+   a emisiones     de CO2 y    evaluar  el origen   renovable o no de   esa
+   energía. Estos factores de paso se establecen en función del origen
+   de la energía y del vector energético empleado.
+   Resulta necesario plantear los indicadores de consumo en el DBHE,          Estos factores de paso se encuentran establecidos en un Documento
+   bajo  la  premisa  de energía      primaria,  de manera    que permita     Reconocido del RITE, Factores de emisión de CO2 y coeficientes de
+   comparar   las     diferentes     tecnologías y  vectores  energéticos     paso a energía primaria de diferentes fuentes  de energía final
+   posibles, así como su carácter renovable o no renovable.                   consumidas en el sector de edificios en España.
+
+                                                                                                                                DB HE_7
+
+    CTE                                      “Real Decreto 732/2019, de 20 de
+                                             diciembre, por el que se modifica
+                                             el Código Técnico de la Edificación,                  Guías
+     C Ó D I G O       T É C N I C O         aprobado  por            Real     Decreto
+     D E       L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+   ? Qué otras obligaciones adicionales ?                                                HE2
+             contiene el DB-HE
+                                                                                         HE3
+             Obligaciones adicionales:                                                          •
+                                                                                                •
+HE1          Un diseño  y construcción      del edificio  que demande       poca
+             energía para alcanzar las condiciones de confort, de acuerdo a                     •
+             su uso y a las condiciones climáticas del entorno.
+             Para conseguirlo se debe tener en cuenta:                                          •
+
+       •     Un nivel   mínimo     de aislamiento térmico global   (K)      y de  los
+             elementos  en contacto      con el exterior  (Ulim),     incluyendo  los
+             puentes térmicos.                                                           HE4
+       •     El control de la permeabilidad al aire de los elementos (Q₁₀₀ y n₅₀)
+       •     Limitar el exceso de ganancias solares en verano (qₛₒₗ;jul)                 HE5
+       •     Evitar la  pérdida    de calor  desde las viviendas   y los      locales           •
+             comerciales (Ulim)                                                                 •
+       •     Asegurar el mantenimiento de estas prestaciones a lo largo del
+             tiempo.
+ El uso de instalaciones térmicas y de iluminación eficientes que
+ aseguren el confort y una calidad del aire adecuadas.
+ Mediante:
+Una alto nivel de eficiencia de los equipos de climatización
+Limitar el consumo de los     sistemas de iluminación       y el
+aprovechamiento de la iluminación natural
+Un nivel   ventilación que asegure   la calidad del   aire    sin
+menoscabo de la eficiencia energética
+Un diseño de las instalaciones que aseguren el confort de los
+usuarios y el mantenimiento de sus prestaciones a lo largo del
+tiempo
+
+ El uso de energía renovable para evitar la emisión de gases de
+ efecto invernadero y limitar la huella ecológica de los edificios.
+ Lo que implica:
+El uso de energías renovables para la producción del agua
+caliente sanitaria
+La generación de electricidad, en la parcela o sus proximidades,
+a partir de fuentes renovables
+
+                                                                                                                                                         DB HE_8
+
+CTE                                        “Real Decreto 732/2019, de 20 de
+                                           diciembre, por el que se modifica
+                                           el Código Técnico de la Edificación,                  DA
+ C Ó D I G O      T É C N I C O            aprobado  por  Real  Decreto
+ D E   L A       E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+       ? Cómo se consigue el ᶜᵒⁿᵗʳᵒˡ ?                                                      Guías
+                 de la demanda energética
+        Condiciones para el control de la demanda energética
+                                                                                       La demanda, por tanto, sigue siendo un elemento principal en la
+HE1     El  HE1   obliga  a un            diseño y construcción del edificio que       evaluación energética del edificio, pero en la nueva reglamentación
+        demande poca energía para alcanzar las condiciones de confort                  se han separado sus dos principales características:
+        de acuerdo a su uso y a las condiciones climáticas del entorno.                •     las necesidades de energía del edificio,        representadas por el
+        La       demanda  energética             como  indicador    reglamentario            Consumo de Energía Primaria Total (Cep,tot)
+        desaparece,  sin    embargo,         esto  no  significa que los edificios     •     y la Calidad de la envolvente, evaluada a través de 3 nuevos
+        puedan tener cualquier demanda y que éste no sea un dato muy                         parámetros: la transmitancia térmica global (K), el control solar
+        importante a tener en cuenta.                                                        (qsoljul.) y la permeabilidad del edificio (n₅₀)
+       El   objetivo de   conseguir        edificios con muy     baja demanda de             Conducción - K     Radiación – q                Convección – n
+       energía se consigue mediante el diseño de edificios con un buen                                                         sol;jul                     50
+       comportamiento       bioclimático         y controlando   la   calidad de la
+       envolvente a través de tres nuevos parámetros que responden a
+       las tres formas de transmisión de la energía:
+            •     la transmitancia térmica global (K)
+            •     el control solar (qsoljul.)
+            •     la permeabilidad del edificio (n₅₀)
+
+                                                                                                                                              DB HE_9
+
+CTE                                “Real Decreto 732/2019, de 20 de
+                                   diciembre, por el que se modifica
+                                   el Código Técnico de la Edificación,                 DA
+ C Ó D I G O T É C N I C O         aprobado  por  Real     Decreto
+ D E L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+ ? Qué es un Edificio de Consumo ᵈᵉ ?                                       Guías
+      Energía Casi Nulo (ECCN)
+     Es un concepto que se recoge en la Directiva 2010/31, que ha sido transpuesto en nuestro ordenamiento y que ahora vuelve a ser revisado.
+     En la citada Directiva se señala que Edificio de Consumo de Energía Casi Nulo es aquel edificio con un nivel de eficiencia energética muy
+     alto en el que la cantidad muy baja de energía requerida debería estar cubierta, en muy amplia medida, por fuentes de energía renovable.
+
+ ? Un edificio existente también puede ser ECCN                            ?            8
+      En el nuevo DBHE se define el ECCN como aquel edificio nuevo o existente que
+      cumple los valores límite de consumo de energía primaria no renovable (Cep,nren) y
+      consumo de energía primaria total (Cep,tot) para edificio nuevo.
+      Es decir, todos los edificios nuevos que se construyan de acuerdo con el DBHE2019
+      serán ECCN y también lo serán los edificios existentes que cumplan los niveles de
+      edificios nuevos en los indicadores de consumo de energía primaria.
+      El ECCN es un concepto dinámico que debe ir adaptándose a la evolución de los
+      objetivos de descarbonización, de los avances técnicos y tecnológicos.
+
+                                                                                                                     DB HE_10
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica
+                                    el Código Técnico de la Edificación,                   DA
+ C Ó D I G O T É C N I C O          aprobado  por    Real      Decreto
+ D E  L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                            Guías
+
+     ?Todos los edificios tienen que ser ECCN ?
+     Actualmente, sólo los edificios nuevos deben cumplir la condición de ser ECCN. Para los edificios existentes es opcional. El nuevo DB-HE
+     pide a los edificios existentes a los que es de aplicación, condiciones que mejoran sustancialmente la eficiencia del edificio y contribuyen
+     a la descarbonización    del  parque edificatorio, aunque no se alcancen niveles de ECCN.
+     En un futuro, cuando las condiciones técnicas y económicas lo permitan, todos los edificios existentes podrán incorporarse al parque de
+     edificios de energía casi nula.
+     Los edificios de energía      casi nula facilitan la descarbonización del parque edificatorio, de esta forma el sector de la edificación
+     contribuye a la mitigación del cambio climático.
+
+                                                                                                                             DB HE_11
+
+NO_CONTENT_HERE
+
+                                              DA                                                 Directivas
+
+                          Guías
+
+                                                                                                      DR
+Conceptos básicos sobre la modificación del Código Técnico de la Edificación
+DB - HS 6
+Protección frente al Radón
+
+NO_CONTENT_HERE
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica                       DA
+                                    el Código Técnico de la Edificación,
+ C Ó D I G O T É C N I C O          aprobado  por  Real    Decreto
+ D E L A  E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                         Guías
+
+  ? Por qué esta nueva Sección HS6: Protección frente a ?
+       la exposición al radón
+     La  regulación que se establece          a través de esta nueva Sección HS6 tiene como
+     objetivo proteger a la población de los efectos perniciosos sobre la salud que pueden
+     derivarse de la exposición prolongada a concentraciones elevadas de gas radón en el                           86
+     interior de los edificios.                                                                         Rn
+     Mediante esta regulación se da cumplimiento a una de la obligaciones dirigidas a los
+     Estados miembros y recogidas    en la Directiva      2013/59/EURATOM, por la que se
+     establecen normas        de   seguridad  básicas  para la protección contra los peligros              222
+     derivados de la exposición a radiaciones ionizantes como es el establecimiento de
+     niveles nacionales de         referencia para las concentraciones de radón  en  recintos
+     cerrados, así como la adopción de medidas adecuadas para limitar la penetración del
+     radón en los edificios.
+
+                                                                                                                          DB HS_1
+
+CTE                                  “Real Decreto 732/2019, de 20 de
+                                     diciembre, por el que se modifica                                        DA
+                                     el Código Técnico de la Edificación,
+ C Ó D I G O  T É C N I C O          aprobado        por  Real  Decreto
+ D E   L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                                           Guías
+
+    ? Cómo se traspone al marco ʳᵉᵍᵘˡᵃᵈᵒʳ ?
+           nacional de la edificación
+    El mandato de la Directiva,        por su propia naturaleza, se articula en las                             HS
+    exigencias básicas de salubridad del CTE.                                              Documento Básico
+    Art.13. CTE Parte I:                                                                   Salubridad
+                                                                                                 Poleccnrere  humedad
+                                                                                                Exigencia básica HS 1 – Protección frente a la humedad
+                                                                                           HS 2 Reccgda       [es ~oe
+                                                                                                 Caxcad    aecenoi
+    “Exigencias básicas de salubridad (HS)                                                       Suinisho
+                                                                                                 Evacingan
+                                                                                                Exigencia básica HS 2 – Recogida y evacuación de residuos
+    El objetivo del requisito       básico “Higiene, salud y protección del       medio
+    ambiente”,  tratado     en   adelante bajo el término  salubridad,  consiste en             Exigencia básica HS 3 – Calidad del aire interior
+    reducir a límites aceptables    el  riesgo de que los usuarios,       dentro de los         Exigencia básica HS 4 – Suministro de agua
+    edificios y en condiciones normales de        utilización, padezcan molestias o
+    enfermedades, ….”                                                                           Exigencia básica HS 5 – Evacuación de aguas
+    «13.6 Exigencia básica HS 6: Protección frente a la exposición al radón.                    Exigencia básica HS 6 – Protección frente al radón
+    Los  edificios dispondrán       de medios  adecuados     para limitar el riesgo
+    previsible de exposición inadecuada a radón procedente del terreno en los
+    recintos cerrados.»
+
+                                                                                                                                                  DB HS_2
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica                   DA
+                                    el Código Técnico de la Edificación,
+ C Ó D I G O  T É C N I C O         aprobado  por         Real  Decreto
+ D E L A  E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                         Guías
+
+     ?                                 ?                                                                                ?
+          Qué es el gas radón                                                         ?
+                                                                                          Cómo afecta a la salud
+
+     El radón      es un gas noble, incoloro, inodoro,                                   La exposición  prolongada al radón es un
+     insípido que se   genera      en la  cadena    de                                   factor de riesgo en el desarrollo del cáncer
+     desintegración radioactiva del radio, que a su                                      de pulmón en     seres humanos, y así está
+     vez procede del uranio que de forma natural                                         reconocido por la Organización Mundial de
+     está presente  en la      corteza    terrestre en                                   la Salud (OMS).
+     cantidades variables      dependiendo  de      la
+     composición de rocas y suelo. El radón en su
+     proceso de desintegración produce partículas
+     radioactivas.
+     La unidad de medida de la concentración de
+     radón    es Bq/m³ (bequerelio        por metro
+     cúbico).
+
+                                                                                                                           DB HS_3
+
+CTE                                   “Real Decreto 732/2019, de 20 de
+                                      diciembre, por el que se modifica                 DA
+                                      el Código Técnico de la Edificación,
+ C Ó D I G O T É C N I C O            aprobado   por  Real  Decreto
+ D E L A    E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+
+             Cómo llega el radón                       ?                   Guías
+     ?                                        a los edificios
+         Procedente del terreno
+          Procodente    teteno
+         El radón presente      en   el interior de los edificios procede
+                  pfesente                              eduiidos plocede
+         principalmente     del      terreno. El radón del terreno puede
+       prindpalmente            teneno                     teneno
+         penetrar   al interior de los edificios a través  de las grietas y
+       penetar                          edlfidos
+         juntas de  los cerramientos       del   edificio en contacto con el
+         terreno        cenamlentos                          couuitacto
+                    (muros de sótano, soleras, etc.), e incluso a través de
+         la  masa de los                soleras;
+                            materiales  porosos que forman los propios
+         cerramientos.      materlales pofosos
+        cerrammlentos
+         Mayor concentración en plantas bajas y sótanos
+         Al     concenbadon                            3862n03
+             provenir el radón del terreno, las mayores concentraciones
+         enpfovenir                  teneno      mayoresconcentradones
+             un edificio se localizan en las plantas inferiores, como son
+         los sótanos y las locallzan                      Inferores;
+             sotanos        plantas bajas, pues la densidad del radón es
+         además superior a la del aire.             densldad
+                    superior
+        ademas
+         Se diluye rápidamente en el aire
+         Cuando      rdpklamente
+                    el  radón   llega   al    ambiente    exterior  se diluye
+         rápidamente    en el   aire, pero cuando lo      hace a un espacio
+         cerrado y poco ventilado, como puede ser el interior de un
+         edificio, puede concentrarse.
+
+                                                                                                                          DB HS_4
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica                DA
+                                    el Código Técnico de la Edificación,
+  C Ó D I G O T É C N I C O         aprobado  por  Real     Decreto
+  D E L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+? Cuál es el ámbito de aplicación de esta?                                         Guías
+      nueva exigencia
+
+      Términos municipales en los que, en base a las medidas realizadas por                                   !
+      el Consejo de Seguridad Nuclear, se considera que hay una probabilidad
+      significativa  de que    los edificios  allí  construidos sin soluciones
+      específicas de protección frente al radón presenten concentraciones de
+      radón superiores al nivel de referencia de 300 Bq/m³.
+? Se aplica solamente en obra nueva? ¿O también?
+      en las actuaciones que se realicen en edificios
+      existentes
+      El DB HS6 se aplica      a todos los edificios de nueva   planta que se
+      construyan en estos términos municipales (zona 1 y zona 2) y también a
+      los edificios existentes en estas zonas en los que se vaya a realizar una                                     Municipios zona 1
+      intervención de reforma que afecte a algún elemento constructivo que                                          Municipios zona 2
+      influya en la concentración de radón, así como a las ampliaciones y a
+      las zonas del edificio afectadas por un cambio de uso.
+
+                                                                                                                     DB HS_5
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica             DA
+                                    el Código Técnico de la Edificación,
+ C Ó D I G O T É C N I C O          aprobado  por    Real  Decreto
+ D E  L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                         Guías
+
+    ? Cuáles son la soluciones para ?                                    ? Y para intervenciones en edificios?
+          obra nueva                                                         existentes
+                                                                             Otras soluciones para edificios existentes alternativas
+      Términos municipales ZONA 1 = A o B                                    o complementarias a las propias de obra nueva (A, B y
+                                                                             C) son el sellado de los cerramientos en contacto con
+      Términos municipales ZONA 2 = A + (B o C)                              el terreno (D) y la mejora de la ventilación (E).
+
+       Barrera de                   Cámara de        Despresurización del        Sellado de             Mejora de la
+       Protección                  aire ventilada          terreno             cerramientos              ventilación
+
+                                                                                                                              DB HS_6
+
+                                              DA                                                 Directivas
+
+                          Guías
+
+Conceptos básicos sobre la modificación del Código Técnico de la Edificación                               DR
+DB - SI
+Seguri d ad e n caso de incendio
+S I 2 P r o p a g a c i ó n e x t e r i o r
+
+NO_CONTENT_HERE
+
+CTE                                  “Real Decreto 732/2019, de 20 de
+                                     diciembre, por el que se modifica
+                                     el Código Técnico de la Edificación,                        DA
+ C Ó D I G O T É C N I C O           aprobado             por     Real  Decreto
+ D E  L A  E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                                   Guías
+
+                                                                                  ? Qué exigencia se ᵐᵒᵈⁱᶠⁱᶜᵃ          ?
+                                                                                   La clase de   reacción al fuego   que se pide a los sistemas
+                                                                                   constructivos de fachada y a los sistemas de aislamiento de las
+                                                                                   cámaras ventiladas.                             ?
+          Exigencia básica SI 1 – Propagación interior                            ? Por qué modifica esta ᵉˣⁱᵍᵉⁿᶜⁱᵃ
+          Exigencia básica SI 2 – Propagación exterior                             Debido a la evolución que están experimentando las soluciones
+          Exigencia básica SI 3 – Evacuación de ocupantes                          constructivas de fachada,   en parte como consecuencia del
+          Exigencia básica SI 4 – Instalaciones de protección contra incendios     incremento  de las     exigencias de eficiencia energética de la
+                                                                                   envolvente de los edificios.
+          Exigencia básica SI 5 – Intervención de los bomberos                    ?Dónde se encuentra la modificación ?
+          Exigencia básica SI 6 – Resistencia al fuego de la estructura
+                                                                                   Sección SI 2- Propagación exterior
+                                                                                   Apartado 1. Medianerías y fachadas
+                                                                                   Nuevos puntos 4, 5 y 6
+
+                                                                                                                                       DB SI_1
+
+CTE                                “Real Decreto 732/2019, de 20 de
+                                   diciembre, por el que se modifica
+                                   el Código Técnico de la Edificación,    DA
+ C Ó D I G O T É C N I C O         aprobado  por  Real  Decreto
+ D E L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                           Guías
+
+   ? Cuáles son los nuevos requisitos de la exigencia ?
+
+   Altura total de fachada                        h ≤ 10 m                 10 m < h ≤ 18 m  18 m < h ≤ 28 m       h > 28 m
+   Sistemas constructivos de fachada > 10 %            D-s3,d0             C-s3,d0          B-s3,d0
+   Sistemas de aislamiento en el interior de           D-s3,d0                        B-s3,d0                  A2-s3,d0
+   cámaras ventiladas
+  En caso de fachadas con h < 18 m y cuyo arranque inferior sea accesible, tanto los sistemas constructivos de fachada como los
+  aislantes en el interior de las cámaras ventiladas serán al menos B-s3,d0 hasta una altura de 3,5 m como mínimo.
+
+                                                                                                                  DB SI_2
+
+CTE                                 “Real Decreto 732/2019, de 20 de
+                                    diciembre, por el que se modifica
+                                    el Código Técnico de la Edificación,                          DA
+ C Ó D I G O T É C N I C O          aprobado  por  Real  Decreto
+ D E  L A E D I F I C A C I Ó N     314/2006, de 17 de marzo”
+                                                                                 Guías
+
+                                                                             Y además se exige:
+                                                                             además           exige
+                                                                             Para sistemas constructivos de fachadas
+                                                                            Paraslstemasconstructosdefachadas
+                                                                             La clasificación debe considerar la condición de uso final del sistema
+                                                                             dashilcadón          considerar       condldion
+                                                                             constructivo     incluyendo aquellos  materiales que constituyan capas
+                                                                            constructto Induyendo                 {uaterales  consthuyan
+                                                                             contenidas en el interior   de la solución de    fachada y que no estén
+                                                                            oontenidas
+                                                                             protegidas por una capa que sea EI30 como mínimo.
+                                                                            procegldas
+                      #                                                      Para sistemas de aislamiento en el interior de
+                                                                            Parasistemas dealslamlento                        Interlor
+                                                                             cámaras ventiladas
+                                                                            camarasventiladas
+                                                                             Las cámaras ventiladas se deben interrumpir en continuidad con los
+                                                                             forjados     vendladas                         Intertunplr  continuldad
+                                                                                       resistentes al              fuego que separen sectores de incendio. La
+                                                                             inclusión feslstentes
+                                                                                       de    barreras    E30 es   un procedimiento válido           para   la
+                                                                             interrupción.                           Procedlilento
+                                                                            Interrupdon
+
+                                                                                                                                   DB SI_3

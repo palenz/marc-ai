@@ -1,6 +1,6 @@
-# 📄 Document question answering template
+# Marc AI
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
+A simple app to help Spanish architects understand local regulations.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
 
