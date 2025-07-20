@@ -1,0 +1,9 @@
+[project]
+name = "marc-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "unstructured[pdf]>=0.18.9",
+]
